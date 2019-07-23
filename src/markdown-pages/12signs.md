@@ -1,6 +1,6 @@
 ---
-path: "/blog/my-first-post"
-date: "2019-05-04"
+path: "/blog/12-signs-feature-factory"
+date: "2016-11-06"
 title: "12 Signs You’re Working in a Feature Factory"
 ---
 
@@ -37,37 +37,3 @@ How do you know if you’re working in a feature factory?
  12. **Shiny objects**. Low visibility for refactoring work and debt work-down. Low visibility for overall value delivery capabilities. As mentioned, primary measure of success is new feature output. Little appreciation for the health of the whole product as opposed to shiny new objects. Little awareness around impact of new features on usability (and maintainability and extensibility) of existing product
 
 For translations of this post see: [Korean](http://JeongMin Kwon)
-
-I’ve written about addressing this problem. Check out these posts:
-
-* [A 12-Step Plan for Recovering Product Managers](https://hackernoon.com/a-12-step-program-for-recovering-product-managers-cd02fb2b6709#.d6tjlpbgl)
-
-* [Success Theater …](https://medium.com/@johnpcutler/success-theater-b60a1666fe67#.5zjj95jy4)
-
-* Your [product management approach needs to evolve](https://medium.com/@johnpcutler/the-evolving-product-manager-role-6f288bbc3cda#.1ps2ucfg0)
-
-* [Dear Product Manager…](https://hackernoon.com/dear-product-managers-c488ba6386ea#.mij4797cz)
-
-* [Quit Planning Ahead and Keeping People Busy](https://medium.com/@johnpcutler/quit-planning-ahead-and-keeping-people-busy-937e74d5a1fb#.vt8hm9887)
-
-* [Beat the Feature Factory — With Biz Chops](https://medium.com/@johnpcutler/beat-the-feature-factory-with-biz-chops-dfc7cf6309ae#.ts03mh85d)
-
-* [Beat the Feature Factory: Run Pre-cap Design Studios](https://medium.com/@johnpcutler/beat-the-feature-factory-run-pre-cap-design-studios-725d1c83ecd7#.bjmtflkas)
-
-* [SaaS and the Impostor Clairvoyant PM](https://medium.theuxblog.com/saas-and-the-imposter-clairvoyant-pm-fa910eb7b4d0#.g8kaxplfj)
-
-* [Agile: Don’t Exchange Waterfalls for Whirlpools](https://medium.com/@johnpcutler/agile-dont-exchange-waterfalls-for-whirlpools-798c50c08457#.m76848ghe)
-
-* [Visualizing Debt, Rework, Cut Corners, and Frustration](https://medium.com/@johnpcutler/visualizing-debt-rework-cut-corners-and-frustration-8b1195fb67ea#.s4n5psmi7)
-
-* [The Overlap](https://medium.com/@johnpcutler/the-overlap-puxeng-56dcfd33875b#.v2ftd32f1)
-
-* [5 Simple Questions to Drive Validated Learning](https://medium.com/@johnpcutler/4-simple-questions-to-drive-validated-learning-548a51a70ee5#.b7ex322q1)
-
-* [Stop Setting Up Product Roadmaps To Fail](https://medium.com/@johnpcutler/stop-setting-up-product-roadmaps-to-fail-3189452360a3#.xtcogg32i)
-
-* [How Much Does A New Feature Cost?](https://medium.com/@johnpcutler/how-much-does-a-new-feature-cost-f93c82bf638f#.4z8zx61vn)
-
-* [User Stories and Data](https://medium.com/@johnpcutler/user-stories-and-data-32057117fc7b#.2qb4k29jb)
-
-* … actually it is a [theme in most of my posts](https://medium.com/@johnpcutler)
