@@ -1,0 +1,72 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Faster. Faster. Faster.</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">Faster. Faster. Faster.</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+I’d like to talk about fast.
+</section>
+<section data-field="body" class="e-content">
+<section name="3ef1" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="fc4b" id="fc4b" class="graf graf--h3 graf--leading graf--title">Faster. Faster. Faster.</h3><p name="a1d1" id="a1d1" class="graf graf--p graf-after--h3">I’d like to talk about fast.</p><p name="44e0" id="44e0" class="graf graf--p graf-after--p">On the left, we have the build-measure-learn loop. And on the right we have the common build-build-build.</p><figure name="a344" id="a344" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 217px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 31%;"></div><img class="graf-image" data-image-id="1*ASFrYGRPG67lvJ0FadoETw@2x.jpeg" data-width="2165" data-height="671" src="https://cdn-images-1.medium.com/max/800/1*ASFrYGRPG67lvJ0FadoETw@2x.jpeg"></div></figure><p name="d740" id="d740" class="graf graf--p graf-after--figure">Think about “fast” in the context of these two approaches. With build-measure-learn, we are optimizing for learning. We move around the loop as quickly as possible. It might look slower to someone on the outside, but we are learning more quickly. With build-build-build, we optimize for output. We ship as quickly as possible. Sometimes output is the right tactic, but sometimes it leads to this:</p><figure name="b464" id="b464" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 158px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 22.5%;"></div><img class="graf-image" data-image-id="1*nkH40MBF5tN-r0ou2w2wdQ@2x.jpeg" data-width="2220" data-height="500" src="https://cdn-images-1.medium.com/max/800/1*nkH40MBF5tN-r0ou2w2wdQ@2x.jpeg"></div></figure><p name="3232" id="3232" class="graf graf--p graf-after--figure">One winner in five tries. Not good! Time for a silver bullet (joke).</p><p name="d680" id="d680" class="graf graf--p graf-after--p">The problem is, we tend not to kill the features. So we have to 1) maintain the complexity, and 2) work around the complexity when adding additional functionality. Poor Ops! They’re often left running all of this under-used functionality, and somehow have a problem getting more headcount. Anyway.</p><p name="35c0" id="35c0" class="graf graf--p graf-after--p">If we aren’t careful, we also miss good opportunities:</p><figure name="e615" id="e615" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 408px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 58.199999999999996%;"></div><img class="graf-image" data-image-id="1*ejKj2-fJ0u7RgBxPrK1jHw@2x.jpeg" data-width="1561" data-height="909" src="https://cdn-images-1.medium.com/max/800/1*ejKj2-fJ0u7RgBxPrK1jHw@2x.jpeg"></div></figure><p name="a8fc" id="a8fc" class="graf graf--p graf-after--figure">Note how we are able to pursue alternative paths with build-measure-learn. We kill some ideas, test new ideas, and amplify what works. With build-build-build, we’re about executing to a pre-determined plan. The last thing stakeholders want, in this case, is to flip the script.</p><p name="478a" id="478a" class="graf graf--p graf-after--p">There’s a legacy here.</p><p name="d8de" id="d8de" class="graf graf--p graf-after--p">With project work, someone comes to you and asks for software that does X,Y, and Z. For fixed bid work, you get paid cold hard cash when you kick-off the project, hit some milestones, and deliver the project. Perhaps you also agree to host/maintain the software, in which case you collect money for a service contract.</p><figure name="95c8" id="95c8" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 248px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 35.4%;"></div><img class="graf-image" data-image-id="1*wWf7Eg-vO2BAaJpEdt396w@2x.jpeg" data-width="1738" data-height="615" src="https://cdn-images-1.medium.com/max/800/1*wWf7Eg-vO2BAaJpEdt396w@2x.jpeg"></div></figure><p name="3422" id="3422" class="graf graf--p graf-after--figure">Now, there may be plenty of learning involved in this type of work. This is no knock on project work. With fixed bid, you are primarily concerned with controlling costs, reducing risk, and delivering something that meets the customer’s requirements. We often try to replicate this scheme in product development:</p><figure name="817b" id="817b" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 232px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 33.1%;"></div><img class="graf-image" data-image-id="1*OIaGL1G2sF__agFf9QprmA@2x.jpeg" data-width="2141" data-height="709" src="https://cdn-images-1.medium.com/max/800/1*OIaGL1G2sF__agFf9QprmA@2x.jpeg"></div></figure><p name="e4ef" id="e4ef" class="graf graf--p graf-after--figure">This makes logical sense. There are some difficulties, however. Here are a couple:</p><ol class="postList"><li name="aa02" id="aa02" class="graf graf--li graf-after--p">Most of the time, teams aren’t paid cold hard “internal” cash when they deliver. They don’t enjoy the profits. And they don’t get to charge for a service contract (to maintain what they build)</li><li name="aca7" id="aca7" class="graf graf--li graf-after--li">If asked to deliver a feature, they miss the opportunity to follow alternative paths to achieve the same goal. They’re on the hook for “the feature”.</li><li name="23ee" id="23ee" class="graf graf--li graf-after--li">By giving an estimate, they’ve limited their ability to iterate on the feature to achieve a positive business outcome. Most likely, the org will have scheduled follow-up work to start immediately after the project is “done”.</li><li name="8cb2" id="8cb2" class="graf graf--li graf-after--li">You run the risk of incentivizing larger “batches” (due to the transactional / startup costs of projects in comparison to dedicated teams).</li></ol><p name="4fc7" id="4fc7" class="graf graf--p graf-after--li">Broadly, this means we fall into a build-build-build mode (see big batch below) vs. a build-measure-learn mode (see smaller batch below):</p><figure name="3528" id="3528" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 431px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 61.6%;"></div><img class="graf-image" data-image-id="1*Z5aQbJki_roPWZb-XrvSYA@2x.jpeg" data-width="2296" data-height="1415" data-is-featured="true" src="https://cdn-images-1.medium.com/max/800/1*Z5aQbJki_roPWZb-XrvSYA@2x.jpeg"></div></figure><p name="866d" id="866d" class="graf graf--p graf-after--figure">Note how we start delivering value earlier using smaller batches. We’re “positive” far earlier. Now imagine this across multiple initiatives. It really makes difference.</p><p name="d54f" id="d54f" class="graf graf--p graf-after--p">I see many organizations interpret incremental delivery like this:</p><figure name="d8ec" id="d8ec" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 384px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 54.800000000000004%;"></div><img class="graf-image" data-image-id="1*I-3v-l7FcGsTrPOTS1WnKA@2x.jpeg" data-width="1938" data-height="1062" src="https://cdn-images-1.medium.com/max/800/1*I-3v-l7FcGsTrPOTS1WnKA@2x.jpeg"></div></figure><p name="89ed" id="89ed" class="graf graf--p graf-after--figure">We lay out all the “stories”, add up all the “points”, and finish the project in little increments. The increments are good. They provide an integration point and reality check and decrease delivery risk.</p><p name="6a53" id="6a53" class="graf graf--p graf-after--p">Why do we finish and walk away? In many cases, the organization is persuaded that benefits realization is a “long term” thing, and that there is no possible way to measure/learn prior to done. The attitude is basically build-build-build ……………………..measure-learn:</p><figure name="c632" id="c632" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 109px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 15.5%;"></div><img class="graf-image" data-image-id="1*gmZ2scszMAUzD3SuWLniCg@2x.jpeg" data-width="2110" data-height="328" src="https://cdn-images-1.medium.com/max/800/1*gmZ2scszMAUzD3SuWLniCg@2x.jpeg"></div></figure><p name="98c9" id="98c9" class="graf graf--p graf-after--figure">In this model, fast is all about getting to done. We’ll play our bets (fast), and then wait until the business value materializes (eventually).</p><p name="b009" id="b009" class="graf graf--p graf-after--p">In a build-measure-learn approach, things might look a bit like this:</p><figure name="2a89" id="2a89" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 598px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 85.39999999999999%;"></div><img class="graf-image" data-image-id="1*ufDJmPxwAsV2Z8ozksgihQ@2x.jpeg" data-width="1424" data-height="1216" src="https://cdn-images-1.medium.com/max/800/1*ufDJmPxwAsV2Z8ozksgihQ@2x.jpeg"></div></figure><p name="f63b" id="f63b" class="graf graf--p graf-after--figure">The team is tasked with moving some user/customer/business metric. They work to move that metric (with a short grace-period at the start). They’re free to try different options provided they keep producing results. Ideally they target a specific customer/user cohort, and also use a control.</p><p name="8abf" id="8abf" class="graf graf--p graf-after--p">Yes…this takes better tooling, testing, monitoring, etc.</p><p name="645d" id="645d" class="graf graf--p graf-after--p">And yes, this is scary for the business.</p><blockquote name="ec61" id="ec61" class="graf graf--blockquote graf-after--p">What are they going to build?</blockquote><blockquote name="5e3c" id="5e3c" class="graf graf--blockquote graf-after--blockquote">What will we tell our customers?</blockquote><blockquote name="6bbf" id="6bbf" class="graf graf--blockquote graf-after--blockquote">Can’t we just test it with customers, and just move on?</blockquote><blockquote name="e5d2" id="e5d2" class="graf graf--blockquote graf-after--blockquote">Can’t we make sure customers like it before we ship it?</blockquote><p name="7806" id="7806" class="graf graf--p graf-after--blockquote">But results are results. This is an option. You might be able to work this way. Try to figure it out, even with a small experiment.</p><p name="84cf" id="84cf" class="graf graf--p graf-after--p">So when people talk about going “faster” or “just executing”, make sure to ask some questions:</p><ol class="postList"><li name="776c" id="776c" class="graf graf--li graf-after--p">What does faster mean for you?</li><li name="9b6a" id="9b6a" class="graf graf--li graf-after--li">What are you trying to optimize for?</li><li name="c88c" id="c88c" class="graf graf--li graf-after--li">Are you willing to go slower in the future, to go faster right now?</li><li name="1472" id="1472" class="graf graf--li graf-after--li">How has “going fast” worked out? How has it helped the business? Has it hurt? What has been the impact of the added complexity?</li><li name="efc4" id="efc4" class="graf graf--li graf-after--li">Would you be willing to go slower and build less, if it led to superior business results? Can we build less.</li></ol><p name="9f00" id="9f00" class="graf graf--p graf-after--li graf--trailing">So that’s some basic thoughts on fast.</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@johnpcutler" class="p-author h-card">John Cutler</a> on <a href="https://medium.com/p/231c7b3d088d"><time class="dt-published" datetime="2017-10-27T07:39:47.207Z">October 27, 2017</time></a>.</p><p><a href="https://medium.com/@johnpcutler/faster-faster-faster-231c7b3d088d" class="p-canonical">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on July 22, 2019.</p></footer></article></body></html>

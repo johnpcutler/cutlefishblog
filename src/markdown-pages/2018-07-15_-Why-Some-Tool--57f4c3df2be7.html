@@ -1,0 +1,72 @@
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>#Why[Some Tool]</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">#Why[Some Tool]</h1>
+</header>
+<section data-field="subtitle" class="p-summary">
+I was having a heated discussion with someone recently about story points. It was one of those standard “that’s not the fault of story…
+</section>
+<section data-field="body" class="e-content">
+<section name="3c35" class="section section--body section--first section--last"><div class="section-divider"><hr class="section-divider"></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 name="35f9" id="35f9" class="graf graf--h3 graf--leading graf--title">#Why[Some Tool]</h3><p name="3aed" id="3aed" class="graf graf--p graf-after--h3">I was having a heated discussion with someone recently about story points. It was one of those standard “that’s not the fault of story points” arguments that goes nowhere. I realized a very common pattern — one that I have found to signal an opportunity for “refactoring” common approaches. It is age-old…basic decoupling and separation of concerns.</p><h4 name="6b71" id="6b71" class="graf graf--h4 graf-after--p">The Question</h4><p name="d242" id="d242" class="graf graf--p graf-after--h4">With every process, tool, methodology, and framework you adopt…ask:</p><blockquote name="c04a" id="c04a" class="graf graf--blockquote graf-after--p">What job(s) are we hiring [the thing] to do?</blockquote><p name="24ac" id="24ac" class="graf graf--p graf-after--blockquote"><strong class="markup--strong markup--p-strong">List them out.</strong> What you’ll find, is that you are frequently asking [the thing] to do more than one job. Let’s take a simple example: story points.</p><h4 name="6b69" id="6b69" class="graf graf--h4 graf-after--p">Example: Story Point Jobs</h4><ol class="postList"><li name="2238" id="2238" class="graf graf--li graf-after--h4">Estimate duration for a project</li><li name="233e" id="233e" class="graf graf--li graf-after--li">Keep track of progress towards a bigger goal OR deadline</li><li name="7cee" id="7cee" class="graf graf--li graf-after--li">Know how many stories to “pull” into a sprint</li><li name="98e0" id="98e0" class="graf graf--li graf-after--li">Calculate some sort of productivity metric (e.g. velocity)</li><li name="44d9" id="44d9" class="graf graf--li graf-after--li">As a catalyst to discuss complexity and encourage story splitting</li><li name="da84" id="da84" class="graf graf--li graf-after--li">Support a team in making a time-boxed commitment</li><li name="ee88" id="ee88" class="graf graf--li graf-after--li">As a commitment “carrot”</li><li name="3a20" id="3a20" class="graf graf--li graf-after--li">Assign workload to different categories (e.g. “lights on” vs new features)</li><li name="4ec0" id="4ec0" class="graf graf--li graf-after--li"><em class="markup--em markup--li-em">A couple more I’m forgetting</em></li></ol><h4 name="aae8" id="aae8" class="graf graf--h4 graf-after--li">Ask More Questions</h4><p name="22d0" id="22d0" class="graf graf--p graf-after--h4">With these jobs explicitly described, take a step back and consider the following for <strong class="markup--strong markup--p-strong">EACH JOB</strong>:</p><ul class="postList"><li name="fa73" id="fa73" class="graf graf--li graf-after--p"><strong class="markup--strong markup--li-strong">How does the job provide value to the company?</strong> You’ll find yourself saying something like “it helps us do [some <strong class="markup--strong markup--li-strong">other job</strong>]”. How does that <em class="markup--em markup--li-em">parent</em> job provide value to the company? Keep going — from job to parent job — until you hit something core and fundamental. <strong class="markup--strong markup--li-strong">Map this out</strong>.</li><li name="954f" id="954f" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Is [the thing] (story points in our example) the best tool for each job?</strong> Are there better/safer/leaner/more graceful/more resilient tools for that <strong class="markup--strong markup--li-strong"><em class="markup--em markup--li-em">specific job</em></strong>? How do other companies sharing your context/domain solve for that job? What about potential disruptors to your industry? You should have no trouble listing 3–5 alternative approaches to get the same outcome. If you’re experiencing trouble listing alternatives, consider applying this question to the parent job (see previous bullet).</li></ul><p name="3793" id="3793" class="graf graf--p graf-after--li">What did you learn by doing this exercise?</p><h4 name="80a0" id="80a0" class="graf graf--h4 graf-after--p">Typical Realizations…</h4><p name="3b94" id="3b94" class="graf graf--p graf-after--h4">Asking these questions tends to expose the following:</p><ul class="postList"><li name="3825" id="3825" class="graf graf--li graf-after--p"><strong class="markup--strong markup--li-strong">There are better approaches when considering individual jobs and when mapping jobs to core needs.</strong></li><li name="62ca" id="62ca" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">We overburden single jobs/tools</strong>. Typically, the tool does one or two things reasonable well (hopefully), and a bunch of things not-so-well.</li><li name="c562" id="c562" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Multiple jobs cause confusion</strong>, especially among the users of the tool. “Why are we doing X again? Is it working?” It becomes impossible to have a reasonable conversation about benefits.</li><li name="2afa" id="2afa" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Multiple jobs make it difficult to “refactor” the tool/process.</strong> We can’t improve one job, without swapping out the whole tool/process.</li><li name="c6ed" id="c6ed" class="graf graf--li graf-after--li"><strong class="markup--strong markup--li-strong">Often, teams are just adopting something “just because”.</strong> Because…they used it elsewhere, they have experience with the tools, they read a blogpost, or some consultant told them to do X. They’re not really thinking the core job through.</li></ul><p name="2f50" id="2f50" class="graf graf--p graf-after--li">This tweet from David Nicolette captures another potential issue:</p><figure name="1300" id="1300" class="graf graf--figure graf--iframe graf-after--p"><blockquote class="twitter-tweet"><a href="https://twitter.com/davenicolette/status/1018280131998052353?s=21"></a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></figure><p name="9520" id="9520" class="graf graf--p graf-after--figure">Once [the tool] becomes a “best practice” it is common to mash together all of the jobs and lose sight of why [the tool] was found valuable in the first place. Very rarely do we discuss “best practice for ______________ and in [some context]”.</p><p name="6ce1" id="6ce1" class="graf graf--p graf-after--p">Back to story points: what job do they exceptionally well? In what context?</p><h4 name="2f7a" id="2f7a" class="graf graf--h4 graf-after--p">Separation of Concerns</h4><p name="f6f0" id="f6f0" class="graf graf--p graf-after--h4">The direction I’m taking above is likely very familiar to you already (especially if you are an engineering or designer). Some refer to it as <strong class="markup--strong markup--p-strong">Separation of Concerns</strong>:</p><blockquote name="ba59" id="ba59" class="graf graf--blockquote graf-after--p">Separation of concerns is an important design principle in many other areas as well, such as urban planning, architecture and information design. The goal is to more effectively understand, design, and manage complex interdependent systems, so that functions can be reused, optimized independently of other functions, and insulated from the potential failure of other functions. (<a href="https://en.m.wikipedia.org/wiki/Separation_of_concerns" data-href="https://en.m.wikipedia.org/wiki/Separation_of_concerns" class="markup--anchor markup--blockquote-anchor" rel="noopener" target="_blank">Wikipedia</a>)</blockquote><p name="d2b8" id="d2b8" class="graf graf--p graf-after--blockquote">A great example here is <a href="https://bbrt.org/" data-href="https://bbrt.org/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">Beyond Budgeting</a>. One of the core ideas of Beyond Budget (listen to <a href="http://www.bosslevelpodcast.com/bjarte-bogsnes-and-beyond-budgeting/" data-href="http://www.bosslevelpodcast.com/bjarte-bogsnes-and-beyond-budgeting/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">this great podcast with Bjarte Bogsnes for a great overview</a>) is that traditional Budgeting is overloaded and suboptimal. It actually services <strong class="markup--strong markup--p-strong"><em class="markup--em markup--p-em">three distinct jobs</em></strong>:</p><p name="7068" id="7068" class="graf graf--p graf-after--p">target setting, forecasting and resource allocation.</p><ul class="postList"><li name="3000" id="3000" class="graf graf--li graf-after--p">Target setting</li><li name="c94b" id="c94b" class="graf graf--li graf-after--li">Forecasting</li><li name="5e11" id="5e11" class="graf graf--li graf-after--li">Resource allocation</li></ul><p name="a283" id="a283" class="graf graf--p graf-after--li">Beyond Budgeting addresses these needs/jobs (and sub-jobs) <strong class="markup--strong markup--p-strong">individually</strong> as described in this great slide <a href="https://www.slideshare.net/mobile/LESSConf/the-beyond-budgeting-principles" data-href="https://www.slideshare.net/mobile/LESSConf/the-beyond-budgeting-principles" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank">by Dr. Peter Bunce</a>:</p><figure name="7995" id="7995" class="graf graf--figure graf-after--p"><div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 493px;"><div class="aspectRatioPlaceholder-fill" style="padding-bottom: 70.5%;"></div><img class="graf-image" data-image-id="1*q6Zc8LtOD-M_BhFbHu_A3w@2x.jpeg" data-width="2094" data-height="1476" src="https://cdn-images-1.medium.com/max/800/1*q6Zc8LtOD-M_BhFbHu_A3w@2x.jpeg"></div></figure><p name="2108" id="2108" class="graf graf--p graf-after--figure">What I find personally amusing with this table is the degree to which words like “accountability” and “planning” ruffle feathers in certain circles (e.g. Agilists). But when you dig down to how Beyond Budgeting addresses those needs, you realize that the needs are foundational — it is the dominant/legacy solutions to those needs that feel dysfunctional and out of date.</p><h4 name="e52c" id="e52c" class="graf graf--h4 graf-after--p">So What?</h4><p name="a9a5" id="a9a5" class="graf graf--p graf-after--h4">The key idea here is that approaches (frameworks, tools, methodologies, etc.) doing <em class="markup--em markup--p-em">multiple jobs</em> are an opportunity for innovation and refactoring.</p><p name="c060" id="c060" class="graf graf--p graf-after--p">In situations where [some way] is being abused or failing to live up to its potential, I often find [the way] being overloaded and hired to do too many jobs (when there are better approaches to solve for individual jobs). In the case of something like story points, there are specific things they excel at, but they come with a ton of unnecessary baggage. Or another example: “we need deadlines for accountability and engagement” might signal the question “how else might we encourage accountability and engagement” without the mess of jobs that come along with deadlines.</p><p name="6afe" id="6afe" class="graf graf--p graf-after--p">Many people never question the Why behind the tools they hire.</p><p name="7b80" id="7b80" class="graf graf--p graf--startsWithDoubleQuote graf-after--p">“Just because…”.</p><p name="1233" id="1233" class="graf graf--p graf-after--p graf--trailing">Innovation happens when we figure out how to fulfill the same need in a new, lighter, safer, and more “agile” way. Saying #No________ fails to acknowledge the core need. Saying #Why_________ unpacks the job-to-be-done, and considered alternatives.</p></div></div></section>
+</section>
+<footer><p>By <a href="https://medium.com/@johnpcutler" class="p-author h-card">John Cutler</a> on <a href="https://medium.com/p/57f4c3df2be7"><time class="dt-published" datetime="2018-07-15T13:18:15.555Z">July 15, 2018</time></a>.</p><p><a href="https://medium.com/@johnpcutler/why-some-tool-57f4c3df2be7" class="p-canonical">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on July 22, 2019.</p></footer></article></body></html>
