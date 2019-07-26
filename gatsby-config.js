@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `@johncutlefish's blog`,
     description: `Writing on all things product by John Cutler (@johncutlefish).`,
-    author: `John Cutler`,
+	author: `John Cutler`,
+	image: `${__dirname}/src/images/ff.jpeg` 
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
