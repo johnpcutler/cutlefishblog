@@ -24,7 +24,7 @@ function SEO({ description, lang, meta, title }) {
 				b: file(relativePath: {eq: "ff.jpeg"}) {
 				    id
 				    childImageSharp {
-				      fixed(width: 10) {
+				      fixed(width: 400) {
 				        base64
 				        tracedSVG
 				        aspectRatio
