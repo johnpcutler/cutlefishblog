@@ -19,6 +19,7 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
+						twitterHandle
           }
         }
 				b: file(relativePath: {eq: "ff.jpeg"}) {
@@ -73,8 +74,16 @@ function SEO({ description, lang, meta, title }) {
           content: `summary`,
         },
         {
+          name: `twitter:image`,
+          content: data.b.childImageSharp.fixed.src,
+        },
+        {
           name: `twitter:creator`,
           content: data.a.siteMetadata.author,
+        },
+        {
+          name: `twitter:site`,
+          content: data.a.siteMetadata.twitterHandle,
         },
         {
           name: `twitter:title`,
@@ -93,7 +102,8 @@ SEO.defaultProps = {
   lang: `en`,
   meta: [],
   description: ``,
-  image: ''
+  image: '',
+	twitterHandle: ''
 }
 
 SEO.propTypes = {
@@ -101,7 +111,8 @@ SEO.propTypes = {
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
-  image: PropTypes.string
+  image: PropTypes.string,
+	twitterHandle: PropTypes.string
 }
 
 export default SEO
