@@ -2,6 +2,7 @@
 path:	"/blog/beat-the-feature-factory-video"
 date:	"2017-11-23"
 title:	"Beat the Feature Factory (Video)"
+image:	"defaultimage.png"
 ---
 
 #### Beat the Feature Factory (Video)

@@ -2,6 +2,7 @@
 path:	"/blog/pms-pos-25-things-you-can-try-now"
 date:	"2016-09-20"
 title:	"PMs/POs: 25 Things You Can Try Now"
+image:	"defaultimage.png"
 ---
 
 #### What can you do in the next week or two to be a better product manager?

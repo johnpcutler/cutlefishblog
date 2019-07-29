@@ -2,6 +2,7 @@
 path:	"/blog/continuous-improvement-tools-vs-project-management-tools"
 date:	"2018-09-24"
 title:	"Continuous Improvement Tools vs. Project Management Tools"
+image:	"defaultimage.png"
 ---
 
 Hey! We’re going to use these things called *points*.

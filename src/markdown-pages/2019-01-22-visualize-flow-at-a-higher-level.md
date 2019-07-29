@@ -2,6 +2,7 @@
 path:	"/blog/visualize-flow-at-a-higher-level"
 date:	"2019-01-22"
 title:	"Visualize Flow at a Higher Level"
+image:	"1*16lpIRrABaTVdL0DSl35zQ.jpeg"
 ---
 
 In my experience, you almost always find more dependencies between teams than we initially see/acknowledge. One common trap is imagining only “the work” and ignoring planning, “upstream” problem decomposition and exploration, reviews, hiring, and [a host of other things].

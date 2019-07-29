@@ -2,6 +2,7 @@
 path:	"/blog/getting-the-all-hands-right"
 date:	"2016-02-29"
 title:	"Getting The All-Hands Right"
+image:	"1*ni4Um463LmEvGvwujnV0fg.png"
 ---
 
 Can you really run an effective all-hands meeting each week? Is it worth it?

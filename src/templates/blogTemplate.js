@@ -10,7 +10,7 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
 	<Layout>
-		<SEO title={frontmatter.title} />
+		<SEO title={frontmatter.title} previewImage={frontmatter.image} />
     <div className="blog-post-container">
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
@@ -32,6 +32,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+				image
       }
     }
   }

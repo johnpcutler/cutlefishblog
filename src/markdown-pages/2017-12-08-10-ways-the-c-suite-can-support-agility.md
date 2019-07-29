@@ -2,6 +2,7 @@
 path:	"/blog/10-ways-the-c-suite-can-support-agility"
 date:	"2017-12-08"
 title:	"10 Ways the C-Suite Can Support Agility"
+image:	"1*fEBEHEN9I9rRxxaQmNktMA@2x.jpeg"
 ---
 
 Put this quick list together for a COO friend whose company is embarking on a “Lean/Agile Transformation”. She asked:

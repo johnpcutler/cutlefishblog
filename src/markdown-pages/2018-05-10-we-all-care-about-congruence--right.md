@@ -2,6 +2,7 @@
 path:	"/blog/we-all-care-about-congruence-right"
 date:	"2018-05-10"
 title:	"We All Care About Congruence. Right?"
+image:	"1*ulZSj0RwQt8MoC41fqWjBw@2x.jpeg"
 ---
 
 ![](/images/1*ulZSj0RwQt8MoC41fqWjBw@2x.jpeg)

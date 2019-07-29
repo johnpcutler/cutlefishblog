@@ -2,6 +2,7 @@
 path:	"/blog/why-startups-need-3rd-party-accountability-coaches"
 date:	"2016-09-10"
 title:	"Why Startups Need 3rd Party Accountability Coaches"
+image:	"defaultimage.png"
 ---
 
 As a startup founder you’ll get a lot of advice and feedback. Everyone has opinions. Everyone wants you to avoid pitfall X,Y, and Z. Your board, your employees, your fellow founders, and your customers will all have something to say. The advice is often conflicting and deafening.

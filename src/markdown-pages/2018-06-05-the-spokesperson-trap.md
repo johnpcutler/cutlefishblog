@@ -2,6 +2,7 @@
 path:	"/blog/the-spokesperson-trap"
 date:	"2018-06-05"
 title:	"The Spokesperson Trap"
+image:	"1*T57N9pIGTZpGiKqT7zrUMw@2x.jpeg"
 ---
 
 ![](/images/1*T57N9pIGTZpGiKqT7zrUMw@2x.jpeg)

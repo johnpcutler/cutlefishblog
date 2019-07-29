@@ -2,6 +2,7 @@
 path:	"/blog/40-ways-to-invest-in-more-resilient-teams"
 date:	"2017-05-20"
 title:	"40 Ways to Invest in More Resilient Teams"
+image:	"1*oUg8EcVu4LsIrtaqVo3yjA.png"
 ---
 
 You can’t build muscle without breaking down muscle and recovering. You can’t build resilience and strength without some discomfort and repair. You can’t learn if you are always focused on efficiency (and if you aren’t open to feeling a bit dumb sometimes). You can’t expect teams to show “initiative and autonomy” if you smother them in helicopter management and process.

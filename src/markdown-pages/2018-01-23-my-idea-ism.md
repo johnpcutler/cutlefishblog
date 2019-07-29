@@ -2,6 +2,7 @@
 path:	"/blog/my-idea-ism"
 date:	"2018-01-23"
 title:	"My-idea-ism"
+image:	"1*8V2s4tQqHrS2OiUPycw_nw@2x.jpeg"
 ---
 
 ![](/images/1*8V2s4tQqHrS2OiUPycw_nw@2x.jpeg)

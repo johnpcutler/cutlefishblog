@@ -2,6 +2,7 @@
 path:	"/blog/thinking-beyond-projects"
 date:	"2017-09-11"
 title:	"Thinking Beyond Projects"
+image:	"1*LCt_bnKGOv3Igc68WqiV9g.jpeg"
 ---
 
 #### In product development, projects are vehicles, not end-goals

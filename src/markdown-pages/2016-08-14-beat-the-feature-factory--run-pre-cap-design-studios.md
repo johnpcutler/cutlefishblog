@@ -2,6 +2,7 @@
 path:	"/blog/beat-the-feature-factory-run-pre-cap-design-studios"
 date:	"2016-08-14"
 title:	"Beat the Feature Factory: Run Pre-cap Design Studios"
+image:	"1*WoqIdA9nbo-ewIdrQsB-5w.png"
 ---
 
 ***Recommendation:**** Commit to a future recap of your product development initiative, and design the slides early in the process (leaving placeholders for the actual data)*

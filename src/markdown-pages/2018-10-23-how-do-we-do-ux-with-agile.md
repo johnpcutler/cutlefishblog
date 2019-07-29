@@ -2,6 +2,7 @@
 path:	"/blog/how-do-we-do-ux-with-agile"
 date:	"2018-10-23"
 title:	"How Do We Do UX With Agile?"
+image:	"defaultimage.png"
 ---
 
 

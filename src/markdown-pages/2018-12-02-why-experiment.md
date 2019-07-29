@@ -2,6 +2,7 @@
 path:	"/blog/why-experiment"
 date:	"2018-12-02"
 title:	"Why Experiment?"
+image:	"1*rMXXlKlNYoGXcvArVxEMWQ.png"
 ---
 
 *Note: I wrote this post for the *[*Amplitude*](https://amplitude.com/)* blog (my current employer). While mentioning Amplitude in a couple places, I think it’s decent and worth sharing here. Creating an environment friendly to continuous learning is something I am very passionate about.*

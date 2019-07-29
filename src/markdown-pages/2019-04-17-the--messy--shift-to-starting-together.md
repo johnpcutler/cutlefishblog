@@ -2,6 +2,7 @@
 path:	"/blog/the-messy-shift-to-starting-together"
 date:	"2019-04-17"
 title:	"The (Messy) Shift to Starting Together"
+image:	"1*Ve9KctWz-dAgoAlE2q-42g.png"
 ---
 
 ![](/images/1*Ve9KctWz-dAgoAlE2q-42g.png)

@@ -2,6 +2,7 @@
 path:	"/blog/learning-or-just-delivering"
 date:	"2018-12-24"
 title:	"Learning? Or Just Delivering?"
+image:	"defaultimage.png"
 ---
 
 How will you know when Agile is working?

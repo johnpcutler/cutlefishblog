@@ -2,6 +2,7 @@
 path:	"/blog/interview-jared-spool-on-center-centre-real-projects-and-the-future-of-ux-education"
 date:	"2017-11-22"
 title:	"Interview: Jared Spool on Center Centre, Real Projects, and the Future of UX Education"
+image:	"1*-Cjp_kt1ecJPoD3H-6b8UQ.jpeg"
 ---
 
 ![](/images/1*-Cjp_kt1ecJPoD3H-6b8UQ.jpeg)[http://centercentre.com/](http://centercentre.com/program)A couple weeks ago, I stumbled on a tweet from [Jared Spool](https://www.uie.com/about/) (founder of User Interface Engineering) mentioning [Center Centre](http://centercentre.com/)

@@ -2,6 +2,7 @@
 path:	"/blog/all-companies-have-problems-some-are-healthy-some-are-lucky"
 date:	"2017-08-26"
 title:	"All Companies Have Problems (Some Are Healthy, Some Are Lucky)"
+image:	"1*8gSuq2hVVdBdigQGTpnPiw.png"
 ---
 
 ![](/images/1*8gSuq2hVVdBdigQGTpnPiw.png)

@@ -2,6 +2,7 @@
 path:	"/blog/unvalidated-complexity-is-a-liability"
 date:	"2017-02-11"
 title:	"Unvalidated Complexity is a Liability"
+image:	"defaultimage.png"
 ---
 
 David Frahm asked me to explain this Tweet:

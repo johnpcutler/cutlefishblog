@@ -2,6 +2,7 @@
 path:	"/blog/35-b2b-saas-tips-and-gentle-reminders"
 date:	"2016-07-20"
 title:	"35 B2B SaaS Tips and Gentle Reminders"
+image:	"1*YrN3kttaDgOW2058NS8XVg.png"
 ---
 
 

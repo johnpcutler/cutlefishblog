@@ -2,6 +2,7 @@
 path:	"/blog/the-agile-police"
 date:	"2017-08-09"
 title:	"The Agile Police"
+image:	"1*kKuWsS9z82xTGJkhkOB4eA.png"
 ---
 
 ![](/images/1*kKuWsS9z82xTGJkhkOB4eA.png)

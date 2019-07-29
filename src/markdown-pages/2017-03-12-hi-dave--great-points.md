@@ -2,6 +2,7 @@
 path:	"/blog/hi-dave-great-points"
 date:	"2017-03-12"
 title:	"Hi Dave! Great points."
+image:	"defaultimage.png"
 ---
 
 Hi Dave! Great points.

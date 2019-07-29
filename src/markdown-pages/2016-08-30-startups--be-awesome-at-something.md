@@ -2,6 +2,7 @@
 path:	"/blog/startups-be-awesome-at-something"
 date:	"2016-08-30"
 title:	"Startups: Be Awesome At Something"
+image:	"defaultimage.png"
 ---
 
 Quick post to get back in the swing of things after a much needed vacation.

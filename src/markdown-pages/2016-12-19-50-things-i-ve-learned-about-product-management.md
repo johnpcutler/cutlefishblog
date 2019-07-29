@@ -2,6 +2,7 @@
 path:	"/blog/50-things-ive-learned-about-product-management"
 date:	"2016-12-19"
 title:	"50 Things I’ve Learned About Product Management"
+image:	"1*qDSjH1hEIeCtnQm8jZchmw.jpeg"
 ---
 
 #### The Sunday, can’t sleep, had coffee after 2PM edition…

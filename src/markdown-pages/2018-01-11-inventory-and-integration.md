@@ -2,6 +2,7 @@
 path:	"/blog/inventory-and-integration"
 date:	"2018-01-11"
 title:	"Inventory and Integration"
+image:	"1*HWY7KFreNsKhRv5thJxLjg@2x.jpeg"
 ---
 
 *Note: For my developer friends, you’ll likely need to squint a bit at how I use the word integration. I go from using it in the context of integrating code all the way up to “integrating” different perspectives.*

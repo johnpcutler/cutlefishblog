@@ -2,6 +2,7 @@
 path:	"/blog/do-this-now"
 date:	"2018-12-20"
 title:	"Do This Now!"
+image:	"1*4QMssKbRq2cO_vNeAOeriw.jpeg"
 ---
 
 I don’t write many prescriptive posts. This one will be different.

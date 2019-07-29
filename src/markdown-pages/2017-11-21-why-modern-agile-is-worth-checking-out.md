@@ -2,6 +2,7 @@
 path:	"/blog/why-modern-agile-is-worth-checking-out"
 date:	"2017-11-21"
 title:	"Why Modern Agile is Worth Checking Out"
+image:	"1*-4uJNpSIV5PILQRt2peooA@2x.png"
 ---
 
 #### Talk to your team about [Modern Agile](http://modernagile.org/). It’s a worthwhile experiment. Here’s why.

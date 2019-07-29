@@ -2,6 +2,7 @@
 path:	"/blog/why-isnt-agile-working"
 date:	"2017-10-05"
 title:	"Why Isn’t Agile Working?"
+image:	"1*uv5Ehx9KnUT6B3O1ieGY1A@2x.jpeg"
 ---
 
 #### A couple drawings…

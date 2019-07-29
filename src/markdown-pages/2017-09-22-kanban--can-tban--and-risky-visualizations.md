@@ -2,6 +2,7 @@
 path:	"/blog/kanban-cantban-and-risky-visualizations"
 date:	"2017-09-22"
 title:	"Kanban, Can’tban, and Risky Visualizations"
+image:	"1*SlELFMpAHe7W0UBGaMKOBA.png"
 ---
 
 *Note: For background on the Kanban Method (what I refer to as Kanban below) please *[*click here*](http://www.djaa.com/principles-kanban-method-0)*.*

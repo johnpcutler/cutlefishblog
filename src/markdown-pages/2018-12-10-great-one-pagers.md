@@ -2,6 +2,7 @@
 path:	"/blog/great-one-pagers"
 date:	"2018-12-10"
 title:	"Great One-Pagers"
+image:	"1*S7MT8sQPNFMhIFFK7do86g.png"
 ---
 
 ![](/images/1*S7MT8sQPNFMhIFFK7do86g.png)*Note: I’ve been meaning to share this for a while now. I was reminded of this training material a couple days ago while brainstorming new workshop content with my *[*Amplitude*](https://amplitude.com/)* coworkers. A cool thing about my gig at Amplitude is that I get to work on up-leveling the product-public at large (not just customers). Follow me on Twitter (@johncutlefish)

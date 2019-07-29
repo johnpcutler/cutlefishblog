@@ -2,6 +2,7 @@
 path:	"/blog/good-process-bad-process"
 date:	"2015-12-26"
 title:	"Good Process, Bad Process"
+image:	"0*IU7FzFvFIufSAPPL.png"
 ---
 
 To most people the word “process” might as well be a four-letter word.

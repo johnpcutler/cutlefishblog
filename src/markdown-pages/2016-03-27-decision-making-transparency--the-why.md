@@ -2,6 +2,7 @@
 path:	"/blog/decision-making-transparency-the-why"
 date:	"2016-03-27"
 title:	"Decision Making Transparency (The Why)"
+image:	"defaultimage.png"
 ---
 
 

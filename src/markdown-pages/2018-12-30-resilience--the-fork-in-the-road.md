@@ -2,6 +2,7 @@
 path:	"/blog/resilience-the-fork-in-the-road"
 date:	"2018-12-30"
 title:	"Resilience: The Fork in the Road"
+image:	"1*dOHp0jPcZqDtRpA6QtL24w.jpeg"
 ---
 
 ![](/images/1*dOHp0jPcZqDtRpA6QtL24w.jpeg)

@@ -2,6 +2,7 @@
 path:	"/blog/kanban-boards-are-a-design-challenge"
 date:	"2017-11-25"
 title:	"Kanban Boards are a Design Challenge"
+image:	"1*65TBqPMEXWBOOcXJOv4-wQ@2x.jpeg"
 ---
 
 I recently shared an older post on UX work and Kanban boards.

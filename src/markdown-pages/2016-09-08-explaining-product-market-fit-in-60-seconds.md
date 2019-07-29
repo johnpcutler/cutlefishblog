@@ -2,6 +2,7 @@
 path:	"/blog/explaining-product-market-fit-in-60-seconds"
 date:	"2016-09-08"
 title:	"Explaining Product/Market Fit in 60 Seconds"
+image:	"1*Q4ql8AqNvIIuGpKgDicMjw.png"
 ---
 
 #### Your product shows potential. But does it perform?

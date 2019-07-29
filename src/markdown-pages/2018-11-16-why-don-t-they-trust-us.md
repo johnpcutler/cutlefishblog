@@ -2,6 +2,7 @@
 path:	"/blog/why-dont-they-trust-us"
 date:	"2018-11-16"
 title:	"Why Don’t They Trust Us?"
+image:	"1*hfKP8gMboBddKe059Eu6DQ.jpeg"
 ---
 
 ![](/images/1*hfKP8gMboBddKe059Eu6DQ.jpeg)

@@ -2,6 +2,7 @@
 path:	"/blog/prioritizing-non-feature-work-and-continuous-improvement"
 date:	"2018-06-04"
 title:	"Prioritizing “Non-Feature” Work and Continuous Improvement"
+image:	"1*Ow8Z3kiAyAW2C0o4QtiMVw@2x.jpeg"
 ---
 
 *Note: I transcribed this post from a coaching/training session. Hopefully the conversational style works OK, and it isn’t too choppy. Also, I am very sleep deprived due to the new baby! Which means I’m terrible at proofreading. But in the spirit of continuous delivery … :)*

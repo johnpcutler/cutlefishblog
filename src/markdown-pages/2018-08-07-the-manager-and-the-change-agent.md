@@ -2,6 +2,7 @@
 path:	"/blog/the-manager-and-the-change-agent"
 date:	"2018-08-07"
 title:	"The Manager and the Change Agent"
+image:	"1*JQk08pddLdISx3aDKi3LPw@2x.jpeg"
 ---
 
 ![](/images/1*JQk08pddLdISx3aDKi3LPw@2x.jpeg)

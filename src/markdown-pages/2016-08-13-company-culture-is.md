@@ -2,6 +2,7 @@
 path:	"/blog/company-culture-is"
 date:	"2016-08-13"
 title:	"company culture is…"
+image:	"defaultimage.png"
 ---
 
 * What you say, and how often you say it

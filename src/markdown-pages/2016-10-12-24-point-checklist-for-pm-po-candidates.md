@@ -2,6 +2,7 @@
 path:	"/blog/24-point-checklist-for-pm-po-candidates"
 date:	"2016-10-12"
 title:	"24-Point Checklist for PM/PO Candidates"
+image:	"1*KLOWWMNqgyt2RwjrhLbyQQ.png"
 ---
 
 For a quick post today I thought I’d share a personal checklist for assessing product management / product owner candidates. These 24 items are useful when 1) thinking about the role you hope to fill, and 2) assessing a candidate. It can take a lifetime of shipping to max out your chops, so it is important to view all of these skills on a continuum.

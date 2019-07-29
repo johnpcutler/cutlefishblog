@@ -2,6 +2,7 @@
 path:	"/blog/10-things-i-learned-by-doodling-for-100-days-straight"
 date:	"2016-08-31"
 title:	"10 Things I Learned By Doodling For 100 Days Straight"
+image:	"1*7ocOOfbnr1J8vMTQTWUL5w.jpeg"
 ---
 
 ![](/images/1*7ocOOfbnr1J8vMTQTWUL5w.jpeg)

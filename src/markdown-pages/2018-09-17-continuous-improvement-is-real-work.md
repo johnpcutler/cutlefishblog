@@ -2,6 +2,7 @@
 path:	"/blog/continuous-improvement-is-real-work"
 date:	"2018-09-17"
 title:	"Continuous Improvement is Real Work"
+image:	"1*Lv1BbqtLlYh9LgOzzCm8Eg@2x.jpeg"
 ---
 
 ![](/images/1*Lv1BbqtLlYh9LgOzzCm8Eg@2x.jpeg)

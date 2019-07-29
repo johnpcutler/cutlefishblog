@@ -2,6 +2,7 @@
 path:	"/blog/winning-at-dependency-twister"
 date:	"2017-09-09"
 title:	"Winning at Dependency Twister"
+image:	"1*cWzEUYhDKpgb1Z6Nek7kkw.png"
 ---
 
 ![](/images/1*cWzEUYhDKpgb1Z6Nek7kkw.png)I wrote recently about [quarterly planning](https://hackernoon.com/surviving-quarterly-planning-7d571fb5b034)

@@ -2,6 +2,7 @@
 path:	"/blog/limit-pip-promises-in-progress"
 date:	"2017-08-19"
 title:	"Limit PIP (Promises In Progress)"
+image:	"1*G5LTJdpH8d7hLHxJ_YqaOQ.png"
 ---
 
 I riffed recently on the idea of PIP (promises in progress).

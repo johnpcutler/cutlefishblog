@@ -2,6 +2,7 @@
 path:	"/blog/startups-and-the-enterprise-vortex"
 date:	"2016-12-10"
 title:	"Startups and the Enterprise Vortex"
+image:	"defaultimage.png"
 ---
 
 I have a friend who recently wrote me with some questions about whether their startup should “start selling to enterprises”. Sharing my response below.

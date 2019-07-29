@@ -2,6 +2,7 @@
 path:	"/blog/from-decision-maker-to-decision-supporter"
 date:	"2018-12-01"
 title:	"From Decision Maker to Decision Supporter"
+image:	"1*qOkOWhd_HK26WKjhYE3I-w.jpeg"
 ---
 
 ![](/images/1*qOkOWhd_HK26WKjhYE3I-w.jpeg)

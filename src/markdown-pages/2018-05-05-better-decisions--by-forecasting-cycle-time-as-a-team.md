@@ -2,6 +2,7 @@
 path:	"/blog/better-decisions-by-forecasting-cycle-time-as-a-team"
 date:	"2018-05-05"
 title:	"Better Decisions (By Forecasting Cycle Time as a Team)"
+image:	"1*KD-bRw4IuXLNzl-CKNBiDw@2x.jpeg"
 ---
 
 Below I am sharing a script I use to facilitate forecasting the cycle time of a software product development initiative (not user stories, but initiatives, and only the time “in development”). I post this with hesitation given the tension around estimation and software development, and knowing that I risk getting “dinged” for various statements below (from multiple, super smart experts). But after some consideration I figured … what the heck. Even if it all gets ripped apart, it’ll spark a conversation.

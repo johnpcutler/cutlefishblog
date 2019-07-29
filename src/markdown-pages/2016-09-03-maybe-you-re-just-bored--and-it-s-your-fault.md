@@ -2,6 +2,7 @@
 path:	"/blog/maybe-youre-just-bored-and-its-your-fault"
 date:	"2016-09-03"
 title:	"Maybe You’re Just Bored. And It’s Your Fault"
+image:	"defaultimage.png"
 ---
 
 #### It’s not the boss, the strategy, or the system. You’re just not in the right place and/or doing the right thing. And it’s your fault.

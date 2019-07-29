@@ -2,6 +2,7 @@
 path:	"/blog/round-and-round"
 date:	"2018-02-12"
 title:	"Round and Round"
+image:	"1*tQP_5OeklVmIaqvTv2wm7A@2x.jpeg"
 ---
 
 Crazy week of travel. Apologies for not posting more.

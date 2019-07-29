@@ -2,6 +2,7 @@
 path:	"/blog/self-inflicted-chaos"
 date:	"2018-11-13"
 title:	"Self-Inflicted Chaos"
+image:	"1*0srJKAT0SDN1qBlMT3vGrw.png"
 ---
 
 #### Is chaos (at work) inherently bad?

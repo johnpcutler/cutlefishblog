@@ -2,6 +2,7 @@
 path:	"/blog/7-abilities-you-must-defend-and-improve"
 date:	"2017-05-03"
 title:	"7 Abilities You Must Defend (and Improve)"
+image:	"1*CfIH6JeVz9axBxjGYdy-8g.png"
 ---
 
 What is the *right* way to scale your company? How do you know whether a process is the *right* process? Here’s an idea … ask yourself whether the action you are considering **will improve or harm** your ability to do the following:

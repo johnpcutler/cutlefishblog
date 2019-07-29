@@ -2,6 +2,7 @@
 path:	"/blog/the-cynagileanuxanbanicrumify-method"
 date:	"2016-09-13"
 title:	"The CynAgileanUXanbanicrumify Method"
+image:	"defaultimage.png"
 ---
 
 #### 3.0, **™, Copyright 1885–2016**

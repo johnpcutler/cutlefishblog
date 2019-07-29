@@ -2,6 +2,7 @@
 path:	"/blog/as-product-managers-were-asking-ourselves-the-wrong-set-of-questions"
 date:	"2016-01-23"
 title:	"As Product Managers We’re Asking Ourselves The Wrong Set Of Questions"
+image:	"1*2ordkKcC7Vqb17nx60_coA.png"
 ---
 
 *Stop trying to define product management. It’s a fool’s game.*

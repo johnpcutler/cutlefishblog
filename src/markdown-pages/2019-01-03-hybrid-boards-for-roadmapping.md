@@ -2,6 +2,7 @@
 path:	"/blog/hybrid-boards-for-roadmapping"
 date:	"2019-01-03"
 title:	"Hybrid Boards For Roadmapping"
+image:	"0*hEzzM38VbV0dMsHF.jpg"
 ---
 
 Converting some of my longer Twitter threads to posts.

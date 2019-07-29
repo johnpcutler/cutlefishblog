@@ -2,6 +2,7 @@
 path:	"/blog/20-ways-to-kill-elephants-in-rooms"
 date:	"2016-12-31"
 title:	"20 Ways to Kill Elephants (In Rooms)"
+image:	"1*mct-FinIQlekRi-C29CQdQ.png"
 ---
 
 #### Or just dance with them…

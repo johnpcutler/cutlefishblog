@@ -2,6 +2,7 @@
 path:	"/blog/175-posts-on-product-development-thanks"
 date:	"2017-05-22"
 title:	"175 Posts On Product Development! Thanks!"
+image:	"1*a6olV-DzYZBLL03qwcuUyw.png"
 ---
 
 ![](/images/1*a6olV-DzYZBLL03qwcuUyw.png)

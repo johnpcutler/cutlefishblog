@@ -2,6 +2,7 @@
 path:	"/blog/we-are-what-we-learn"
 date:	"2017-01-11"
 title:	"We Are What We Learn"
+image:	"1*hxVhIjIir7aUKi-8TiB1Tg.png"
 ---
 
 When I talk to teams about data and evidence-driven product development, I invariably encounter some fear and trepidation:

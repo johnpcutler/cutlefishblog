@@ -2,6 +2,7 @@
 path:	"/blog/so-youre-hiring-a-product-manager"
 date:	"2019-05-04"
 title:	"So You’re Hiring a Product Manager?"
+image:	"1*Oh-OaYHJQjlOIt99V7v9JQ.png"
 ---
 
 ![](/images/1*Oh-OaYHJQjlOIt99V7v9JQ.png)When I am asked for help in hiring a product manager, I typically ask the person to force-rank this list (or something similar). I keep re-writing it, but this is what I used last week.

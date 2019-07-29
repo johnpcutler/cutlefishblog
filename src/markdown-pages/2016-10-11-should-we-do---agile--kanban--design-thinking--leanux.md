@@ -2,6 +2,7 @@
 path:	"/blog/should-we-do-agile-kanban-design-thinking-leanux"
 date:	"2016-10-11"
 title:	"Should We Do [ Agile, Kanban, Design Thinking, LeanUX, …]"
+image:	"defaultimage.png"
 ---
 
 b'\n\n\nShould we DO Design Thinking? Should we DO Lean Startup. Should we DO Agile? Should we DO LeanUX?

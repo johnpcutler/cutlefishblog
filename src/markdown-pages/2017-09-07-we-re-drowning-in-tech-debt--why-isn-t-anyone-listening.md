@@ -2,6 +2,7 @@
 path:	"/blog/were-drowning-in-tech-debt-why-isnt-anyone-listening"
 date:	"2017-09-07"
 title:	"We’re Drowning in Tech Debt. Why Isn’t Anyone Listening?"
+image:	"1*CySEiwTR060qx2Pz71-OFw.png"
 ---
 
 

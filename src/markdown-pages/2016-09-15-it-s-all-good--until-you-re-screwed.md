@@ -2,6 +2,7 @@
 path:	"/blog/its-all-good-until-youre-screwed"
 date:	"2016-09-15"
 title:	"It’s All Good. Until You’re Screwed"
+image:	"defaultimage.png"
 ---
 
 There’s no free lunch or magic strategy.

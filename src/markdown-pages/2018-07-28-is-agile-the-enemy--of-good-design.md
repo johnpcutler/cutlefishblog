@@ -2,6 +2,7 @@
 path:	"/blog/is-agile-the-enemy-of-good-design"
 date:	"2018-07-28"
 title:	"Is Agile the Enemy (of Good Design)?"
+image:	"1*pUltUFND1ZZBMzHGt6cvlQ@2x.jpeg"
 ---
 
 ![](/images/1*pUltUFND1ZZBMzHGt6cvlQ@2x.jpeg)

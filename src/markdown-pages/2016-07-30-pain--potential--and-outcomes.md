@@ -2,6 +2,7 @@
 path:	"/blog/pain-potential-and-outcomes"
 date:	"2016-07-30"
 title:	"Pain, Potential, and Outcomes"
+image:	"1*GJzOsXVzrYmWqw56dv19Mw.png"
 ---
 
 Eat healthy! Get in shape! All your data in one place! Faster time to market! Stop the information overload! Uptime! Speed! Less busywork! Happier customers! Lower churn! More with less! More revenue! Lower costs!

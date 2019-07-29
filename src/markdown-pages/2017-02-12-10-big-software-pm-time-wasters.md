@@ -2,6 +2,7 @@
 path:	"/blog/10-big-software-pm-time-wasters"
 date:	"2017-02-12"
 title:	"10 Big Software PM Time Wasters"
+image:	"1*KnQtBXoI1-CgVmtOSyPMlQ.png"
 ---
 
 Time management is extremely important for PMs. You want to focus your energy on the activities that will have the highest leverage for your customers and team. Over my career (as a software product manager)I’ve wasted a ton of time doing things that felt high-leverage at the time, but didn’t produce lasting value. Below I’ve listed the top ten culprits …

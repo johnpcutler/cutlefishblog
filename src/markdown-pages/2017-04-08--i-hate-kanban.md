@@ -2,6 +2,7 @@
 path:	"/blog/i-hate-kanban"
 date:	"2017-04-08"
 title:	"“I Hate Kanban…”"
+image:	"1*GHOK9W2JZBJzWI-rGXbkdg.png"
 ---
 
 Wandering the conference halls I overhear…

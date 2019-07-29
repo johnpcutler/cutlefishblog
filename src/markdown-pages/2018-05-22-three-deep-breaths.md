@@ -2,6 +2,7 @@
 path:	"/blog/three-deep-breaths"
 date:	"2018-05-22"
 title:	"Three Deep Breaths"
+image:	"1*asABah2yyJbYSDRzek7Pjw@2x.jpeg"
 ---
 
 ![](/images/1*asABah2yyJbYSDRzek7Pjw@2x.jpeg)At work (and out of work), we often sabotage our own goals/credibility by letting people get under our skin. I say this from experience. It can be so hard to play the “long game” when you are passionate about moving something forward, or are sensitive to some area of chronic toxicity or coherence (the elephant)

@@ -2,6 +2,7 @@
 path:	"/blog/scrum-is-the-best-thing-in-the-whole-wide-world"
 date:	"2017-12-19"
 title:	"Scrum is the Best Thing in the Whole Wide World"
+image:	"1*WnxhMGV3n7E_2xHIpBjcSQ@2x.jpeg"
 ---
 
 Scrum is:

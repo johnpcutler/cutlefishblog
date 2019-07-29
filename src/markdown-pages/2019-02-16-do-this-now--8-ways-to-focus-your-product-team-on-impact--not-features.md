@@ -2,6 +2,7 @@
 path:	"/blog/do-this-now-8-ways-to-focus-your-product-team-on-impact-not-features"
 date:	"2019-02-16"
 title:	"Do This Now: 8 Ways to Focus your Product Team on Impact, Not Features"
+image:	"0*sNmJF8NBtpfA50wU.png"
 ---
 
 *Originally published at *[*amplitude.com*](https://amplitude.com/blog/focus-product-team-on-impact)*.*

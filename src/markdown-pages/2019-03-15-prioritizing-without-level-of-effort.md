@@ -2,6 +2,7 @@
 path:	"/blog/prioritizing-without-level-of-effort"
 date:	"2019-03-15"
 title:	"Prioritizing Without Level of Effort?"
+image:	"0*Y7T0RYPNUGcMsUvO.png"
 ---
 
 More reposts of answers to emailed questions, etc. I shared one [about deadlines](https://medium.com/@johnpcutler/should-we-have-deadlines-e621e1cdb132?source=friends_link&sk=6f01b1e782a64ecc79547c493307a703) the other day.

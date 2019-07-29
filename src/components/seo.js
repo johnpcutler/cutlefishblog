@@ -10,11 +10,12 @@ import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-function SEO({ description, lang, meta, title }) {
+function SEO({ description, lang, meta, title, previewImage }) {
+	console.log({previewImage})
   const data = useStaticQuery(
     graphql`
       query {
-        a: site {
+       site {
           siteMetadata {
             title
             description
@@ -23,28 +24,11 @@ function SEO({ description, lang, meta, title }) {
 						siteURL
           }
         }
-				b: file(relativePath: {eq: "ff.jpeg"}) {
-				    id
-				    childImageSharp {
-				      fixed(width: 400) {
-				        base64
-				        tracedSVG
-				        aspectRatio
-				        width
-				        height
-				        src
-				        srcSet
-				        srcWebp
-				        srcSetWebp
-				        originalName
-				      }
-				    }
-				  }
 	    }
 			`
 		)
   
-  const metaDescription = description || data.a.siteMetadata.description
+  const metaDescription = description || data.site.siteMetadata.description
 
   return (
     <Helmet
@@ -52,7 +36,7 @@ function SEO({ description, lang, meta, title }) {
         lang,
       }}
       title={title}
-      titleTemplate={`%s | ${data.a.siteMetadata.title}`}
+      titleTemplate={`%s | ${data.site.siteMetadata.title}`}
       meta={[
         {
           name: `description`,
@@ -68,7 +52,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-					content: `${data.a.siteMetadata.siteURL}${data.b.childImageSharp.fixed.src}`
+					content: `${data.site.siteMetadata.siteURL}`
         },
         {
           name: `twitter:card`,
@@ -76,11 +60,11 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:creator`,
-          content: data.a.siteMetadata.author,
+          content: data.site.siteMetadata.author,
         },
         {
           name: `twitter:site`,
-          content: data.a.siteMetadata.twitterHandle,
+          content: data.site.siteMetadata.twitterHandle,
         },
         {
           name: `twitter:title`,
@@ -101,7 +85,8 @@ SEO.defaultProps = {
   description: ``,
   image: '',
 	twitterHandle: '',
-	siteURL: ''
+	siteURL: '',
+	previewImage: ''
 }
 
 SEO.propTypes = {
@@ -111,7 +96,8 @@ SEO.propTypes = {
   title: PropTypes.string.isRequired,
   image: PropTypes.string,
 	twitterHandle: PropTypes.string,
-	siteURL: PropTypes.string
+	siteURL: PropTypes.string,
+	previewImage: PropTypes.string
 }
 
 export default SEO

@@ -2,6 +2,7 @@
 path:	"/blog/destroy-your-product-without-getting-fired"
 date:	"2017-03-06"
 title:	"Destroy Your Product (Without Getting Fired)"
+image:	"defaultimage.png"
 ---
 
 Can you destroy your product AND not get fired?

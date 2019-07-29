@@ -2,6 +2,7 @@
 path:	"/blog/hidden-costs-of-the-sales-driven-roadmap"
 date:	"2016-01-16"
 title:	"Hidden Costs of the Sales-Driven Roadmap"
+image:	"1*ovSub-mFzsrJzHrZTo7J-A.png"
 ---
 
 *Exploring the cost side of the Sales Driven Roadmap*

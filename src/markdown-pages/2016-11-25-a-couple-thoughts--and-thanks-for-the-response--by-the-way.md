@@ -2,6 +2,7 @@
 path:	"/blog/a-couple-thoughts-and-thanks-for-the-response-by-the-way"
 date:	"2016-11-25"
 title:	"A couple thoughts (and thanks for the response, by the way)."
+image:	"defaultimage.png"
 ---
 
 A couple thoughts (and thanks for the response, by the way). Great question that has helped me clarify my point.

@@ -2,6 +2,7 @@
 path:	"/blog/your-product-is-a-service"
 date:	"2016-05-07"
 title:	"Your Product is a Service…"
+image:	"1*rJm3ADtiBS27b7tqmiVm1A.png"
 ---
 
 What is **The Product?** What is ***Your* Product?**

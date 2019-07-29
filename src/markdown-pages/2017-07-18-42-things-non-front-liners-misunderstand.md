@@ -2,6 +2,7 @@
 path:	"/blog/42-things-non-front-liners-misunderstand"
 date:	"2017-07-18"
 title:	"42 Things Non-Front-Liners Misunderstand"
+image:	"0*hilXTtHO1RQm5DxY.png"
 ---
 
 ![](/images/0*hilXTtHO1RQm5DxY.png)

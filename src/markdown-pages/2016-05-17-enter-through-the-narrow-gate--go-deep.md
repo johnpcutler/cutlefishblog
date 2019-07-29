@@ -2,6 +2,7 @@
 path:	"/blog/enter-through-the-narrow-gate-go-deep"
 date:	"2016-05-17"
 title:	"Enter Through The Narrow Gate (Go Deep)"
+image:	"1*5-jWrdgukbnOoehFBRguBg.png"
 ---
 
 

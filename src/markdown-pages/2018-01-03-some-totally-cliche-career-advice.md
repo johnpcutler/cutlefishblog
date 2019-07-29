@@ -2,6 +2,7 @@
 path:	"/blog/some-totally-cliche-career-advice"
 date:	"2018-01-03"
 title:	"Some Totally Cliche Career Advice…"
+image:	"1*jJCcNL_NJYNV-ZQuntS6pg@2x.jpeg"
 ---
 
 ![](/images/1*jJCcNL_NJYNV-ZQuntS6pg@2x.jpeg)

@@ -2,6 +2,7 @@
 path:	"/blog/chasing-revenue-growth-and-hidden-costs"
 date:	"2016-07-24"
 title:	"Chasing Revenue Growth (and Hidden Costs)"
+image:	"1*CngWKQyzvq75ZCfY_Ykfiw.png"
 ---
 
 ![](/images/1*CngWKQyzvq75ZCfY_Ykfiw.png)

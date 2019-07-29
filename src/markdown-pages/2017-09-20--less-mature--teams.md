@@ -2,6 +2,7 @@
 path:	"/blog/less-mature-teams"
 date:	"2017-09-20"
 title:	"“Less Mature” Teams"
+image:	"1*Jg7i6P59zy4cJA5ChKzX1A.png"
 ---
 
 #### and some notes on the apprenticeship model

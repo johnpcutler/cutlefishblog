@@ -2,6 +2,7 @@
 path:	"/blog/you-wont-believe-these-14-cray-cray-developer-designer-retention-hacks"
 date:	"2017-07-01"
 title:	"You Won’t BELIEVE These 14 Cray Cray Developer/Designer Retention Hacks…"
+image:	"1*ZtHatIe8R4dR7AnLBwMWcA.png"
 ---
 
 #### Or what not to do ….

@@ -2,6 +2,7 @@
 path:	"/blog/30-thoughts-on-change-org-health-and-change-agency"
 date:	"2017-11-14"
 title:	"30 Thoughts On Change, Org Health, and Change Agency"
+image:	"1*aevs_ZXQuLWNBbvhH2CcZQ@2x.jpeg"
 ---
 
 ![](/images/1*aevs_ZXQuLWNBbvhH2CcZQ@2x.jpeg)

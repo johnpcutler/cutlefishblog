@@ -2,6 +2,7 @@
 path:	"/blog/this-pm-hack-saved-me-1-hour-a-day-and-helped-me-connect-with-more-customers"
 date:	"2016-01-21"
 title:	"This PM Hack Saved Me 1 Hour A Day (and helped me connect with more customers)"
+image:	"defaultimage.png"
 ---
 
 *How I saved an hour every day, stopped wasting my team and customers’ time, and gathered valuable insights and feedback from our customers.*

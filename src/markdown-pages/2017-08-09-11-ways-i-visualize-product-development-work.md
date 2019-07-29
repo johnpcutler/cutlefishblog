@@ -2,6 +2,7 @@
 path:	"/blog/11-ways-i-visualize-product-development-work"
 date:	"2017-08-09"
 title:	"11 Ways I Visualize Product Development Work"
+image:	"1*9d0uE4GWH1cJh0e1xtnAQA.png"
 ---
 
 …sharing some drawings and notes from a whiteboard training today.

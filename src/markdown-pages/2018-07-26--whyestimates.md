@@ -2,6 +2,7 @@
 path:	"/blog/whyestimates"
 date:	"2018-07-26"
 title:	"#WhyEstimates"
+image:	"1*8WNlRbmTR1ha0mKROiO1OQ@2x.jpeg"
 ---
 
 ![](/images/1*8WNlRbmTR1ha0mKROiO1OQ@2x.jpeg)

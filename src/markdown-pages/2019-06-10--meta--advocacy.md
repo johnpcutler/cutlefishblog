@@ -2,6 +2,7 @@
 path:	"/blog/meta-advocacy"
 date:	"2019-06-10"
 title:	"“Meta” Advocacy"
+image:	"defaultimage.png"
 ---
 
 A very short post about advocating for change in your organization.

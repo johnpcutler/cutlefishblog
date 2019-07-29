@@ -2,6 +2,7 @@
 path:	"/blog/90-problems-youve-heard-about-before"
 date:	"2016-12-24"
 title:	"90 Problems You’ve Heard About Before"
+image:	"1*wa6E9Y_SJ_iM5eOyC16AsQ.jpeg"
 ---
 
 #### Take heart. You are not alone.

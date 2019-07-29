@@ -2,6 +2,7 @@
 path:	"/blog/make-the-time-if-it-is-important"
 date:	"2019-02-02"
 title:	"Make the Time (If It Is Important)"
+image:	"1*zkVZPIaS2cr7eJn16HcQew.jpeg"
 ---
 
 ![](/images/1*zkVZPIaS2cr7eJn16HcQew.jpeg)

@@ -2,6 +2,7 @@
 path:	"/blog/when-you-hear-pay-attention"
 date:	"2018-06-20"
 title:	"When You Hear _______, Pay Attention"
+image:	"1*PsH-hz-pc6e8_aVlDt1Mag@2x.jpeg"
 ---
 
 *Note: With dad-hood I’m doing more lists. They’re easier to write while learning to care for this awesome little farting/burping/pooping/smiling human. Apologies if you’re a fan of the longer posts. I’ll get back to them eventually/occasionally.*

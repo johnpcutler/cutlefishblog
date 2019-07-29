@@ -2,6 +2,7 @@
 path:	"/blog/our-intuition-says-instead-try"
 date:	"2017-12-23"
 title:	"Our Intuition Says… Instead, Try…"
+image:	"1*ojYa5lTkXafu3Y4lnlRXWw@2x.jpeg"
 ---
 
 ![](/images/1*ojYa5lTkXafu3Y4lnlRXWw@2x.jpeg)

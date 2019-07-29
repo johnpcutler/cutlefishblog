@@ -2,6 +2,7 @@
 path:	"/blog/what-we-cant-see"
 date:	"2016-12-17"
 title:	"What We Can’t See"
+image:	"defaultimage.png"
 ---
 
 Close a deal and money gets transferred into your bank account. That feels real. Hire three new people and increase your burn by $50k per month… ouch! That feels real too. If only our wins, risks, and losses were always so salient.

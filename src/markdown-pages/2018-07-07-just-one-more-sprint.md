@@ -2,6 +2,7 @@
 path:	"/blog/just-one-more-sprint"
 date:	"2018-07-07"
 title:	"Just One More Sprint!?"
+image:	"1*2SPQmIL4LWRgrMLXe-OpVQ@2x.jpeg"
 ---
 
 In this post I am going to use a common scenario to highlight some key product development prioritization concepts. Specifically, we are going to dig in to the decision to stop one effort, and start another effort.

@@ -2,6 +2,7 @@
 path:	"/blog/the-backlog-aka-wishing-well"
 date:	"2017-10-20"
 title:	"The Backlog (aka Wishing Well)"
+image:	"1*8b1S6WTza5NSZtKDQwfd_g@2x.png"
 ---
 
 Made a list of some backlog gotchas and challenges for a friend.

@@ -2,6 +2,7 @@
 path:	"/blog/better-outcomes-less-drag"
 date:	"2018-07-23"
 title:	"Better Outcomes. Less Drag"
+image:	"1*pyG4KKPRlRXKONHIKIKhvw@2x.jpeg"
 ---
 
 ![](/images/1*pyG4KKPRlRXKONHIKIKhvw@2x.jpeg)

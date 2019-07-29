@@ -2,6 +2,7 @@
 path:	"/blog/product-stop-whining-about-sales"
 date:	"2016-04-19"
 title:	"Product! Stop Whining About Sales!"
+image:	"1*J-xVDMEDgVgYKF3HOrkrWg.png"
 ---
 
 As Product folks, we need to stop whining about Sales. We aren’t the victim. We need to break out of the “glass case of emotion”:

@@ -2,6 +2,7 @@
 path:	"/blog/one-story-per-sprint"
 date:	"2018-01-05"
 title:	"One Story Per “Sprint”"
+image:	"defaultimage.png"
 ---
 
 Delivering a “potentially releasable increment” after N days is not “hard”. It is not rocket science. (Almost) any team can do it.

@@ -2,6 +2,7 @@
 path:	"/blog/the-cold-start-problem"
 date:	"2018-12-11"
 title:	"The Cold Start Problem"
+image:	"0*pkOL__r5oKG5i7Ct.jpg"
 ---
 
 Here’s a question I received today in response to this post on [Certainty Theater](https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec):

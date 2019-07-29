@@ -2,6 +2,7 @@
 path:	"/blog/doers-and-managers"
 date:	"2017-05-06"
 title:	"Doers and Managers"
+image:	"1*OOsLGE6o87ZyhujH5Mb5Rg.png"
 ---
 
 Some Saturday morning coffee rambling.

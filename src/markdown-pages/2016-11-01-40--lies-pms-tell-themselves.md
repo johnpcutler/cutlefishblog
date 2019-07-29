@@ -2,6 +2,7 @@
 path:	"/blog/40-lies-pms-tell-themselves"
 date:	"2016-11-01"
 title:	"40+ Lies PMs Tell Themselves"
+image:	"1*g_ZYVIBj2KWCjOiS2qumYw.png"
 ---
 
 I figured I’d start the ball rolling here. I’d love if you could contribute in the comments. No judgement (I’ve fallen victim to many of these).

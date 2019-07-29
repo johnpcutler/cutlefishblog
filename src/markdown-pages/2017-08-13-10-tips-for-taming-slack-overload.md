@@ -2,6 +2,7 @@
 path:	"/blog/10-tips-for-taming-slack-overload"
 date:	"2017-08-13"
 title:	"10 Tips For Taming Slack Overload"
+image:	"1*pzcEdTmvF8_a-djMvqfusw.png"
 ---
 
 #### Sharing a couple quick tips for taming [Slack](https://medium.com/u/26d90a99f605) overload…

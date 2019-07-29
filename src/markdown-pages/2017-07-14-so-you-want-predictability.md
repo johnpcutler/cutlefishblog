@@ -2,6 +2,7 @@
 path:	"/blog/so-you-want-predictability"
 date:	"2017-07-14"
 title:	"So You Want Predictability…?"
+image:	"defaultimage.png"
 ---
 
 

@@ -2,6 +2,7 @@
 path:	"/blog/inside-my-kindle-100-books-for-pms-ux-entrepreneurs-systems-thinkers-design-thinkers-and"
 date:	"2015-12-07"
 title:	"Inside My Kindle: 100 Books For PMs, UX, Entrepreneurs, Systems Thinkers, Design Thinkers, and…"
+image:	"defaultimage.png"
 ---
 
 I’m a product development nut. And I’m a book junkie. I love this stuff. I recently moved to Raleigh, NC (from always blissful Santa Barbara, CA) to work at [Pendo.io](http://www.pendo.io/), a startup focused on helping product managers build awesome products. You can find me on Twitter at [@johncutlefish](https://twitter.com/johncutlefish).

@@ -2,6 +2,7 @@
 path:	"/blog/before-you-join-a-startup"
 date:	"2016-05-14"
 title:	"Before You Join A Startup …"
+image:	"1*HqV_INUN2nZBDmCF-zHFbA.png"
 ---
 
 When you join a venture-funded startup, remember that you’re playing someone else’s game.

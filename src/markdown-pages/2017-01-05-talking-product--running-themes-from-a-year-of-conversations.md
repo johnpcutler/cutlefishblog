@@ -2,6 +2,7 @@
 path:	"/blog/talking-product-running-themes-from-a-year-of-conversations"
 date:	"2017-01-05"
 title:	"Talking Product: Running Themes from a Year of Conversations"
+image:	"defaultimage.png"
 ---
 
 I’ve talked to lots of product people (and engineers, UX, and agile coaches) over the past year. I am commonly asked if certain themes bubble up again and again. So I dug through my notes and recordings and looked for some running themes, and then selected some exemplary quotes.

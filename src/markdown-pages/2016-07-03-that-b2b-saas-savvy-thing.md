@@ -2,6 +2,7 @@
 path:	"/blog/that-b2b-saas-savvy-thing"
 date:	"2016-07-03"
 title:	"That B2B SaaS Savvy Thing"
+image:	"1*s1SM8b3qHrOvaVIZ1fUwUw.png"
 ---
 
 I have received a lot of questions about a graphic I [posted on Twitter recently](https://twitter.com/johncutlefish/status/746480856122941440):
