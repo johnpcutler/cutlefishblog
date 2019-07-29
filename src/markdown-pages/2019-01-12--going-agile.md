@@ -2,7 +2,7 @@
 path:	"/blog/going-agile"
 date:	"2019-01-12"
 title:	"“Going Agile”"
-image:	"1*rB2cWi1YtdCP69nvKUmTmg@2x.jpeg"
+image:	"/images/1*rB2cWi1YtdCP69nvKUmTmg@2x.jpeg"
 ---
 
 I was on a plane recently, and ended up sitting next to a CEO of a medium-sized company. He was deep in the email-responding zone for most of the flight, but finally took a break to have a drink. He was *obviously* a seasoned leader; I immediately had that “this person can build alignment and inspire people” vibe. We chatted, mentioned “what we did”, and quickly the conversation turned to “product” and “Agile”.

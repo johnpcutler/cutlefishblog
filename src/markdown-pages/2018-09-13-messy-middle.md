@@ -2,7 +2,7 @@
 path:	"/blog/messy-middle"
 date:	"2018-09-13"
 title:	"Messy Middle"
-image:	"1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg"
+image:	"/images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg"
 ---
 
 Here’s an observation after interacting closely with a number of product teams.

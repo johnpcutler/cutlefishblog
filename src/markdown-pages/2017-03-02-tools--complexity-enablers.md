@@ -2,7 +2,7 @@
 path:	"/blog/tools-complexity-enablers"
 date:	"2017-03-02"
 title:	"Tools: Complexity Enablers"
-image:	"1*TLNz6qPgVVl7WHHJJfnFjQ.png"
+image:	"/images/1*TLNz6qPgVVl7WHHJJfnFjQ.png"
 ---
 
 Tools and process can help you manage complexity. But they also can serve as a complexity enabler.

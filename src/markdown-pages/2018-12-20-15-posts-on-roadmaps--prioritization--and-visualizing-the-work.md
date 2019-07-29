@@ -2,7 +2,7 @@
 path:	"/blog/15-posts-on-roadmaps-prioritization-and-visualizing-the-work"
 date:	"2018-12-20"
 title:	"15 Posts on Roadmaps, Prioritization, and Visualizing The Work"
-image:	"1*MMYobas_DKaGWYZFIb3Gbg.png"
+image:	"/images/1*MMYobas_DKaGWYZFIb3Gbg.png"
 ---
 
 With almost 400 posts now, I realize that it can be super hard to find posts on certain topics. Here are 15 posts I find myself sharing frequently when discussing roadmaps and prioritization.

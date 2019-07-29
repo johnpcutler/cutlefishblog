@@ -2,7 +2,7 @@
 path:	"/blog/ask-alexa-to-better-understand-your-users"
 date:	"2017-11-17"
 title:	"Ask Alexa (To Better Understand Your Users)"
-image:	"1*8Fcf1CkhmYxcDaflOUl9Cw@2x.jpeg"
+image:	"/images/1*8Fcf1CkhmYxcDaflOUl9Cw@2x.jpeg"
 ---
 
 ![](/images/1*8Fcf1CkhmYxcDaflOUl9Cw@2x.jpeg)

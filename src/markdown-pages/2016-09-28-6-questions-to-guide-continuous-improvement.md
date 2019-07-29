@@ -2,7 +2,7 @@
 path:	"/blog/6-questions-to-guide-continuous-improvement"
 date:	"2016-09-28"
 title:	"6 Questions to Guide Continuous Improvement"
-image:	"1*QKJ5w5WS_zX7myiutqR4KQ.png"
+image:	"/images/1*QKJ5w5WS_zX7myiutqR4KQ.png"
 ---
 
 #### Do the work…

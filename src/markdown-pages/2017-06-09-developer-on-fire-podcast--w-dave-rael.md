@@ -2,7 +2,7 @@
 path:	"/blog/developer-on-fire-podcast-w-dave-rael"
 date:	"2017-06-09"
 title:	"Developer on Fire Podcast (w/Dave Rael)"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 A couple weeks ago, I had the pleasure of doing the [Developer On Fire](http://developeronfire.com/episodes) podcast with Dave Rael . The audio is about 45m. I figured that reading it might (and that is a huge might) be interesting. It isn’t a great transcription. And sometimes I read like 3rd-grader. Anyhow …

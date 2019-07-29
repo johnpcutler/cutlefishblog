@@ -2,7 +2,7 @@
 path:	"/blog/agile-makes-no-sense"
 date:	"2018-06-28"
 title:	"Agile Makes No Sense"
-image:	"1*CQc_XVCqX5TtOgxYQHT0dQ@2x.jpeg"
+image:	"/images/1*CQc_XVCqX5TtOgxYQHT0dQ@2x.jpeg"
 ---
 
 I’ve spent a good amount of time learning why Agile-inspired patterns “work” — mostly the “hard way” (doing), but also through individual study, group study, conference going, participating in the community, and learning what most decidedly *does not* work.

@@ -2,7 +2,7 @@
 path:	"/blog/the-spirit-of-sprints"
 date:	"2019-02-09"
 title:	"(The Spirit Of…) Sprints"
-image:	"0*chUH_X0uowHiCIGi.jpg"
+image:	"/images/0*chUH_X0uowHiCIGi.jpg"
 ---
 
 A quick thread about “sprints” and Agile ([written first on Twitter](https://twitter.com/johncutlefish/status/1093593952421203968)).

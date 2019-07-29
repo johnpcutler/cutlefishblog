@@ -8,15 +8,16 @@ export default function Template({
 }) {
 
 	const { markdownRemark } = data // data.markdownRemark holds our post data
-  const { frontmatter, html } = markdownRemark
+  const { frontmatter, html} = markdownRemark
 	
+	console.log(frontmatter)
   return (
 	<Layout>
-		<SEO title={frontmatter.title} previewImage={data.file.childImageSharp.fixed.src} />
+		<SEO title={frontmatter.title} previewImage={frontmatter.image.childImageSharp.fixed.src} />
     <div className="blog-post-container">
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
-        <h2>{frontmatter.date}</h2>
+        <h4>Published: {frontmatter.date}</h4>
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
@@ -27,32 +28,30 @@ export default function Template({
   )
 }
 export const pageQuery = graphql`
-  query($path: String!, $image: String!) {
+  query($path: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         path
         title
-				image
+				image {
+			    childImageSharp {
+			      fixed(width: 400) {
+			        base64
+			        tracedSVG
+			        aspectRatio
+			        width
+			        height
+			        src
+			        srcSet
+			        srcWebp
+			        srcSetWebp
+			        originalName
+			      }
+			    }
+				}
       }
     }
-		file(relativePath: {eq: $image}) {
-		    id
-		    childImageSharp {
-		      fixed(width: 400) {
-		        base64
-		        tracedSVG
-		        aspectRatio
-		        width
-		        height
-		        src
-		        srcSet
-		        srcWebp
-		        srcSetWebp
-		        originalName
-		      }
-		    }
-		  }
   }
-`
+ `

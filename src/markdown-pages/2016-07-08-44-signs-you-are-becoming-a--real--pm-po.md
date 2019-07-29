@@ -2,7 +2,7 @@
 path:	"/blog/44-signs-you-are-becoming-a-real-pm-po"
 date:	"2016-07-08"
 title:	"44 Signs You Are Becoming a “Real” PM/PO"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 How do you know you’re on your way to earning your PM/PO wings? What signals progress? Your first release? Getting “certified” ? Putting together a pretty roadmap?

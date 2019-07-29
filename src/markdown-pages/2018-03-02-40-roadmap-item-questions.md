@@ -2,7 +2,7 @@
 path:	"/blog/40-roadmap-item-questions"
 date:	"2018-03-02"
 title:	"40 Roadmap Item Questions"
-image:	"1*3sUlVYO6DvdW7J6QJdLDZA@2x.jpeg"
+image:	"/images/1*3sUlVYO6DvdW7J6QJdLDZA@2x.jpeg"
 ---
 
 A quick list of questions to use when workshopping your product roadmap, prepping for a pitch/kickoff, or quickly filtering for well-thought-out ideas.

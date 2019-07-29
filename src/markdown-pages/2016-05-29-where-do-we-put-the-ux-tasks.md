@@ -2,7 +2,7 @@
 path:	"/blog/where-do-we-put-the-ux-tasks"
 date:	"2016-05-29"
 title:	"Where Do We Put The UX Tasks?"
-image:	"1*A3aIVO8RHXo9Z_wavFQ8Dw.png"
+image:	"/images/1*A3aIVO8RHXo9Z_wavFQ8Dw.png"
 ---
 
 In my career I’ve heard this conversation play out over and over:

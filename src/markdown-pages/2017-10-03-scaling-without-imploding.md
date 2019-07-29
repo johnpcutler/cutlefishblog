@@ -2,7 +2,7 @@
 path:	"/blog/scaling-without-imploding"
 date:	"2017-10-03"
 title:	"Scaling Without Imploding"
-image:	"1*wGbfR5brgV5dbSEznqSdMQ@2x.jpeg"
+image:	"/images/1*wGbfR5brgV5dbSEznqSdMQ@2x.jpeg"
 ---
 
 #### Early warning signs, continuous improvement, and (the right kind of) discipline

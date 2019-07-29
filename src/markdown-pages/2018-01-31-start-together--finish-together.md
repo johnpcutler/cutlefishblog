@@ -2,7 +2,7 @@
 path:	"/blog/start-together-finish-together"
 date:	"2018-01-31"
 title:	"Start Together. Finish Together"
-image:	"1*ageoWSpprXStdK44EFO2bg@2x.jpeg"
+image:	"/images/1*ageoWSpprXStdK44EFO2bg@2x.jpeg"
 ---
 
 #### It may seem counterintuitive, but…

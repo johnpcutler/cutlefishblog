@@ -2,7 +2,7 @@
 path:	"/blog/saas-and-the-impostor-clairvoyant-pm"
 date:	"2016-10-26"
 title:	"SaaS and the Impostor Clairvoyant PM"
-image:	"1*gppqlsgZYxHoWPHyuKXDng.png"
+image:	"/images/1*gppqlsgZYxHoWPHyuKXDng.png"
 ---
 
 #### Why most estimation, ROI calculations, and heavy upfront planning is a waste of time in SaaS

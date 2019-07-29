@@ -2,7 +2,7 @@
 path:	"/blog/the-system-bites-back"
 date:	"2019-06-18"
 title:	"The System Bites Back"
-image:	"1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg"
+image:	"/images/1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg"
 ---
 
 ![](/images/1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg)

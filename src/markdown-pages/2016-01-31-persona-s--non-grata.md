@@ -2,7 +2,7 @@
 path:	"/blog/persona-s-non-grata"
 date:	"2016-01-31"
 title:	"Persona(s) Non Grata"
-image:	"1*PYLd6uR47EKj0uaWYRT3yA.png"
+image:	"/images/1*PYLd6uR47EKj0uaWYRT3yA.png"
 ---
 
 #### *Saving the persona from itself, from selfish UX, and other tips*

@@ -2,7 +2,7 @@
 path:	"/blog/talking-the-talk-32-conversation-prompts-for-product-development-teams"
 date:	"2016-02-15"
 title:	"Talking The Talk: 32 Conversation Prompts for Product Development Teams"
-image:	"1*h-fQGOKu14ZeE5Od7e4o4g.png"
+image:	"/images/1*h-fQGOKu14ZeE5Od7e4o4g.png"
 ---
 
 #### Topics: Learning goals. Decisions. Collaboration. Data. Experimentation. Personal passions. And respect for diverse viewpoints.

@@ -2,7 +2,7 @@
 path:	"/blog/your-startup-food-truck-or-buffet"
 date:	"2016-03-27"
 title:	"Your Startup: Food Truck or Buffet?"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 Is your startup a Food Truck or a Buffet?

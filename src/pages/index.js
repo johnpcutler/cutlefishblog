@@ -20,15 +20,6 @@ const IndexPage = ({
 	  		<div>{Posts}</div></Layout>)
 }
 
-/* const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <h1>Some of my posts...</h1>
-    <p>Welcome to where your blog will go.</p>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-) */
-
 export default IndexPage
 
 export const pageQuery = graphql`

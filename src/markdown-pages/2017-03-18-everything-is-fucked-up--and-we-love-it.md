@@ -2,7 +2,7 @@
 path:	"/blog/everything-is-fucked-up-and-we-love-it"
 date:	"2017-03-18"
 title:	"Everything Is Fucked Up. And We Love It"
-image:	"1*w1Ldv_Z4uMgEs4P9IKl3nQ.png"
+image:	"/images/1*w1Ldv_Z4uMgEs4P9IKl3nQ.png"
 ---
 
 When it comes to our work, organizations, and teams…

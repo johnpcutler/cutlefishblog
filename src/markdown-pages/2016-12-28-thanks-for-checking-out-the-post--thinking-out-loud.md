@@ -2,7 +2,7 @@
 path:	"/blog/thanks-for-checking-out-the-post-thinking-out-loud"
 date:	"2016-12-28"
 title:	"Thanks for checking out the post. Thinking out loud …"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 Thanks for checking out the post. Thinking out loud …

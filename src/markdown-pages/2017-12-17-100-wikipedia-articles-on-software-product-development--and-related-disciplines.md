@@ -2,7 +2,7 @@
 path:	"/blog/100-wikipedia-articles-on-software-product-development-and-related-disciplines"
 date:	"2017-12-17"
 title:	"100 Wikipedia Articles on Software Product Development (and Related Disciplines)"
-image:	"1*5jMhzv7DTVenbW-r-EemaQ.png"
+image:	"/images/1*5jMhzv7DTVenbW-r-EemaQ.png"
 ---
 
 *Personal Update: The air has been unhealthy here in Santa Barbara, and today the fires got a bit closer to downtown. A *[*GoFundMe page *](https://www.gofundme.com/nmkkc-for-ashley-iverson-and-her-girls)*has been set up for Ashley Iverson, the wife of Cory Iverson who died fighting the Thomas Fire on 12/14. Please consider donating. We have >8,000 fire fighters in the vicinity working to keep us safe.*

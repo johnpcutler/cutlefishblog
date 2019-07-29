@@ -2,7 +2,7 @@
 path:	"/blog/stop-obsessing-over-the-teams"
 date:	"2017-11-29"
 title:	"Stop Obsessing Over “The Teams”"
-image:	"1*B-H9EdJzcsr5YHBi1Ft2zA@2x.jpeg"
+image:	"/images/1*B-H9EdJzcsr5YHBi1Ft2zA@2x.jpeg"
 ---
 
 Sound familiar?

@@ -2,7 +2,7 @@
 path:	"/blog/dear-product-managers"
 date:	"2016-12-02"
 title:	"Dear Product Managers …"
-image:	"1*s-ZwCwJVMPWQoodMRI42_A.jpeg"
+image:	"/images/1*s-ZwCwJVMPWQoodMRI42_A.jpeg"
 ---
 
 ![](/images/1*s-ZwCwJVMPWQoodMRI42_A.jpeg)

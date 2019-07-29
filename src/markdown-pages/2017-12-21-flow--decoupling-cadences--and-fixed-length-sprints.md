@@ -2,7 +2,7 @@
 path:	"/blog/flow-decoupling-cadences-and-fixed-length-sprints"
 date:	"2017-12-21"
 title:	"Flow, Decoupling Cadences, and Fixed-Length Sprints"
-image:	"1*unI1RL_sQm599vrNf2pBsw@2x.jpeg"
+image:	"/images/1*unI1RL_sQm599vrNf2pBsw@2x.jpeg"
 ---
 
 ![](/images/1*unI1RL_sQm599vrNf2pBsw@2x.jpeg)

@@ -2,7 +2,7 @@
 path:	"/blog/good-process-vs-bad-process"
 date:	"2018-05-16"
 title:	"Good Process vs. Bad Process"
-image:	"1*5CQd_PwjL3pUiwlWwWGNew@2x.jpeg"
+image:	"/images/1*5CQd_PwjL3pUiwlWwWGNew@2x.jpeg"
 ---
 
 Busy with the newborn, but still pondering, [tweeting](https://mobile.twitter.com/johncutlefish), writing some [thinky posts](https://hackernoon.com/beyond-outcomes-over-outputs-6b2677044214) (influenced by the lack of sleep, no doubt), and occasionally doing [short, low fidelity podcasts](https://anchor.fm/john-cutler/)).

@@ -2,7 +2,7 @@
 path:	"/blog/why-quarterly-okrs"
 date:	"2018-08-24"
 title:	"Why Quarterly OKRs?"
-image:	"1*ryDIPTNG1EY05M0_iveBZw@2x.jpeg"
+image:	"/images/1*ryDIPTNG1EY05M0_iveBZw@2x.jpeg"
 ---
 
 Does your company use quarterly OKRs?

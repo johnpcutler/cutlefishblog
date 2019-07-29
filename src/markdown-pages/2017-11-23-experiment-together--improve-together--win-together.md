@@ -2,7 +2,7 @@
 path:	"/blog/experiment-together-improve-together-win-together"
 date:	"2017-11-23"
 title:	"Experiment Together. Improve Together. Win Together"
-image:	"1*d-nPor17ki-Ng5dFPy_Tqg@2x.jpeg"
+image:	"/images/1*d-nPor17ki-Ng5dFPy_Tqg@2x.jpeg"
 ---
 
 Do people in your organization say things like:

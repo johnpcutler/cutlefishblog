@@ -2,7 +2,7 @@
 path:	"/blog/not-leadership-material"
 date:	"2018-08-22"
 title:	"Not Leadership “Material”"
-image:	"1*RHIqRTIJ6QQSLu1UJF_UQg@2x.jpeg"
+image:	"/images/1*RHIqRTIJ6QQSLu1UJF_UQg@2x.jpeg"
 ---
 
 ![](/images/1*RHIqRTIJ6QQSLu1UJF_UQg@2x.jpeg)

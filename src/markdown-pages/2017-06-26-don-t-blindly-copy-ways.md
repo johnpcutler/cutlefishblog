@@ -2,7 +2,7 @@
 path:	"/blog/dont-blindly-copy-ways"
 date:	"2017-06-26"
 title:	"Don’t Blindly Copy Ways"
-image:	"1*6fCHS-DV3UzYOviHyV3OdA.png"
+image:	"/images/1*6fCHS-DV3UzYOviHyV3OdA.png"
 ---
 
 Why can’t you just copy [insert tech company here] and be successful? Why can you know something is wrong, but be unable to improve the situation? Why is the “superstar” exec successful in one domain, but falters in the next (or the opposite … she gracefully adapts)? What forces must an internal change agent marshal to catalyze change?

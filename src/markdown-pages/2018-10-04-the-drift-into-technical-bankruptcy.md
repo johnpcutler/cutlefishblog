@@ -2,7 +2,7 @@
 path:	"/blog/the-drift-into-technical-bankruptcy"
 date:	"2018-10-04"
 title:	"The Drift Into Technical Bankruptcy"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 Original Tweet here:

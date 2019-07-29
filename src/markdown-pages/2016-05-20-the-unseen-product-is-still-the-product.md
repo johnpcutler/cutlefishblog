@@ -2,7 +2,7 @@
 path:	"/blog/the-unseen-product-is-still-the-product"
 date:	"2016-05-20"
 title:	"The Unseen Product is Still The Product"
-image:	"1*kBpFVCAYx6Ni-ovqM6bsHw.png"
+image:	"/images/1*kBpFVCAYx6Ni-ovqM6bsHw.png"
 ---
 
 ![](/images/1*kBpFVCAYx6Ni-ovqM6bsHw.png)

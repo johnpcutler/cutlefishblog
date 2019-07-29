@@ -2,7 +2,7 @@
 path:	"/blog/what-does-sales-driven-even-mean"
 date:	"2016-05-08"
 title:	"What Does “Sales-Driven” Even Mean?"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 I frequently use the term “sales-driven” and contrast it with other focus descriptors like product-driven, technology-driven, and marketing-driven. Until recently I didn’t give the phrase much thought. I sort of knew what it meant — and so did most people I spoke to — but to be honest I had a tough time describing it. So what do I mean?

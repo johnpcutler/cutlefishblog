@@ -2,7 +2,7 @@
 path:	"/blog/putting-a-cost-on-debt"
 date:	"2017-03-21"
 title:	"Putting a Cost On Debt"
-image:	"1*QzOJ6QxTmiUWQt7RK2WLxw.png"
+image:	"/images/1*QzOJ6QxTmiUWQt7RK2WLxw.png"
 ---
 
 ![](/images/1*QzOJ6QxTmiUWQt7RK2WLxw.png)[http://www.bbc.co.uk/blogs/bbcinternet/2011/11/bbc\_weather\_design\_refresh.html](http://www.bbc.co.uk/blogs/bbcinternet/2011/11/bbc_weather_design_refresh.html)

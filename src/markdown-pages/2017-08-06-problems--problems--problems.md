@@ -2,7 +2,7 @@
 path:	"/blog/problems-problems-problems"
 date:	"2017-08-06"
 title:	"Problems! Problems? Problems."
-image:	"1*MHZ5BFR4VgUCBPCj9DIVGQ.png"
+image:	"/images/1*MHZ5BFR4VgUCBPCj9DIVGQ.png"
 ---
 
 ![](/images/1*MHZ5BFR4VgUCBPCj9DIVGQ.png)<https://xkcd.com/1739/>1. All companies have problems (they signal opportunities)

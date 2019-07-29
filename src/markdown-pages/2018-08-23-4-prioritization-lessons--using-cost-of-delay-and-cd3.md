@@ -2,7 +2,7 @@
 path:	"/blog/4-prioritization-lessons-using-cost-of-delay-and-cd3"
 date:	"2018-08-23"
 title:	"4 Prioritization Lessons (using Cost of Delay and CD3)"
-image:	"1*g4PyXmhYkvPx861IQfGMZw@2x.jpeg"
+image:	"/images/1*g4PyXmhYkvPx861IQfGMZw@2x.jpeg"
 ---
 
 Consider this table. The columns represents mission duration (in months). The rows are Cost of Delay ($s per month opportunity cost). The cells are CD3…the Cost of Delay divided by the expected number of periods until completion.

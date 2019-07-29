@@ -2,7 +2,7 @@
 path:	"/blog/is-it-safe-for-your-team-to-get-real"
 date:	"2016-05-31"
 title:	"Is It Safe for Your Team to Get “Real”"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 [Industrial Logic](https://medium.com/u/9338d76c0d7a)’s [Joshua Kerievsky](https://medium.com/u/28229c304ac9) writes:

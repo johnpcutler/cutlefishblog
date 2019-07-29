@@ -2,7 +2,7 @@
 path:	"/blog/coherence-and-best-practices"
 date:	"2017-02-27"
 title:	"Coherence and “Best Practices”"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 There are no shortage of *ways*. They’re everywhere.

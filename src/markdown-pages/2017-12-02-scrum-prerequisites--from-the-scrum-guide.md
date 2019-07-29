@@ -2,7 +2,7 @@
 path:	"/blog/scrum-prerequisites-from-the-scrum-guide"
 date:	"2017-12-02"
 title:	"Scrum Prerequisites (From the Scrum Guide)"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 In this post I am going to single out some specific passages from the Scrum Guide, as I think they are helpful for understanding some prerequisite conditions for Scrum to be successful. They may even cut to some challenges you are having with your team at the moment.

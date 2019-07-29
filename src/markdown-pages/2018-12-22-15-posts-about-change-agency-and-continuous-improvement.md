@@ -2,7 +2,7 @@
 path:	"/blog/15-posts-about-change-agency-and-continuous-improvement"
 date:	"2018-12-22"
 title:	"15 Posts About Change Agency and Continuous Improvement"
-image:	"1*hJpx0Ry9etugyEJtIqFx4g.png"
+image:	"/images/1*hJpx0Ry9etugyEJtIqFx4g.png"
 ---
 
 With almost 400 posts now, I realize that it can be super hard to find posts on certain topics. Here are 15 posts I find myself sharing frequently when discussing change agency and continuous improvement.

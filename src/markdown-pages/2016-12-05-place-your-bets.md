@@ -2,7 +2,7 @@
 path:	"/blog/place-your-bets"
 date:	"2016-12-05"
 title:	"Place Your Bets"
-image:	"1*p1UPrbUm4vGGayVmMBTylQ.png"
+image:	"/images/1*p1UPrbUm4vGGayVmMBTylQ.png"
 ---
 
 #### Describing product (and company) strategy as a series of bets

@@ -2,7 +2,7 @@
 path:	"/blog/forcing-functions-and-continuous-improvement"
 date:	"2017-09-24"
 title:	"Forcing Functions and Continuous Improvement"
-image:	"1*OljOKOvnng-P5iD1mJ_HBg.png"
+image:	"/images/1*OljOKOvnng-P5iD1mJ_HBg.png"
 ---
 
 When used for good, increments and work-in-progress constraints serve as forcing functions to trigger and guide continuous improvement efforts. There are many definitions for *forcing function *out there, but [this definition from the Interaction Design Foundation](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/forcing-functions) stood out:

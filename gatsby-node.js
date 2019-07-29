@@ -6,6 +6,12 @@
 
 // You can delete this file if you're not using it
 
+const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+
+exports.onCreateNode = ({ node }) => {
+  fmImagesToRelative(node);
+};
+
 const path = require(`path`)
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
@@ -20,7 +26,9 @@ exports.createPages = ({ actions, graphql }) => {
           node {
             frontmatter {
               path
-							image
+							image {
+							  id
+							}
             }
           }
         }
@@ -34,9 +42,7 @@ exports.createPages = ({ actions, graphql }) => {
       createPage({
         path: node.frontmatter.path,
         component: blogPostTemplate,
-        context: {
-					image: node.frontmatter.image
-				}, // additional data can be passed via context
+        context: {}, // additional data can be passed via context
       })
     })
   })

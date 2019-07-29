@@ -2,7 +2,7 @@
 path:	"/blog/case-study-from-the-front-lines"
 date:	"2016-11-10"
 title:	"Case Study: From The Front Lines"
-image:	"1*xBQpQAnUHrV6Ro3bdJsumw.jpeg"
+image:	"/images/1*xBQpQAnUHrV6Ro3bdJsumw.jpeg"
 ---
 
 #### Keeping people in the loop without it sucking

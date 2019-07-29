@@ -2,7 +2,7 @@
 path:	"/blog/5-product-development-questions"
 date:	"2017-03-12"
 title:	"5 Product Development Questions"
-image:	"1*U-xzn_S4XcTcQZR2FX4hdw.jpeg"
+image:	"/images/1*U-xzn_S4XcTcQZR2FX4hdw.jpeg"
 ---
 
 ![](/images/1*U-xzn_S4XcTcQZR2FX4hdw.jpeg)

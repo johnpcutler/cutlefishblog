@@ -2,7 +2,7 @@
 path:	"/blog/50-questions-i-ask-pms-about-data-and-their-teams"
 date:	"2016-11-02"
 title:	"50 Questions I Ask PMs About Data and Their Teams"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 In my coaching work, I end up talking to lots of product development teams about data, KPIs, running experiments, and “measuring the team”. People are looking for the silver bullet:

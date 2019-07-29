@@ -2,7 +2,7 @@
 path:	"/blog/pm-responsibilities"
 date:	"2016-12-22"
 title:	"PM “Responsibilities” ?"
-image:	"1*UeCBrWfBKc9N2ZKcYDkpOQ.png"
+image:	"/images/1*UeCBrWfBKc9N2ZKcYDkpOQ.png"
 ---
 
 There are a bunch of ways to unpack this question.

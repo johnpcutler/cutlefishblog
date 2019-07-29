@@ -2,7 +2,7 @@
 path:	"/blog/responding-to-a-failed-sprint"
 date:	"2017-12-05"
 title:	"Responding to a “Failed” Sprint"
-image:	"1*WJVV9mY08YEX99AEwX8CGw@2x.jpeg"
+image:	"/images/1*WJVV9mY08YEX99AEwX8CGw@2x.jpeg"
 ---
 
 This post is about “failed” sprints and what to do about them. I use an example to demonstrate some key principles. Sprints are a forcing function meant to help us learn/improve. **The real failure is not learning from them.**

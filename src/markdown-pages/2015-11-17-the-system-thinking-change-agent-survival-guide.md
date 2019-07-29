@@ -2,7 +2,7 @@
 path:	"/blog/the-system-thinking-change-agent-survival-guide"
 date:	"2015-11-17"
 title:	"The System Thinking Change Agent Survival Guide"
-image:	"1*OrSJKFXvexqC3Mx8-TOTVg.png"
+image:	"/images/1*OrSJKFXvexqC3Mx8-TOTVg.png"
 ---
 
 For my first post on Medium I wanted to cut straight to a topic that is rather personal. It’s personal in the sense that I represent the personality type I’m about to describe. It’s something I’ve come to peace with over the years but the road has not been easy.

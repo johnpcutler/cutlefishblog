@@ -2,7 +2,7 @@
 path:	"/blog/8-trends-shaping-modern-product-management"
 date:	"2015-11-17"
 title:	"8 Trends Shaping Modern Product Management"
-image:	"1*P40f_Ch_UZodMZeP1VfuqA.png"
+image:	"/images/1*P40f_Ch_UZodMZeP1VfuqA.png"
 ---
 
 A brief post to list eight trends that are shaping modern product management. This is based on my personal observations. Your observations may vary.

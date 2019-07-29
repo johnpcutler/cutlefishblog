@@ -2,7 +2,7 @@
 path:	"/blog/i-need-to-fix-this"
 date:	"2017-07-08"
 title:	"I Need To Fix This"
-image:	"1*Utx8yUk_bDIIliF1A-UoKQ.png"
+image:	"/images/1*Utx8yUk_bDIIliF1A-UoKQ.png"
 ---
 
 *Note: This post isn’t my normal tech/product fare, although it does relate to work. It talks about growing up with addiction, and later that transferring to work situations. I’ll be back to tech/product in the next post. Hang tight.*

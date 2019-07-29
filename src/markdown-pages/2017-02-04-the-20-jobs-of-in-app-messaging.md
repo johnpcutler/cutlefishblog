@@ -2,7 +2,7 @@
 path:	"/blog/the-20-jobs-of-in-app-messaging"
 date:	"2017-02-04"
 title:	"The 20 Jobs Of In-App Messaging"
-image:	"1*ztdvmPFk0F6yJMiDbXu0vg.png"
+image:	"/images/1*ztdvmPFk0F6yJMiDbXu0vg.png"
 ---
 
 Great in-app messaging is an extension of your product’s UX, and of your organization as a whole. Those pixels, prompts, and flows have a style and a voice, and show up to work every day (24hrs a day, without fail, without coffee) to get the job done.

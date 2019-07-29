@@ -2,7 +2,7 @@
 path:	"/blog/how-does-your-company-approach-continuous-improvement"
 date:	"2018-05-12"
 title:	"How Does Your Company Approach Continuous Improvement?"
-image:	"1*RfQZ95EgO2_-I4M85E7U9A@2x.jpeg"
+image:	"/images/1*RfQZ95EgO2_-I4M85E7U9A@2x.jpeg"
 ---
 
 How does your company approach continuous improvement?

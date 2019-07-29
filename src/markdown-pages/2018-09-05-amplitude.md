@@ -2,7 +2,7 @@
 path:	"/blog/amplitude"
 date:	"2018-09-05"
 title:	"Amplitude"
-image:	"1*beKwQ-wjrwAk8-PyFrOTeQ@2x.jpeg"
+image:	"/images/1*beKwQ-wjrwAk8-PyFrOTeQ@2x.jpeg"
 ---
 
 Quick update!

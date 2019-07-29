@@ -2,7 +2,7 @@
 path:	"/blog/cost-per-reasonable-decision-cprd"
 date:	"2018-04-01"
 title:	"Cost Per Reasonable Decision (CPRD)"
-image:	"1*Zs8BxzBm9KqCbaF05gXS2g@2x.jpeg"
+image:	"/images/1*Zs8BxzBm9KqCbaF05gXS2g@2x.jpeg"
 ---
 
 ![](/images/1*Zs8BxzBm9KqCbaF05gXS2g@2x.jpeg)*Note: With the arrival of my son, I’m slowing down on the blogging. Give me a couple months (or more sleepless nights)

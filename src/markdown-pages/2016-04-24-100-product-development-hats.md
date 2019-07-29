@@ -2,7 +2,7 @@
 path:	"/blog/100-product-development-hats"
 date:	"2016-04-24"
 title:	"100 Product Development Hats"
-image:	"1*7pCG2R6cOLWYDGR_LAiCKQ.png"
+image:	"/images/1*7pCG2R6cOLWYDGR_LAiCKQ.png"
 ---
 
 Stop thinking about titles in product development. Start thinking about Hats. Why? Because it takes 100+ Hats to build an awesome product.

@@ -2,7 +2,7 @@
 path:	"/blog/the-product-of-you"
 date:	"2017-05-22"
 title:	"The Product Of You"
-image:	"1*6rCyl-0XnGtCiBo6M6Pskg.png"
+image:	"/images/1*6rCyl-0XnGtCiBo6M6Pskg.png"
 ---
 
 #### Applying product thinking to your work and personal mission

@@ -2,7 +2,7 @@
 path:	"/blog/completed-validated"
 date:	"2017-01-10"
 title:	"Completed != Validated"
-image:	"1*6GRdcIGsNC2O3V_UXBRTnQ.png"
+image:	"/images/1*6GRdcIGsNC2O3V_UXBRTnQ.png"
 ---
 
 #### Change your ticket statuses to beat the feature factory

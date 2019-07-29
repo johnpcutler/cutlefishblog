@@ -2,7 +2,7 @@
 path:	"/blog/product-ownership-10-core-principles"
 date:	"2015-12-26"
 title:	"Product Ownership: 10 Core Principles"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 When you boil it down, what does it take to be a great product owner? It’s easy (and tempting) to overcomplicate things. Often we focus on the “higher level” aspects and theory of the function, and forget the basics. In my mind, it all centers around your relationship with your team.

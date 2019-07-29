@@ -2,7 +2,7 @@
 path:	"/blog/your-org-problems-are-not-unique"
 date:	"2018-08-02"
 title:	"Your Org Problems Are Not Unique"
-image:	"1*u0qf-AdDcG3yCXVFVX9KGw@2x.jpeg"
+image:	"/images/1*u0qf-AdDcG3yCXVFVX9KGw@2x.jpeg"
 ---
 
 #### But that doesn’t make them easy to solve (except on paper)

@@ -2,7 +2,7 @@
 path:	"/blog/one-product-manager-four-teams"
 date:	"2017-09-19"
 title:	"One Product Manager, Four Teams?"
-image:	"1*ILz8olgqjm-t4So9oC4D5Q.png"
+image:	"/images/1*ILz8olgqjm-t4So9oC4D5Q.png"
 ---
 
 Some brief thoughts on a scaling up product management.

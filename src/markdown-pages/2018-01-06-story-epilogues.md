@@ -2,7 +2,7 @@
 path:	"/blog/story-epilogues"
 date:	"2018-01-06"
 title:	"Story Epilogues"
-image:	"1*vCIERGkf-73WVVBm8yr0AA@2x.jpeg"
+image:	"/images/1*vCIERGkf-73WVVBm8yr0AA@2x.jpeg"
 ---
 
 #### Think backwards to help with story splitting, shrinking, thinning, and batching.

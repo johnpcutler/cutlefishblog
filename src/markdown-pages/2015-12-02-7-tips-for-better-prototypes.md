@@ -2,7 +2,7 @@
 path:	"/blog/7-tips-for-better-prototypes"
 date:	"2015-12-02"
 title:	"7 Tips For Better Prototypes"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 I love developing prototypes. I love the challenge of teasing out insights with a[super low-fidelity prototype](http://www.smashingmagazine.com/2014/10/06/the-skeptics-guide-to-low-fidelity-prototyping/). Most of all I like keeping prototypes squarely focused on reducing risk, and making sure the process benefits the customer.

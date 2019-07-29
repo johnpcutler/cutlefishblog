@@ -2,7 +2,7 @@
 path:	"/blog/team-health-a-daily-checkup"
 date:	"2016-03-07"
 title:	"Team Health: A Daily Checkup"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 I hear people talking all the time about “measuring” product development teams. Do we measure velocity, value delivered, or bugs removed / introduced? But what if you flipped the script? What if teams devised their own daily check-in to gauge their performance? What if they focused on great leading indicators of success and health, and used those measures to guide continuous improvement efforts?
