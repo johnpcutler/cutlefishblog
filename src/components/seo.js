@@ -45,8 +45,6 @@ function SEO({ description, lang, meta, title }) {
 		)
   
   const metaDescription = description || data.a.siteMetadata.description
-		
-	console.log(data.b.childImageSharp.fixed.src)
 
   return (
     <Helmet
