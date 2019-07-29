@@ -2,7 +2,7 @@
 path:	"/blog/the-value-of-non-feature-work"
 date:	"2017-06-12"
 title:	"The Value of “Non Feature” Work"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 As a PM, I spend a lot of time talking to engineers about product and prioritization.

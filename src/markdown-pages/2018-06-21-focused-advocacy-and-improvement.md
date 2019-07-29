@@ -2,7 +2,7 @@
 path:	"/blog/focused-advocacy-and-improvement"
 date:	"2018-06-21"
 title:	"Focused Advocacy and Improvement"
-image:	"/images/1*hWG3ozz1Shp1_99kHhFpHg@2x.jpeg"
+image:	"1*hWG3ozz1Shp1_99kHhFpHg@2x.jpeg"
 ---
 
 Lately I have been doing some team coaching in multiple organizations.

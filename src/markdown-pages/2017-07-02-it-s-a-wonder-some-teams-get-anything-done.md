@@ -2,7 +2,7 @@
 path:	"/blog/its-a-wonder-some-teams-get-anything-done"
 date:	"2017-07-02"
 title:	"It’s A Wonder Some Teams Get Anything Done"
-image:	"/images/1*kqO7SqQtzcyNYFYv5vcKYg.png"
+image:	"1*kqO7SqQtzcyNYFYv5vcKYg.png"
 ---
 
 #### Or, why you should visualize ALL work and use Cost of Delay

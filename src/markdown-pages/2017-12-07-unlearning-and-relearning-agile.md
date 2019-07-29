@@ -2,7 +2,7 @@
 path:	"/blog/unlearning-and-relearning-agile"
 date:	"2017-12-07"
 title:	"Unlearning and Relearning Agile"
-image:	"/images/1*UwS3AfN82E55NrzZkzH2hA@2x.jpeg"
+image:	"1*UwS3AfN82E55NrzZkzH2hA@2x.jpeg"
 ---
 
 ![](/images/1*UwS3AfN82E55NrzZkzH2hA@2x.jpeg)

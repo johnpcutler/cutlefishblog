@@ -2,7 +2,7 @@
 path:	"/blog/product-development-team-self-assessment"
 date:	"2017-04-30"
 title:	"Product Development Team Self-Assessment"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 For my current context (B2B SaaS) I think this is a good self-assessment for product development teams. I’m sure it somewhat resembles other assessments, but interestingly it was created by a product development team (I facilitated the activity and tried to help with word-smithing). They “owned” the approach, which went a long way towards the team using the tool (they created).

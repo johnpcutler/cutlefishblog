@@ -2,7 +2,7 @@
 path:	"/blog/beyond-features-and-projects-it-arena-2017-lviv-ukraine"
 date:	"2017-09-30"
 title:	"Beyond Features and Projects (IT Arena 2017— Lviv, Ukraine)"
-image:	"/images/1*tYtLFr0IDUv8SEOEButE-w@2x.png"
+image:	"1*tYtLFr0IDUv8SEOEButE-w@2x.png"
 ---
 
 Sharing my deck from the presentation. A couple slides made no sense without background, so I removed them.

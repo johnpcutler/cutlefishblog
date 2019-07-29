@@ -2,7 +2,7 @@
 path:	"/blog/organizational-debt"
 date:	"2019-01-14"
 title:	"Organizational Debt"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 Take a seemingly “trivial” problems:

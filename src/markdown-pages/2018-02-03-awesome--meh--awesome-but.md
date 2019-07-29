@@ -2,7 +2,7 @@
 path:	"/blog/awesome-meh-awesome-but"
 date:	"2018-02-03"
 title:	"Awesome, Meh, Awesome But…"
-image:	"/images/1*0beEC2_Q2ZFi7YfNnvoBgw@2x.jpeg"
+image:	"1*0beEC2_Q2ZFi7YfNnvoBgw@2x.jpeg"
 ---
 
 Here’s a quick team activity. It is a slight variation on [Design the Box](http://gamestorming.com/design-the-box/), and [The Future, Backwards](http://cognitive-edge.com/methods/the-future-backwards/) (and a host similar team activities).

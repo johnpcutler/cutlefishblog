@@ -2,7 +2,7 @@
 path:	"/blog/question-given-this-scenario-what-does-the-product-manager-do"
 date:	"2017-10-30"
 title:	"Question: Given This Scenario, What Does The Product Manager Do?"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 *Update: Great comments so far. Check them out.*

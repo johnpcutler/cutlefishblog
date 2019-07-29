@@ -2,7 +2,7 @@
 path:	"/blog/my-60th-medium-post"
 date:	"2016-10-05"
 title:	"My 60th Medium Post"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 To celebrate my 60th post on Medium, I thought it would fun to just put them in one big list (ordered by views, descending). I was a guest on a podcast recently, and the host asked me how I managed to “write so much”. After mentioning some examples of people who write 10x as much, and with consistently higher quality, my answer was roughly:

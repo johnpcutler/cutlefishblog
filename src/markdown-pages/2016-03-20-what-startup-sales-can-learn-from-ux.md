@@ -2,7 +2,7 @@
 path:	"/blog/what-startup-sales-can-learn-from-ux"
 date:	"2016-03-20"
 title:	"What Startup Sales Can Learn From UX"
-image:	"/images/1*sie8DhRoJZulViTzUsXmBA.png"
+image:	"1*sie8DhRoJZulViTzUsXmBA.png"
 ---
 
 #### Startups, Sales, UX, and building a repeatable growth engine

@@ -2,7 +2,7 @@
 path:	"/blog/before-adding-process"
 date:	"2018-06-17"
 title:	"Before Adding Process"
-image:	"/images/1*1Xn3ytqbjryrjVj3aWFZCQ@2x.jpeg"
+image:	"1*1Xn3ytqbjryrjVj3aWFZCQ@2x.jpeg"
 ---
 
 Before adding a new process / working agreement…

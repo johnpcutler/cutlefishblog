@@ -6,11 +6,13 @@ import SEO from "../components/seo"
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
-  const { markdownRemark } = data // data.markdownRemark holds our post data
+
+	const { markdownRemark } = data // data.markdownRemark holds our post data
   const { frontmatter, html } = markdownRemark
+	
   return (
 	<Layout>
-		<SEO title={frontmatter.title} previewImage={frontmatter.image} />
+		<SEO title={frontmatter.title} previewImage={data.file.childImageSharp.fixed.src} />
     <div className="blog-post-container">
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>

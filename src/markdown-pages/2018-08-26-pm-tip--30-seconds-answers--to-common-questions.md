@@ -2,7 +2,7 @@
 path:	"/blog/pm-tip-30-seconds-answers-to-common-questions"
 date:	"2018-08-26"
 title:	"PM Tip: 30 Seconds Answers (to Common Questions)"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 Here’s a tip I give new product managers…*always have a thirty second answer for the questions you know you’ll be asked (or should be asked) ****without making shit up****.*

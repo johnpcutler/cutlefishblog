@@ -2,7 +2,7 @@
 path:	"/blog/complexity-is-a-startup-killer-dont-grow-up"
 date:	"2016-08-15"
 title:	"Complexity Is a Startup Killer. Don’t Grow Up"
-image:	"/images/1*3wIdOX4QVf8odqSOHtwrqg.png"
+image:	"1*3wIdOX4QVf8odqSOHtwrqg.png"
 ---
 
 Complexity is a startup killer. Like a giant anchor, it slows you down until you’ve lost the only two advantages a startup will have: speed and focus.

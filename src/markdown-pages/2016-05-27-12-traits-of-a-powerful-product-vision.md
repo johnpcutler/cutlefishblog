@@ -2,7 +2,7 @@
 path:	"/blog/12-traits-of-a-powerful-product-vision"
 date:	"2016-05-27"
 title:	"12 Traits of a Powerful Product Vision"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 We tend to treat product visions as Tweet-length Mad Libs. They lack bite, resonance, and cohesiveness. It just feels like you’re going through the motions.

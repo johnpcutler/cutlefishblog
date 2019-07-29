@@ -2,7 +2,7 @@
 path:	"/blog/the-random-ticket-game"
 date:	"2018-06-12"
 title:	"The Random Ticket Game"
-image:	"/images/1*o9uqQ4JE9B6_IFuNOcZyeA@2x.jpeg"
+image:	"1*o9uqQ4JE9B6_IFuNOcZyeA@2x.jpeg"
 ---
 
 ![](/images/1*o9uqQ4JE9B6_IFuNOcZyeA@2x.jpeg)

@@ -2,7 +2,7 @@
 path:	"/blog/you-dont-need-a-great-product"
 date:	"2016-05-21"
 title:	"You Don’t Need A “Great Product”"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 There’s an uncomfortable truth about product development:

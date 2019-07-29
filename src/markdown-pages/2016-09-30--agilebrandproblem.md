@@ -2,7 +2,7 @@
 path:	"/blog/agilebrandproblem"
 date:	"2016-09-30"
 title:	"#agilebrandproblem"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 This morning I woke up to this tweet from Jeff Patton:

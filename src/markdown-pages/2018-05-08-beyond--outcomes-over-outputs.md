@@ -2,7 +2,7 @@
 path:	"/blog/beyond-outcomes-over-outputs"
 date:	"2018-05-08"
 title:	"Beyond “Outcomes Over Outputs”"
-image:	"/images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg"
+image:	"1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg"
 ---
 
 Consider a range of *mission-types (or mission scopes)* for a product development team:

@@ -2,7 +2,7 @@
 path:	"/blog/why-do-we-estimate"
 date:	"2017-04-19"
 title:	"Why Do We Estimate?"
-image:	"/images/1*JHB6gTAeQ8jThEuZJL3q6A.png"
+image:	"1*JHB6gTAeQ8jThEuZJL3q6A.png"
 ---
 
 ![](/images/1*JHB6gTAeQ8jThEuZJL3q6A.png)

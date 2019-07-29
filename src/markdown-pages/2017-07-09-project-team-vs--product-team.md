@@ -2,7 +2,7 @@
 path:	"/blog/project-team-vs-product-team"
 date:	"2017-07-09"
 title:	"Project Team vs. Product Team"
-image:	"/images/1*pBQEhZLXzsPBAyaJJ38nFw.png"
+image:	"1*pBQEhZLXzsPBAyaJJ38nFw.png"
 ---
 
 In this diagram, I try to work out some of the differences between a more narrowly focused project team, and a more broadly focused product team.

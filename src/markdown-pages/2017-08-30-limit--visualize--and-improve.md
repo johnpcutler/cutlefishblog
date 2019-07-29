@@ -2,7 +2,7 @@
 path:	"/blog/limit-visualize-and-improve"
 date:	"2017-08-30"
 title:	"Limit, Visualize, and Improve"
-image:	"/images/1*A8N1I7p-SViOHf8s7d3fMQ.jpeg"
+image:	"1*A8N1I7p-SViOHf8s7d3fMQ.jpeg"
 ---
 
 I’ve been thinking lately about what it means to be *disciplined* in product development work. How do we do the *right *thing, even when doing the right thing is hard, inconvenient, and counterintuitive to outsiders?

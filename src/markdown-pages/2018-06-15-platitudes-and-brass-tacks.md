@@ -2,7 +2,7 @@
 path:	"/blog/platitudes-and-brass-tacks"
 date:	"2018-06-15"
 title:	"Platitudes and Brass Tacks"
-image:	"/images/1*wkRCG4KgQ61K1aiw-Fbp5Q@2x.jpeg"
+image:	"1*wkRCG4KgQ61K1aiw-Fbp5Q@2x.jpeg"
 ---
 
 ![](/images/1*wkRCG4KgQ61K1aiw-Fbp5Q@2x.jpeg)

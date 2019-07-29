@@ -2,7 +2,7 @@
 path:	"/blog/psychological-safety-the-secret-weapon-of-awesome-teams"
 date:	"2017-03-13"
 title:	"Psychological safety: the secret weapon of awesome teams"
-image:	"/images/1*m1vB-OyPvyKNmn_AhKuwyw.png"
+image:	"1*m1vB-OyPvyKNmn_AhKuwyw.png"
 ---
 
 ![](/images/1*m1vB-OyPvyKNmn_AhKuwyw.png)The other day I found myself fixating on the word *discipline*. An engineer friend and I were chatting about what made a great software developer. We agreed that discipline (along with dedication, skills, patience, etc.)

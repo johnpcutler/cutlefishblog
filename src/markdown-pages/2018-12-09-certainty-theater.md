@@ -2,7 +2,7 @@
 path:	"/blog/certainty-theater"
 date:	"2018-12-09"
 title:	"Certainty Theater"
-image:	"/images/1*qOdlhBAjvlgbIUayhPbBoA.png"
+image:	"1*qOdlhBAjvlgbIUayhPbBoA.png"
 ---
 
 ![](/images/1*qOdlhBAjvlgbIUayhPbBoA.png)We often reward Certainty Theater (a not-so-distant relative to [Success Theater](https://link.medium.com/A6cWDWa7uS))

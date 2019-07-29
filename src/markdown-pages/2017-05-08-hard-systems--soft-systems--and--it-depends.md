@@ -2,7 +2,7 @@
 path:	"/blog/hard-systems-soft-systems-and-it-depends"
 date:	"2017-05-08"
 title:	"Hard Systems, Soft Systems, and “It Depends”"
-image:	"/images/1*mPJB1HMfE4vFYraRdhVyLA.png"
+image:	"1*mPJB1HMfE4vFYraRdhVyLA.png"
 ---
 
 #### A random walk through the SEBoK glossary…

@@ -2,7 +2,7 @@
 path:	"/blog/the-patient-change-agent"
 date:	"2018-08-12"
 title:	"The Patient Change Agent"
-image:	"/images/1*-cr3Uj4Yl9CP-cOL3vKP0Q@2x.jpeg"
+image:	"1*-cr3Uj4Yl9CP-cOL3vKP0Q@2x.jpeg"
 ---
 
 #### Don’t become part of the problem (and quit while you’re ahead)

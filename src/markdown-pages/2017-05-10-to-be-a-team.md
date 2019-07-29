@@ -2,7 +2,7 @@
 path:	"/blog/to-be-a-team"
 date:	"2017-05-10"
 title:	"To be a team"
-image:	"/images/1*XVJg3i1j5fhPDx961bbsvQ.jpeg"
+image:	"1*XVJg3i1j5fhPDx961bbsvQ.jpeg"
 ---
 
 ![](/images/1*XVJg3i1j5fhPDx961bbsvQ.jpeg)

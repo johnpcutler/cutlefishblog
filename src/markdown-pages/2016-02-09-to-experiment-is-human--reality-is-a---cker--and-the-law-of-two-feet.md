@@ -2,7 +2,7 @@
 path:	"/blog/to-experiment-is-human-reality-is-a-cker-and-the-law-of-two-feet"
 date:	"2016-02-09"
 title:	"To Experiment Is Human. Reality is a **cker. And The Law Of Two Feet"
-image:	"/images/1*ZKA3Bdow-IF5MG5Oa7lc5g.png"
+image:	"1*ZKA3Bdow-IF5MG5Oa7lc5g.png"
 ---
 
 #### Topics: Lean Startup, Millennials, Design Thinking, Cheap Vodka, Intuit, Craft, and Call To Arms

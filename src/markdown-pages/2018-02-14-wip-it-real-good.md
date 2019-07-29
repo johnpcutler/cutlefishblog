@@ -2,7 +2,7 @@
 path:	"/blog/wip-it-real-good"
 date:	"2018-02-14"
 title:	"WIP It Real Good"
-image:	"/images/1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg"
+image:	"1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg"
 ---
 
 ![](/images/1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg)You are tasked with designing a system optimized for high work-in-progress levels (high WIP, aka “doing a lot of stuff at once”)

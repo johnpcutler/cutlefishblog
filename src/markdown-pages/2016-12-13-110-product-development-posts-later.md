@@ -2,7 +2,7 @@
 path:	"/blog/110-product-development-posts-later"
 date:	"2016-12-13"
 title:	"110 Product Development Posts Later…"
-image:	"/images/1*H80uguSE02b07LGLnHcs0w.png"
+image:	"1*H80uguSE02b07LGLnHcs0w.png"
 ---
 
 #### Time flies when you’re figuring stuff out (and getting more confused)

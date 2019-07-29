@@ -2,7 +2,7 @@
 path:	"/blog/product-nerding-with-annie-dunham"
 date:	"2017-11-28"
 title:	"Product Nerding with Annie Dunham"
-image:	"/images/1*Gf2k6Rk-QNvcxx2mArGRJw@2x.jpeg"
+image:	"1*Gf2k6Rk-QNvcxx2mArGRJw@2x.jpeg"
 ---
 
 #### Missions, Sensemaking, Structure, “Agile”, and the Why

@@ -2,7 +2,7 @@
 path:	"/blog/a-couple-thoughts"
 date:	"2017-01-22"
 title:	"A couple thoughts."
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 A couple thoughts.

@@ -2,7 +2,7 @@
 path:	"/blog/5-simple-questions-to-drive-validated-learning"
 date:	"2016-07-23"
 title:	"5 Simple Questions to Drive Validated Learning"
-image:	"/images/1*gsDRyfZEkjvaDzOJJTgGeA.png"
+image:	"1*gsDRyfZEkjvaDzOJJTgGeA.png"
 ---
 
 b'\n\n\nHere is a simple model that frames product development as an effort to trigger a change in user behavior. It is accessible and not too jargon-laden. It can be used to describe things on the highest level — a whole business, for example — or a specific, low-level design change.

@@ -2,7 +2,7 @@
 path:	"/blog/go-towards-the-discomfort-its-a-sign"
 date:	"2016-05-01"
 title:	"Go Towards The Discomfort (It’s A Sign)"
-image:	"/images/1*jUfZDveIlz7VakyS4Vlvwg.jpeg"
+image:	"1*jUfZDveIlz7VakyS4Vlvwg.jpeg"
 ---
 
 #### … and stop doing things that make sense

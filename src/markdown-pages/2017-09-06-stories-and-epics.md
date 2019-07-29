@@ -2,7 +2,7 @@
 path:	"/blog/stories-and-epics"
 date:	"2017-09-06"
 title:	"Stories and Epics"
-image:	"/images/1*DacUbUfX4UZLcTw3LwfI-w.png"
+image:	"1*DacUbUfX4UZLcTw3LwfI-w.png"
 ---
 
 #### Nested hierarchies, boundaries, independence, and value…

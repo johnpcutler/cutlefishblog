@@ -2,7 +2,7 @@
 path:	"/blog/respect-expertise-and-work-together-dont-institutionalize-handoffs"
 date:	"2017-11-26"
 title:	"Respect Expertise and Work Together — Don’t Institutionalize Handoffs"
-image:	"/images/1*TjZonh7kkm2IOEpIk7T0BA@2x.jpeg"
+image:	"1*TjZonh7kkm2IOEpIk7T0BA@2x.jpeg"
 ---
 
 ![](/images/1*TjZonh7kkm2IOEpIk7T0BA@2x.jpeg)

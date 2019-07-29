@@ -2,7 +2,7 @@
 path:	"/blog/let-teams-figure-it-out"
 date:	"2017-11-11"
 title:	"Let Teams Figure It Out"
-image:	"/images/1*-4uJNpSIV5PILQRt2peooA@2x.png"
+image:	"1*-4uJNpSIV5PILQRt2peooA@2x.png"
 ---
 
 #### Continuous improvement, picking Ways, and what really matters

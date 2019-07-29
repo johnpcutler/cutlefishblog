@@ -2,7 +2,7 @@
 path:	"/blog/now-that-would-be-bad"
 date:	"2017-10-19"
 title:	"Now That Would Be Bad…"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 You hear a collective gasp. “Check Slack,” a coworker mumbles.

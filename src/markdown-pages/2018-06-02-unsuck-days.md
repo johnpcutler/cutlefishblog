@@ -2,7 +2,7 @@
 path:	"/blog/unsuck-days"
 date:	"2018-06-02"
 title:	"Unsuck Days"
-image:	"/images/1*X75DAlfPHrvHdBqwXwgHpg@2x.jpeg"
+image:	"1*X75DAlfPHrvHdBqwXwgHpg@2x.jpeg"
 ---
 
 #### (Dealing with) misery loves company…

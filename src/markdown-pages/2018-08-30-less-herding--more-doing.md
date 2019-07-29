@@ -2,7 +2,7 @@
 path:	"/blog/less-herding-more-doing"
 date:	"2018-08-30"
 title:	"Less Herding. More Doing."
-image:	"/images/1*3B48DGiZ4cYMUJoifUN9lQ@2x.jpeg"
+image:	"1*3B48DGiZ4cYMUJoifUN9lQ@2x.jpeg"
 ---
 
 ![](/images/1*3B48DGiZ4cYMUJoifUN9lQ@2x.jpeg)

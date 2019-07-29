@@ -2,7 +2,7 @@
 path:	"/blog/sticky-love-choosing-between-physical-boards-and-online-tools"
 date:	"2015-12-24"
 title:	"Sticky Love — Choosing Between Physical Boards and Online Tools"
-image:	"/images/1*UstcUT_2Ly24yQdwGDgWpg.jpeg"
+image:	"1*UstcUT_2Ly24yQdwGDgWpg.jpeg"
 ---
 
 ![](/images/1*UstcUT_2Ly24yQdwGDgWpg.jpeg)

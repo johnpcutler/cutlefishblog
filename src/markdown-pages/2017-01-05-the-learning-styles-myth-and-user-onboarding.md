@@ -2,7 +2,7 @@
 path:	"/blog/the-learning-styles-myth-and-user-onboarding"
 date:	"2017-01-05"
 title:	"The Learning Styles Myth and User Onboarding"
-image:	"/images/1*R-k_a3w3TYQbDgtmZ2-qoQ.png"
+image:	"1*R-k_a3w3TYQbDgtmZ2-qoQ.png"
 ---
 
 When talking about the role of learning in onboarding, or in SaaS in general, you’ll often hear comments like:

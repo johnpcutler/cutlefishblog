@@ -2,7 +2,7 @@
 path:	"/blog/evangelist-consultant-myopia"
 date:	"2016-12-14"
 title:	"Evangelist/Consultant Myopia"
-image:	"/images/1*SZw2Z7tnK2Q5qKxlbOS6Mg.png"
+image:	"1*SZw2Z7tnK2Q5qKxlbOS6Mg.png"
 ---
 
 How can change agents and change participants make each other awesome ([see the Modern Agile first principle: Make People Awesome](https://www.infoq.com/articles/modern-agile-intro))?

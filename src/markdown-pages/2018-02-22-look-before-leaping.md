@@ -2,7 +2,7 @@
 path:	"/blog/look-before-leaping"
 date:	"2018-02-22"
 title:	"Look Before Leaping"
-image:	"/images/1*fpXgQfpkecP9nLo6sXNq7g@2x.jpeg"
+image:	"1*fpXgQfpkecP9nLo6sXNq7g@2x.jpeg"
 ---
 
 #### Being a smarter change agent / change gardener

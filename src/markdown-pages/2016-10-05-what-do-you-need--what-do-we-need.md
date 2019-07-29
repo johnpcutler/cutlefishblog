@@ -2,7 +2,7 @@
 path:	"/blog/what-do-you-need-what-do-we-need"
 date:	"2016-10-05"
 title:	"What Do You Need? What Do We Need?"
-image:	"/images/1*_r3zVICDbrBWeXq0lPKTCg.jpeg"
+image:	"1*_r3zVICDbrBWeXq0lPKTCg.jpeg"
 ---
 
 #### What do you need? What does your company need? Why? What are you trying to achieve? What must you optimize for?

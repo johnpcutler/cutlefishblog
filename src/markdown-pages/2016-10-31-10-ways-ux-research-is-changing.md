@@ -2,7 +2,7 @@
 path:	"/blog/10-ways-ux-research-is-changing"
 date:	"2016-10-31"
 title:	"10 Ways UX Research Is Changing"
-image:	"/images/1*srLo60TVu2IaQWn3KcBJfg.jpeg"
+image:	"1*srLo60TVu2IaQWn3KcBJfg.jpeg"
 ---
 
 How is UX Research evolving with the times, especially given approaches like LeanUX that favor fewer handoffs, more participation, and more experimentation?

@@ -2,7 +2,7 @@
 path:	"/blog/the-iron-triangle-is-dead"
 date:	"2016-01-31"
 title:	"The Iron Triangle Is Dead"
-image:	"/images/1*A_VyiMYQB7VoabXbI_e0pg.jpeg"
+image:	"1*A_VyiMYQB7VoabXbI_e0pg.jpeg"
 ---
 
 #### Illusions of singular org culture, intervention, and the “right way”

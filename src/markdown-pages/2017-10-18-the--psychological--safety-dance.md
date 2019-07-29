@@ -2,7 +2,7 @@
 path:	"/blog/the-psychological-safety-dance"
 date:	"2017-10-18"
 title:	"The (Psychological) Safety Dance"
-image:	"/images/1*5RdlAiiDqtx0rnIROqR_8w@2x.jpeg"
+image:	"1*5RdlAiiDqtx0rnIROqR_8w@2x.jpeg"
 ---
 
 #### Overused? Abused? Why are we obsessed with psychological safety?

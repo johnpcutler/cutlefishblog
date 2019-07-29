@@ -2,7 +2,7 @@
 path:	"/blog/to-the-drifters-makers-why-askers-and-systems-thinkers"
 date:	"2017-05-14"
 title:	"To the Drifters, Makers, Why-Askers, and Systems Thinkers…"
-image:	"/images/1*gp_OZtn_lsmZvVb3bRggzQ.png"
+image:	"1*gp_OZtn_lsmZvVb3bRggzQ.png"
 ---
 
 ![](/images/1*gp_OZtn_lsmZvVb3bRggzQ.png)I’m looking for my *extended tribe*. I know you’re out there! I want to connect ( [@johncutlefish](https://twitter.com/johncutlefish) on Twitter)

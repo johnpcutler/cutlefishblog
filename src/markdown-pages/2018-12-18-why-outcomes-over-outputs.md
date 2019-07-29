@@ -2,7 +2,7 @@
 path:	"/blog/why-outcomes-over-outputs"
 date:	"2018-12-18"
 title:	"Why Outcomes Over Outputs?"
-image:	"/images/1*3a4sYLw5KLCRqBTzQ-wB-A.jpeg"
+image:	"1*3a4sYLw5KLCRqBTzQ-wB-A.jpeg"
 ---
 
 ![](/images/1*3a4sYLw5KLCRqBTzQ-wB-A.jpeg)

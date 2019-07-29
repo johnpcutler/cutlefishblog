@@ -2,7 +2,7 @@
 path:	"/blog/the-overlap"
 date:	"2016-09-24"
 title:	"The Overlap"
-image:	"/images/1*p-Xmpg3MFXo3Ie4G0LgGMw.png"
+image:	"1*p-Xmpg3MFXo3Ie4G0LgGMw.png"
 ---
 
 #### The Messy World of Modern Software Product Development (With User Interfaces)

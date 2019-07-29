@@ -2,7 +2,7 @@
 path:	"/blog/untangling-okrs-with-a-big-visual-board"
 date:	"2016-12-17"
 title:	"Untangling OKRs with a Big, Visual Board"
-image:	"/images/1*pFgqAU8yrpJ2xC3tXiLHsQ.png"
+image:	"1*pFgqAU8yrpJ2xC3tXiLHsQ.png"
 ---
 
 *Note: A 1.3MB version of this imagine can be found *[*here*](https://drive.google.com/file/d/0B04yoW1JFDHGak0tR0xGYllFM0E/view?usp=sharing)*. I use the term OKR below. To learn more about OKRs see *[*here*](http://eleganthack.com/the-art-of-the-okr/)*. I use a diagram (not a photo) here for confidentiality reasons.*

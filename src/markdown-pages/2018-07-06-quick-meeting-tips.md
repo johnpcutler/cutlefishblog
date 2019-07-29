@@ -2,7 +2,7 @@
 path:	"/blog/quick-meeting-tips"
 date:	"2018-07-06"
 title:	"Quick Meeting Tips"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 Some meeting tips…

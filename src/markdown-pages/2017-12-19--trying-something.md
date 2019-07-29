@@ -2,7 +2,7 @@
 path:	"/blog/trying-something"
 date:	"2017-12-19"
 title:	"“Trying Something”"
-image:	"/images/1*yqEMQtIBBRasE3ZKNH9Gkg@2x.jpeg"
+image:	"1*yqEMQtIBBRasE3ZKNH9Gkg@2x.jpeg"
 ---
 
 ![](/images/1*yqEMQtIBBRasE3ZKNH9Gkg@2x.jpeg)

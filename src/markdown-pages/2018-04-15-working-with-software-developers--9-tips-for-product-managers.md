@@ -2,7 +2,7 @@
 path:	"/blog/working-with-software-developers-9-tips-for-product-managers"
 date:	"2018-04-15"
 title:	"Working With Software Developers (9 Tips for Product Managers)"
-image:	"/images/1*znUIHK3OHw3QNZTF7iA9Fg@2x.jpeg"
+image:	"1*znUIHK3OHw3QNZTF7iA9Fg@2x.jpeg"
 ---
 
 ![](/images/1*znUIHK3OHw3QNZTF7iA9Fg@2x.jpeg)*Note: This is a cross-post of a Twitter thread (if Twitter is your thing, please follow me there at @johncutlefish)

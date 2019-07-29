@@ -2,7 +2,7 @@
 path:	"/blog/change-with-no-change"
 date:	"2017-09-02"
 title:	"Change With No Change"
-image:	"/images/1*KaXHBQEOcehgWCTIPZYHWw.png"
+image:	"1*KaXHBQEOcehgWCTIPZYHWw.png"
 ---
 
 ![](/images/1*KaXHBQEOcehgWCTIPZYHWw.png)<https://mentaleldar.deviantart.com/art/crazyness-270544628>Have you ever had this conversation with a friend (or your inner-self)

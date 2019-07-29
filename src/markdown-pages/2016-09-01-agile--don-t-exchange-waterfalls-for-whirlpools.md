@@ -2,7 +2,7 @@
 path:	"/blog/agile-dont-exchange-waterfalls-for-whirlpools"
 date:	"2016-09-01"
 title:	"Agile: Don’t Exchange Waterfalls for Whirlpools"
-image:	"/images/1*gD-WKbjHO5xMrfxmnUz4pQ.png"
+image:	"1*gD-WKbjHO5xMrfxmnUz4pQ.png"
 ---
 
 This is a **waterfall**:

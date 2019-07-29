@@ -2,7 +2,7 @@
 path:	"/blog/when-your-head-hurts"
 date:	"2017-04-06"
 title:	"When Your Head Hurts"
-image:	"/images/1*N4jl46UFv6nC85q-HxVMrg.png"
+image:	"1*N4jl46UFv6nC85q-HxVMrg.png"
 ---
 
 Your head hurts. It’s hard to understand all of the moving parts. Meetings go in circles. You feel like you are playing a game of three-dimensional chess on a rocking boat, jet-lagged, with your hands tied behind your back. There’s progress, but it is extremely painful.

@@ -2,7 +2,7 @@
 path:	"/blog/continuous-improvement-vs-continuous-suckage"
 date:	"2017-08-24"
 title:	"Continuous Improvement Vs. Continuous Suckage"
-image:	"/images/1*2mk0UbudCoHIdhf-Cr32Gw.png"
+image:	"1*2mk0UbudCoHIdhf-Cr32Gw.png"
 ---
 
 ![](/images/1*2mk0UbudCoHIdhf-Cr32Gw.png)

@@ -2,7 +2,7 @@
 path:	"/blog/pms-try-this-thought-experiment"
 date:	"2017-03-08"
 title:	"PMs: Try This Thought Experiment"
-image:	"/images/1*C6OZwtnTYT6fVtzO3LHeJQ.png"
+image:	"1*C6OZwtnTYT6fVtzO3LHeJQ.png"
 ---
 
 The following question/though experiment is a great conversation starter for product managers and other stakeholders. The deeper you go, the more valuable it gets.

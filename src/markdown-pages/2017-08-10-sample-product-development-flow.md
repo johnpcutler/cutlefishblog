@@ -2,7 +2,7 @@
 path:	"/blog/sample-product-development-flow"
 date:	"2017-08-10"
 title:	"Sample Product Development Flow"
-image:	"/images/1*s1mCGtRIOKQcFTyL0CD4Mg.jpeg"
+image:	"1*s1mCGtRIOKQcFTyL0CD4Mg.jpeg"
 ---
 
 Sharing a sample product development flow (the working pattern for my current team).

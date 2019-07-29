@@ -2,7 +2,7 @@
 path:	"/blog/21-questions-for-your-pm-role-interviewer"
 date:	"2017-05-09"
 title:	"21 Questions for Your PM Role Interviewer"
-image:	"/images/1*H7hiyHUsilS8NVcD1beRRw.png"
+image:	"1*H7hiyHUsilS8NVcD1beRRw.png"
 ---
 
 #### After a couple heavy posts, I get practical…

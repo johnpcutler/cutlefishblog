@@ -2,7 +2,7 @@
 path:	"/blog/extra-strength-5-hour-agile"
 date:	"2017-08-28"
 title:	"Extra Strength 5-hour AGILE"
-image:	"/images/1*qxylXoKJB997NJ6gg2ozRA.png"
+image:	"1*qxylXoKJB997NJ6gg2ozRA.png"
 ---
 
 It’ll get you through the day.

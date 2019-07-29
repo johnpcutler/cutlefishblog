@@ -2,7 +2,7 @@
 path:	"/blog/the-way-of-the-product-whatchamacallit"
 date:	"2016-01-19"
 title:	"The Way Of The Product Whatchamacallit"
-previewImage:	"1*l7OCGXPxzzJcWXYGJt4aiA.png"
+image:	"1*l7OCGXPxzzJcWXYGJt4aiA.png"
 ---
 
 Behold the **Product Whatchamacallit!** The who? Who knows? The Internet sure doesn’t.

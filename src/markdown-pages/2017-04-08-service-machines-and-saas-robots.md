@@ -2,7 +2,7 @@
 path:	"/blog/service-machines-and-saas-robots"
 date:	"2017-04-08"
 title:	"Service Machines and SaaS Robots"
-image:	"/images/1*ZC9N7pVmcJDv85wQ6pS6yg.png"
+image:	"1*ZC9N7pVmcJDv85wQ6pS6yg.png"
 ---
 
 #### Step back and think of your product as a swarm of service-delivering robots. Serve your customer, and not the product.

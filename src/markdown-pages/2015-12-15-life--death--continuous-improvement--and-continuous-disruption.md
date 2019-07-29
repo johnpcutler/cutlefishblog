@@ -2,7 +2,7 @@
 path:	"/blog/life-death-continuous-improvement-and-continuous-disruption"
 date:	"2015-12-15"
 title:	"Life, Death, Continuous Improvement, and Continuous Disruption"
-image:	"/images/0*EZrEwRg_8zTn0KaC.png"
+image:	"0*EZrEwRg_8zTn0KaC.png"
 ---
 
 I’ve been thinking about (and hearing about) continuous improvement a lot lately. This past weekend I had the pleasure of attending my first [Agile Open event in Berkeley, CA](http://agileopencalifornia.com/northern_ca.html). The experience was rewarding on multiple levels. Within a couple hours I had become part of an instant community of fellow Agile-nerds. Together we spontaneously created a 30 session 2-day [unconference](https://en.wikipedia.org/wiki/Unconference). And the supportive community helped me tackle topics I have been struggling with lately.

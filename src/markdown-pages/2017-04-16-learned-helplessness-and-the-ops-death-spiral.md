@@ -2,7 +2,7 @@
 path:	"/blog/learned-helplessness-and-the-ops-death-spiral"
 date:	"2017-04-16"
 title:	"Learned Helplessness and the Ops Death-Spiral"
-image:	"/images/1*DIw5krqGhmHZBTBYHv1F7g.png"
+image:	"1*DIw5krqGhmHZBTBYHv1F7g.png"
 ---
 
 Are you in Ops? Do you deal with Ops teams? Does this sound familiar?

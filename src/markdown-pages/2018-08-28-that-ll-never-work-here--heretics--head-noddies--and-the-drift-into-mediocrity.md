@@ -2,7 +2,7 @@
 path:	"/blog/thatll-never-work-here-heretics-head-noddies-and-the-drift-into-mediocrity"
 date:	"2018-08-28"
 title:	"That’ll Never Work Here: Heretics, Head Noddies, and the Drift Into Mediocrity"
-image:	"/images/1*ekqdX5ceAqzPZ5XmxZb3ag@2x.jpeg"
+image:	"1*ekqdX5ceAqzPZ5XmxZb3ag@2x.jpeg"
 ---
 
 ![](/images/1*ekqdX5ceAqzPZ5XmxZb3ag@2x.jpeg)

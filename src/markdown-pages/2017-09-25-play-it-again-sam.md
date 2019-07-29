@@ -2,7 +2,7 @@
 path:	"/blog/play-it-again-sam"
 date:	"2017-09-25"
 title:	"Play It Again Sam!"
-image:	"/images/1*ClrxgMdFquj-OWH2zcXyBA.png"
+image:	"1*ClrxgMdFquj-OWH2zcXyBA.png"
 ---
 
 I’ve been toying around with a choose-your-own-adventure book. A friend recommended I lay out the *unhappy* path first. That sounded kind of depressing, but it turned out to be kind of fun. There are many ways things can go wrong:

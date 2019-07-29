@@ -2,7 +2,7 @@
 path:	"/blog/45-posts-on-product-development"
 date:	"2016-05-14"
 title:	"45 Posts On Product Development"
-image:	"/images/1*GvvCwnSNlou9G9MQlgyigQ.png"
+image:	"1*GvvCwnSNlou9G9MQlgyigQ.png"
 ---
 
 I turned around today to realize that I just published my 45th Medium Post.

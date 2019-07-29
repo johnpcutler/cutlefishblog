@@ -2,7 +2,7 @@
 path:	"/blog/play-your-own-game"
 date:	"2017-01-05"
 title:	"Play Your Own Game"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 We tend to obsess about hours per day/week worked.

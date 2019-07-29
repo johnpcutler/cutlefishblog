@@ -2,7 +2,7 @@
 path:	"/blog/have-you-heard-that-one-about-safe"
 date:	"2017-04-29"
 title:	"Have You Heard That One About SAFe?"
-image:	"/images/1*sEtIejXkPOW5pMPRvFKoRQ.png"
+image:	"1*sEtIejXkPOW5pMPRvFKoRQ.png"
 ---
 
 #### And why I’m going to stop telling SAFe jokes (for now)

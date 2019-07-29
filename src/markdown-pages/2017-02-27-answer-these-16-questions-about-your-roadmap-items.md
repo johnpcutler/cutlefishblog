@@ -2,7 +2,7 @@
 path:	"/blog/answer-these-16-questions-about-your-roadmap-items"
 date:	"2017-02-27"
 title:	"Answer These 16 Questions About Your Roadmap Items"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 When a PM presents a roadmap, I expect them to be able to answer the following questions about each initiative:

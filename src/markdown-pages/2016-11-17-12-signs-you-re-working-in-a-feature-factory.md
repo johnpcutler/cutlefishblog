@@ -2,7 +2,7 @@
 path:	"/blog/12-signs-youre-working-in-a-feature-factory"
 date:	"2016-11-17"
 title:	"12 Signs You’re Working in a Feature Factory"
-image:	"/images/1*A9HaI7x2MdvkTn48D9a0wg.jpeg"
+image:	"1*A9HaI7x2MdvkTn48D9a0wg.jpeg"
 ---
 
 ![](/images/1*A9HaI7x2MdvkTn48D9a0wg.jpeg)

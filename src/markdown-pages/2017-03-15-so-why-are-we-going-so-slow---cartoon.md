@@ -2,7 +2,7 @@
 path:	"/blog/so-why-are-we-going-so-slow-cartoon"
 date:	"2017-03-15"
 title:	"So Why Are We Going So Slow? (Cartoon)"
-image:	"/images/1*JKVN_XUuEmNzwdyTPSstJg.jpeg"
+image:	"1*JKVN_XUuEmNzwdyTPSstJg.jpeg"
 ---
 
 In this cartoon, our intrepid manager is reviewing the output from a team retro. The business is wondering:

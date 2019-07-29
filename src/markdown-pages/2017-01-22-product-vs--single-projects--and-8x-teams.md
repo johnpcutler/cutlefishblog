@@ -2,7 +2,7 @@
 path:	"/blog/product-vs-single-projects-and-8x-teams"
 date:	"2017-01-22"
 title:	"Product vs. Single Projects (and 8x Teams)"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 [A couple posts ago](https://medium.com/@johnpcutler/noestimates-two-different-problems-b4f37d29ce5d#.35gaa53lr), I mentioned something about teams improving their capacity for value delivery “by 8x”. Someone I respect questioned that claim, which in turn lead to an interesting conversation.

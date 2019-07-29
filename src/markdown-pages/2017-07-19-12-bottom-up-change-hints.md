@@ -2,7 +2,7 @@
 path:	"/blog/12-bottom-up-change-hints"
 date:	"2017-07-19"
 title:	"12 Bottom-Up Change Hints"
-image:	"/images/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg"
+image:	"1*K5CYeh-Ou6OB5QttCHGhwg.jpeg"
 ---
 
 ![](/images/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg)Sometimes you need to wear rose colored glasses ….1. Email is a terrible way to advocate for change. Too much can go wrong.

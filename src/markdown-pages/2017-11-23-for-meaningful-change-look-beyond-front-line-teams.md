@@ -2,7 +2,7 @@
 path:	"/blog/for-meaningful-change-look-beyond-front-line-teams"
 date:	"2017-11-23"
 title:	"For Meaningful Change…Look Beyond Front-Line Teams"
-image:	"/images/1*ruxFkNq62lp48LtZgsgTMw@2x.jpeg"
+image:	"1*ruxFkNq62lp48LtZgsgTMw@2x.jpeg"
 ---
 
 *With Matt Barcomb, and editing help from Morgan Maccherone*

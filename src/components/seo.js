@@ -11,11 +11,10 @@ import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
 function SEO({ description, lang, meta, title, previewImage }) {
-	console.log({previewImage})
   const data = useStaticQuery(
     graphql`
       query {
-       site {
+        a: site {
           siteMetadata {
             title
             description
@@ -24,11 +23,32 @@ function SEO({ description, lang, meta, title, previewImage }) {
 						siteURL
           }
         }
-	    }
-			`
-		)
+			  b: file(relativePath: {eq: "ff.jpeg"}) {
+			    id
+			    childImageSharp {
+			      fixed(width: 400) {
+			        base64
+			        tracedSVG
+			        aspectRatio
+			        width
+			        height
+			        src
+			        srcSet
+			        srcWebp
+			        srcSetWebp
+			        originalName
+			      }
+			    }
+			  }
+		  }
+	  `
+	)
+	
+	console.log(data)
   
-  const metaDescription = description || data.site.siteMetadata.description
+  const metaDescription = description || data.a.siteMetadata.description
+		
+	const socialImage = previewImage || data.b.childImageSharp.fixed.src
 
   return (
     <Helmet
@@ -36,7 +56,7 @@ function SEO({ description, lang, meta, title, previewImage }) {
         lang,
       }}
       title={title}
-      titleTemplate={`%s | ${data.site.siteMetadata.title}`}
+      titleTemplate={`%s | ${data.a.siteMetadata.title}`}
       meta={[
         {
           name: `description`,
@@ -52,7 +72,7 @@ function SEO({ description, lang, meta, title, previewImage }) {
         },
         {
           property: `og:image`,
-					content: `${data.site.siteMetadata.siteURL}`
+					content: `${data.a.siteMetadata.siteURL}${socialImage}`
         },
         {
           name: `twitter:card`,
@@ -60,11 +80,11 @@ function SEO({ description, lang, meta, title, previewImage }) {
         },
         {
           name: `twitter:creator`,
-          content: data.site.siteMetadata.author,
+          content: data.a.siteMetadata.author,
         },
         {
           name: `twitter:site`,
-          content: data.site.siteMetadata.twitterHandle,
+          content: data.a.siteMetadata.twitterHandle,
         },
         {
           name: `twitter:title`,

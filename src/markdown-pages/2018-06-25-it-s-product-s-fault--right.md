@@ -2,7 +2,7 @@
 path:	"/blog/its-products-fault-right"
 date:	"2018-06-25"
 title:	"It’s Product’s Fault! Right?"
-image:	"/images/1*lVUl2pMeGDW-uTrEtmecGg@2x.jpeg"
+image:	"1*lVUl2pMeGDW-uTrEtmecGg@2x.jpeg"
 ---
 
 #### Or why it doesn’t really matter how you got into this mess.

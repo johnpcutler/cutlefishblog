@@ -2,7 +2,7 @@
 path:	"/blog/the-one-week-product-management-challenge"
 date:	"2017-10-30"
 title:	"The One Week Product Management Challenge"
-image:	"/images/1*bAPkb82mpg9BmFgP3qa9Sw@2x.jpeg"
+image:	"1*bAPkb82mpg9BmFgP3qa9Sw@2x.jpeg"
 ---
 
 ![](/images/1*bAPkb82mpg9BmFgP3qa9Sw@2x.jpeg)

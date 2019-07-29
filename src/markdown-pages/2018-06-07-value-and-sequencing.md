@@ -2,7 +2,7 @@
 path:	"/blog/value-and-sequencing"
 date:	"2018-06-07"
 title:	"Value and Sequencing"
-image:	"/images/1*AhZo_-Q9RCitINFu6UlNUw@2x.jpeg"
+image:	"1*AhZo_-Q9RCitINFu6UlNUw@2x.jpeg"
 ---
 
 Let’s take a list of opportunities. For each opportunity I am going to describe the opportunity cost per month (Cost of Delay).

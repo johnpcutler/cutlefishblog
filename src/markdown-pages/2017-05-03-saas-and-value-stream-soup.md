@@ -2,7 +2,7 @@
 path:	"/blog/saas-and-value-stream-soup"
 date:	"2017-05-03"
 title:	"SaaS and Value Stream Soup"
-image:	"/images/1*Aiutq6x5KxsX0HkLkjY4jQ.png"
+image:	"1*Aiutq6x5KxsX0HkLkjY4jQ.png"
 ---
 
 Quick SaaS product lesson …

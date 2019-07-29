@@ -2,7 +2,7 @@
 path:	"/blog/present-bias-constraints-and-making-60-things-possible"
 date:	"2017-08-06"
 title:	"Present Bias, Constraints, and making 60 Things Possible"
-image:	"/images/1*lWMBrsm_7yduEJXQU8W04w.png"
+image:	"1*lWMBrsm_7yduEJXQU8W04w.png"
 ---
 
 ***Note: Scroll down if you’re short on time, and want to get straight to the list of goodness.***

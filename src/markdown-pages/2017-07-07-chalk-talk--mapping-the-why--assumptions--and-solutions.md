@@ -2,7 +2,7 @@
 path:	"/blog/chalk-talk-mapping-the-why-assumptions-and-solutions"
 date:	"2017-07-07"
 title:	"Chalk Talk: Mapping the Why, Assumptions, and Solutions"
-image:	"/images/1*ZOcpMYUhWtzDqqaTjQ2f0A.png"
+image:	"1*ZOcpMYUhWtzDqqaTjQ2f0A.png"
 ---
 
 #### Video and Transcript

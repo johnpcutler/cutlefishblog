@@ -2,7 +2,7 @@
 path:	"/blog/safety-discomfort-and-the-art-of-self-service-un-king"
 date:	"2016-12-05"
 title:	"Safety, Discomfort, and the Art of Self-Service Un***king"
-image:	"/images/1*1BnJy3pTT-hrtx5tl53SJg.png"
+image:	"1*1BnJy3pTT-hrtx5tl53SJg.png"
 ---
 
 To quote [Joshua Kerievsky](https://medium.com/u/28229c304ac9) ‘s brilliant [Modern Agile principles](http://modernagile.org/), you must “make safety a prerequisite”. Without safety and trust, we rightfully resist change. When safety is present, we relish the thrill of going outside of our comfort zone, learning new things, exploring our limits, challenging our biases, and taking risks. [People don´t resist change (only being changed)](https://twitter.com/NielsPflaeging/status/793414761232928768). According to Google research, [psychological safety is the key predictor](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0) of team success.

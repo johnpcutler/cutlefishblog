@@ -2,7 +2,7 @@
 path:	"/blog/the-way-of-ways"
 date:	"2017-12-04"
 title:	"The Way of Ways"
-image:	"/images/1*L2Io7L2Y3hskzA5yu_Nuow@2x.png"
+image:	"1*L2Io7L2Y3hskzA5yu_Nuow@2x.png"
 ---
 
 It is easy to get caught up in the evolution of ways. I do it all the time. I’ll rattle on about the “abuse” of some way, only to realize that abuse is just part of the way of ways. Or I’ll stress when someone rants on about the “right way”, without considering the bigger picture.

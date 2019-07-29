@@ -2,7 +2,7 @@
 path:	"/blog/one-day-sprints"
 date:	"2017-09-25"
 title:	"One Day Sprints"
-image:	"/images/1*JpsrQ0gJIJd0xcfmmq5ILg.png"
+image:	"1*JpsrQ0gJIJd0xcfmmq5ILg.png"
 ---
 
 *Have The Conversation. Do The Thing. Review. Go Home*

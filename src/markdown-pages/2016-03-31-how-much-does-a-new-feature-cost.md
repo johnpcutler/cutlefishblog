@@ -2,7 +2,7 @@
 path:	"/blog/how-much-does-a-new-feature-cost"
 date:	"2016-03-31"
 title:	"How Much Does A New Feature Cost?"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 #### More Than You Think …

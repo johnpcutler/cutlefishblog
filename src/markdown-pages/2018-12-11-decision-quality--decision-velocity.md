@@ -2,7 +2,7 @@
 path:	"/blog/decision-quality-decision-velocity"
 date:	"2018-12-11"
 title:	"Decision Quality. Decision Velocity."
-image:	"/images/1*cgjlyUH9YOd36xZ_Fl54lg.png"
+image:	"1*cgjlyUH9YOd36xZ_Fl54lg.png"
 ---
 
 On a very high level, there are two things needed for a successful product/company:

@@ -2,7 +2,7 @@
 path:	"/blog/70-books-and-other-resources-for-internal-change-agents"
 date:	"2018-08-22"
 title:	"70 Books (and Other Resources) for Internal Change Agents"
-image:	"/images/1*B1U51Cs_Ml7tjpTTO0jVVA@2x.jpeg"
+image:	"1*B1U51Cs_Ml7tjpTTO0jVVA@2x.jpeg"
 ---
 
 ![](/images/1*B1U51Cs_Ml7tjpTTO0jVVA@2x.jpeg)

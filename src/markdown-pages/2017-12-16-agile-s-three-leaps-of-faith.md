@@ -2,7 +2,7 @@
 path:	"/blog/agiles-three-leaps-of-faith"
 date:	"2017-12-16"
 title:	"Agile’s Three Leaps of Faith"
-image:	"/images/1*eyqvL2g6yFJY9J0k9s2awA@2x.jpeg"
+image:	"1*eyqvL2g6yFJY9J0k9s2awA@2x.jpeg"
 ---
 
 ![](/images/1*eyqvL2g6yFJY9J0k9s2awA@2x.jpeg)Software product development in the Agile/Lean style is counterintuitive until you’ve done it for a while (and even then it can throw you a curveball)

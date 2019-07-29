@@ -2,7 +2,7 @@
 path:	"/blog/b2b-saas-service-ecosystem-cheat-sheet"
 date:	"2017-08-03"
 title:	"B2B SaaS Service Ecosystem Cheat Sheet"
-image:	"/images/1*DvDUFmlQhasuew19xRwu3g.png"
+image:	"1*DvDUFmlQhasuew19xRwu3g.png"
 ---
 
 To facilitate some training, I wrote up this quick cheat sheet of terms used in service ecosystems (where B2B SaaS products play). I have a PDF of this [here](https://goo.gl/ypZoLJ) . Feel free to share, but please keep the attribution (to me) on the doc. That way I’ll be liable for the spelling mistakes, not you.

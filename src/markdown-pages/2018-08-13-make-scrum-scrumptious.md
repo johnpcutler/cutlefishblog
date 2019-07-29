@@ -2,7 +2,7 @@
 path:	"/blog/make-scrum-scrumptious"
 date:	"2018-08-13"
 title:	"Make Scrum Scrumptious!"
-image:	"/images/1*u_3HE3JsSUkCSIfm9_Vb5Q@2x.jpeg"
+image:	"1*u_3HE3JsSUkCSIfm9_Vb5Q@2x.jpeg"
 ---
 
 ![](/images/1*u_3HE3JsSUkCSIfm9_Vb5Q@2x.jpeg)

@@ -2,7 +2,7 @@
 path:	"/blog/devs-dont-outsource-continuous-improvement"
 date:	"2017-07-11"
 title:	"Devs! Don’t Outsource Continuous Improvement!"
-image:	"/images/1*jsqcwnau087Qmd8oBhnmHA.png"
+image:	"1*jsqcwnau087Qmd8oBhnmHA.png"
 ---
 
 ![](/images/1*jsqcwnau087Qmd8oBhnmHA.png)

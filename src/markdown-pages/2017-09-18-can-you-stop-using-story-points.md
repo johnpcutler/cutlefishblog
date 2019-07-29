@@ -2,7 +2,7 @@
 path:	"/blog/can-you-stop-using-story-points"
 date:	"2017-09-18"
 title:	"Can You Stop Using Story Points?"
-image:	"/images/1*GZzMz0q8MA9IUrHW092_Ng.png"
+image:	"1*GZzMz0q8MA9IUrHW092_Ng.png"
 ---
 
 *Note: This post is targeted at product managers who may have missed the Agile community’s long-running debate over story point estimation. As PMs, we may only marginally influence this practice, but we should make sure we aren’t complicit in abuse/misuse, and that we advocate for what helps our teammates.*

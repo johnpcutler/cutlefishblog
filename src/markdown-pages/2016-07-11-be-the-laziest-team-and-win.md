@@ -2,7 +2,7 @@
 path:	"/blog/be-the-laziest-team-and-win"
 date:	"2016-07-11"
 title:	"Be the Laziest Team and Win"
-image:	"/images/1*pFxwgQhLWn8Ns8ohpklrXg.png"
+image:	"1*pFxwgQhLWn8Ns8ohpklrXg.png"
 ---
 
 I often challenge teams with the following question:

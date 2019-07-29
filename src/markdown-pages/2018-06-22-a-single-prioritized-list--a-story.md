@@ -2,7 +2,7 @@
 path:	"/blog/a-single-prioritized-list-a-story"
 date:	"2018-06-22"
 title:	"A Single Prioritized List (a Story)"
-image:	"/images/1*dVL64rN3S8KfBdkojVq0eQ@2x.jpeg"
+image:	"1*dVL64rN3S8KfBdkojVq0eQ@2x.jpeg"
 ---
 
 The best way I could think of writing this was as a dialogue.

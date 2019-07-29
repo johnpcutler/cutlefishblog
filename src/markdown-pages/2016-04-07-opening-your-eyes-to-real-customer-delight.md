@@ -2,7 +2,7 @@
 path:	"/blog/opening-your-eyes-to-real-customer-delight"
 date:	"2016-04-07"
 title:	"Opening Your Eyes to Real Customer Delight"
-image:	"/images/1*dVuCPvjKt_b8iv9ny-k59A.png"
+image:	"1*dVuCPvjKt_b8iv9ny-k59A.png"
 ---
 
 Drawings by [Claire Bowman](https://about.me/ClairesOddities)

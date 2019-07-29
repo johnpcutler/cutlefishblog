@@ -2,7 +2,7 @@
 path:	"/blog/maker-angst-job-flippers-and-do-gooders"
 date:	"2017-11-18"
 title:	"Maker Angst — Job Flippers and Do Gooders"
-image:	"/images/1*Ck-FZucpqNY5kLiMVWo8_A@2x.jpeg"
+image:	"1*Ck-FZucpqNY5kLiMVWo8_A@2x.jpeg"
 ---
 
 ![](/images/1*Ck-FZucpqNY5kLiMVWo8_A@2x.jpeg)

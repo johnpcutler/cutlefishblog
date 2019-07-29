@@ -2,7 +2,7 @@
 path:	"/blog/great-burgers"
 date:	"2017-05-11"
 title:	"Great Burgers"
-image:	"/images/1*rLIYm9OYcDWFQh_Wlwwpyw.png"
+image:	"1*rLIYm9OYcDWFQh_Wlwwpyw.png"
 ---
 
 I open a burger joint. Here is my sign:

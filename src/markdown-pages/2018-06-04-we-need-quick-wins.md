@@ -2,7 +2,7 @@
 path:	"/blog/we-need-quick-wins"
 date:	"2018-06-04"
 title:	"We Need Quick Wins…"
-image:	"/images/1*5KkxaI7SxF14V5KausQjdg@2x.jpeg"
+image:	"1*5KkxaI7SxF14V5KausQjdg@2x.jpeg"
 ---
 
 ![](/images/1*5KkxaI7SxF14V5KausQjdg@2x.jpeg)

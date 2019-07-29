@@ -2,7 +2,7 @@
 path:	"/blog/juggling-growth-and-usability-a-ux-debt-primer"
 date:	"2015-12-29"
 title:	"Juggling Growth and Usability: A UX Debt Primer"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 The concept of technical debt is generally understood. But what happens when we extend the concept to product design and user experience? Can an interface accumulate debt? And what can we do about it?

@@ -2,7 +2,7 @@
 path:	"/blog/building-shared-understanding-is-hard"
 date:	"2017-07-06"
 title:	"Building Shared Understanding Is Hard"
-image:	"/images/1*mB7S3wypuD9so6peD084mA.png"
+image:	"1*mB7S3wypuD9so6peD084mA.png"
 ---
 
 ![](/images/1*mB7S3wypuD9so6peD084mA.png)**We were aligned last week. And now we are not. What gives?**  

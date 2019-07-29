@@ -2,7 +2,7 @@
 path:	"/blog/systems-and-people-behaving-badly"
 date:	"2018-05-17"
 title:	"Systems and People Behaving Badly"
-image:	"/images/1*DA-gDBaAH2DBExlpHMRQgQ@2x.jpeg"
+image:	"1*DA-gDBaAH2DBExlpHMRQgQ@2x.jpeg"
 ---
 
 *Note: In this post I’m pretty lazy about my use of the words “system” and “systemic”. Stick with me…*

@@ -2,7 +2,7 @@
 path:	"/blog/agile-didnt-eat-your-homework"
 date:	"2017-06-09"
 title:	"Agile Didn’t Eat Your Homework…"
-image:	"/images/1*vJ5F3ZmNyG7q9xMQeGl_bQ.png"
+image:	"1*vJ5F3ZmNyG7q9xMQeGl_bQ.png"
 ---
 
 ![](/images/1*vJ5F3ZmNyG7q9xMQeGl_bQ.png)

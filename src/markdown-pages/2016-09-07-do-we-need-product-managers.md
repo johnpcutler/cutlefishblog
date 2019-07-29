@@ -2,7 +2,7 @@
 path:	"/blog/do-we-need-product-managers"
 date:	"2016-09-07"
 title:	"Do We Need Product Managers?"
-image:	"/images/1*eDIjzk_g9KqqVw_hreIjFA.png"
+image:	"1*eDIjzk_g9KqqVw_hreIjFA.png"
 ---
 
 #### *After reading the 745th blog post trying to define product management and product ownership ….*

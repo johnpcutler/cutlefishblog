@@ -2,7 +2,7 @@
 path:	"/blog/the-mvp-bait-and-switch"
 date:	"2018-09-23"
 title:	"The MVP Bait-and-Switch"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 I was talking to a designer recently. She explained:

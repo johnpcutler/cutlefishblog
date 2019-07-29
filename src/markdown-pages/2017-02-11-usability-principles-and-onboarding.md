@@ -2,7 +2,7 @@
 path:	"/blog/usability-principles-and-onboarding"
 date:	"2017-02-11"
 title:	"Usability Principles and Onboarding"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 With onboarding, the focus is often on the particular and more particular. Who is your user? What are her goals? What is going on at this very moment in his interaction with the app? In this post, though, we’ll take a step back to bring overarching principles of usability to the discussion.

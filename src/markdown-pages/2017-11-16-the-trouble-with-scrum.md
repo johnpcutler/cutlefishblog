@@ -2,7 +2,7 @@
 path:	"/blog/the-trouble-with-scrum"
 date:	"2017-11-16"
 title:	"The Trouble With Scrum"
-image:	"/images/1*PM5-fU49RI64cQGn4L5fgw@2x.jpeg"
+image:	"1*PM5-fU49RI64cQGn4L5fgw@2x.jpeg"
 ---
 
 #### Or…when I waded into age-old debates, and made no substantive contribution. Fail fast, I guess.

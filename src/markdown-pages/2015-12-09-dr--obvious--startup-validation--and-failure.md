@@ -2,7 +2,7 @@
 path:	"/blog/dr-obvious-startup-validation-and-failure"
 date:	"2015-12-09"
 title:	"Dr. Obvious, Startup Validation, and Failure"
-image:	"/images/0*XRVALKugCEUqoy4O.jpg"
+image:	"0*XRVALKugCEUqoy4O.jpg"
 ---
 
 “Validating” your startup is a big buzz word lately. Heck, [all you need is five minutes and a napkin](http://www.inc.com/jessica-stillman/validate-your-startup-idea-in-5-minutes-or-less.html). I think the term is misused.

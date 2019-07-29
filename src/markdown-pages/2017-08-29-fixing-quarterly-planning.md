@@ -2,7 +2,7 @@
 path:	"/blog/fixing-quarterly-planning"
 date:	"2017-08-29"
 title:	"Fixing Quarterly Planning"
-image:	"/images/1*xCZX9amQWhhH_-zbI45rpA.png"
+image:	"1*xCZX9amQWhhH_-zbI45rpA.png"
 ---
 
 This post is about making quarterly planning more effective. You may have an awesome quarterly planning approach. If so… You’re A Winner! For many PMs — especially at bigger companies — the process…\n\n\n![](/images/1*xCZX9amQWhhH_-zbI45rpA.png)

@@ -2,7 +2,7 @@
 path:	"/blog/how-do-we-go-faster"
 date:	"2017-09-14"
 title:	"How Do We Go Faster?"
-image:	"/images/1*xXr_C_RHAREXYh3BQSQHdQ.png"
+image:	"1*xXr_C_RHAREXYh3BQSQHdQ.png"
 ---
 
 I find myself answering this question often. Sharing a response here…

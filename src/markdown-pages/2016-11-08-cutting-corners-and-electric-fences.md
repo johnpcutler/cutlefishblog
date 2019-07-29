@@ -2,7 +2,7 @@
 path:	"/blog/cutting-corners-and-electric-fences"
 date:	"2016-11-08"
 title:	"Cutting Corners and Electric Fences"
-image:	"/images/1*0wdqFy2-c9zCBobJVoxZSQ.png"
+image:	"1*0wdqFy2-c9zCBobJVoxZSQ.png"
 ---
 
 ![](/images/1*0wdqFy2-c9zCBobJVoxZSQ.png)

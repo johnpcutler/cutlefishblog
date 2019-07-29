@@ -2,7 +2,7 @@
 path:	"/blog/an-apple-a-day"
 date:	"2017-11-19"
 title:	"An Apple a Day"
-image:	"/images/1*Bldq9CewYAJ1Ab-fcr_L1A@2x.jpeg"
+image:	"1*Bldq9CewYAJ1Ab-fcr_L1A@2x.jpeg"
 ---
 
 #### Habits, Forcing Functions, Sense, and Response

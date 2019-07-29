@@ -2,7 +2,7 @@
 path:	"/blog/one-is-the-loneliest-number"
 date:	"2017-09-19"
 title:	"One Is the Loneliest Number…"
-image:	"/images/1*fbVBlN6fRocqmx7nx3OzYQ.png"
+image:	"1*fbVBlN6fRocqmx7nx3OzYQ.png"
 ---
 
 #### CEO and OTHER PERSON have a chat…

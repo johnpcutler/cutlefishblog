@@ -2,7 +2,7 @@
 path:	"/blog/product-development-nerds-unite"
 date:	"2016-09-22"
 title:	"Product Development Nerds Unite"
-image:	"/images/1*-WWivcBgwXizS1Sld8JBww.png"
+image:	"1*-WWivcBgwXizS1Sld8JBww.png"
 ---
 
 #### I want to go to a conference with engineers, UX, customer success ninjas, data scientists, and product managers/owners! And talk about building stuff humans value.

@@ -2,7 +2,7 @@
 path:	"/blog/product-management-must-adapt"
 date:	"2017-06-29"
 title:	"Product Management Must Adapt"
-image:	"/images/1*d6FyfHRsf13jiCByj7KSAQ.png"
+image:	"1*d6FyfHRsf13jiCByj7KSAQ.png"
 ---
 
 I put together this leave-behind for a talk/training session. Medium doesn’t do tables, so the best I can offer is this image (and this [link to a pdf](https://drive.google.com/file/d/0B04yoW1JFDHGUTk2eTVuTU9vcDg/view?usp=sharing)).

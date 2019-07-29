@@ -2,7 +2,7 @@
 path:	"/blog/why-some-tool"
 date:	"2018-07-15"
 title:	"#Why[Some Tool]"
-image:	"/images/1*q6Zc8LtOD-M_BhFbHu_A3w@2x.jpeg"
+image:	"1*q6Zc8LtOD-M_BhFbHu_A3w@2x.jpeg"
 ---
 
 I was having a heated discussion with someone recently about story points. It was one of those standard “that’s not the fault of story points” arguments that goes nowhere. I realized a very common pattern — one that I have found to signal an opportunity for “refactoring” common approaches. It is age-old…basic decoupling and separation of concerns.

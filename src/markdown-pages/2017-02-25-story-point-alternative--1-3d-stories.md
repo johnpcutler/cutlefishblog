@@ -2,7 +2,7 @@
 path:	"/blog/story-point-alternative-1-3d-stories"
 date:	"2017-02-25"
 title:	"Story Point Alternative: 1–3d Stories"
-image:	"/images/1*zxrNvZpuSRAadSOUUK4c2w.png"
+image:	"1*zxrNvZpuSRAadSOUUK4c2w.png"
 ---
 
 How about splitting all [user stories](https://www.mountaingoatsoftware.com/agile/user-stories) until they’re likely to take three or fewer days to complete? Let’s forget story points. It’s worth a try. If it doesn’t work, you can try something different.

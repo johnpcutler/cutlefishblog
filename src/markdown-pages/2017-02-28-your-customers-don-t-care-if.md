@@ -2,7 +2,7 @@
 path:	"/blog/your-customers-dont-care-if"
 date:	"2017-02-28"
 title:	"Your Customers Don’t Care If…"
-image:	"/images/1*UotwyMbFZS0LT1sEPs4pmg.png"
+image:	"1*UotwyMbFZS0LT1sEPs4pmg.png"
 ---
 
 ![](/images/1*UotwyMbFZS0LT1sEPs4pmg.png)

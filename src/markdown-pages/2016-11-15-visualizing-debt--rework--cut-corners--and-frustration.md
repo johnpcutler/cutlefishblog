@@ -2,7 +2,7 @@
 path:	"/blog/visualizing-debt-rework-cut-corners-and-frustration"
 date:	"2016-11-15"
 title:	"Visualizing Debt, Rework, Cut Corners, and Frustration"
-image:	"/images/1*uyGVPNpn8GJ6EigIU6o6Kg.png"
+image:	"1*uyGVPNpn8GJ6EigIU6o6Kg.png"
 ---
 
 #### Making the invisible visible lets you inspect and adapt

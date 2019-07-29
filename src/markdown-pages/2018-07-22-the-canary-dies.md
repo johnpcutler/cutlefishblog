@@ -2,7 +2,7 @@
 path:	"/blog/the-canary-dies"
 date:	"2018-07-22"
 title:	"The Canary Dies"
-image:	"/images/1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg"
+image:	"1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg"
 ---
 
 

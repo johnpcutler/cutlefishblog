@@ -2,7 +2,7 @@
 path:	"/blog/acute-vs-chronic-product-issues"
 date:	"2016-11-08"
 title:	"Acute vs. Chronic Product Issues"
-image:	"/images/defaultimage.png"
+image:	"defaultimage.png"
 ---
 
 In his post [**Normalization of deviance in software: how broken practices become standard**](http://danluu.com/wat/)**, **Dan Luu** **makes an interesting point about postmortems:

@@ -2,7 +2,7 @@
 path:	"/blog/is-your-data-science-team-an-island"
 date:	"2017-06-15"
 title:	"Is Your Data Science Team An Island?"
-image:	"/images/1*kAHzTxmH28RTXx1RSlOQVQ.png"
+image:	"1*kAHzTxmH28RTXx1RSlOQVQ.png"
 ---
 
 I thought it might be interesting to use Search inside a multi-product SaaS provider— my current product domain — to explore some interesting topics around shared resources and complex internal service domains like data science. The topic came up a couple times during conversations at MTP 2017 (especially among companies with complex offerings), so I’d like to continue the conversation.

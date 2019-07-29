@@ -2,7 +2,7 @@
 path:	"/blog/the-healthy-tension-trap"
 date:	"2016-09-21"
 title:	"The Healthy Tension Trap"
-image:	"/images/1*e-hzbTBlfuymmmZKioAaSg.png"
+image:	"1*e-hzbTBlfuymmmZKioAaSg.png"
 ---
 
 #### Seriously! We’re all Product Developers!

@@ -2,7 +2,7 @@
 path:	"/blog/16-quick-product-management-tips"
 date:	"2016-09-09"
 title:	"16 Quick Product Management Tips"
-image:	"/images/1*RhRgIrTBI3EdGZiz6AYNRw.png"
+image:	"1*RhRgIrTBI3EdGZiz6AYNRw.png"
 ---
 
 ![](/images/1*RhRgIrTBI3EdGZiz6AYNRw.png)

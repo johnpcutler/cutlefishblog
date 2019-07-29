@@ -2,7 +2,7 @@
 path:	"/blog/104-questions-for-product-development-teams"
 date:	"2015-12-26"
 title:	"104 Questions For Product Development Teams"
-image:	"/images/0*h332lIEr3yb8sR3R.jpg"
+image:	"0*h332lIEr3yb8sR3R.jpg"
 ---
 
 **Please bookmark this post. Don’t try to read it all in one sitting. You will hate me and call me crazy.**
