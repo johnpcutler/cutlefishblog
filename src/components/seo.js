@@ -75,7 +75,8 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image`,
-          content: data.b.childImageSharp.fixed.src,
+          //content: data.b.childImageSharp.fixed.src,
+					content: "https://cutle.fish/ff.jpeg"
         },
         {
           name: `twitter:creator`,
