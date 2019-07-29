@@ -44,6 +44,8 @@ function SEO({ description, lang, meta, title }) {
 		)
   
   const metaDescription = description || data.a.siteMetadata.description
+		
+	console.log(data.b.childImageSharp.fixed.src)
 
   return (
     <Helmet
@@ -68,7 +70,7 @@ function SEO({ description, lang, meta, title }) {
         {
           property: `og:image`,
 		      //content: data.b.childImageSharp.fixed.src,
-					content: "https://cutle.fish/ff.jpeg"
+					content: "https://cutle.fish/static/f4cf5bcaa48f87a129f42cd156225383/8539d/ff.jpg"
         },
         {
           name: `twitter:card`,
