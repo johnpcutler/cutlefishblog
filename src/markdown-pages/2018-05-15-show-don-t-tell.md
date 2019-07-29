@@ -2,7 +2,7 @@
 path:	"/blog/show-dont-tell"
 date:	"2018-05-15"
 title:	"Show Don’t Tell"
-image:	"1*MrPCZAkgQYkpyMzQwUgtWA@2x.jpeg"
+image:	"/images/1*MrPCZAkgQYkpyMzQwUgtWA@2x.jpeg"
 ---
 
 #### Conference hangovers, best practices, stubborn coworkers, and actually changing something.

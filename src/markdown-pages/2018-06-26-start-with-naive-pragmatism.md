@@ -2,7 +2,7 @@
 path:	"/blog/start-with-naive-pragmatism"
 date:	"2018-06-26"
 title:	"Start With Naive Pragmatism"
-image:	"1*60AONVyonsMrZbH3Hd9Aaw@2x.jpeg"
+image:	"/images/1*60AONVyonsMrZbH3Hd9Aaw@2x.jpeg"
 ---
 
 A quick hint for change agents.

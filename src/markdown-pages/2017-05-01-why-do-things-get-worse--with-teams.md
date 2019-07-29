@@ -2,7 +2,7 @@
 path:	"/blog/why-do-things-get-worse-with-teams"
 date:	"2017-05-01"
 title:	"Why Do Things Get Worse (With Teams) ?"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 The goal of this post is to inspire discussion. I pose a question, and I’d love to hear your thoughts. Links to articles and books are appreciated.

@@ -2,7 +2,7 @@
 path:	"/blog/kanban-method-be-careful-about-your-boards-scope"
 date:	"2017-03-02"
 title:	"Kanban Method: Be Careful About Your Board’s Scope"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 When using the [Kanban Method](http://www.djaa.com/principles-general-practices-kanban-method), one of the toughest dilemmas is figuring out how far to the left and right to extend the board, and how to handle outside resource dependencies.

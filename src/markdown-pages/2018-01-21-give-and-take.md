@@ -2,7 +2,7 @@
 path:	"/blog/give-and-take"
 date:	"2018-01-21"
 title:	"Give and Take"
-image:	"1*GKTaL-NLuJPufpMsszag4A@2x.jpeg"
+image:	"/images/1*GKTaL-NLuJPufpMsszag4A@2x.jpeg"
 ---
 
 Lately I’ve been fascinated by the interplay between goal setting, accountability, commitment, trust, safety, and coherence.

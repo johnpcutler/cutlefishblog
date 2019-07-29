@@ -2,7 +2,7 @@
 path:	"/blog/feedback-loops-and-done"
 date:	"2017-03-13"
 title:	"Feedback Loops and “Done”"
-image:	"1*7bPqmYF457WD2gRRsDX_nQ.jpeg"
+image:	"/images/1*7bPqmYF457WD2gRRsDX_nQ.jpeg"
 ---
 
 ![](/images/1*7bPqmYF457WD2gRRsDX_nQ.jpeg)Some teams just assume that fast feedback is impossible. It is more like build, build, build — maybe measure — learn eventually. Perhaps they deliver an enterprise product, and the thought of “experimenting” on their customers feels too risky and expensive. Or maybe they lack the tooling, autonomy, and schedule flexibility. The end result is that it feels very inefficient to “wait around” after the “project is complete”. So it is on to the next “project”, and the business (hopefully)

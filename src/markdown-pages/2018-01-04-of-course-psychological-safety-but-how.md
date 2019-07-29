@@ -2,7 +2,7 @@
 path:	"/blog/of-course-psychological-safety-but-how"
 date:	"2018-01-04"
 title:	"Of Course Psychological Safety…But How?"
-image:	"1*xqQ7aOtdvHC1_5BVdR8mGg@2x.jpeg"
+image:	"/images/1*xqQ7aOtdvHC1_5BVdR8mGg@2x.jpeg"
 ---
 
 ![](/images/1*xqQ7aOtdvHC1_5BVdR8mGg@2x.jpeg)A while back [I asked the following question on Twitter (and Medium)](https://medium.com/@johnpcutler/actionable-ways-to-improve-psychological-safety-on-teams-9d9a2a3940cf?source=linkShare-4c3f4fe11e6b-1515039761)

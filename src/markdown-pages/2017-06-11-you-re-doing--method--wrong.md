@@ -2,7 +2,7 @@
 path:	"/blog/youre-doing-method-wrong"
 date:	"2017-06-11"
 title:	"You’re Doing [Method] Wrong"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 #### I enjoy Twitter. I enjoy talking shop on Twitter. I love how Twitter threads about software product development follow some very predictable patterns…

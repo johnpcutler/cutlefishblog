@@ -2,7 +2,7 @@
 path:	"/blog/helicopter-management-teal-and-stirring-the-soup"
 date:	"2016-10-10"
 title:	"Helicopter Management, Teal, and Stirring The Soup"
-image:	"1*dL_2WWibLJkuIyN14qS7ow.png"
+image:	"/images/1*dL_2WWibLJkuIyN14qS7ow.png"
 ---
 
 #### Get Shift Done: Management

@@ -2,7 +2,7 @@
 path:	"/blog/making-okrs-easier"
 date:	"2019-06-16"
 title:	"Making OKRs Easier…"
-image:	"1*dpzntykSX7iohPMBwaln3Q.jpeg"
+image:	"/images/1*dpzntykSX7iohPMBwaln3Q.jpeg"
 ---
 
 ![](/images/1*dpzntykSX7iohPMBwaln3Q.jpeg)

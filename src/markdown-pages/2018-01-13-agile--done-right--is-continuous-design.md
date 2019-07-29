@@ -2,7 +2,7 @@
 path:	"/blog/agile-done-right-is-continuous-design"
 date:	"2018-01-13"
 title:	"Agile (Done Right) Is Continuous Design"
-image:	"1*NgXpHtEt0a7T0eFsOD2z4Q@2x.png"
+image:	"/images/1*NgXpHtEt0a7T0eFsOD2z4Q@2x.png"
 ---
 
 With Software-as-a-Service (SaaS), nothing is shipped. Design is continuous:

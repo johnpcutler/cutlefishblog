@@ -2,7 +2,7 @@
 path:	"/blog/we-cant-do-that-in-one-sprint"
 date:	"2018-01-24"
 title:	"We Can’t Do That In One Sprint"
-image:	"1*siePcBn2yZOKxF6bnDyp1g@2x.jpeg"
+image:	"/images/1*siePcBn2yZOKxF6bnDyp1g@2x.jpeg"
 ---
 
 OK. Let’s get this meeting started.

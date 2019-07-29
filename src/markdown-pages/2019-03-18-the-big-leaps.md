@@ -2,7 +2,7 @@
 path:	"/blog/the-big-leaps"
 date:	"2019-03-18"
 title:	"The Big Leaps"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 My usual list-compulsion. This time…the big leaps I observe teams taking in their product development related continuous improvement journey

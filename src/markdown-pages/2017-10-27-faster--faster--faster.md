@@ -2,7 +2,7 @@
 path:	"/blog/faster-faster-faster"
 date:	"2017-10-27"
 title:	"Faster. Faster. Faster."
-image:	"1*ASFrYGRPG67lvJ0FadoETw@2x.jpeg"
+image:	"/images/1*ASFrYGRPG67lvJ0FadoETw@2x.jpeg"
 ---
 
 I’d like to talk about fast.

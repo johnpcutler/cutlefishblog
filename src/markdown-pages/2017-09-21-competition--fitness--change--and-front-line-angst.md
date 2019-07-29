@@ -2,7 +2,7 @@
 path:	"/blog/competition-fitness-change-and-front-line-angst"
 date:	"2017-09-21"
 title:	"Competition, Fitness, Change, and Front-Line Angst"
-image:	"1*jGK-IRSLVLjyDozWXlTotQ.png"
+image:	"/images/1*jGK-IRSLVLjyDozWXlTotQ.png"
 ---
 
 *Note: Drawings are from a *[*100 day doodle challenge*](https://medium.com/personal-growth/10-things-i-learned-by-doodling-for-100-days-straight-a802753c5a25)* I did last year. I highly recommend taking the challenge!*

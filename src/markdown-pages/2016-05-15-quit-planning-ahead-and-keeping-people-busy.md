@@ -2,7 +2,7 @@
 path:	"/blog/quit-planning-ahead-and-keeping-people-busy"
 date:	"2016-05-15"
 title:	"Quit Planning Ahead and Keeping People Busy"
-image:	"1*JiavS5lB-qVQNmaOKL8vnQ.png"
+image:	"/images/1*JiavS5lB-qVQNmaOKL8vnQ.png"
 ---
 
 As product people, we need to work more on the mission and less on playing Tetris with teams and initiatives. To much planning ahead and chasing full utilization will undo your product.

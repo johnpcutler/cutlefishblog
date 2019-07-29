@@ -2,7 +2,7 @@
 path:	"/blog/a-better-roadmap-mind-map-mousetrap"
 date:	"2016-03-06"
 title:	"A Better Roadmap | Mind-Map | Mousetrap"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 #### This post is a summary of [this video on YouTube](https://www.youtube.com/watch?v=H8Xlrd2QGmU&feature=youtu.be). Check it out!

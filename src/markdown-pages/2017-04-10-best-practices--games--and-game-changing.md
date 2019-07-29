@@ -2,7 +2,7 @@
 path:	"/blog/best-practices-games-and-game-changing"
 date:	"2017-04-10"
 title:	"Best Practices, Games, and Game Changing"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 I was pondering various Twitter debates (e.g. #NoEstimates, agile vs. Agile, the dangers of incremental thinking, Scrum vs. Agile) over the weekend. These exchanges leave me pretty frustrated, and I was wondering why. I also got most of the way through [Jeff Gothelf](https://medium.com/u/94a2a063be85) and [Josh Seiden](https://medium.com/u/7f786c230ca9)’s book [Sense and Respond](https://www.amazon.com/dp/B01HLN0QGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) which offered up some new angles.

@@ -2,7 +2,7 @@
 path:	"/blog/fixed-length-sprints"
 date:	"2017-12-12"
 title:	"Fixed-Length Sprints"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 Some quick thoughts on fixed-length iterations.

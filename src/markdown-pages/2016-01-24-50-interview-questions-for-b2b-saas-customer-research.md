@@ -2,7 +2,7 @@
 path:	"/blog/50-interview-questions-for-b2b-saas-customer-research"
 date:	"2016-01-24"
 title:	"50 Interview Questions For B2B SaaS Customer Research"
-image:	"1*iDQbRKoEiCmtCjRbM93D9A.png"
+image:	"/images/1*iDQbRKoEiCmtCjRbM93D9A.png"
 ---
 
 *A no-nonsense list of of questions for B2B SaaS Customer Research*

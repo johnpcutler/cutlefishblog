@@ -2,7 +2,7 @@
 path:	"/blog/just-a-lifestyle-business"
 date:	"2016-06-04"
 title:	"*Just* a Lifestyle Business …"
-image:	"1*yhyG0HCQOGROTZG1lJwGSg.png"
+image:	"/images/1*yhyG0HCQOGROTZG1lJwGSg.png"
 ---
 
 *At a coffee shop somewhere in the Bay Area. Two people are talking about their friend’s business ..*

@@ -2,7 +2,7 @@
 path:	"/blog/good-work-is-hard-work"
 date:	"2017-08-23"
 title:	"Good Work Is Hard Work"
-image:	"1*W_ewTA8I4-Uuc3KFdaAcEg.png"
+image:	"/images/1*W_ewTA8I4-Uuc3KFdaAcEg.png"
 ---
 
 Software product development is hard.

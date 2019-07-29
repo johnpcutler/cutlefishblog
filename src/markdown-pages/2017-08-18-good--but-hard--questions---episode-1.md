@@ -2,7 +2,7 @@
 path:	"/blog/good-but-hard-questions-episode-1"
 date:	"2017-08-18"
 title:	"Good (But Hard) Questions — Episode 1"
-image:	"1*L23Ug4upCBkUitSWbSyGtw.png"
+image:	"/images/1*L23Ug4upCBkUitSWbSyGtw.png"
 ---
 
 ![](/images/1*L23Ug4upCBkUitSWbSyGtw.png)1. If culture is how we act, what is the most destructive behavior we tolerate? Why?

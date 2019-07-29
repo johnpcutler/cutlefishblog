@@ -2,7 +2,7 @@
 path:	"/blog/safety-in-silos"
 date:	"2017-05-16"
 title:	"Safety In Silos"
-image:	"1*r8FAvV8Iz16s9gg2uXplmQ.png"
+image:	"/images/1*r8FAvV8Iz16s9gg2uXplmQ.png"
 ---
 
 ![](/images/1*r8FAvV8Iz16s9gg2uXplmQ.png)Insert picture of silos here ….What you if you “rewarded” cross-functional product development teams when they delivered validated outcomes for customers (vs. rewarding them for feature velocity)

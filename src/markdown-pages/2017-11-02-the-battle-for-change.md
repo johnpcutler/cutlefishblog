@@ -2,7 +2,7 @@
 path:	"/blog/the-battle-for-change"
 date:	"2017-11-02"
 title:	"The Battle For Change"
-image:	"1*r3M6WtYaGEYbQ-LkIkaWKQ@2x.jpeg"
+image:	"/images/1*r3M6WtYaGEYbQ-LkIkaWKQ@2x.jpeg"
 ---
 
 ![](/images/1*r3M6WtYaGEYbQ-LkIkaWKQ@2x.jpeg)

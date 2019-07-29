@@ -2,7 +2,7 @@
 path:	"/blog/stop-playing-tetris-with-teams-sprints-projects-and-individuals"
 date:	"2017-12-10"
 title:	"Stop Playing Tetris (With Teams, Sprints, Projects, and Individuals)"
-image:	"1*Z6cIjNk6eewlXVqZXl6seA@2x.jpeg"
+image:	"/images/1*Z6cIjNk6eewlXVqZXl6seA@2x.jpeg"
 ---
 
 For a year or two, I have been using Tetris as a metaphor for a slew of software product development anti-patterns. It works on the individual, team, sprint, project, program, and organizational level. And not just for development…it works wherever people are coordinating to do *work*.

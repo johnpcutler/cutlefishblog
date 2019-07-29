@@ -2,7 +2,7 @@
 path:	"/blog/stop-sprinting-start-thinking"
 date:	"2017-09-07"
 title:	"Stop Sprinting. Start Thinking."
-image:	"1*HKsy7kOeWhaU37a4IxbrIg.png"
+image:	"/images/1*HKsy7kOeWhaU37a4IxbrIg.png"
 ---
 
 #### …Even if you end up thoughtfully sprinting

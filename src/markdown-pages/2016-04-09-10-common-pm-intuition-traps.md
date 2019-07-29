@@ -2,7 +2,7 @@
 path:	"/blog/10-common-pm-intuition-traps"
 date:	"2016-04-09"
 title:	"10 Common PM Intuition Traps"
-image:	"1*fOjsHl5gqack0hVGdb-hAQ.png"
+image:	"/images/1*fOjsHl5gqack0hVGdb-hAQ.png"
 ---
 
 Many situations in product development run counter to our intuitions. The nature of the work is constantly changing. Context morphs frequently. Our teams, organizations, competitors, and industries represent a dizzyingly complex system. What we think works, makes sense and feels efficient betrays us.

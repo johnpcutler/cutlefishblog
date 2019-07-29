@@ -2,7 +2,7 @@
 path:	"/blog/why-we-write-tickets"
 date:	"2017-05-04"
 title:	"Why We Write Tickets"
-image:	"1*OF0R5473NbZxCwLGXh5j2g.png"
+image:	"/images/1*OF0R5473NbZxCwLGXh5j2g.png"
 ---
 
 Shared with my team the other day in Slack …

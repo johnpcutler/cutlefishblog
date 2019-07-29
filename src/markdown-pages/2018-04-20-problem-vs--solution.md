@@ -2,7 +2,7 @@
 path:	"/blog/problem-vs-solution"
 date:	"2018-04-20"
 title:	"Problem vs. Solution"
-image:	"1*SwOVukZ2BxSTdFkZQ-D2ew@2x.jpeg"
+image:	"/images/1*SwOVukZ2BxSTdFkZQ-D2ew@2x.jpeg"
 ---
 
 #### …and why you may be asking the wrong question(s)

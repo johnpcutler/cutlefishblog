@@ -2,7 +2,7 @@
 path:	"/blog/ripple-effects-no-and-chips-on-shoulders"
 date:	"2018-07-25"
 title:	"Ripple Effects, No, and Chips On Shoulders…"
-image:	"1*pzUZ0kEDtwPkxsBDldQITA@2x.jpeg"
+image:	"/images/1*pzUZ0kEDtwPkxsBDldQITA@2x.jpeg"
 ---
 
 ![](/images/1*pzUZ0kEDtwPkxsBDldQITA@2x.jpeg)

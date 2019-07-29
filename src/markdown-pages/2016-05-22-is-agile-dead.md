@@ -2,7 +2,7 @@
 path:	"/blog/is-agile-dead"
 date:	"2016-05-22"
 title:	"Is Agile Dead?"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 Is Agile **dead**? Is it **outdated**? Does it **suck**?

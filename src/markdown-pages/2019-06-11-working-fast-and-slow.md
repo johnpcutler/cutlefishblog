@@ -2,7 +2,7 @@
 path:	"/blog/working-fast-and-slow"
 date:	"2019-06-11"
 title:	"Working Fast and Slow"
-image:	"1*6Xtxci56D_M7k9D6WIHYxQ.png"
+image:	"/images/1*6Xtxci56D_M7k9D6WIHYxQ.png"
 ---
 
 #### And the beautiful mess of product development…

@@ -2,7 +2,7 @@
 path:	"/blog/the-killer-sales-instinct-vs-startup-validation"
 date:	"2016-04-23"
 title:	"The Killer Sales Instinct vs. Startup Validation"
-image:	"1*3U5OC0De1KImLyOrbIK9VQ.png"
+image:	"/images/1*3U5OC0De1KImLyOrbIK9VQ.png"
 ---
 
 As a rickshaw driver in NYC, I had my sales routine down pat.

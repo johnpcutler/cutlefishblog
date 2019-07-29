@@ -2,7 +2,7 @@
 path:	"/blog/stop-setting-up-product-roadmaps-to-fail"
 date:	"2016-04-04"
 title:	"Stop Setting Up Product Roadmaps To Fail"
-image:	"1*lOyg3v-GPArdMfHFP558mA.png"
+image:	"/images/1*lOyg3v-GPArdMfHFP558mA.png"
 ---
 
 ### Why Read

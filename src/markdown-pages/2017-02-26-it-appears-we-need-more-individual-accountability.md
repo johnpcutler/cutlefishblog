@@ -2,7 +2,7 @@
 path:	"/blog/it-appears-we-need-more-individual-accountability"
 date:	"2017-02-26"
 title:	"It Appears We Need More Individual Accountability"
-image:	"1*NNZ0Rq56qFWHGabZvH4Afw.jpeg"
+image:	"/images/1*NNZ0Rq56qFWHGabZvH4Afw.jpeg"
 ---
 
 Quick cartoon …

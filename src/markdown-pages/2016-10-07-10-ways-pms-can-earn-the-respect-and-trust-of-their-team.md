@@ -2,7 +2,7 @@
 path:	"/blog/10-ways-pms-can-earn-the-respect-and-trust-of-their-team"
 date:	"2016-10-07"
 title:	"10 Ways PMs Can Earn The Respect and Trust of Their Team"
-image:	"1*X57glPnDN_hC08jWZQXn3A.png"
+image:	"/images/1*X57glPnDN_hC08jWZQXn3A.png"
 ---
 
 #### … because once you’ve lost it, you’re pretty screwed

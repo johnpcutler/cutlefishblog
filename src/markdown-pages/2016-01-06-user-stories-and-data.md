@@ -2,7 +2,7 @@
 path:	"/blog/user-stories-and-data"
 date:	"2016-01-06"
 title:	"User Stories and Data"
-image:	"1*YI6YoTq9GexVQpoNxav-dA.png"
+image:	"/images/1*YI6YoTq9GexVQpoNxav-dA.png"
 ---
 
 ![](/images/1*YI6YoTq9GexVQpoNxav-dA.png)

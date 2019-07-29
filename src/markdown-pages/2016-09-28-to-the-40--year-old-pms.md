@@ -2,7 +2,7 @@
 path:	"/blog/to-the-40-year-old-pms"
 date:	"2016-09-28"
 title:	"To the 40+ Year Old PMs"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 #### Do you stay in the trenches, or get out? Why? And what does this mean for teams?

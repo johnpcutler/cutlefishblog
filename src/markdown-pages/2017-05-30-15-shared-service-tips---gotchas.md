@@ -2,7 +2,7 @@
 path:	"/blog/15-shared-service-tips-gotchas"
 date:	"2017-05-30"
 title:	"15 Shared Service Tips & Gotchas"
-image:	"1*WxOIbVOZb6OkJdJtXb9E6g.png"
+image:	"/images/1*WxOIbVOZb6OkJdJtXb9E6g.png"
 ---
 
 #### AKA: Seduced By Economies of Scale…

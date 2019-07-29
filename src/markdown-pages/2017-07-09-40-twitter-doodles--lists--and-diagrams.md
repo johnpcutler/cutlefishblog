@@ -2,7 +2,7 @@
 path:	"/blog/40-twitter-doodles-lists-and-diagrams"
 date:	"2017-07-09"
 title:	"40 Twitter Doodles, Lists, and Diagrams"
-image:	"1*nsxfB9NVDfF0aMcOogWMiA.jpeg"
+image:	"/images/1*nsxfB9NVDfF0aMcOogWMiA.jpeg"
 ---
 
 In prepping for a future [Medium](https://medium.com/u/504c7870fdb6) post, I found myself culling through old tweets. I enjoy doodling, listicles, and diagrams. And I like The Twitter.

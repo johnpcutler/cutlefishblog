@@ -25,7 +25,7 @@ export default function Template({
   )
 }
 export const pageQuery = graphql`
-  query($path: String!) {
+  query($path: String!, $image: String!) {
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
@@ -35,5 +35,22 @@ export const pageQuery = graphql`
 				image
       }
     }
+		file(relativePath: {eq: $image}) {
+		    id
+		    childImageSharp {
+		      fixed(width: 400) {
+		        base64
+		        tracedSVG
+		        aspectRatio
+		        width
+		        height
+		        src
+		        srcSet
+		        srcWebp
+		        srcSetWebp
+		        originalName
+		      }
+		    }
+		  }
   }
 `

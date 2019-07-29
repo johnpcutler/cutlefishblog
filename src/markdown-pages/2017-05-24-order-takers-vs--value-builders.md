@@ -2,7 +2,7 @@
 path:	"/blog/order-takers-vs-value-builders"
 date:	"2017-05-24"
 title:	"Order-Takers vs. Value-Builders"
-image:	"1*JAjsRCknNFMMY1E1PzvNzw.png"
+image:	"/images/1*JAjsRCknNFMMY1E1PzvNzw.png"
 ---
 
 Front-line individual contributors touch the machine, and they care about impact. They’ve survived silver bullets, rush-jobs, the sting of being asked to cut corners, and the scourge of shiny objects. They know what it is like to work for months on something, only for the effort to be canned, or perhaps worse for the work to get shipped and go unused by customers.

@@ -2,7 +2,7 @@
 path:	"/blog/how-to-tame-engineers-be-a-rockstar-and-ship-ing-product"
 date:	"2016-03-18"
 title:	"How To Tame Engineers, Be A Rockstar, and Ship ****ing Product"
-image:	"1*k0DySgE8CxPlO_h3zIBX4g.png"
+image:	"/images/1*k0DySgE8CxPlO_h3zIBX4g.png"
 ---
 
 ### Introduction

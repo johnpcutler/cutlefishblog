@@ -2,7 +2,7 @@
 path:	"/blog/one-person-assigned-to-each-story"
 date:	"2018-09-28"
 title:	"One Person Assigned To Each Story?"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 Modern product development is highly cross-functional.

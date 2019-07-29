@@ -2,7 +2,7 @@
 path:	"/blog/pms-say-i-dont-know-more-often"
 date:	"2017-06-01"
 title:	"PMs: Say “I Don’t Know” More Often!"
-image:	"1*NofM19vw_FzX0o40bhPurg.png"
+image:	"/images/1*NofM19vw_FzX0o40bhPurg.png"
 ---
 
 ![](/images/1*NofM19vw_FzX0o40bhPurg.png)

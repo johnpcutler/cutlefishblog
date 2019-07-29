@@ -2,7 +2,7 @@
 path:	"/blog/focus-until-it-hurts"
 date:	"2016-02-06"
 title:	"Focus Until It Hurts"
-image:	"1*GEu1h17A6_pm_grHkXzv-g.png"
+image:	"/images/1*GEu1h17A6_pm_grHkXzv-g.png"
 ---
 
 To startup founders and early team members, focus can be extremely uncomfortable. It defies many of our intuitions about customer-centricity, risk mitigation, “working hard”, and seizing opportunities. We are by definition opportunists and risk-takers and the list of good ideas is endless.

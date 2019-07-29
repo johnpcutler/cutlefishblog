@@ -2,7 +2,7 @@
 path:	"/blog/focus-is-the-ultimate-process"
 date:	"2016-05-26"
 title:	"Focus is the Ultimate Process"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 When confronted with workplace dysfunction, missed connections, or poor communication, we frequently assume that we need to address a process issue. If we only had the right tools and the right systems, we could untangle things. So we tweak and retweak processes, arrange meetings, and try to get (or buy) systems that promise to link together all of the information team members need and make it all work. But, does it ever *really *work?

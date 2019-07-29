@@ -2,7 +2,7 @@
 path:	"/blog/do-you-ask-for-story-level-estimates"
 date:	"2017-02-16"
 title:	"Do You Ask For Story-Level Estimates?"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 Given the situation below, do you ask the team to estimate individual stories? If so, why might you need story-level estimates? How would these story-level estimates benefit you? If not, why are you comfortable not having story-level estimates?

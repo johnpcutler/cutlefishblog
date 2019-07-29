@@ -2,7 +2,7 @@
 path:	"/blog/outcomes-were-programmed-to-get-into-the-weeds"
 date:	"2017-02-18"
 title:	"Outcomes? We’re Programmed to Get into the Weeds"
-image:	"defaultimage.png"
+image:	"/images/defaultimage.png"
 ---
 
 In response to my post on [feature factories](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2#.4mfv4tryz), a friend asked…

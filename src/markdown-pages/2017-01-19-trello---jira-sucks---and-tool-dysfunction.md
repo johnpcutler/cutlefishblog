@@ -2,7 +2,7 @@
 path:	"/blog/trello-jira-sucks-and-tool-dysfunction"
 date:	"2017-01-19"
 title:	"Trello, “Jira Sucks”, and Tool Dysfunction"
-image:	"1*ozKxyhUOeYpIigJjGtN9pg.png"
+image:	"/images/1*ozKxyhUOeYpIigJjGtN9pg.png"
 ---
 
 ![](/images/1*ozKxyhUOeYpIigJjGtN9pg.png)I love [Trello](https://medium.com/u/fb5dd2d116a1) because there are very few ways you can screw it up. You simply don’t use Trello for the “more complicated” workflows because it fails miserably (thank god). It’s simple, fast, no frills, and helps you focus on collaborating with other people and getting work done. And that’s OK. I’m very happy that [Atlassian](https://medium.com/u/5aa6b9976187) — a company I respect and admire — [has purchased Trello.](https://hackernoon.com/what-the-trello-acquisition-means-for-atlassian-6a21ef7ac169#.mem6innxb)

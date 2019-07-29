@@ -2,7 +2,7 @@
 path:	"/blog/18-things-your-okrs-shouldnt-do"
 date:	"2017-12-06"
 title:	"18 Things Your OKRs Shouldn’t Do…"
-image:	"1*ztWp0eNJ-7RCpfxQALM9Tg@2x.jpeg"
+image:	"/images/1*ztWp0eNJ-7RCpfxQALM9Tg@2x.jpeg"
 ---
 
 ![](/images/1*ztWp0eNJ-7RCpfxQALM9Tg@2x.jpeg)
