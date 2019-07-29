@@ -74,11 +74,11 @@ function SEO({ description, lang, meta, title }) {
           name: `twitter:card`,
           content: `summary`,
         },
-        {
-          name: `twitter:image`,
+        //{
+          //name: `twitter:image`,
           //content: data.b.childImageSharp.fixed.src,
 					content: "https://cutle.fish/ff.jpeg"
-        },
+        //},
         {
           name: `twitter:creator`,
           content: data.a.siteMetadata.author,
