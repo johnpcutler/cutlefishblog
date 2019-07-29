@@ -20,6 +20,7 @@ function SEO({ description, lang, meta, title }) {
             description
             author
 						twitterHandle
+						siteURL
           }
         }
 				b: file(relativePath: {eq: "ff.jpeg"}) {
@@ -69,18 +70,12 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-		      //content: data.b.childImageSharp.fixed.src,
-					content: "/static/f4cf5bcaa48f87a129f42cd156225383/8539d/ff.jpg"
+					content: `${data.a.siteMetadata.siteURL}${data.b.childImageSharp.fixed.src}`
         },
         {
           name: `twitter:card`,
           content: `summary`,
         },
-        //{
-          //name: `twitter:image`,
-          //content: data.b.childImageSharp.fixed.src,
-				  //content: "https://cutle.fish/ff.jpeg"
-        //},
         {
           name: `twitter:creator`,
           content: data.a.siteMetadata.author,
@@ -107,7 +102,8 @@ SEO.defaultProps = {
   meta: [],
   description: ``,
   image: '',
-	twitterHandle: ''
+	twitterHandle: '',
+	siteURL: ''
 }
 
 SEO.propTypes = {
@@ -116,7 +112,8 @@ SEO.propTypes = {
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
   image: PropTypes.string,
-	twitterHandle: PropTypes.string
+	twitterHandle: PropTypes.string,
+	siteURL: PropTypes.string
 }
 
 export default SEO
