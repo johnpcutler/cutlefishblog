@@ -36,7 +36,3 @@ Why does the word *bet *work?
 13. We consider the ideal number of concurrent bets (“bets in progress”). Taking too many bets at once can distract the team and in some cases teams will pursue clashing/competitive bets that reduce the odds overall
 14. Bets can be “nested” hierarchically and/or have dependencies. The company could have a big bet on an emerging technology which cascades into a number of smaller, more tactical feature bets
 Check out Kniberg’s slides. Their framework may or may not be right for your company, but the word Bet might still prove to be useful.
-
-[![](/images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](/images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](/images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
-> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to [discuss advertising & sponsorship](mailto:partners@amipublications.com) opportunities.
-> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](/images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
