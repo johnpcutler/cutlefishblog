@@ -5,7 +5,9 @@ title:	"12 Bottom-Up Change Hints"
 image:	"/images/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg"
 ---
 
-![](/images/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg)Sometimes you need to wear rose colored glasses ….1. Email is a terrible way to advocate for change. Too much can go wrong.
+![](/images/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg)Sometimes you need to wear rose colored glasses ….
+
+1. Email is a terrible way to advocate for change. Too much can go wrong.
 2. Don’t assume that someone who complains about something in private, is prepared to advocate for change in public. Pick your agitators wisely.
 3. Craft the change you want in terms accessible to the business. How will this improve/create business outcomes? This is a no-brainer, but I always amaze myself by how often I leave out the Why, and connect that to my proposed How/What/Who. I assume the connection is self-evident.
 4. Remember that the system is perfectly optimized for *something*. That something may be the perfect balance of two opposing agendas. It is tempting to identify that tension as instability (and a situation ripe for disruption), but the butting of heads can be perfectly predictable, and intractable. Put another way, don’t assume discord equates to an opportunity for change, and don’t assume “this makes no sense” means it truly makes no sense. Also, realize that a single goal — a promise to grow at a certain rate, for example — can obliterate and overshadow all other needs. Nothing else is important, even when people say it is. Ask yourself … what is this system truly optimized for?
