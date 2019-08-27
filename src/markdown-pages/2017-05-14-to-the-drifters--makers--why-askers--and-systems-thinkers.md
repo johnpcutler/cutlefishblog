@@ -20,7 +20,3 @@ If you’re like me you relish that amazing rush when a team of creative people 
 It is precisely this “white-space” that can be hard for others to navigate. And this *is* where we thrive and where we can provide value. But we need to support each other with opportunities, feedback, and learning opportunities. We’re a diverse lot! Let’s capitalize on the bundle of contradictions!
 
 Does this ring true with anyone? How do you balance your interests? Which environments do you thrive in? How do you find your fit?
-
-[![](/images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](/images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](/images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
-> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to [discuss advertising & sponsorship](mailto:partners@amipublications.com) opportunities.
-> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](/images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)

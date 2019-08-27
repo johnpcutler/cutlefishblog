@@ -43,6 +43,3 @@ I’ve written about addressing this problem. Check out these posts:
 * [How Much Does A New Feature Cost?](https://medium.com/@johnpcutler/how-much-does-a-new-feature-cost-f93c82bf638f#.4z8zx61vn)
 * [User Stories and Data](https://medium.com/@johnpcutler/user-stories-and-data-32057117fc7b#.2qb4k29jb)
 * … actually it is a [theme in most of my posts](https://medium.com/@johnpcutler)
-[![](/images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](/images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](/images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
-> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to [discuss advertising & sponsorship](mailto:partners@amipublications.com) opportunities.
-> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted![![](/images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)](https://goo.gl/Ahtev1)

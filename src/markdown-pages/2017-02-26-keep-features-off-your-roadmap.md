@@ -97,7 +97,3 @@ I received some questions this week about mission/outcome driven roadmaps. I’l
 * Anyone should be able to access the brief get up to speed quickly
 * Importantly, include a [cost of delay estimate](http://blackswanfarming.com/cost-of-delay/). This, in my opinion, is more important than an duration estimate for the effort
 * The brief might also cover things like: current state, success measures, how the effort will be funded, key assumptions to validate, key risks, key actors, etc. Tailor this to your situation
-
-> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI)family. We are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to [discuss advertising & sponsorship](mailto:partners@amipublications.com) opportunities.
-> To learn more, [read our about page](https://goo.gl/4ofytp), [like/message us on Facebook](http://bit.ly/HackernoonFB), or simply, [tweet/DM @HackerNoon.](https://goo.gl/k7XYbx)
-> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!

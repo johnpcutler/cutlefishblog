@@ -39,7 +39,3 @@ Ask an engineer or UXD “what tools help you build better more usable software�
 Anyway. That is what’s on my mind today. Are the tools running the team, and not the other way around? Is your tooling delivering better outcomes to your customers, or just making everyone feel better internally? Do all of those layers of customization really add value?
 
 Also, do we always fail when trying to to mix workflow, continuous improvement efforts, and collaboration on tickets in a single tool? I always advise teams to work with a physical board to reflect on and tweak how they work. And THEN pick a tool. Instead, teams figure they’ll “do Agile”, figure everyone does Scrum to the book, and buy a tool to enforce said process. It rarely ends well.
-
-[![](/images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](/images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](/images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
-> [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to [discuss advertising & sponsorship](mailto:partners@amipublications.com) opportunities.
-> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](/images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
