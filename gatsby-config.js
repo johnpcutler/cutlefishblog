@@ -5,6 +5,7 @@ module.exports = {
 	  author: `John Cutler`,
 		twitterHandle: '@johncutlefish',
 		siteURL: 'https://cutle.fish' //this is a bit of a hack
+		siteUrl: 'https://cutle.fish' //this is a bit of a hack
   },
   plugins: [
 		`gatsby-plugin-sitemap`,
