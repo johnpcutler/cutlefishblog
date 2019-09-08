@@ -4,7 +4,7 @@ module.exports = {
     description: `Writing on all things product by John Cutler (@johncutlefish).`,
 	  author: `John Cutler`,
 		twitterHandle: '@johncutlefish',
-		siteURL: 'https://cutle.fish' //this is a bit of a hack
+		siteURL: 'https://cutle.fish', //this is a bit of a hack
 		siteUrl: 'https://cutle.fish' //this is a bit of a hack
   },
   plugins: [
