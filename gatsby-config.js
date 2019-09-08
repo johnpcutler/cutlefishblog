@@ -7,6 +7,8 @@ module.exports = {
 		siteURL: 'https://cutle.fish' //this is a bit of a hack
   },
   plugins: [
+		`gatsby-plugin-sitemap`,
+		'gatsby-plugin-robots-txt',
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
