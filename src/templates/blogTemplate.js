@@ -16,6 +16,7 @@ export default function Template({
 		<SEO title={frontmatter.title} previewImage={frontmatter.image.childImageSharp.fixed.src} />
     <div className="blog-post-container">
       <div className="blog-post">
+				<p><mark>Check out <a href="https://playpodca.st/iteratefm">Iterate.fm</a>, my podcast with friend and coworker Tareq</mark></p>
         <h1>{frontmatter.title}</h1>
         <h4>Published: {frontmatter.date}</h4>
         <div
