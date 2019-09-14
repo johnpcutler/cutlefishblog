@@ -9,7 +9,7 @@ image:	"/images/trust_diagram.png"
 
 How do product managers lose the trust of their team?
 
-How they communicate to their teammates plays a big role.
+How they communicate with their teammates plays a big role.
 
 ## Scenario
 
