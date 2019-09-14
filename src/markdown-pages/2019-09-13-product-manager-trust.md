@@ -5,6 +5,8 @@ title:	"How Product Managers Lose Trust"
 image:	"/images/trust_diagram.png"
 ---
 
+![](/images/trust_diagram.png)
+
 How do product managers lose the trust of their team?
 
 How they communicate to their teammates plays a big role.
@@ -58,8 +60,6 @@ This could all be best summed up in a quote from a developer:
 So what is my point?
 
 First, the obvious. Trust is so incredibly important. I truly believe we enter work relationships with a combination of trust for our teammates AND the collective weight of past conflicts AND whatever biases we have about roles & responsibilities. This is why you'll need to work to increase and preserve trust and confront your own stereotypes of those around you.
-
-![](/images/trust_diagram.png)
 
 Second, product managers need to be especially aware of how their language can be interpreted (especially when they and their teammates are stressed and/or impatient). This is why I believe designers and engineers who transition to the product manager role will have a bit of an edge: they know how things might come off. They've been there. For example, they know how awkward it can feel to be relayed information second hand from people within your company with obvious context missing.
 
