@@ -23,7 +23,7 @@ Let's imagine four sample responses *from* the product manager:
 1. "Nothing looks wrong about the UX to me. It is totally usable! And I don't like when we gold-plate. This is finished based on the acceptance criteria. Time to move on."
 2. "Well, we committed to finish this by the end of the month and then start on Project X. I was chatting with Marvin from Marketing, and Project X is getting *a lot* of attention from Linda (the CEO)."
 3. "I just don't see how these usablity tweaks and refactoring are the most important thing we could be working on. I mean is it more valuable than Item A? Customers and customer support have been begging us to do Item A since last year. Can we really justify that? What is the valua of slightly better UX?"
-4. "If you feel strongly about this, then go for it. What would make me a bit more comfortable would be for us to revisit our one-pager for this missions -- the one we wrote together -- and make sure this additional work aligns with our goals. And then spend a couple minutes reviewing other things we have discussed doing, and see how what you are proposing stacks up. I'm fine with whatever the rest of the team decides to do, but I care about us really being thoughtful about these choices."
+4. "If you feel strongly about this, then go for it. What would make me a bit more comfortable would be for us to revisit our one-pager for this mission -- the one we wrote together -- and make sure this additional work aligns with our goals. And then spend a couple minutes reviewing other things we have discussed doing, and see how what you are proposing stacks up. I'm fine with whatever the rest of the team decides to do, but I care about us really being thoughtful about these choices."
 
 ## Review
 
