@@ -41,7 +41,7 @@ There's a spectrum here.
 
 ## Coherence (or lack thereof)
 
-Engineers and designers are trained problem solvers (and problem definers/explorers, and systems thinkers, and cost/benefit analyzers, etc). They can sniff out incoherence a mile away, even if it isn't their individual area of focus and expertise. So, while a designer may not be a "business expert", they're likely able to sense a business strategy that doesn't add up. They an also tell when someone is flat out guessing.
+Engineers and designers are trained problem solvers (and problem definers/explorers, and systems thinkers, and cost/benefit analyzers, etc). They can sniff out incoherence a mile away, even if it isn't their individual area of focus and expertise. So, while a designer may not be a "business expert", they're likely able to sense a business strategy that doesn't add up. They can also tell when someone is flat out guessing.
 
 When they (engineers and designers) repeatedly can't see the impact of their work, or impact is wrapped in success theater, or the product manager's actions are *incoherent*, or explanations are weak and opaque...they are likely to start losing faith and trust. Even small and innocent things can be a trigger. Consider the example from #2 where the PdM happens to have interacted with lots of people outside the team. That's good! Interactions are good. But the mere distance, coupled with some communication gaffes, can turn a positive thing into a troublesome thing. The team feels out of the loop, and feels less in control of the outcome.
 
@@ -53,7 +53,7 @@ Often, product management will point to the fact that "things are going VERY WEL
 
 This could all be best summed up in a quote from a developer:
 
-> We spend all day,  every day, accountable to this tickets. Scrutinized. Under the gun.  Our designs have the work. Our code has to work. QA literally tries to break what we do. People count "points". We're told stand up and give statuses every day. Now where is that same rigor for our product manager? When they overrule us, or challenge the value of our work or suggestions, where is that same focus on their decisions? In fact, when things go wrong, we just get blamed for being slow.
+> We spend all day,  every day, accountable to this tickets. Scrutinized. Under the gun.  Our designs have to work. Our code has to work. QA literally tries to break what we do. People count "points". We're told stand up and give statuses every day. Now where is that same rigor for our product manager? When they overrule us, or challenge the value of our work or suggestions, where is that same focus on their decisions? In fact, when things go wrong, we just get blamed for being slow.
 
 ## The Point
 
