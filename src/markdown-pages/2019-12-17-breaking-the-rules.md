@@ -20,7 +20,7 @@ Sometimes they...
 - Have output oriented goals. Ship X.
 - Obsess about aesthetic details.
 - Ignore customers.
-- The take feature-requests.
+- They take feature-requests.
 - Work more waterfall-like. Lots of handoffs.
 - Parallelize (and serialize).
 - Shoot for the step-change and stop iterating.
