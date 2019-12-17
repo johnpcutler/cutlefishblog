@@ -5,6 +5,8 @@ title:	"Small Promises Regularly Kept"
 image:	"/images/small_promises.jpg"
 ---
 
+
+
 ![](/images/small_promises.jpg)
 
 I talk to many people about their jobs. There's a pattern I have noticed over the years.
