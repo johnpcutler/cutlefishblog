@@ -7,6 +7,8 @@ image:	"/images/1*A9HaI7x2MdvkTn48D9a0wg.jpeg"
 
 ![](/images/1*A9HaI7x2MdvkTn48D9a0wg.jpeg)
 
+(Note: This was written in 2016. I recently — in late 2019 — [wrote a post about some things I've learned since then](https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later).)
+
 I’ve used the term *Feature Factory *at a couple conference talks over the past two years. I started using the term when a software developer friend complained that he was “just sitting in the factory, cranking out features, and sending them down the line.”
 
 How do you know if you’re working in a feature factory?
