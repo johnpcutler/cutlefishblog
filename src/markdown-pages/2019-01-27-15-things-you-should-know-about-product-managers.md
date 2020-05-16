@@ -2,14 +2,14 @@
 path:	"/blog/15-things-you-should-know-about-product-managers"
 date:	"2019-01-27"
 title:	"15 Things You Should Know About Product Managers"
-image:	"/images/1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg"
+image:	"../images/1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg"
 ---
 
 *Note: Some quick background to this list. At *[*Amplitude*](https://amplitude.com/)* (my day job), we help teams build better products. I’ve been super impressed by the product chops of our account executives, sales engineers, and customer success managers. The team has experience helping all sorts of teams be more successful.*
 
 *That said, we’re growing fast, which means that newly joined people need to get up to speed quickly. Product and product management can be confusing from the outside. So I put together this list of common PM challenges to help build empathy/understanding for PMs.*
 
-![](/images/1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg)This post is meant to build empathy for product managers, and to understand their world just a bit better. I’ve focused on the hard stuff, so don’t expect too many feel-good stories. Don’t assume these are universal, but always be on the lookout for ways to connect more deeply with their challenges (and turn those challenges into opportunities for progress)
+![](../images/1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg)This post is meant to build empathy for product managers, and to understand their world just a bit better. I’ve focused on the hard stuff, so don’t expect too many feel-good stories. Don’t assume these are universal, but always be on the lookout for ways to connect more deeply with their challenges (and turn those challenges into opportunities for progress)
 
 . Empathy goes a very long way.
 

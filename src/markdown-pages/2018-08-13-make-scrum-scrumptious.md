@@ -2,10 +2,10 @@
 path:	"/blog/make-scrum-scrumptious"
 date:	"2018-08-13"
 title:	"Make Scrum Scrumptious!"
-image:	"/images/1*u_3HE3JsSUkCSIfm9_Vb5Q@2x.jpeg"
+image:	"../images/1*u_3HE3JsSUkCSIfm9_Vb5Q@2x.jpeg"
 ---
 
-![](/images/1*u_3HE3JsSUkCSIfm9_Vb5Q@2x.jpeg)
+![](../images/1*u_3HE3JsSUkCSIfm9_Vb5Q@2x.jpeg)
 
 This post is about Scrum’s scrumptious forcing function….the “potentially releasable product increment”. From the Scrum Guide:
 

@@ -2,7 +2,7 @@
 path:	"/blog/its-a-wonder-some-teams-get-anything-done"
 date:	"2017-07-02"
 title:	"It’s A Wonder Some Teams Get Anything Done"
-image:	"/images/1*kqO7SqQtzcyNYFYv5vcKYg.png"
+image:	"../images/1*kqO7SqQtzcyNYFYv5vcKYg.png"
 ---
 
 #### Or, why you should visualize ALL work and use Cost of Delay
@@ -13,17 +13,17 @@ Let’s review two (scarily common) examples.
 
 **Exhibit #1**. This team is working on two **initiatives**. Initiative 1 is “costing” the company $100,000 per month. Initiative 2 is “costing” the company $1,000,000 per month.
 
-![](/images/1*kqO7SqQtzcyNYFYv5vcKYg.png)Work breakdown for a singe teamCost of Delay (COD) is the “[partial derivative of the total expected value with respect to time](https://en.wikipedia.org/wiki/Cost_of_delay)”. ~30% of the team’s capacity is being dedicated to those two value-add initiatives. The rest of the team’s capacity is being “spent” on unplanned work (stemming from unmanaged complexity)
+![](../images/1*kqO7SqQtzcyNYFYv5vcKYg.png)Work breakdown for a singe teamCost of Delay (COD) is the “[partial derivative of the total expected value with respect to time](https://en.wikipedia.org/wiki/Cost_of_delay)”. ~30% of the team’s capacity is being dedicated to those two value-add initiatives. The rest of the team’s capacity is being “spent” on unplanned work (stemming from unmanaged complexity)
 
 , planning for future efforts, and task switching. Why would any rational person work this way? Easy…to be responsive, stay busy, show some progress on the CEO’s pet project, and pragmatically deal with tech debt. What should they do instead? Something like…
 
-![](/images/1*XizTcNXRDQ-w9qBNNhBFsw.png)
+![](../images/1*XizTcNXRDQ-w9qBNNhBFsw.png)
 
 Working down the technical debt to limit the amount of unplanned workSince the unplanned work saps capacity almost equal to the two value-add initiatives combined, it might be wise to knock that out as quickly as possible, especially given the non-linear nature of unmanaged complexity. It could get gnarly fast. Unfortunately, this will be unpopular because “not doing new stuff” is a psychological hit for a team.
 
 **Exhibit #2**. Now let’s take a “shared” team (Team B). Maybe they’re a tools or infrastructure team. Lucky for them, they don’t have the same debt hanging over their head, but they do have to service two “high priority” projects (Team A swears this is high priority, and it literally may be their highest priority). There’s just one problem: one of the efforts (I2) is addressing 10x the cost of delay ($1,000,000 vs $100,000).
 
-![](/images/1*PXZw9ZfTSSXWFJRm-qRAeQ.png)Shared team (Team B)
+![](../images/1*PXZw9ZfTSSXWFJRm-qRAeQ.png)Shared team (Team B)
 
  is splitting its capacity between two projects. Why?Is this bad? Of course! It’s terrible. Initiative 2 accounts for 10 Initiative 1s. If doing both adds one month to the completion of Initiative 2, then the company will have “lost” $1,000,000. Why does this happen? I can think of many reasons:
 
@@ -50,6 +50,6 @@ Why is focus so difficult? Why is it so hard to slow down to speed up? Why are t
 **To Do**: Read the book [Crucial Conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822). Use Cost of Delay to keep things grounded in economics.
 That’s it. Nothing earth shattering.
 
-[![](/images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](/images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](/images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+[![](../images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](../images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](../images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
 > [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to [discuss advertising & sponsorship](mailto:partners@amipublications.com) opportunities.
-> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](/images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](../images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)

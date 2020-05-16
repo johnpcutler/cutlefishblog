@@ -2,7 +2,7 @@
 path:	"/blog/good-process-bad-process"
 date:	"2015-12-26"
 title:	"Good Process, Bad Process"
-image:	"/images/0*IU7FzFvFIufSAPPL.png"
+image:	"../images/0*IU7FzFvFIufSAPPL.png"
 ---
 
 To most people the word “process” might as well be a four-letter word.
@@ -33,7 +33,7 @@ Checklists sound awfully controlling. But, by using a checklist surgical teams c
 
 Alistair Cockburn describes the “heart of agile” in four simple words: collaborate, deliver, reflect, and improve. Which is remarkably similar to the [learning process](https://teaching.unsw.edu.au/understanding-learning-processes), and the [Deming Circle (PDCA)](https://en.wikipedia.org/wiki/PDCA).
 
-![](/images/0*IU7FzFvFIufSAPPL.png)Four processes form the [“basic mechanisms”](http://evolution.berkeley.edu/evolibrary/article/evo_16)
+![](../images/0*IU7FzFvFIufSAPPL.png)Four processes form the [“basic mechanisms”](http://evolution.berkeley.edu/evolibrary/article/evo_16)
 
  of evolutionary change: mutation, migration, genetic drift, and natural selection.
 

@@ -2,7 +2,7 @@
 path:	"/blog/before-adding-process"
 date:	"2018-06-17"
 title:	"Before Adding Process"
-image:	"/images/1*1Xn3ytqbjryrjVj3aWFZCQ@2x.jpeg"
+image:	"../images/1*1Xn3ytqbjryrjVj3aWFZCQ@2x.jpeg"
 ---
 
 Before adding a new process / working agreement…
@@ -34,4 +34,4 @@ Look for these warning signs and antipatterns:
 * Drives a wedge between groups/individuals?
 * Perverse incentives?
 * Driven disproportionately by short-term needs?
-![](/images/1*1Xn3ytqbjryrjVj3aWFZCQ@2x.jpeg)
+![](../images/1*1Xn3ytqbjryrjVj3aWFZCQ@2x.jpeg)

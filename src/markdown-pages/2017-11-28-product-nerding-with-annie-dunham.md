@@ -2,7 +2,7 @@
 path:	"/blog/product-nerding-with-annie-dunham"
 date:	"2017-11-28"
 title:	"Product Nerding with Annie Dunham"
-image:	"/images/1*Gf2k6Rk-QNvcxx2mArGRJw@2x.jpeg"
+image:	"../images/1*Gf2k6Rk-QNvcxx2mArGRJw@2x.jpeg"
 ---
 
 #### Missions, Sensemaking, Structure, “Agile”, and the Why
@@ -17,11 +17,11 @@ Dana Solomon from ProductPlan tossed out some great questions.
 
 But first an obligatory quirky doodle from my [100 Day Doodle Challenge](https://medium.com/personal-growth/10-things-i-learned-by-doodling-for-100-days-straight-a802753c5a25?source=linkShare-4c3f4fe11e6b-1511897091) (aka my quirky Medium cover photo respository) so that [Medium ](https://medium.com/u/504c7870fdb6)actually lists this as a new post, and 3x+ more people actually give it a chance.
 
-![](/images/1*Gf2k6Rk-QNvcxx2mArGRJw@2x.jpeg)
+![](../images/1*Gf2k6Rk-QNvcxx2mArGRJw@2x.jpeg)
 
 BTW. Thanks Dana!
 
-![](/images/1*khntACXfM9nX-I_Csa4xLQ@2x.gif)
+![](../images/1*khntACXfM9nX-I_Csa4xLQ@2x.gif)
 
 **Earlier, you both referred to the idea that there’s been a shift in product management, that due to the evolution of technology, the rise of SaaS, and other factors, many product managers are more accurately managing product “systems”. If you’re a product manager managing a product system, what else changes beyond the “product” itself?**
 

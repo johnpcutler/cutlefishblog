@@ -2,7 +2,7 @@
 path:	"/blog/why-quarterly-okrs"
 date:	"2018-08-24"
 title:	"Why Quarterly OKRs?"
-image:	"/images/1*ryDIPTNG1EY05M0_iveBZw@2x.jpeg"
+image:	"../images/1*ryDIPTNG1EY05M0_iveBZw@2x.jpeg"
 ---
 
 Does your company use quarterly OKRs?
@@ -16,7 +16,7 @@ Here’s a thought… quarterly OKRs are like quarterly “sprints”. Some team
 
 > But quarterly planning is so painful! I don’t want to do it more frequently!Maybe that’s a hint. [Frequency reduces difficulty](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)! Or put more colloquially…if it hurts, do it more often. Perhaps quarterly planning hurts because it happens too infrequently (and at an artificial cadence).
 
-![](/images/1*ryDIPTNG1EY05M0_iveBZw@2x.jpeg)
+![](../images/1*ryDIPTNG1EY05M0_iveBZw@2x.jpeg)
 
 The “drift” might be too great…
 
@@ -30,7 +30,7 @@ OK, let’s say you’re right. I want to go back to the idea of mixing continuo
 
 Notice here how you can have all sorts of cycles/cadences/triggers running at once. You have a finance cadence, product cadence, cross-functional effort focus, recruiting, and workplace happiness streams. Should they all operate on a 90.25 day cadence, or on a cadence at all?
 
-![](/images/1*x4lZJhR-MOktU2z9WtI1vA@2x.jpeg)
+![](../images/1*x4lZJhR-MOktU2z9WtI1vA@2x.jpeg)
 
 In closing…over the years I have seen many teams shift from pushed batch / fixed timebox models to continuous flow-based models. That’s not to say that fixed timebox models aren’t useful and absolutely applicable in some contexts, but rather to say that alternatives exist. Might we extend that to high level company planning as well?
 

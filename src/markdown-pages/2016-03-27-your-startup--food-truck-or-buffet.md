@@ -2,7 +2,7 @@
 path:	"/blog/your-startup-food-truck-or-buffet"
 date:	"2016-03-27"
 title:	"Your Startup: Food Truck or Buffet?"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 Is your startup a Food Truck or a Buffet?
@@ -11,7 +11,7 @@ Is your startup a Food Truck or a Buffet?
 
 Food trucks live and die by trying to do one thing well, and they’re relatively cheap to bootstrap ([$70,000 — $80,000](http://www.forbes.com/sites/investopedia/2012/09/27/the-cost-of-starting-a-food-truck/#440fea602930)). If your clientele dries up — the local venture funded startup goes caput, for example — you can drive somewhere else. It’s just you, your partner, your food, and your customers.
 
-![](/images/0*1mV9tajvoGXrqxH1.)<http://www.post-gazette.com/life/dining/2015/07/26/Food-trucks-have-nowhere-to-go-but-up/stories/201507260052>Food trucks let restaurateurs be creative and nimble. Writes Josh Ozersky in [Why Food Trucks Aren’t Going Away](http://ideas.time.com/2012/06/13/food-trucks-are-here-to-stay/)
+![](../images/0*1mV9tajvoGXrqxH1.)<http://www.post-gazette.com/life/dining/2015/07/26/Food-trucks-have-nowhere-to-go-but-up/stories/201507260052>Food trucks let restaurateurs be creative and nimble. Writes Josh Ozersky in [Why Food Trucks Aren’t Going Away](http://ideas.time.com/2012/06/13/food-trucks-are-here-to-stay/)
 
 :
 
@@ -26,7 +26,7 @@ People go to buffets to absolutely stuff their face. It’s [a sport.](http://mi
 
 Buffets are also [a food safety nightmare](http://www.foodsafetynews.com/2010/07/buffets-and-cross-contamination/#.VuZCBZMrKCQ) … even with the sneeze guards. Your Golden Corral chili [might have a rat head](http://www.nydailynews.com/news/national/florida-man-claims-golden-corral-chili-rat-head-article-1.1981988) swimming around in there if you aren’t careful (test first). It’s hard to keep track of all that food, rotate it, heat and cool it, and throw it out when it festers.
 
-![](/images/0*dbjrQsKORYkVPosj.)
+![](../images/0*dbjrQsKORYkVPosj.)
 
 ### How About Your Startup?
 

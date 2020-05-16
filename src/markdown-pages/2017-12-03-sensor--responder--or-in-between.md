@@ -2,7 +2,7 @@
 path:	"/blog/sensor-responder-or-in-between"
 date:	"2017-12-03"
 title:	"Sensor? Responder? Or In Between?"
-image:	"/images/1*9UqAihFInce92-23FeJJhw@2x.png"
+image:	"../images/1*9UqAihFInce92-23FeJJhw@2x.png"
 ---
 
 I was talking to a friend the other day. Referring to their particular strengths/weaknesses, they said the following (paraphrasing):
@@ -23,7 +23,7 @@ Below I take a quick stab at trying to group some of these high level skills as 
 
 Where in this system do you thrive? Where do you have trouble?
 
-![](/images/1*9UqAihFInce92-23FeJJhw@2x.png)
+![](../images/1*9UqAihFInce92-23FeJJhw@2x.png)
 
 #### Sense the Landscape
 

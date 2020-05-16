@@ -2,7 +2,7 @@
 path:	"/blog/10-ways-the-c-suite-can-support-agility"
 date:	"2017-12-08"
 title:	"10 Ways the C-Suite Can Support Agility"
-image:	"/images/1*fEBEHEN9I9rRxxaQmNktMA@2x.jpeg"
+image:	"../images/1*fEBEHEN9I9rRxxaQmNktMA@2x.jpeg"
 ---
 
 Put this quick list together for a COO friend whose company is embarking on a “Lean/Agile Transformation”. She asked:
@@ -10,7 +10,7 @@ Put this quick list together for a COO friend whose company is embarking on a �
 
 > What should I expect? How can I support this? I’ve seen tons of PowerPoint, but the discussion has largely been about what the engineering department will do.I replied with this list. I think it is important that senior leaders fully understand what is involved in making this work. All too often we direct our focus (and change) on “the teams”. Yes, someone needs to do the work. But they need support.
 
-![](/images/1*fEBEHEN9I9rRxxaQmNktMA@2x.jpeg)1. **Be prepared to focus and do less at once.** Adding work in progress/process constraints can feel counterintuitive. We often optimize around looking busy, and also fetishize stretch goals and multi-tasking. The benefits — improved flow, time to market, improved outcomes — will materialize, but the first steps will feel very uncomfortable. Resist the resistance.
+![](../images/1*fEBEHEN9I9rRxxaQmNktMA@2x.jpeg)1. **Be prepared to focus and do less at once.** Adding work in progress/process constraints can feel counterintuitive. We often optimize around looking busy, and also fetishize stretch goals and multi-tasking. The benefits — improved flow, time to market, improved outcomes — will materialize, but the first steps will feel very uncomfortable. Resist the resistance.
 2. **Be prepared to learn faster.** If you don’t have the culture/structures in place to turn rapid learning into customer/business value….you’ll end up building the wrong stuff faster (which is actually worse than what you’re doing now). We wrongly assume that Lean/Agile is about building faster. Rather, it is about doing better work. We may end up throwing things away that don’t work and/or pivoting midway through an initiative.
 3. **Be prepared to increase psychological safety everywhere.** Working together requires safety. It’s messy and intense. You likely have many processes in place that serve to buffer touchy situations and proxy trust/safety. Be prepared to eliminate handoffs, reporting chains, approval gates, etc. and support an environment that is safer for creative conflict and “calling things as they are”.
 4. **Be prepared to restructure.** You may be currently matrixing certain duties across multiple teams (e.g. Operations, UX, Visual Design, QA). While this may be advantageous in certain contexts, you will likely find positive economic benefits to “embedding” these functions on individual teams (or small groups of teams). Similarly, you may have a leadership structure that mirrors various handoffs (e.g. Director of QA, Director of Product, Director of Operations). With a focus on the full value stream, you’ll find that the nature of these roles change, and the reporting structure may require change as well. No longer can one silo say “Oh! We did our part, it is *their* fault! But give us budget!”

@@ -2,7 +2,7 @@
 path:	"/blog/where-do-we-put-the-ux-tasks"
 date:	"2016-05-29"
 title:	"Where Do We Put The UX Tasks?"
-image:	"/images/1*A3aIVO8RHXo9Z_wavFQ8Dw.png"
+image:	"../images/1*A3aIVO8RHXo9Z_wavFQ8Dw.png"
 ---
 
 In my career I’ve heard this conversation play out over and over:
@@ -20,7 +20,7 @@ I’ve seen teams try these three options to remedy the situation:
 
 Product and UX maintains intricate to-do lists for design and research work OUTSIDE of the primary ticketing system.
 
-![](/images/1*A3aIVO8RHXo9Z_wavFQ8Dw.png)* ***Pros:*** It keeps the ticketing system “clean and uncluttered.”
+![](../images/1*A3aIVO8RHXo9Z_wavFQ8Dw.png)* ***Pros:*** It keeps the ticketing system “clean and uncluttered.”
 * ***Con:*** No one knows what UX is working on, and it is impossible to view the dependencies. The backlog is obscured making it tough to get the “big picture”
 **Notes: **UXers often have a difficult time explaining the rhythm of their work. They regularly scan for work on the horizon, and “get ahead” of that work by doing research, producing mockups, tinkering, etc. These systems are highly individual. I’ve seen designers use Trello, Basecamp, Google Tasks, stickies, and their notebooks to manage this work. In many cases, it goes unappreciated simply because it is not visible.
 
@@ -28,7 +28,7 @@ Product and UX maintains intricate to-do lists for design and research work OUTS
 
 When UX is working on something, it is described as being In Progress (along with engineering work)
 
-![](/images/1*yJxE4NZ8nqkBuGo3mpiTWw.png)* ***Pros:*** A clear sense of WIP (work in progress), and the current burden on UX
+![](../images/1*yJxE4NZ8nqkBuGo3mpiTWw.png)* ***Pros:*** A clear sense of WIP (work in progress), and the current burden on UX
 * ***Con:*** Too much clutter / too many tickets, and UX work often falls out of sync with release cycle
 **Notes:** The trouble here is that design work itself is not shippable, and again it often doesn’t flow in the same way that engineering work flows. So you’ll finish a sprint and the board — digital or physical — will become cluttered with design tickets. Ideally, you’ll have a “Shipped” status, and therein lies the problem. Unless this design work is related to a customer-consumable / shippable item, it isn’t Done. You could argue that this approach is problematic for user-stories in general. Any time you break up a story based on functional roles (back-end/front-end, for example), you are diluting the story and creating a dependency management game.
 
@@ -36,7 +36,7 @@ When UX is working on something, it is described as being In Progress (along wit
 
 UX work is attached to a user-focused story, from early phase backlog refinement to shipped/done
 
-![](/images/1*EyWfsXX4vnYjYRcJjXsQpg.png)* ***Pros:*** Clearly describes dependencies. Allows for a “pull” system for design and research which promotes just-in-time work. Remains very user-goal focused
+![](../images/1*EyWfsXX4vnYjYRcJjXsQpg.png)* ***Pros:*** Clearly describes dependencies. Allows for a “pull” system for design and research which promotes just-in-time work. Remains very user-goal focused
 * ***Cons:*** May require sub-tasks, and multiple people assigned to a particular ticket. Requires strong stories and story splitting practices
 **Notes:** If UX is getting involved on a ticket before engineering (in an analysis/ design/research phase), then it is reasonable to call that work exactly what it is: analysis/design/research. It is similar to the work of engineering architects, business analysts, etc. Some models, like LeanUX, favor less upfront work and eschew the staggered sprint approach. Other teams do a good bit of pre-planning and design before they hand it off to engineering. When the work starts, it typically throws off lots of design tasks along with QA and engineering tasks. These remain with the story.
 

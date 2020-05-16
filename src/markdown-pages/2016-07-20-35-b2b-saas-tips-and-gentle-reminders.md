@@ -2,14 +2,14 @@
 path:	"/blog/35-b2b-saas-tips-and-gentle-reminders"
 date:	"2016-07-20"
 title:	"35 B2B SaaS Tips and Gentle Reminders"
-image:	"/images/1*YrN3kttaDgOW2058NS8XVg.png"
+image:	"../images/1*YrN3kttaDgOW2058NS8XVg.png"
 ---
 
 
 > The desire for safety stands against every great and noble enterprise — Tacitus
 > The second mouse gets the cheese! — Terry PratchettIt’s a listicle kind of night. And the topic is B2B Saas!
 
-![](/images/1*YrN3kttaDgOW2058NS8XVg.png)1. The broader the product, and the more pains it promises to address, the “easier” it will be to sell. It’s like casting a larger net, or putting on a buffet.
+![](../images/1*YrN3kttaDgOW2058NS8XVg.png)1. The broader the product, and the more pains it promises to address, the “easier” it will be to sell. It’s like casting a larger net, or putting on a buffet.
 2. The breadth of a product has an exponential impact on product complexity, cost to service, cost to market, cost to sell, and cost to remain agile
 3. The broader the product, and the more diverse the customer population, the harder it will be to innovate in such a way as to keep all customers happy
 4. A product that can be used to achieve a goal for savvy customers is not the same as a product that delivers that outcome to all customers

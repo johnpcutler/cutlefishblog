@@ -2,18 +2,18 @@
 path:	"/blog/persona-s-non-grata"
 date:	"2016-01-31"
 title:	"Persona(s) Non Grata"
-image:	"/images/1*PYLd6uR47EKj0uaWYRT3yA.png"
+image:	"../images/1*PYLd6uR47EKj0uaWYRT3yA.png"
 ---
 
 #### *Saving the persona from itself, from selfish UX, and other tips*
 
-![](/images/1*PYLd6uR47EKj0uaWYRT3yA.png)An engineer once described a persona exercise as “theater camp”. I thought about that for a while and realized what she was getting at. Here I was coming from the UX world, running the team through a song and dance exercise with imaginary people, stickies, and line drawings. The “creative” (me)
+![](../images/1*PYLd6uR47EKj0uaWYRT3yA.png)An engineer once described a persona exercise as “theater camp”. I thought about that for a while and realized what she was getting at. Here I was coming from the UX world, running the team through a song and dance exercise with imaginary people, stickies, and line drawings. The “creative” (me)
 
  felt comfortable — I was in my element — but to the attendees it was like a nightmarish new-age UX drum circle.
 
 It’s like a wrestler doing their first yoga class. Or me doing pair programming or trying TDD. I tell the one about role playing games being the inspiration for personas. Crickets. My jokes fall flat.
 
-![](/images/1*ts7qjjGY3B7UE4FD0DA7HA.png)[Role Playing Game Character Sheet aka Persona](http://markdangerchen.net/papers/coordination-cooperation-and-camaraderie-in-world-of-warcraft/world-of-warcraft-the-role-playing-game/)
+![](../images/1*ts7qjjGY3B7UE4FD0DA7HA.png)[Role Playing Game Character Sheet aka Persona](http://markdangerchen.net/papers/coordination-cooperation-and-camaraderie-in-world-of-warcraft/world-of-warcraft-the-role-playing-game/)
 
 One solution is to retrench and to consider personas as the UX rallying call. People are going to play along whether they like to or not, **embrace my powerful UX Empathy!** But I think that is shortsighted. I’ve experimented, and have found some things that work.
 
@@ -41,7 +41,7 @@ A great start is to eat the humble pie and openly acknowledge that you’re gues
 
 How do you structure and visualize this approach? Instead of a static (and quickly stale) persona, we’d use a Kanban board (or “canvas”) to prioritize assumptions, and then plan and execute experiments.
 
-![](/images/0*YoQirHs3SV7frdye.)
+![](../images/0*YoQirHs3SV7frdye.)
 
 The challenge here is that openly acknowledging how little we know is not exactly the stuff of CTO and VP of Product dreams. It makes people uneasy. Validated experiments don’t result in deployed 1s and 0s. Teams are frequently measured in terms of output, not outcomes. But if you foster a culture that is failure-safe and focused on learning you’ll be surprised by the engagement this inspires on the team.
 
@@ -55,7 +55,7 @@ At first I was skeptical and braced for the valid “low N” argument (focusing
 
 These “personas” — while not strict personas — came alive. Because they were *actually alive*. The team could jump on the phone and chat with them. What was impressive in this case was that the team had a much easier time moving from the specific to the general. They noticed commonalities. We developed generalized personas by going backwards — which essentially mimics how skilled designers and marketers create personas in the first place. It was a good example of experiencing the thinking process instead of mandating it.
 
-![](/images/0*ojES-hr1w2MCd0qB.)
+![](../images/0*ojES-hr1w2MCd0qB.)
 
 Starting with Fake Fake People rarely gets you to Real Fake People### Salience
 
@@ -74,7 +74,7 @@ What excites people more: 1) knowing how old a person is and that they like pupp
 
 Check out [the period table of storytelling](http://www.designthroughstorytelling.net/periodic/) and get lost for an afternoon.
 
-![](/images/1*UPyBhXJbHufZFHYAga0Vng.png)[Periodic Table of Storytelling](http://www.designthroughstorytelling.net/periodic/)
+![](../images/1*UPyBhXJbHufZFHYAga0Vng.png)[Periodic Table of Storytelling](http://www.designthroughstorytelling.net/periodic/)
 
 The summary and bullet-pointed nature of personas is the persona achilles heel. I remember interviewing a person who was caught in a terribly difficult financial situation. He was terrified that he would let his elderly mother down by mismanaging the property she had entrusted him to rent. Her care at the assisted living facility depended on it. Now that’s real. No bullet point can capture that. Playing the audio to the team captured it perfectly without any platitudes about empathy.
 
@@ -103,7 +103,7 @@ A major failing of traditional personas is that they fail to describe relationsh
 
 Let’s say you have a golfer and a caddie. What are the inputs and outputs of that relationship? The golfer is relying on the caddie for local knowledge and emotional support when she shanks the ball into another fairway. The caddie is relying on the golfer for money, for conversation (perhaps), and for regular work. Both have a relationship with the Pro and other Golfers.
 
-![](/images/0*J7yqiHDYAeKWpgk-.)
+![](../images/0*J7yqiHDYAeKWpgk-.)
 
 The relationship view is a much needed layer of understanding. The real opportunities for products often exists along the edges … not at the nodes. Work passes between people, not inside the confines of single personas. A successful product addresses the needs of all parties. These diagrams don’t fit into the neat and tidy persona templates, but they express a more realistic set of assumptions.
 
@@ -115,7 +115,7 @@ But as they stand personas have a bad rap. Framing personas merely on their capa
 
 There’s a couple reasons why “experienced” cross-functional teams perform better. The first is that they know when to trust and challenge their intuition. The second is that they know how to ask better questions and that staying curious is the key to the game. Third is that they combine techniques and have mastered the core skills (“just code and deliver” below). Personas, and their inherent ambiguity, definitely makes things more complicated at first …
 
-![](/images/1*BRvrROzR0a52Xw_2tTXs2A.png)Shu Ha Ri Kokoro — [Allistair Cockburn](http://alistair.cockburn.us/Shu+Ha+Ri+Kokoro)
+![](../images/1*BRvrROzR0a52Xw_2tTXs2A.png)Shu Ha Ri Kokoro — [Allistair Cockburn](http://alistair.cockburn.us/Shu+Ha+Ri+Kokoro)
 
 When working with an inexperienced team this can be a challenge for the UXer. You know that the persona process can yield better, leaner, more simple, and more effective product … but honestly it all feels a little hokey. Hopefully the advice above helps, and I’d love to connect to learn what has worked for you!
 

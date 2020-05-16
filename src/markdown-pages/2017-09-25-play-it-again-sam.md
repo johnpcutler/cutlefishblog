@@ -2,12 +2,12 @@
 path:	"/blog/play-it-again-sam"
 date:	"2017-09-25"
 title:	"Play It Again Sam!"
-image:	"/images/1*ClrxgMdFquj-OWH2zcXyBA.png"
+image:	"../images/1*ClrxgMdFquj-OWH2zcXyBA.png"
 ---
 
 I’ve been toying around with a choose-your-own-adventure book. A friend recommended I lay out the *unhappy* path first. That sounded kind of depressing, but it turned out to be kind of fun. There are many ways things can go wrong:
 
-![](/images/1*ClrxgMdFquj-OWH2zcXyBA.png)
+![](../images/1*ClrxgMdFquj-OWH2zcXyBA.png)
 
 The mistake here is to view this drift into failure as a byproduct of incompetence or malice. It certainly can feel this way for individual contributors sometimes. The upside of rapid growth feels real, and the downside feels far away. Humans kick the can on a lot of things like this.
 
@@ -15,7 +15,7 @@ The point here is that if we come to grips with the inevitability of all this, p
 
 Picked one common path…
 
-![](/images/1*8-Rbe7D1eOe93-oQD5ravQ.png)* Success. Traction in the market.
+![](../images/1*8-Rbe7D1eOe93-oQD5ravQ.png)* Success. Traction in the market.
 * The early days. Team rapidly expands product to satisfy customer needs (and investor-led growth targets). Increase in product complexity.
 * First round of “very large and important” customers agrees to purchase service. Major constraints introduced.
 * Rapid hiring. New hires are slow to get up to speed, but this as viewed as a natural byproduct of rapid growth and/or a lowering of the hiring bar (instead of a function of unmanaged complexity)

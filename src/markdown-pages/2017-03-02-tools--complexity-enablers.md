@@ -2,12 +2,12 @@
 path:	"/blog/tools-complexity-enablers"
 date:	"2017-03-02"
 title:	"Tools: Complexity Enablers"
-image:	"/images/1*TLNz6qPgVVl7WHHJJfnFjQ.png"
+image:	"../images/1*TLNz6qPgVVl7WHHJJfnFjQ.png"
 ---
 
 Tools and process can help you manage complexity. But they also can serve as a complexity enabler.
 
-![](/images/1*TLNz6qPgVVl7WHHJJfnFjQ.png)<https://www.seriouspuzzles.com/krypt-silver-654pc-hard-jigsaw-puzzle-by-ravensburger.html>Take the ability in [Atlassian](https://medium.com/u/5aa6b9976187)
+![](../images/1*TLNz6qPgVVl7WHHJJfnFjQ.png)<https://www.seriouspuzzles.com/krypt-silver-654pc-hard-jigsaw-puzzle-by-ravensburger.html>Take the ability in [Atlassian](https://medium.com/u/5aa6b9976187)
 
 ’s Jira to add dependencies between tickets across projects. This allows you to create many interrelated projects, and to coordinate activities across teams, but it doesn’t answer whether having those dependencies is a good idea. And it certainly doesn’t put pressure on you to remove them.
 

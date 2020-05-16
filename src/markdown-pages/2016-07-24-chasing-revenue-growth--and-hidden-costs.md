@@ -2,20 +2,20 @@
 path:	"/blog/chasing-revenue-growth-and-hidden-costs"
 date:	"2016-07-24"
 title:	"Chasing Revenue Growth (and Hidden Costs)"
-image:	"/images/1*CngWKQyzvq75ZCfY_Ykfiw.png"
+image:	"../images/1*CngWKQyzvq75ZCfY_Ykfiw.png"
 ---
 
-![](/images/1*CngWKQyzvq75ZCfY_Ykfiw.png)
+![](../images/1*CngWKQyzvq75ZCfY_Ykfiw.png)
 
 I am an avid cyclist, and have also had the privilege of coaching a couple of talented bike racers.
 
 One approach to assessing an athlete (not my preferred strategy) is to set a schedule of ever-increasing training loads. The idea is that the athlete will eventually hit the wall and that you will have established their upper bounds for withstanding the training stress. This approach is similar to a venture capital firm setting a ramped ladder of revenue targets. They expect some of their portfolio companies to “hit the wall” and “crash and burn”, but that’s just how the cookie crumbles.
 
-![](/images/1*l4Y3Av-2OuhG0peWMAAaTQ.png)The danger here — as with startups — is that a highly motivated person can usually find a way. We are incredibly adaptable, and can push ourselves for many, many months. Overtraining doesn’t creep up linearly. I’ve had cyclist friends dig a hole for years before it caught up with them. The onslaught of fatigue and poor motivation was sudden, and there was no quick fix. It didn’t mean they were untalented cyclists. On the contrary, they tended to be the most talented (and most motivated)
+![](../images/1*l4Y3Av-2OuhG0peWMAAaTQ.png)The danger here — as with startups — is that a highly motivated person can usually find a way. We are incredibly adaptable, and can push ourselves for many, many months. Overtraining doesn’t creep up linearly. I’ve had cyclist friends dig a hole for years before it caught up with them. The onslaught of fatigue and poor motivation was sudden, and there was no quick fix. It didn’t mean they were untalented cyclists. On the contrary, they tended to be the most talented (and most motivated)
 
 .
 
-![](/images/1*Rq86bv2PjBdreeUw-KgjDQ.png)
+![](../images/1*Rq86bv2PjBdreeUw-KgjDQ.png)
 
 <https://statumentis.wordpress.com/2014/12/01/overtraining-is-of-great-importance-to-the-high-performance-athlete-we-need-to-gain-knowledge/>Usually, there was some part of the formula that was a bit off. And being truly motivated and hell-bent athletes, they just “pushed through”. The tragedy is that some of these people quit!
 
@@ -26,7 +26,7 @@ To build a long term career (either amateur or professional) the athlete must ma
 * Mindset and psychology
 * A strong support structure
 * Event selection and specialization
-![](/images/1*RLfp0Mee5q2AxCDxMLmPEw.png)
+![](../images/1*RLfp0Mee5q2AxCDxMLmPEw.png)
 
 <http://www.pezcyclingnews.com/latestnews/toolbox-jump-in-the-waters-great/>These things take time and commitment to perfect. You can get “decently far” without paying too much attention to them, but eventually, you’ll have to pay off the debt. For growing startups, you have similar “skills”:
 

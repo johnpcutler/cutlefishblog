@@ -2,10 +2,10 @@
 path:	"/blog/make-the-time-if-it-is-important"
 date:	"2019-02-02"
 title:	"Make the Time (If It Is Important)"
-image:	"/images/1*zkVZPIaS2cr7eJn16HcQew.jpeg"
+image:	"../images/1*zkVZPIaS2cr7eJn16HcQew.jpeg"
 ---
 
-![](/images/1*zkVZPIaS2cr7eJn16HcQew.jpeg)
+![](../images/1*zkVZPIaS2cr7eJn16HcQew.jpeg)
 
 I was speaking with a product leader recently about his team working agreements. He desperately wanted to empower his team, but found that without a clear sense of their respective roadmaps he couldn’t advocate for their needs effectively.
 

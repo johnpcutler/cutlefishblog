@@ -2,7 +2,7 @@
 path:	"/blog/kanban-boards-are-a-design-challenge"
 date:	"2017-11-25"
 title:	"Kanban Boards are a Design Challenge"
-image:	"/images/1*65TBqPMEXWBOOcXJOv4-wQ@2x.jpeg"
+image:	"../images/1*65TBqPMEXWBOOcXJOv4-wQ@2x.jpeg"
 ---
 
 I recently shared an older post on UX work and Kanban boards.
@@ -56,7 +56,7 @@ I’d give an example, but it will give the impression that there is a right way
 
 This generic image might give you some ideas though … observe how we combine 1) the sense of a mission, with 2) the understanding that we are running experiments, with 3) a phase for actually measuring those experiments, with 4) an explicit phase for reviewing those learnings, and making decisions.
 
-![](/images/1*65TBqPMEXWBOOcXJOv4-wQ@2x.jpeg)But note how this is incomplete, and we would likely need some additional visualizations for 1) upstream work … prioritization and decomposition, and 2) perhaps a more detailed sense of what is happening In Progress (specific tasks, etc.)
+![](../images/1*65TBqPMEXWBOOcXJOv4-wQ@2x.jpeg)But note how this is incomplete, and we would likely need some additional visualizations for 1) upstream work … prioritization and decomposition, and 2) perhaps a more detailed sense of what is happening In Progress (specific tasks, etc.)
 
 . A team working in this context might choose to have an “In Progress” board to make stand ups and daily collaboration more productive.
 

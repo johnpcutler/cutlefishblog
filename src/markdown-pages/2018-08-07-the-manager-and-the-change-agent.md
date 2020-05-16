@@ -2,10 +2,10 @@
 path:	"/blog/the-manager-and-the-change-agent"
 date:	"2018-08-07"
 title:	"The Manager and the Change Agent"
-image:	"/images/1*JQk08pddLdISx3aDKi3LPw@2x.jpeg"
+image:	"../images/1*JQk08pddLdISx3aDKi3LPw@2x.jpeg"
 ---
 
-![](/images/1*JQk08pddLdISx3aDKi3LPw@2x.jpeg)
+![](../images/1*JQk08pddLdISx3aDKi3LPw@2x.jpeg)
 
 I was in a meeting a couple weeks ago. A familiar dynamic played out:
 

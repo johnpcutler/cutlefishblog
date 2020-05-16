@@ -2,7 +2,7 @@
 path:	"/blog/the-way-of-ways"
 date:	"2017-12-04"
 title:	"The Way of Ways"
-image:	"/images/1*L2Io7L2Y3hskzA5yu_Nuow@2x.png"
+image:	"../images/1*L2Io7L2Y3hskzA5yu_Nuow@2x.png"
 ---
 
 It is easy to get caught up in the evolution of ways. I do it all the time. I’ll rattle on about the “abuse” of some way, only to realize that abuse is just part of the way of ways. Or I’ll stress when someone rants on about the “right way”, without considering the bigger picture.
@@ -11,7 +11,7 @@ I’ve found it helpful to think of ways from the standpoint of hype, adoption, 
 
 *Note: The image below could be improved by exposing the cycle. I didn’t have time… but hopefully you can imagine commidifed ways triggering new practices/combinations.*
 
-![](/images/1*L2Io7L2Y3hskzA5yu_Nuow@2x.png)From the perspective of the folks who “invent” new ways (more accurately, stumble into new ways), it kind of looks (and feels)
+![](../images/1*L2Io7L2Y3hskzA5yu_Nuow@2x.png)From the perspective of the folks who “invent” new ways (more accurately, stumble into new ways), it kind of looks (and feels)
 
  like this:
 
@@ -65,4 +65,4 @@ See the cycle?
 
 Seen as loops, this might look like this:
 
-![](/images/1*NdyBerCbJ3APu77j-YIRHw@2x.jpeg)
+![](../images/1*NdyBerCbJ3APu77j-YIRHw@2x.jpeg)

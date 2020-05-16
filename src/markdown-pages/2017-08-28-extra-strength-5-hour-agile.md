@@ -2,14 +2,14 @@
 path:	"/blog/extra-strength-5-hour-agile"
 date:	"2017-08-28"
 title:	"Extra Strength 5-hour AGILE"
-image:	"/images/1*qxylXoKJB997NJ6gg2ozRA.png"
+image:	"../images/1*qxylXoKJB997NJ6gg2ozRA.png"
 ---
 
 It’ll get you through the day.
 
 Today I want to discuss 5hr Agile, aka Quick Fix Agile, aka We Need To Go Faster Right Now Agile.
 
-![](/images/1*qxylXoKJB997NJ6gg2ozRA.png)
+![](../images/1*qxylXoKJB997NJ6gg2ozRA.png)
 
 Here’s what concerns me.
 
@@ -19,7 +19,7 @@ If your company is doing OK, and you’re not willing to really commit … you�
 
 It’s like going to the gym once a week. You might as well save your knees.
 
-![](/images/1*O4SldrWDlmoN_UudnlJAtg.jpeg)
+![](../images/1*O4SldrWDlmoN_UudnlJAtg.jpeg)
 
 If you’ve worked in a company doing “change-light” you know just how frustrating it is. Front-line teams scurry to adopt the new way, and management and leadership just remains the same. You lose your best people because the change isn’t effective. “Let’s experiment” doesn’t cut it.
 

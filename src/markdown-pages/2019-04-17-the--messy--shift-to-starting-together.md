@@ -2,10 +2,10 @@
 path:	"/blog/the-messy-shift-to-starting-together"
 date:	"2019-04-17"
 title:	"The (Messy) Shift to Starting Together"
-image:	"/images/1*Ve9KctWz-dAgoAlE2q-42g.png"
+image:	"../images/1*Ve9KctWz-dAgoAlE2q-42g.png"
 ---
 
-![](/images/1*Ve9KctWz-dAgoAlE2q-42g.png)
+![](../images/1*Ve9KctWz-dAgoAlE2q-42g.png)
 
 The transition to more mission driven, autonomous teams is often characterized by an awkward period. Whereas before, teams were used to a prescriptive backlog of “things to do”, now it is very common to feel like you are in limbo.
 

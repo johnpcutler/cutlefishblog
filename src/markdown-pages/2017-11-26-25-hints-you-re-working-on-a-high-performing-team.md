@@ -2,10 +2,10 @@
 path:	"/blog/25-hints-youre-working-on-a-high-performing-team"
 date:	"2017-11-26"
 title:	"25 Hints You’re Working on a High Performing Team"
-image:	"/images/1*SVb_edCl0ucLRpdlOd-CgA@2x.jpeg"
+image:	"../images/1*SVb_edCl0ucLRpdlOd-CgA@2x.jpeg"
 ---
 
-![](/images/1*SVb_edCl0ucLRpdlOd-CgA@2x.jpeg)I have this weird habit of (obsession with?)
+![](../images/1*SVb_edCl0ucLRpdlOd-CgA@2x.jpeg)I have this weird habit of (obsession with?)
 
  writing lists and checklists.
 

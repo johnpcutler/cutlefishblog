@@ -2,12 +2,12 @@
 path:	"/blog/breaking-the-rules"
 date:	"2019-12-17"
 title:	"Great Teams Break the \"Rules\" All the Time"
-image:	"/images/painnumbers.jpg"
+image:	"../images/painnumbers.jpg"
 ---
 
 
 
-![](/images/painnumbers.jpg)
+![](../images/painnumbers.jpg)
 
 Guess what? Great teams break the "rules" all the time. 
 

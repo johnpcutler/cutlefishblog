@@ -2,10 +2,10 @@
 path:	"/blog/instant-results-guaranteed"
 date:	"2018-07-08"
 title:	"Instant Results! Guaranteed!*"
-image:	"/images/1*gvZci_AzsouSl5vSPGUWkA@2x.jpeg"
+image:	"../images/1*gvZci_AzsouSl5vSPGUWkA@2x.jpeg"
 ---
 
-![](/images/1*gvZci_AzsouSl5vSPGUWkA@2x.jpeg)Sharing an email to a friend attempting to change her company as an internal change agent. The title of this post (and the drawing) is not wishful thinking. In less optimized systems, there’s *always* some low hanging fruit. For some reference, my friend has *some* access to the CEO (see point #1)
+![](../images/1*gvZci_AzsouSl5vSPGUWkA@2x.jpeg)Sharing an email to a friend attempting to change her company as an internal change agent. The title of this post (and the drawing) is not wishful thinking. In less optimized systems, there’s *always* some low hanging fruit. For some reference, my friend has *some* access to the CEO (see point #1)
 
 .
 

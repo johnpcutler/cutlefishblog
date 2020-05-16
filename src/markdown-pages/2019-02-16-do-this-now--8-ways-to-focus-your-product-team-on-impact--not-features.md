@@ -2,7 +2,7 @@
 path:	"/blog/do-this-now-8-ways-to-focus-your-product-team-on-impact-not-features"
 date:	"2019-02-16"
 title:	"Do This Now: 8 Ways to Focus your Product Team on Impact, Not Features"
-image:	"/images/0*sNmJF8NBtpfA50wU.png"
+image:	"../images/0*sNmJF8NBtpfA50wU.png"
 ---
 
 *Originally published at *[*amplitude.com*](https://amplitude.com/blog/focus-product-team-on-impact)*.*
@@ -49,7 +49,7 @@ Fill and groom a learning backlog prioritized by the “value” of the learning
 
 * Reassess how we report on, and optimize for conversion rates
 * Focus on pricing optimization
-![](/images/0*sNmJF8NBtpfA50wU.png)
+![](../images/0*sNmJF8NBtpfA50wU.png)
 
 ### 4. Hold quarterly product decision reviews
 
@@ -87,7 +87,7 @@ Most dashboards never see the light of day. They’re assembled in a vacuum by a
 
 > ***Related Reading: ***[***Why Experiment?***](https://amplitude.com/blog/why-experiment)The solution? A big shared monitor and an always-on dashboard. Invite editing and tweaking. With time, you’ll come up with something that hopefully informs decisions.
 
-![](/images/1*teR1yE2bdfGeayTWVTZ-Vg.jpeg)In closing, what has worked for you when it comes to shifting your organization towards being more outcome focused (in a healthy way, of course)
+![](../images/1*teR1yE2bdfGeayTWVTZ-Vg.jpeg)In closing, what has worked for you when it comes to shifting your organization towards being more outcome focused (in a healthy way, of course)
 
 ? How do you change the tenor of the conversation without tipping the boat? How do you “hack” the status quo in a way that doesn’t threaten your internal influence?
 

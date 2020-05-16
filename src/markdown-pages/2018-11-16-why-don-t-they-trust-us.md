@@ -2,10 +2,10 @@
 path:	"/blog/why-dont-they-trust-us"
 date:	"2018-11-16"
 title:	"Why Don’t They Trust Us?"
-image:	"/images/1*hfKP8gMboBddKe059Eu6DQ.jpeg"
+image:	"../images/1*hfKP8gMboBddKe059Eu6DQ.jpeg"
 ---
 
-![](/images/1*hfKP8gMboBddKe059Eu6DQ.jpeg)
+![](../images/1*hfKP8gMboBddKe059Eu6DQ.jpeg)
 
 Have you ever walked into your favorite restaurant, ignored the menu, and asked the chef to *surprise you*? What made you trust the chef? Consider how you “do business” with a carpenter, plumber, or car mechanic you’ve come to trust. I love my car mechanic. I give him carte blanche to do whatever he sees fit to maximize my return on investment in my vehicle, and keep me and my family safe. He trusts me to pay up.
 
@@ -47,7 +47,7 @@ Now, let’s take a look at a common dynamic in software product development.
 * **Someone** starts using feature velocity as a proxy for progress (Credibility, Empathy)
 I could go on and on. You get the idea. See how easily distrust is sown?** **Part of the issue here is purely systemic. For example, in an environment [optimized for high work-in-progress](https://hackernoon.com/wip-it-real-good-66aa710178fd), you find all kinds of seemingly untrustworthy behavior:
 
-![](/images/1*xtZN9DHd_0YANybKWlhNeA@2x.jpeg)
+![](../images/1*xtZN9DHd_0YANybKWlhNeA@2x.jpeg)
 
 Note local agendas, back-channeling, more cooks, distrust, opacity, loss of morale, and cutting corners….all can be easily mapped to lapses in Empathy, Reliability, Credibility, and Apparent Self-Interest.
 

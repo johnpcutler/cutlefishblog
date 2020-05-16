@@ -2,7 +2,7 @@
 path:	"/blog/low-effort-high-value-think-again"
 date:	"2017-05-05"
 title:	"Low Effort / High Value? Think Again…"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 A frequent way to prioritize work is to rank work items by effort and value. This falls flat for a couple reasons:

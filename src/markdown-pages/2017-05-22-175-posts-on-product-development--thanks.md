@@ -2,10 +2,10 @@
 path:	"/blog/175-posts-on-product-development-thanks"
 date:	"2017-05-22"
 title:	"175 Posts On Product Development! Thanks!"
-image:	"/images/1*a6olV-DzYZBLL03qwcuUyw.png"
+image:	"../images/1*a6olV-DzYZBLL03qwcuUyw.png"
 ---
 
-![](/images/1*a6olV-DzYZBLL03qwcuUyw.png)
+![](../images/1*a6olV-DzYZBLL03qwcuUyw.png)
 
 Obligatory image … so that Medium recommends the post.I hit a goal of sorts today: 175 posts on product development. Actually… the goal was 150, but I was having so much fun I forgot about the challenge to myself in my notebook.
 

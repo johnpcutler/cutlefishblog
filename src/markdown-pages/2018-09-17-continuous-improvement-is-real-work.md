@@ -2,10 +2,10 @@
 path:	"/blog/continuous-improvement-is-real-work"
 date:	"2018-09-17"
 title:	"Continuous Improvement is Real Work"
-image:	"/images/1*Lv1BbqtLlYh9LgOzzCm8Eg@2x.jpeg"
+image:	"../images/1*Lv1BbqtLlYh9LgOzzCm8Eg@2x.jpeg"
 ---
 
-![](/images/1*Lv1BbqtLlYh9LgOzzCm8Eg@2x.jpeg)
+![](../images/1*Lv1BbqtLlYh9LgOzzCm8Eg@2x.jpeg)
 
 If improving something is important…make sure to invest enough time and energy. If it isn’t important, then don’t do it. Don’t waste people’s time. Continuous improvement isn’t magic…it takes work.
 

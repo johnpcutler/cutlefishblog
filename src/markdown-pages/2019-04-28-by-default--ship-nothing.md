@@ -2,10 +2,10 @@
 path:	"/blog/by-default-ship-nothing"
 date:	"2019-04-28"
 title:	"By Default, Ship Nothing"
-image:	"/images/1*DT8Qnn-VHFtlwHhzq0A2FQ.png"
+image:	"../images/1*DT8Qnn-VHFtlwHhzq0A2FQ.png"
 ---
 
-![](/images/1*DT8Qnn-VHFtlwHhzq0A2FQ.png)
+![](../images/1*DT8Qnn-VHFtlwHhzq0A2FQ.png)
 
 Here’s an idea. A thought experiment.
 

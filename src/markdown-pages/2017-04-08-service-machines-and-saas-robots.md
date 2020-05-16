@@ -2,14 +2,14 @@
 path:	"/blog/service-machines-and-saas-robots"
 date:	"2017-04-08"
 title:	"Service Machines and SaaS Robots"
-image:	"/images/1*ZC9N7pVmcJDv85wQ6pS6yg.png"
+image:	"../images/1*ZC9N7pVmcJDv85wQ6pS6yg.png"
 ---
 
 #### Step back and think of your product as a swarm of service-delivering robots. Serve your customer, and not the product.
 
 Some late night rambling…
 
-![](/images/1*ZC9N7pVmcJDv85wQ6pS6yg.png)SaaS companies are service ecosystems. By “service” I am not talking about *professional* services (though SaaS companies can certainly offer these)
+![](../images/1*ZC9N7pVmcJDv85wQ6pS6yg.png)SaaS companies are service ecosystems. By “service” I am not talking about *professional* services (though SaaS companies can certainly offer these)
 
 . I’m talking about service as:
 

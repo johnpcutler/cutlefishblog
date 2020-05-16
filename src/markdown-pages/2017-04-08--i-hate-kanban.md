@@ -2,7 +2,7 @@
 path:	"/blog/i-hate-kanban"
 date:	"2017-04-08"
 title:	"“I Hate Kanban…”"
-image:	"/images/1*GHOK9W2JZBJzWI-rGXbkdg.png"
+image:	"../images/1*GHOK9W2JZBJzWI-rGXbkdg.png"
 ---
 
 Wandering the conference halls I overhear…
@@ -12,7 +12,7 @@ Wandering the conference halls I overhear…
 
 I’ve been fascinated by something lately. When given the path to visualize work and make working agreements explicit, so many many organizations balk. Why? Why would we opt *against* continuous improvement? Why, if given an option, would we adopt the most complicated and heavy processes (and hire droves of project managers), but hesitate to make work visual?
 
-![](/images/1*GHOK9W2JZBJzWI-rGXbkdg.png)By visualizing work on a Kanban board (for example)
+![](../images/1*GHOK9W2JZBJzWI-rGXbkdg.png)By visualizing work on a Kanban board (for example)
 
 , you are able to visualize …
 
@@ -44,6 +44,6 @@ You end up returning to the same “problems” over and over. There are *never 
 > David is not pulling his weight. But I don’t want to be the person to call that out. Plus, management has lost hope in us anyway. They are working around us with that top-secret project.
 > We will never get resources if we make a fuss.So I’ve been asking myself lately: how can we create environments that are safe enough to make continuous improvement possible? How can we make a simple visualization of work less threatening. Thoughts? Please reply in the comments
 
-[![](/images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](/images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](/images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+[![](../images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](../images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](../images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
 > [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to [discuss advertising & sponsorship](mailto:partners@amipublications.com) opportunities.
-> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](/images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](../images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)

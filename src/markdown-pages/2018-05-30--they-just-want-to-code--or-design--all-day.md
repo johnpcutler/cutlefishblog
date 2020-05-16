@@ -2,10 +2,10 @@
 path:	"/blog/they-just-want-to-code-or-design-all-day"
 date:	"2018-05-30"
 title:	"“They Just Want To Code (or Design) All Day”"
-image:	"/images/1*5MajksG67ioE9UR4zxodFQ@2x.jpeg"
+image:	"../images/1*5MajksG67ioE9UR4zxodFQ@2x.jpeg"
 ---
 
-![](/images/1*5MajksG67ioE9UR4zxodFQ@2x.jpeg)
+![](../images/1*5MajksG67ioE9UR4zxodFQ@2x.jpeg)
 
 Quick post…
 

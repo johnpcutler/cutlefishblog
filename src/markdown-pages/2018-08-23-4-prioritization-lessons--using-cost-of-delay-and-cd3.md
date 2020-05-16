@@ -2,7 +2,7 @@
 path:	"/blog/4-prioritization-lessons-using-cost-of-delay-and-cd3"
 date:	"2018-08-23"
 title:	"4 Prioritization Lessons (using Cost of Delay and CD3)"
-image:	"/images/1*g4PyXmhYkvPx861IQfGMZw@2x.jpeg"
+image:	"../images/1*g4PyXmhYkvPx861IQfGMZw@2x.jpeg"
 ---
 
 Consider this table. The columns represents mission duration (in months). The rows are Cost of Delay ($s per month opportunity cost). The cells are CD3…the Cost of Delay divided by the expected number of periods until completion.
@@ -10,7 +10,7 @@ Consider this table. The columns represents mission duration (in months). The ro
 [Joshua Arnold explains](http://blackswanfarming.com/cost-of-delay-divided-by-duration/):
 
 
-> CD3: Cost of Delay Divided by Duration is a prioritisation/scheduling method that maximizes** the value delivered in a given time period when you have limited capacity**. It is particularly useful in environments where a primary constraint of the system is the available time of a relatively fixed or “scarce” resource. This matches product development very well, because of the communication, collaboration and coordination overheads, which constrain our ability to increase capacity.![](/images/1*g4PyXmhYkvPx861IQfGMZw@2x.jpeg)
+> CD3: Cost of Delay Divided by Duration is a prioritisation/scheduling method that maximizes** the value delivered in a given time period when you have limited capacity**. It is particularly useful in environments where a primary constraint of the system is the available time of a relatively fixed or “scarce” resource. This matches product development very well, because of the communication, collaboration and coordination overheads, which constrain our ability to increase capacity.![](../images/1*g4PyXmhYkvPx861IQfGMZw@2x.jpeg)
 
 Thinking in terms of CD3 can help tease out opportunities for better prioritization.
 

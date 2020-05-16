@@ -2,12 +2,12 @@
 path:	"/blog/the-psychological-safety-dance"
 date:	"2017-10-18"
 title:	"The (Psychological) Safety Dance"
-image:	"/images/1*5RdlAiiDqtx0rnIROqR_8w@2x.jpeg"
+image:	"../images/1*5RdlAiiDqtx0rnIROqR_8w@2x.jpeg"
 ---
 
 #### Overused? Abused? Why are we obsessed with psychological safety?
 
-![](/images/1*5RdlAiiDqtx0rnIROqR_8w@2x.jpeg)
+![](../images/1*5RdlAiiDqtx0rnIROqR_8w@2x.jpeg)
 > I say we can act if want to if we don’t nobody will
 > And you can act real rude and totally removed
 > And i can act like an imbecile

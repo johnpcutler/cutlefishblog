@@ -2,10 +2,10 @@
 path:	"/blog/crack-the-wip-work-in-progress"
 date:	"2017-05-24"
 title:	"Crack The WIP (Work In Progress)"
-image:	"/images/1*cchtubTtswzR-GrOhc1VBw.png"
+image:	"../images/1*cchtubTtswzR-GrOhc1VBw.png"
 ---
 
-![](/images/1*cchtubTtswzR-GrOhc1VBw.png)Limiting WIP (work in progress)
+![](../images/1*cchtubTtswzR-GrOhc1VBw.png)Limiting WIP (work in progress)
 
  is hard.
 

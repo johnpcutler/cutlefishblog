@@ -2,10 +2,10 @@
 path:	"/blog/the-hard-thing-about-not-so-hard-things"
 date:	"2018-01-10"
 title:	"The Hard Thing About (Not So) Hard Things"
-image:	"/images/1*B_2fZo5fN9XXzO1SAa5-Fg@2x.jpeg"
+image:	"../images/1*B_2fZo5fN9XXzO1SAa5-Fg@2x.jpeg"
 ---
 
-![](/images/1*B_2fZo5fN9XXzO1SAa5-Fg@2x.jpeg)
+![](../images/1*B_2fZo5fN9XXzO1SAa5-Fg@2x.jpeg)
 
 I’ve been obsessed lately with the following question:
 

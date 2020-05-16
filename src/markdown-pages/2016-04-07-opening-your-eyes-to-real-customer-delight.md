@@ -2,7 +2,7 @@
 path:	"/blog/opening-your-eyes-to-real-customer-delight"
 date:	"2016-04-07"
 title:	"Opening Your Eyes to Real Customer Delight"
-image:	"/images/1*dVuCPvjKt_b8iv9ny-k59A.png"
+image:	"../images/1*dVuCPvjKt_b8iv9ny-k59A.png"
 ---
 
 Drawings by [Claire Bowman](https://about.me/ClairesOddities)
@@ -27,7 +27,7 @@ Start-ups constantly struggle with defining (and finding) [product/market fit](h
 Many businesses make the mistake of assuming that a customer is loyal, simply because they aren’t complaining and they keep coming back month after month. -  
  [Wootric](http://blog.wootric.com/what-happens-when-you-confuse-repeat-business-with-customer-loyalty/), “What Happens When You Confuse Repeat Business with Customer Loyalty”
 
-![](/images/1*dVuCPvjKt_b8iv9ny-k59A.png)Users with a “meh” attitude toward the product often stick around — sometimes because they don’t have the time or energy to shop around, sometimes because they’re too embarrassed to admit to themselves that they purchased the wrong tool, and sometimes because someone [is forcing them to use the software](http://chrislema.com/customers-and-users/)
+![](../images/1*dVuCPvjKt_b8iv9ny-k59A.png)Users with a “meh” attitude toward the product often stick around — sometimes because they don’t have the time or energy to shop around, sometimes because they’re too embarrassed to admit to themselves that they purchased the wrong tool, and sometimes because someone [is forcing them to use the software](http://chrislema.com/customers-and-users/)
 
 .
 
@@ -35,7 +35,7 @@ Many businesses make the mistake of assuming that a customer is loyal, simply be
 
 The trouble is that this customer indifference comes back to haunt you. That captive user leaves their company and becomes a buyer elsewhere. As your company grows, your time to sweet-talk individual customers into sticking around is reduced.
 
-![](/images/1*0sYmIpXMUDBTavSR2W7Hcw.png)You start rationalizing by thinking that usability and delighting customers aren’t important in your domain, and that you’ll be fine as long as the economics look promising. Maybe you cobble together some white papers and share the occasional success story. Or, you fetishize using customer support, customer success, and [services](https://www.linkedin.com/pulse/consulting-organizations-vs-product-shanif-dhanani)
+![](../images/1*0sYmIpXMUDBTavSR2W7Hcw.png)You start rationalizing by thinking that usability and delighting customers aren’t important in your domain, and that you’ll be fine as long as the economics look promising. Maybe you cobble together some white papers and share the occasional success story. Or, you fetishize using customer support, customer success, and [services](https://www.linkedin.com/pulse/consulting-organizations-vs-product-shanif-dhanani)
 
  to patch up holes in your product. Mediocre becomes the new normal.
 
@@ -51,7 +51,7 @@ I’d argue that many of the product metrics we capture (e.g. engagement, conver
 
 Consider an example: a not-too-impressed diner leaves a 15% tip. A drunk diner leaves a 20% tip. A thoroughly impressed and new fan-for-life diner leaves a 20% tip. All give the restaurant four stars in their online reviews. How do you differentiate rabid foodie fandom from “a decent meal” or a happy buzz?
 
-![](/images/1*aRYzLsa4dr0UWWuaofEiZA.png)Not-Too-Impressed, Drunk, or Fan?You can do a sentiment analysis of the review. Factor in the tip. Record [facial biometrics](https://www.youtube.com/watch?v=E4pM7j2ejDE)
+![](../images/1*aRYzLsa4dr0UWWuaofEiZA.png)Not-Too-Impressed, Drunk, or Fan?You can do a sentiment analysis of the review. Factor in the tip. Record [facial biometrics](https://www.youtube.com/watch?v=E4pM7j2ejDE)
 
 . Have the server assess the diner satisfaction. Measure length of the dining experience.
 
@@ -65,7 +65,7 @@ The key is awareness and not rationalizing a tepid response. When you have that 
 
 ### The Delighted Customer
 
-![](/images/1*PcESXNMaoVAdbL9Zi-CDig.png)
+![](../images/1*PcESXNMaoVAdbL9Zi-CDig.png)
 
 So, what do you keep your eyes open for? Take a big step back from your dashboards, spreadsheets, and predictive algorithms and ask if your users/customers are truly delighted. Are they obsessed with your product? Do they self-identify with your mission? Are they your sales team, marketing department, and product idea box all wrapped into one? And not just one customer, or the occasional success story, but a good swath of your customers?
 
@@ -78,7 +78,7 @@ It is easy to pretend this stuff is happening. Or rationalize that it doesn’t 
 * Remembers your name! And the names of your team members.
 * Bugs you for T-shirts. And then sends you a photo of them wearing the T-shirt.
 * Uses emoticons when writing otherwise dry emails. Like …
-![](/images/0*Df9N3VV59T2oZ5tr.)
+![](../images/0*Df9N3VV59T2oZ5tr.)
 
 ### 2. While in the Buying Process…
 
@@ -89,17 +89,17 @@ It is easy to pretend this stuff is happening. Or rationalize that it doesn’t 
 * Makes the internal renewal case for you and spearheads the discussion with purchasing
 * Contacts you to renew, instead of waiting for your call. Contacts you to explore purchasing add-ons, instead of waiting for your email.
 * A couple of months after purchasing, writes to thank you. Literally, as in a handwritten thank-you note.
-![](/images/1*Tpt3kNmVtnLgJaGPdrE5tg.png)
+![](../images/1*Tpt3kNmVtnLgJaGPdrE5tg.png)
 
 ### 3. While Using the Product…
 
-![](/images/1*xpOiMRZQ3VsjJDD5TNze1Q.png)* Describes your product as “very easy to use,” ”easy to learn,” ”user-friendly.” Cliche, yes, but NPS and SUS (system usability score) [are related](http://www.measuringu.com/blog/nps-sus.php) (more on this [here](http://www.measuringu.com/usability-loyalty.php)). This you can measure quantitatively.
+![](../images/1*xpOiMRZQ3VsjJDD5TNze1Q.png)* Describes your product as “very easy to use,” ”easy to learn,” ”user-friendly.” Cliche, yes, but NPS and SUS (system usability score) [are related](http://www.measuringu.com/blog/nps-sus.php) (more on this [here](http://www.measuringu.com/usability-loyalty.php)). This you can measure quantitatively.
 * Uses your product/company name as a verb: “We \_\_\_\_\_\_ed it.”
 * Writes you unsolicited emails with feature/product *ideas*** (**not feature requests, or fixes for workarounds).
 * Sends you feedback on new features shortly after they are released, again, without prompting.
 * Invests money to integrate with your product. Many customers may ask for pre-built “connectors,” but the most passionate customers will find it worth it to shoulder the cost of integrating.
 * Does awesome and unexpected things with your product (things you never expected or planned for).
-![](/images/1*WYSLJt_g_09NFxNS6TMJcA.png)![](/images/1*2fDb_zKh6prl08Yekn9O9Q.png)* Hounds you to learn about the roadmap, not because they’re waiting on features, but rather because they want to plan their training and get the most out of new functionality.
+![](../images/1*WYSLJt_g_09NFxNS6TMJcA.png)![](../images/1*2fDb_zKh6prl08Yekn9O9Q.png)* Hounds you to learn about the roadmap, not because they’re waiting on features, but rather because they want to plan their training and get the most out of new functionality.
 * Regularly seeks the help of your support team to resolve *their *challenges rather than challenges with your product. The difference is critical.
 ### 4. For Things They Value…
 
@@ -112,7 +112,7 @@ It is easy to pretend this stuff is happening. Or rationalize that it doesn’t 
 
 See this post [for more about the value of brand advocacy](https://medium.com/the-growth-hackers-cookbook/customer-success-has-a-quantifiable-impact-on-revenue-d18d25786863#.s6sz9843l).
 
-![](/images/1*s2nWKWNfDt5Y1_DcDVMAEA.png)* Hounds you to be part of a beta group or research panel.
+![](../images/1*s2nWKWNfDt5Y1_DcDVMAEA.png)* Hounds you to be part of a beta group or research panel.
 * Refers you to friends and professional contacts in their industry.
 * Uses *because* when describing why they love your product: “I love \_\_\_\_ because.” Your best customer advocate is someone who can explain why the product benefits them.
 * Brings you with them to their next job, or at least tries.

@@ -2,7 +2,7 @@
 path:	"/blog/lets-run-an-experiment"
 date:	"2018-01-28"
 title:	"“Let’s Run an Experiment!”"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 Some quick thoughts on continuous improvement experiments.

@@ -2,7 +2,7 @@
 path:	"/blog/we-cant-do-that-in-one-sprint"
 date:	"2018-01-24"
 title:	"We Can’t Do That In One Sprint"
-image:	"/images/1*siePcBn2yZOKxF6bnDyp1g@2x.jpeg"
+image:	"../images/1*siePcBn2yZOKxF6bnDyp1g@2x.jpeg"
 ---
 
 OK. Let’s get this meeting started.
@@ -10,14 +10,14 @@ OK. Let’s get this meeting started.
 **UXD and Product Manager:**
 
 
-> OK. Here’s what we tested with some customers. This will let users see some important metrics, and then drill down in the table on the right. Does it make sense? How long will it take?![](/images/1*siePcBn2yZOKxF6bnDyp1g@2x.jpeg)
+> OK. Here’s what we tested with some customers. This will let users see some important metrics, and then drill down in the table on the right. Does it make sense? How long will it take?![](../images/1*siePcBn2yZOKxF6bnDyp1g@2x.jpeg)
 
 **Software developers on team:**
 
 
 > Yeah. It makes sense. About the timing…The product development team gives it a quick glance, and imagines something like:
 
-![](/images/1*UuQiE1Y4BFKA1WSAvxQEQQ@2x.jpeg)
+![](../images/1*UuQiE1Y4BFKA1WSAvxQEQQ@2x.jpeg)
 
 They’ll have to wire some stuff together. The table is aggregated in a new way, so that will take some thinking. They have some existing libraries for the charting, and tables, but this is the first time they’ve tried a filterable/sortable table AND charts on the same “screen”.
 
@@ -26,7 +26,7 @@ They’ll have to wire some stuff together. The table is aggregated in a new way
 
 > Probably two or three sprints. We’ve got some other stuff in flight as well, so things could go take longer.They’re going to need to divide and conquer. If Bill, Daria, and Xin can focus on different parts of the problem, they should be able to wire it all together in four sprints (“could take longer” … works like a charm). In their mind, things kind of look like this:
 
-![](/images/1*TF-g1cBpdcMt3PJAJPXK6g@2x.jpeg)
+![](../images/1*TF-g1cBpdcMt3PJAJPXK6g@2x.jpeg)
 
 They can work roughly in the sprint structure, but this *literally can’t fit into a sprint*, so they don’t belabor that point. It would amount to “splitting hairs” in their mind.
 
@@ -35,7 +35,7 @@ The “other stuff”…that’s a story for another day.
 **Daria, a software developer on the team, speaks up:**
 
 
-> You know, I think the smart thing to do here is take a super thin slice of this problem and get that into production. Even if it is behind a feature flag or something. We’re making a lot of assumptions. How about something like this:![](/images/1*briw7qwIu3mM3FIIn0rXnQ@2x.jpeg)
+> You know, I think the smart thing to do here is take a super thin slice of this problem and get that into production. Even if it is behind a feature flag or something. We’re making a lot of assumptions. How about something like this:![](../images/1*briw7qwIu3mM3FIIn0rXnQ@2x.jpeg)
 > What would it take to get one metric on a mobile device (small screen) in production? Just one number. This would help us go end to end in a couple days. We may be oversimplifying the aggregations, and tackling the filtering AND the charting all at once will be tough. I dunno…that’s my instinct here.A ten second hush falls across the room. And then:
 
 
@@ -45,11 +45,11 @@ The “other stuff”…that’s a story for another day.
 > **Xin:** How about the front-end? We’ll finish this, and then have to go back and plan all over again. Plus…tbh, I wouldn’t have much to do here. What would I do?
 > **Everyone** (except Daria): I don’t think that is a good idea DariaIn their mind’s eye, this is what will happen. It isn’t pretty:
 
-![](/images/1*4jt5ccs-YwdqwZ1a4m8OpQ@2x.jpeg)
+![](../images/1*4jt5ccs-YwdqwZ1a4m8OpQ@2x.jpeg)
 
 It is similar to having someone ask you to check in every hour as you hike towards a very obvious peak in the distance. It’s a waste, right?
 
-![](/images/1*6Y5rZO4jHdpHRAARa6n3xg@2x.jpeg)**And in the back of everyone’s mind (except the PM)
+![](../images/1*6Y5rZO4jHdpHRAARa6n3xg@2x.jpeg)**And in the back of everyone’s mind (except the PM)
 
  is the following:**
 

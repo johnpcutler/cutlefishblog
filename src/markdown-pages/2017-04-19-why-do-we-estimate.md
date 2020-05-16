@@ -2,10 +2,10 @@
 path:	"/blog/why-do-we-estimate"
 date:	"2017-04-19"
 title:	"Why Do We Estimate?"
-image:	"/images/1*JHB6gTAeQ8jThEuZJL3q6A.png"
+image:	"../images/1*JHB6gTAeQ8jThEuZJL3q6A.png"
 ---
 
-![](/images/1*JHB6gTAeQ8jThEuZJL3q6A.png)
+![](../images/1*JHB6gTAeQ8jThEuZJL3q6A.png)
 
 I recently asked a group of engineers, product managers, UX, and QA this question. Here’s how they replied:
 
@@ -40,7 +40,7 @@ In reading this list, consider these recurring themes:
 * Level of trust and safety
 * Accounting practices
 * How teams are assigned to projects. Team autonomy in terms of selecting/pursuing solutions
-![](/images/1*vmGOGEjn2TXlmaIoj0wQNg.png)Team 1: “When will you be ready for us?” Team 2: “When will YOU be ready?”Depending on your context, you may be leveraging estimates to address multiple goals. Many of those goals are context dependent. If you can control certain variables in your environment, you can narrow the “job” you are hiring estimation to do. And frankly, some of these things are best served/achieved through other approaches. In those cases, estimates aren’t the best (or even a barely acceptable)
+![](../images/1*vmGOGEjn2TXlmaIoj0wQNg.png)Team 1: “When will you be ready for us?” Team 2: “When will YOU be ready?”Depending on your context, you may be leveraging estimates to address multiple goals. Many of those goals are context dependent. If you can control certain variables in your environment, you can narrow the “job” you are hiring estimation to do. And frankly, some of these things are best served/achieved through other approaches. In those cases, estimates aren’t the best (or even a barely acceptable)
 
  tool for the job.
 

@@ -2,7 +2,7 @@
 path:	"/blog/why-modern-agile-is-worth-checking-out"
 date:	"2017-11-21"
 title:	"Why Modern Agile is Worth Checking Out"
-image:	"/images/1*-4uJNpSIV5PILQRt2peooA@2x.png"
+image:	"../images/1*-4uJNpSIV5PILQRt2peooA@2x.png"
 ---
 
 #### Talk to your team about [Modern Agile](http://modernagile.org/). It’s a worthwhile experiment. Here’s why.
@@ -22,7 +22,7 @@ You can learn more about these guiding principles at the [Modern Agile](http://m
 
 > In modern agile we ask how we can make people in our ecosystem awesome. This includes the people who use, make, buy, sell or fund our products or servicesFolks in the Agile community sometimes nitpick on the work “make” (assuming it means force), but that isn’t the intent.
 
-![](/images/1*-4uJNpSIV5PILQRt2peooA@2x.png)
+![](../images/1*-4uJNpSIV5PILQRt2peooA@2x.png)
 
 #### What is my involvement with Modern Agile?
 

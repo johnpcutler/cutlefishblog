@@ -2,7 +2,7 @@
 path:	"/blog/limit-visualize-and-improve"
 date:	"2017-08-30"
 title:	"Limit, Visualize, and Improve"
-image:	"/images/1*A8N1I7p-SViOHf8s7d3fMQ.jpeg"
+image:	"../images/1*A8N1I7p-SViOHf8s7d3fMQ.jpeg"
 ---
 
 I’ve been thinking lately about what it means to be *disciplined* in product development work. How do we do the *right *thing, even when doing the right thing is hard, inconvenient, and counterintuitive to outsiders?
@@ -32,7 +32,7 @@ Visualize ideas, work, decisions, information, flow, allocation, blockers, wins,
 
 We use whatever else it takes … to make the invisible things visible. And when reality changes, we make that change visual. Always.
 
-![](/images/1*A8N1I7p-SViOHf8s7d3fMQ.jpeg)
+![](../images/1*A8N1I7p-SViOHf8s7d3fMQ.jpeg)
 
 ### 3. Improve continuously
 
@@ -42,7 +42,7 @@ Have a conversation “at the board”. Where should we focus? What should we am
 
 Problems are opportunities, and everybody has ’em. Sense and seize those opportunities.
 
-![](/images/1*hPa974HdbYT6NT3U66qV0A.jpeg)*As a companion to this post (and to understand one of my key inspirations), I recommend reading *[*The Principles of the Kanban Method by David Anderson*](http://www.djaa.com/principles-kanban-method-0)
+![](../images/1*hPa974HdbYT6NT3U66qV0A.jpeg)*As a companion to this post (and to understand one of my key inspirations), I recommend reading *[*The Principles of the Kanban Method by David Anderson*](http://www.djaa.com/principles-kanban-method-0)
 
 *. I especially love the principle “Start with what you do now.”*
 

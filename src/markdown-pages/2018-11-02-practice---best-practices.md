@@ -2,10 +2,10 @@
 path:	"/blog/practice-best-practices"
 date:	"2018-11-02"
 title:	"Practice > Best Practices"
-image:	"/images/1*2QadT_O6NiKCfpC-RB_csA@2x.jpeg"
+image:	"../images/1*2QadT_O6NiKCfpC-RB_csA@2x.jpeg"
 ---
 
-![](/images/1*2QadT_O6NiKCfpC-RB_csA@2x.jpeg)
+![](../images/1*2QadT_O6NiKCfpC-RB_csA@2x.jpeg)
 
 How often do you get to practice Thing X?
 

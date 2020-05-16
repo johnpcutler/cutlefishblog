@@ -2,10 +2,10 @@
 path:	"/blog/user-stories-and-data"
 date:	"2016-01-06"
 title:	"User Stories and Data"
-image:	"/images//images/1*YI6YoTq9GexVQpoNxav-dA.png"
+image:	"../images//images/1*YI6YoTq9GexVQpoNxav-dA.png"
 ---
 
-![](/images/1*YI6YoTq9GexVQpoNxav-dA.png)
+![](../images/1*YI6YoTq9GexVQpoNxav-dA.png)
 
 I frequently hear questions like …
 
@@ -47,7 +47,7 @@ But acceptance tests give a valuable hint. Let’s take a look at a [popular acc
 Consider this example from a great, new, product idea I just had:
 
 
-> Example: **GIVEN** that people are perpetually in need of social gratification,**AND THAT** they enjoy seeing news from their friends, **WHEN** they encounter a “feed” of friend related news-snippets, **THEN** they will spend hours online, and may even click on ads.![](/images/0*t8aZUJuE-oRCvArH.gif)
+> Example: **GIVEN** that people are perpetually in need of social gratification,**AND THAT** they enjoy seeing news from their friends, **WHEN** they encounter a “feed” of friend related news-snippets, **THEN** they will spend hours online, and may even click on ads.![](../images/0*t8aZUJuE-oRCvArH.gif)
 
 Bingo! You have some clues for what to measure. You have context, events, and outcomes. Now validate!
 

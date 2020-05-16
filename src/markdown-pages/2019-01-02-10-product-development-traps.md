@@ -2,10 +2,10 @@
 path:	"/blog/10-product-development-traps"
 date:	"2019-01-02"
 title:	"10 Product Development Traps"
-image:	"/images/1*QaTue7XbJqpB_vxPpNbmyw.jpeg"
+image:	"../images/1*QaTue7XbJqpB_vxPpNbmyw.jpeg"
 ---
 
-![](/images/1*QaTue7XbJqpB_vxPpNbmyw.jpeg)These are not “rules”, but rather *tendencies*. We seem wired to go in one direction, and have to actively offset the tendency. I’ve fallen into each of these (repeatedly) over the years, and have observed extremely savvy product developers do the same. How do you avoid them? Two things stand out: 1) visualize the work and limit work in progress, and 2)
+![](../images/1*QaTue7XbJqpB_vxPpNbmyw.jpeg)These are not “rules”, but rather *tendencies*. We seem wired to go in one direction, and have to actively offset the tendency. I’ve fallen into each of these (repeatedly) over the years, and have observed extremely savvy product developers do the same. How do you avoid them? Two things stand out: 1) visualize the work and limit work in progress, and 2)
 
  make it safe for team members to call out tensions, lack of coherence, etc.
 

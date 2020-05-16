@@ -2,7 +2,7 @@
 path:	"/blog/40-ways-to-invest-in-more-resilient-teams"
 date:	"2017-05-20"
 title:	"40 Ways to Invest in More Resilient Teams"
-image:	"/images/1*oUg8EcVu4LsIrtaqVo3yjA.png"
+image:	"../images/1*oUg8EcVu4LsIrtaqVo3yjA.png"
 ---
 
 You can’t build muscle without breaking down muscle and recovering. You can’t build resilience and strength without some discomfort and repair. You can’t learn if you are always focused on efficiency (and if you aren’t open to feeling a bit dumb sometimes). You can’t expect teams to show “initiative and autonomy” if you smother them in helicopter management and process.
@@ -11,7 +11,7 @@ There are no silver bullets. When people harp on about “10x teams” they very
 
 Short-term growth will always be more alluring. But a sound economic framework will always respect/understand the cost of that growth. Again … it is an investment. Stress the system too hard with growth (vs. investing in “positive” stressors to build resilience) and the system collapses.
 
-![](/images/1*oUg8EcVu4LsIrtaqVo3yjA.png)1. Rotate who “runs” standup
+![](../images/1*oUg8EcVu4LsIrtaqVo3yjA.png)1. Rotate who “runs” standup
 2. Explore new retrospective formats
 3. Extended new hire onboarding. All new hires work the support queue, sit with sales, and listen in on customer success calls
 4. Run developer exchange programs with other teams

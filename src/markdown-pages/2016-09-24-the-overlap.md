@@ -2,12 +2,12 @@
 path:	"/blog/the-overlap"
 date:	"2016-09-24"
 title:	"The Overlap"
-image:	"/images/1*p-Xmpg3MFXo3Ie4G0LgGMw.png"
+image:	"../images/1*p-Xmpg3MFXo3Ie4G0LgGMw.png"
 ---
 
 #### The Messy World of Modern Software Product Development (With User Interfaces)
 
-![](/images/1*p-Xmpg3MFXo3Ie4G0LgGMw.png)
+![](../images/1*p-Xmpg3MFXo3Ie4G0LgGMw.png)
 
 In forward thinking product development organizations, **product management and UX have become increasingly overlapped**. Concurrently, we have seen a move towards **collaborative design** — involving engineers and other stakeholders in the design process. These two factors have had a dramatic impact on how product development teams organize, work, and deliver value to customers. In this post I am going to explore some of these impacts.
 

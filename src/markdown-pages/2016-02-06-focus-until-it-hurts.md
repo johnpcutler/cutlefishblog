@@ -2,14 +2,14 @@
 path:	"/blog/focus-until-it-hurts"
 date:	"2016-02-06"
 title:	"Focus Until It Hurts"
-image:	"/images/1*GEu1h17A6_pm_grHkXzv-g.png"
+image:	"../images/1*GEu1h17A6_pm_grHkXzv-g.png"
 ---
 
 To startup founders and early team members, focus can be extremely uncomfortable. It defies many of our intuitions about customer-centricity, risk mitigation, “working hard”, and seizing opportunities. We are by definition opportunists and risk-takers and the list of good ideas is endless.
 
 It’s easy to talk about focus. But much harder to BE focused.
 
-![](/images/1*GEu1h17A6_pm_grHkXzv-g.png)
+![](../images/1*GEu1h17A6_pm_grHkXzv-g.png)
 
 When the lights go up …. think of all the great things we could do!It occurred to me the other day that what we call “focus” is often way too comfortable. It’s a bandaid on the fleshwound. We resort to familiar thought patterns and fixes:
 

@@ -2,10 +2,10 @@
 path:	"/blog/continuous-improvement-models"
 date:	"2019-01-04"
 title:	"Continuous Improvement Models"
-image:	"/images/1*CZZFr1miko2QPn1LG_zugA@2x.jpeg"
+image:	"../images/1*CZZFr1miko2QPn1LG_zugA@2x.jpeg"
 ---
 
-![](/images/1*CZZFr1miko2QPn1LG_zugA@2x.jpeg)
+![](../images/1*CZZFr1miko2QPn1LG_zugA@2x.jpeg)
 
 Describe your organization’s continuous improvement model.
 

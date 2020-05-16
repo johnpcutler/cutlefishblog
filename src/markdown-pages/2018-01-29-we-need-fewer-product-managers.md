@@ -2,10 +2,10 @@
 path:	"/blog/we-need-fewer-product-managers"
 date:	"2018-01-29"
 title:	"We Need Fewer Product Managers"
-image:	"/images/1*lEy66rfupoXXsz-80V32Lw@2x.jpeg"
+image:	"../images/1*lEy66rfupoXXsz-80V32Lw@2x.jpeg"
 ---
 
-![](/images/1*lEy66rfupoXXsz-80V32Lw@2x.jpeg)***Note 1****: This post may read like an attack on product management. That is not my intent at all. I love all things product. This post has been brewing as I interact with more and more companies struggling to define (and scale)
+![](../images/1*lEy66rfupoXXsz-80V32Lw@2x.jpeg)***Note 1****: This post may read like an attack on product management. That is not my intent at all. I love all things product. This post has been brewing as I interact with more and more companies struggling to define (and scale)
 
  product “management” in increasingly complex organizations.*
 

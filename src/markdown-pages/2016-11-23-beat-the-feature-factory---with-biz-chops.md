@@ -2,7 +2,7 @@
 path:	"/blog/beat-the-feature-factory-with-biz-chops"
 date:	"2016-11-23"
 title:	"Beat the Feature Factory — With Biz Chops"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 #### Buy the CFO lunch …

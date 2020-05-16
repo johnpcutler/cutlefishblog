@@ -2,10 +2,10 @@
 path:	"/blog/42-things-non-front-liners-misunderstand"
 date:	"2017-07-18"
 title:	"42 Things Non-Front-Liners Misunderstand"
-image:	"/images/0*hilXTtHO1RQm5DxY.png"
+image:	"../images/0*hilXTtHO1RQm5DxY.png"
 ---
 
-![](/images/0*hilXTtHO1RQm5DxY.png)
+![](../images/0*hilXTtHO1RQm5DxY.png)
 
 It is unfair to expect people who haven’t worked on the front lines in software development to *just get it*. Just as, I’m guessing, it is hard for developers and UXers to grok sales and marketing, being a CEO, and working in HR. Assuming malice is a big mistake. We all want great outcomes for our respective businesses, but have a hard time bridging the divide.
 

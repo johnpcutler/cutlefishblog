@@ -2,7 +2,7 @@
 path:	"/blog/one-day-sprints"
 date:	"2017-09-25"
 title:	"One Day Sprints"
-image:	"/images/1*JpsrQ0gJIJd0xcfmmq5ILg.png"
+image:	"../images/1*JpsrQ0gJIJd0xcfmmq5ILg.png"
 ---
 
 *Have The Conversation. Do The Thing. Review. Go Home*
@@ -20,7 +20,7 @@ Here goes…
 
 * **What are you proposing?  
 **In short: one day sprints. It is not a terribly uncommon. Show up each day. Have The Conversation. Figure out (as a group) The Thing you can deliver and demo by the end of the day. It is OK if it is very small. Start The Thing. Pair/mob/whiteboard/divide-and-conquer/chat/have fun. Get it into a production-like environment. Review The Thing. Go home. Repeat. It looks like this:
-![](/images/1*JpsrQ0gJIJd0xcfmmq5ILg.png)* **Why?**  
+![](../images/1*JpsrQ0gJIJd0xcfmmq5ILg.png)* **Why?**  
 Why not? And do the Why Nots help you deliver value to customers?
 * **No seriously smart-ass…Why?**  
 Part 1: It’s a [*forcing function*](https://medium.com/@johnpcutler/forcing-functions-and-continuous-improvement-7d06e4702da0). With a software product development team you have a couple levers to play with. They include: batch size, problem-decomposition approaches, work in progress limits, multi-tasking, work assignment strategy, how you batch and schedule your planning efforts, and how you schedule and batch your inspect and adapt efforts. You also have choices on whether to constrain your work by WIP, or by some kind of time increment. And you can choose a general strategy around optimizing for flow efficiency or resource efficiency. **Anyway, this approach turns everything on its head. My experience is that our intuitions regarding these levers are typically way off. In this model, we explore the extreme to deepen our understanding of the system.**

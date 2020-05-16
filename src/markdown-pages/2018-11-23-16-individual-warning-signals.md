@@ -2,7 +2,7 @@
 path:	"/blog/16-individual-warning-signals"
 date:	"2018-11-23"
 title:	"16 Individual Warning Signals"
-image:	"/images/1*vJTjWiAFP8QfUOrtn52woQ.png"
+image:	"../images/1*vJTjWiAFP8QfUOrtn52woQ.png"
 ---
 
 I recently had an interesting conversation about maintaining the health of an organization during periods of rapid growth. You’ll experience no shortage of acute stressors, but a resilient culture should ward off any chronic issues.
@@ -29,4 +29,4 @@ Below I have a quick *sample* list of “warning signs” (or signals). **I’d 
 * Feel latched on to an “impossible” plan with too many moving parts, dependencies, etc.
 * Feel like saying “no” is impossible or punishable
 * Paying high context switching costs (being “busy all day” but having nothing to show for it)
-![](/images/1*vJTjWiAFP8QfUOrtn52woQ.png)
+![](../images/1*vJTjWiAFP8QfUOrtn52woQ.png)

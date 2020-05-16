@@ -2,7 +2,7 @@
 path:	"/blog/pain-potential-and-outcomes"
 date:	"2016-07-30"
 title:	"Pain, Potential, and Outcomes"
-image:	"/images/1*GJzOsXVzrYmWqw56dv19Mw.png"
+image:	"../images/1*GJzOsXVzrYmWqw56dv19Mw.png"
 ---
 
 Eat healthy! Get in shape! All your data in one place! Faster time to market! Stop the information overload! Uptime! Speed! Less busywork! Happier customers! Lower churn! More with less! More revenue! Lower costs!
@@ -13,7 +13,7 @@ It all starts with **pain** (latent, expressed, or otherwise). You won’t get t
 
 It doesn’t always go as planned.
 
-![](/images/1*GJzOsXVzrYmWqw56dv19Mw.png)* Example. I want clean water. I don’t want crap in my water. **Pain!**
+![](../images/1*GJzOsXVzrYmWqw56dv19Mw.png)* Example. I want clean water. I don’t want crap in my water. **Pain!**
 * My goodness, the Brita water filter looks amazingly clear, crisp, and pure. **Potential!**
 * Damn, they never told me about these filters, and the charcoal, and how I’m a lazy person who can’t be bothered to clean the thing, or remember to buy the filters. **Outcome? No.**
 The temptation when validating your startup is to stop at **Pain and Potential**. Pain and potential can get you pretty far when prospects are looking for an edge. It can feel exhilarating. You can grow quickly on pain and potential. A pain with an alluring product offering can attract a broad cross-section of people, especially if you’ve got a good sales team.
@@ -23,7 +23,7 @@ But at the end of the day, it’ll be the competitor that produces **Outcomes** 
 
 > Sales and marketing sell the pain and the potential. Product delivers on that promiseYou could broadly divide up “sales driven” and “product driven” startups by how they approach this sequence:
 
-![](/images/1*jcSUWmFgThuDbmvT9nEl9g.png)
+![](../images/1*jcSUWmFgThuDbmvT9nEl9g.png)
 
 The sales driven startup puts energy behind selling the pain and potential. **Growth** is the first objective. After going broad and taking stock of customer outcomes, they’ll attempt to **Focus**.
 

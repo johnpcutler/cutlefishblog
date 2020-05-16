@@ -2,12 +2,12 @@
 path:	"/blog/agilebrandproblem"
 date:	"2016-09-30"
 title:	"#agilebrandproblem"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 This morning I woke up to this tweet from Jeff Patton:
 
-![](/images/0*IqYsOliimYMyaoKB.)
+![](../images/0*IqYsOliimYMyaoKB.)
 
 I found this interesting on a number levels. First, it was a gimme punchline at a product conference. Well played! I’ve heard plenty of gimme PM jokes at other conferences, so it sort of comes with the conference territory. Not a big deal.
 

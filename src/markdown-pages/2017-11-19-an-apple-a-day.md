@@ -2,7 +2,7 @@
 path:	"/blog/an-apple-a-day"
 date:	"2017-11-19"
 title:	"An Apple a Day"
-image:	"/images/1*Bldq9CewYAJ1Ab-fcr_L1A@2x.jpeg"
+image:	"../images/1*Bldq9CewYAJ1Ab-fcr_L1A@2x.jpeg"
 ---
 
 #### Habits, Forcing Functions, Sense, and Response
@@ -17,7 +17,7 @@ If you boil down most of the software product development angst I see on Twitter
 
 In this post I look at sense & respond, forcing functions, and present bias. How do we do things that hurt in the near term, but are good for us in the long term? How do we stay on the B path?
 
-![](/images/1*Bldq9CewYAJ1Ab-fcr_L1A@2x.jpeg)
+![](../images/1*Bldq9CewYAJ1Ab-fcr_L1A@2x.jpeg)
 
 #### **An apple a day…**
 
@@ -59,7 +59,7 @@ Working small makes logical sense. But it is not how we are intuitively wired. I
 
 Anything that dampens (or enhances) your ability to sense and respond will dictate your approach. Craft, experience, data, psychological safety, etc. all provide leverage. Without these things you have drag. With drag, you’ll be chasing your tail.
 
-![](/images/1*dbYKnwZbRiy460RGndjqZQ@2x.jpeg)There are teams who are awesome at sensing, but have no bandwidth (or skill, or autonomy)
+![](../images/1*dbYKnwZbRiy460RGndjqZQ@2x.jpeg)There are teams who are awesome at sensing, but have no bandwidth (or skill, or autonomy)
 
  to respond. There are others who are very execution focused, but lack sense-making abilities. And still others who are great at both…but in a different context.
 

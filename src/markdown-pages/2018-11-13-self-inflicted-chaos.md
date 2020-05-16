@@ -2,12 +2,12 @@
 path:	"/blog/self-inflicted-chaos"
 date:	"2018-11-13"
 title:	"Self-Inflicted Chaos"
-image:	"/images/1*0srJKAT0SDN1qBlMT3vGrw.png"
+image:	"../images/1*0srJKAT0SDN1qBlMT3vGrw.png"
 ---
 
 #### Is chaos (at work) inherently bad?
 
-![](/images/1*0srJKAT0SDN1qBlMT3vGrw.png)[Ink Chaos Drawing by Graham Edward Rhodes](https://www.saatchiart.com/grahamrhodes "Graham Edward Rhodes\'s homepage")Most startups are grappling with *some* amount of uncertainty. Otherwise, as the cliché goes, “everyone would be doing it” (because the information would be readily available)
+![](../images/1*0srJKAT0SDN1qBlMT3vGrw.png)[Ink Chaos Drawing by Graham Edward Rhodes](https://www.saatchiart.com/grahamrhodes "Graham Edward Rhodes\'s homepage")Most startups are grappling with *some* amount of uncertainty. Otherwise, as the cliché goes, “everyone would be doing it” (because the information would be readily available)
 
 . Processes break. Assumptions fade. Systems bend and crack. And “good ideas” dwarf the ability to act on any of those ideas.
 

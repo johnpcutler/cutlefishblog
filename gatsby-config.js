@@ -10,6 +10,7 @@ module.exports = {
   plugins: [
 		`gatsby-plugin-sitemap`,
 		'gatsby-plugin-robots-txt',
+		`gatsby-plugin-twitter`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,

@@ -2,7 +2,7 @@
 path:	"/blog/go-towards-the-discomfort-its-a-sign"
 date:	"2016-05-01"
 title:	"Go Towards The Discomfort (It’s A Sign)"
-image:	"/images/1*jUfZDveIlz7VakyS4Vlvwg.jpeg"
+image:	"../images/1*jUfZDveIlz7VakyS4Vlvwg.jpeg"
 ---
 
 #### … and stop doing things that make sense
@@ -13,7 +13,7 @@ I woke up yesterday, but felt like I hadn’t slept. A bunch of leftover work we
 
 *Do I get out of my head, go out, see friends, and enjoy the weather (which I know is 100% effective at making me feel better), or do I withdraw and spend the day working and mulling over my angst?*
 
-![](/images/1*jUfZDveIlz7VakyS4Vlvwg.jpeg)
+![](../images/1*jUfZDveIlz7VakyS4Vlvwg.jpeg)
 
 I often opt for the latter, with reliably poor results. Weird, right?
 
@@ -21,7 +21,7 @@ You’ve felt that before. Maybe not with work angst, but with *something*: pick
 
 Part of the brain is saying “You know the right thing to do! Push through! Take a risk!” But there’s that other voice saying “That’s hard! Keep the status quo! Make it go away! Time for dessert!” Should we do something that feels unnatural, dangerous, impractical, uncomfortable, worrying, challenging? Or do we just roll with it?
 
-![](/images/1*nXcVN_iE3NABLBbTzS1L9g.png)
+![](../images/1*nXcVN_iE3NABLBbTzS1L9g.png)
 
 That uncomfortable moment is a sign. It’s a **beacon**.
 
@@ -33,13 +33,13 @@ What applies on the individual level also applies to how we work together in com
 
 If you ask most people what they value in a work situation they will describe things like autonomy, diversity, open communication, challenge, honesty, coherence, a sense of purpose, and acknowledgment. Even more fundamentally, we require safety, trust, and respect.
 
-![](/images/1*2LhW2K7CtvUXZB5LV3CJdg.png)
+![](../images/1*2LhW2K7CtvUXZB5LV3CJdg.png)
 
 Contact me for a higher res version. This is a work in progress.We set out with the best intentions, but go astray. Our many “common-sense” decisions result in outcomes that run counter to our values, and over time a stark incongruence settles like a fog. How often do we compromise on quality, or humanity, or diversity, or trust, or transparency? Often. And that is when things slip.
 
 Some of these choices are automatic, and there’s no time to pluck the signal from the noise. But, in most cases, there’s that glowing beacon — that split second of tension and resistance — that indicates a better path is possible.
 
-![](/images/1*Ym91rCVYUMa1e9yb21Hqlg.jpeg)
+![](../images/1*Ym91rCVYUMa1e9yb21Hqlg.jpeg)
 
 You’ll often know these moments just by the words you use. Do any of these snippets sound familiar?
 
@@ -55,7 +55,7 @@ It’s human to buckle, and it’s human to take uncomfortable risks. It’s als
 
 Which is awesome, if you think about it. We’re not doomed to repeat our mistakes and send our organizations into an ugly spiral. The trick is to sense those moments — the spark, instability, tension, momentary fear — and go toward the discomfort. Adopt the beginner’s brain, and let that be your guide.
 
-![](/images/1*6rr4zgvFyLPTs0VYe8XRxQ.jpeg)
+![](../images/1*6rr4zgvFyLPTs0VYe8XRxQ.jpeg)
 
 We can sniff out these opportunities because they have many common traits. You can help your teams learn to be aware of them. To hone their radar — not for a particular solution, not for “the way,” but for an opportunity.
 
@@ -63,8 +63,8 @@ At the core here we have a very human challenge, compounded by having LOTS of hu
 
 Another perspective — the one I’ve been taking lately — is that every decision is an opportunity: in our personal lives, in our work lives, and at the intersection of the two. We can turn to face the discomfort and move forward, or we can keep the status quo. In the process, we’ll mess up — that’s life. But it’s the meditative practice of sensing these moments of tension, acknowledging the path of habit and inertia, and taking the uncomfortable route that counts.
 
-![](/images/1*bump1Indr5DU5O9vvsuKKg.jpeg)
+![](../images/1*bump1Indr5DU5O9vvsuKKg.jpeg)
 
 How can we, as individuals, be clear with ourselves, and then bring that to our organizations? It starts with emotional safety, and in the end requires facing our discomfort. But it is possible.
 
-![](/images/1*Xy-k95-hIPxELNWxyu1lFA.png)
+![](../images/1*Xy-k95-hIPxELNWxyu1lFA.png)

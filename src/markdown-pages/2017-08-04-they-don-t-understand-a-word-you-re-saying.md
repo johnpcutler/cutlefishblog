@@ -2,12 +2,12 @@
 path:	"/blog/they-dont-understand-a-word-youre-saying"
 date:	"2017-08-04"
 title:	"They Don’t Understand a Word You’re Saying"
-image:	"/images/1*EeUENC3vGpe8Umrh0Dvwhw.jpeg"
+image:	"../images/1*EeUENC3vGpe8Umrh0Dvwhw.jpeg"
 ---
 
 #### Shared understanding is hard Part 2
 
-![](/images/1*EeUENC3vGpe8Umrh0Dvwhw.jpeg)
+![](../images/1*EeUENC3vGpe8Umrh0Dvwhw.jpeg)
 
 Doodling …. DO YOU HEAR ME!!!!Here is a a retro format that I have used over the years…
 

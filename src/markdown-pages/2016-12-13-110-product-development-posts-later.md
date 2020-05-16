@@ -2,7 +2,7 @@
 path:	"/blog/110-product-development-posts-later"
 date:	"2016-12-13"
 title:	"110 Product Development Posts Later…"
-image:	"/images/1*H80uguSE02b07LGLnHcs0w.png"
+image:	"../images/1*H80uguSE02b07LGLnHcs0w.png"
 ---
 
 #### Time flies when you’re figuring stuff out (and getting more confused)
@@ -125,4 +125,4 @@ Medium oddly makes it hard to get a nice, clean list of your posts. So to celebr
 108. 7 Tips For Better Prototypes[ View story](https://medium.com/p/7-tips-for-better-prototypes-336c09296271)
 109. 8 Trends Shaping Modern Product Management[ View story](https://medium.com/p/8-trends-shaping-modern-product-management-29953562e5f0)
 110. The System Thinking Change Agent Survival Guide[ View story](https://medium.com/p/the-system-thinking-change-agent-survival-guide-5ab8e7a8521f)
-![](/images/1*H80uguSE02b07LGLnHcs0w.png)
+![](../images/1*H80uguSE02b07LGLnHcs0w.png)

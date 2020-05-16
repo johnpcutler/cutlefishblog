@@ -2,7 +2,7 @@
 path:	"/blog/we-are-what-we-learn"
 date:	"2017-01-11"
 title:	"We Are What We Learn"
-image:	"/images/1*hxVhIjIir7aUKi-8TiB1Tg.png"
+image:	"../images/1*hxVhIjIir7aUKi-8TiB1Tg.png"
 ---
 
 When I talk to teams about data and evidence-driven product development, I invariably encounter some fear and trepidation:
@@ -40,7 +40,7 @@ You have to make learning a regular part of your work. To make this happen, I ha
 
 2. Visualize a learning workflow (parallel to any ticketing systems or other project roadmaps) and make a commitment to moving your questions through it. Your best bet is to keep things conservative in terms of the amount of learning work in-progress. Below is a sample work flow. Note how I’ve divided in-progress questions into two potential workflows: one where the data is available and must be gathered and cleaned before analysis, and the other where some sort of experiment must be designed and run.
 
-![](/images/1*hxVhIjIir7aUKi-8TiB1Tg.png)
+![](../images/1*hxVhIjIir7aUKi-8TiB1Tg.png)
 
 3. Engage a data-savvy coach from inside your organization. Ideally you’ll have someone with a strong data science background to act as a coach and technical advisor. This analysis coach helps pair questions and learning goals with the appropriate analysis technique and provides learning resources to get people working through learning projects on their own. If the team or individual hits an impasse, the coach should help out, but the goal is to teach people how to fish.
 

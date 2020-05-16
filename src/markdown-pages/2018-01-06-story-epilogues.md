@@ -2,12 +2,12 @@
 path:	"/blog/story-epilogues"
 date:	"2018-01-06"
 title:	"Story Epilogues"
-image:	"/images/1*vCIERGkf-73WVVBm8yr0AA@2x.jpeg"
+image:	"../images/1*vCIERGkf-73WVVBm8yr0AA@2x.jpeg"
 ---
 
 #### Think backwards to help with story splitting, shrinking, thinning, and batching.
 
-![](/images/1*vCIERGkf-73WVVBm8yr0AA@2x.jpeg)
+![](../images/1*vCIERGkf-73WVVBm8yr0AA@2x.jpeg)
 
 Here’s a trick I use when scoping stories, and wrestling with the competing pressures of independence, value, “releasability”, etc. It’s super simple. I work backwards from a theoretical discussion with the user ***post-release***. This is subtly different from thinking in the traditional user story format:
 

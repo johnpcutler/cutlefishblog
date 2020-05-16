@@ -2,10 +2,10 @@
 path:	"/blog/dear-product-managers"
 date:	"2016-12-02"
 title:	"Dear Product Managers …"
-image:	"/images/1*s-ZwCwJVMPWQoodMRI42_A.jpeg"
+image:	"../images/1*s-ZwCwJVMPWQoodMRI42_A.jpeg"
 ---
 
-![](/images/1*s-ZwCwJVMPWQoodMRI42_A.jpeg)
+![](../images/1*s-ZwCwJVMPWQoodMRI42_A.jpeg)
 
 We know your job is hard, but you need to let us help you. We’ve got the chops and creativity, and want to help you, the team, the product, and our company win.
 

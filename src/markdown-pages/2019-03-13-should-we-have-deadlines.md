@@ -2,10 +2,10 @@
 path:	"/blog/should-we-have-deadlines"
 date:	"2019-03-13"
 title:	"Should We Have Deadlines?"
-image:	"/images/1*HJF8yfYrqq9yiC6nWaoHfw.jpeg"
+image:	"../images/1*HJF8yfYrqq9yiC6nWaoHfw.jpeg"
 ---
 
-![](/images/1*HJF8yfYrqq9yiC6nWaoHfw.jpeg)
+![](../images/1*HJF8yfYrqq9yiC6nWaoHfw.jpeg)
 
 I received this question recently:
 

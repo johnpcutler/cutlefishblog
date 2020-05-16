@@ -2,12 +2,12 @@
 path:	"/blog/mvp-and-experiment-tips"
 date:	"2020-02-25"
 title:	"Some MVP and Experiment Tips"
-image:	"/images/layercake.jpg"
+image:	"../images/layercake.jpg"
 ---
 
 
 
-![](/images/layercake.jpg)
+![](../images/layercake.jpg)
 
 I sometimes find myself emailing/sharing advice lists. Here is one related to experiments (used somewhat interchangeably with MVP) I sent out today. It is not about experiment design. Rather, I focus on a situation where a team is spinning up a lot of experiments and is encouraged to experiment. 
 

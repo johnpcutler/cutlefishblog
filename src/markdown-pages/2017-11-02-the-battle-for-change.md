@@ -2,10 +2,10 @@
 path:	"/blog/the-battle-for-change"
 date:	"2017-11-02"
 title:	"The Battle For Change"
-image:	"/images/1*r3M6WtYaGEYbQ-LkIkaWKQ@2x.jpeg"
+image:	"../images/1*r3M6WtYaGEYbQ-LkIkaWKQ@2x.jpeg"
 ---
 
-![](/images/1*r3M6WtYaGEYbQ-LkIkaWKQ@2x.jpeg)
+![](../images/1*r3M6WtYaGEYbQ-LkIkaWKQ@2x.jpeg)
 
 Let’s assume you are a lean change agent. You understand that there are rarely silver bullet solutions. You believe in running small experiments, sensing the impact, and amplifying the good / dampening the bad. You are passionate about continuous improvement, and empowering the front-lines to solve the most pressing business problems.
 

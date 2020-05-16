@@ -2,10 +2,10 @@
 path:	"/blog/starting-without-a-solution"
 date:	"2018-03-16"
 title:	"Starting Without A Solution"
-image:	"/images/1*N4toWvOV-1tOFSjDr8cyqQ@2x.jpeg"
+image:	"../images/1*N4toWvOV-1tOFSjDr8cyqQ@2x.jpeg"
 ---
 
-![](/images/1*N4toWvOV-1tOFSjDr8cyqQ@2x.jpeg)
+![](../images/1*N4toWvOV-1tOFSjDr8cyqQ@2x.jpeg)
 
 **Q: How can we prioritize something if we don’t know the solution? How can we estimate it?**
 

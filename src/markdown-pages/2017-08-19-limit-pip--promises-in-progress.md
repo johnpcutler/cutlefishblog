@@ -2,7 +2,7 @@
 path:	"/blog/limit-pip-promises-in-progress"
 date:	"2017-08-19"
 title:	"Limit PIP (Promises In Progress)"
-image:	"/images/1*G5LTJdpH8d7hLHxJ_YqaOQ.png"
+image:	"../images/1*G5LTJdpH8d7hLHxJ_YqaOQ.png"
 ---
 
 I riffed recently on the idea of PIP (promises in progress).
@@ -10,7 +10,7 @@ I riffed recently on the idea of PIP (promises in progress).
 
 > [](https://twitter.com/johncutlefish/status/898586986289668097)The idea is growing on me. First, because it explains how some organizations go downhill. And second, it helped me reflect on how and why I throw off promises in my day to day work (and sometimes don’t keep those promises).
 
-![](/images/1*G5LTJdpH8d7hLHxJ_YqaOQ.png)<https://louisandmelcomics.wordpress.com/tag/cartoon/>Imagine you have a note taking robot at your disposal. The robot records every new promise made by people in your company — explicit or implicit, emotional or functional or social, aspirational or realistic. Everything! Gifted with an unlimited power supply (and storage)
+![](../images/1*G5LTJdpH8d7hLHxJ_YqaOQ.png)<https://louisandmelcomics.wordpress.com/tag/cartoon/>Imagine you have a note taking robot at your disposal. The robot records every new promise made by people in your company — explicit or implicit, emotional or functional or social, aspirational or realistic. Everything! Gifted with an unlimited power supply (and storage)
 
 , it moves on to survey for existing promises, expectations, and commitments. The robot does this every day.
 

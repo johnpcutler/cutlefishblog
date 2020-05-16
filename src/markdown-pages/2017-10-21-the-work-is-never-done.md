@@ -2,10 +2,10 @@
 path:	"/blog/the-work-is-never-done"
 date:	"2017-10-21"
 title:	"The Work Is Never Done"
-image:	"/images/1*I8jPUJBu4bR3SkxKMNIubg@2x.jpeg"
+image:	"../images/1*I8jPUJBu4bR3SkxKMNIubg@2x.jpeg"
 ---
 
-![](/images/1*I8jPUJBu4bR3SkxKMNIubg@2x.jpeg)In software as a service (SaaS), we are continuously enhancing a service delivery system. We deliver valuable services using humans and machines. Every day, we work to make the system smarter, faster, and more reliable. Code is scripted service design. Features and products are temporary delivery mechanisms (like amusement park rides, or dishes on a menu)
+![](../images/1*I8jPUJBu4bR3SkxKMNIubg@2x.jpeg)In software as a service (SaaS), we are continuously enhancing a service delivery system. We deliver valuable services using humans and machines. Every day, we work to make the system smarter, faster, and more reliable. Code is scripted service design. Features and products are temporary delivery mechanisms (like amusement park rides, or dishes on a menu)
 
 .
 

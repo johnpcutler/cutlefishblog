@@ -2,7 +2,7 @@
 path:	"/blog/100-wikipedia-articles-on-software-product-development-and-related-disciplines"
 date:	"2017-12-17"
 title:	"100 Wikipedia Articles on Software Product Development (and Related Disciplines)"
-image:	"/images/1*5jMhzv7DTVenbW-r-EemaQ.png"
+image:	"../images/1*5jMhzv7DTVenbW-r-EemaQ.png"
 ---
 
 *Personal Update: The air has been unhealthy here in Santa Barbara, and today the fires got a bit closer to downtown. A *[*GoFundMe page *](https://www.gofundme.com/nmkkc-for-ashley-iverson-and-her-girls)*has been set up for Ashley Iverson, the wife of Cory Iverson who died fighting the Thomas Fire on 12/14. Please consider donating. We have >8,000 fire fighters in the vicinity working to keep us safe.*
@@ -11,7 +11,7 @@ For the moment we’re stuck inside with our HEPA filter. My stuck-inside list-m
 
 This is by no means conclusive — it was a random walk — but hopefully folks find it semi-valuable. Wikipedia is truly one of our modern marvels.
 
-![](/images/1*5jMhzv7DTVenbW-r-EemaQ.png)* [Acceptance testing](https://en.m.wikipedia.org/wiki/Acceptance_testing)
+![](../images/1*5jMhzv7DTVenbW-r-EemaQ.png)* [Acceptance testing](https://en.m.wikipedia.org/wiki/Acceptance_testing)
 * [Ambidextrous organization](https://en.m.wikipedia.org/wiki/Ambidextrous_organization)
 * [Analytics](https://en.m.wikipedia.org/wiki/Analytics)
 * [Autonomation](https://en.m.wikipedia.org/wiki/Autonomation)

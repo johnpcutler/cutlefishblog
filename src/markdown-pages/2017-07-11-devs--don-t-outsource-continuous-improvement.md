@@ -2,10 +2,10 @@
 path:	"/blog/devs-dont-outsource-continuous-improvement"
 date:	"2017-07-11"
 title:	"Devs! Don’t Outsource Continuous Improvement!"
-image:	"/images/1*jsqcwnau087Qmd8oBhnmHA.png"
+image:	"../images/1*jsqcwnau087Qmd8oBhnmHA.png"
 ---
 
-![](/images/1*jsqcwnau087Qmd8oBhnmHA.png)
+![](../images/1*jsqcwnau087Qmd8oBhnmHA.png)
 
 Here’s some advice to developers. Take continuous improvement into your own hands. Don’t rely on a manager or a Scrum Master. Take pride in doing it right.
 

@@ -2,7 +2,7 @@
 path:	"/blog/the-iron-triangle-is-dead"
 date:	"2016-01-31"
 title:	"The Iron Triangle Is Dead"
-image:	"/images/1*A_VyiMYQB7VoabXbI_e0pg.jpeg"
+image:	"../images/1*A_VyiMYQB7VoabXbI_e0pg.jpeg"
 ---
 
 #### Illusions of singular org culture, intervention, and the “right way”
@@ -15,4 +15,4 @@ The reality is that there are far more things at play. Contrary to the simplific
 
 This is what I came up with ([click here for high res](https://drive.google.com/file/d/0BwV5ydXhNqgiRlgzUk04VER4aEE/view?usp=sharing)). What do you see?
 
-![](/images/1*A_VyiMYQB7VoabXbI_e0pg.jpeg)
+![](../images/1*A_VyiMYQB7VoabXbI_e0pg.jpeg)

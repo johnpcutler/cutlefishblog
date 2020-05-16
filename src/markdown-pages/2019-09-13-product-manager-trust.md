@@ -2,10 +2,10 @@
 path:	"/blog/how-product-managers-lose-trust"
 date:	"2019-09-14"
 title:	"How Product Managers Lose Trust"
-image:	"/images/trust_diagram.png"
+image:	"../images/trust_diagram.png"
 ---
 
-![](/images/trust_diagram.png)
+![](../images/trust_diagram.png)
 
 How do product managers lose the trust of their team?
 

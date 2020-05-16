@@ -2,7 +2,7 @@
 path:	"/blog/give-and-take"
 date:	"2018-01-21"
 title:	"Give and Take"
-image:	"/images/1*GKTaL-NLuJPufpMsszag4A@2x.jpeg"
+image:	"../images/1*GKTaL-NLuJPufpMsszag4A@2x.jpeg"
 ---
 
 Lately I’ve been fascinated by the interplay between goal setting, accountability, commitment, trust, safety, and coherence.
@@ -11,7 +11,7 @@ A ways back I started to write a fiction book about software product development
 
 There are no answers or how-tos in this post. I apologize. Instead, I wanted to dig into the complexity of this from many different perspectives.
 
-![](/images/1*GKTaL-NLuJPufpMsszag4A@2x.jpeg)
+![](../images/1*GKTaL-NLuJPufpMsszag4A@2x.jpeg)
 
 Here are a couple snippets…
 
@@ -69,4 +69,4 @@ Here are a couple snippets…
 * Does coherence and predictability trump “health” ?
 Speaking of predictability. What if we spoke of mutual predictability? For the individual contributor, what would a “predictable” organization look like?
 
-![](/images/1*fZNnIShAPeGfs9ZvWFctsQ@2x.jpeg)
+![](../images/1*fZNnIShAPeGfs9ZvWFctsQ@2x.jpeg)

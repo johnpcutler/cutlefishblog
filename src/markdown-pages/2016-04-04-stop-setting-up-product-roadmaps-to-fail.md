@@ -2,7 +2,7 @@
 path:	"/blog/stop-setting-up-product-roadmaps-to-fail"
 date:	"2016-04-04"
 title:	"Stop Setting Up Product Roadmaps To Fail"
-image:	"/images/1*lOyg3v-GPArdMfHFP558mA.png"
+image:	"../images/1*lOyg3v-GPArdMfHFP558mA.png"
 ---
 
 ### Why Read
@@ -31,7 +31,7 @@ Some of these problems are inherent to the process — you need to actively work
 5. [Prioritize new feature development](https://blog.intercom.io/where-do-you-suck-where-does-it-matter/) (items which can be easily understood and sold) over equally promising enhancements to the existing product
 6. Converage prematurely on solutions
 7. Rely on estimates, despite the fallibility of those estimates
-![](/images/1*lOyg3v-GPArdMfHFP558mA.png)
+![](../images/1*lOyg3v-GPArdMfHFP558mA.png)
 
 “Big Batch” Planning**Roadmaps …**
 
@@ -44,11 +44,11 @@ Some of these problems are inherent to the process — you need to actively work
 7. Create dependencies across the organization (decreases agility
 **This Tweet from Jeff Patton wraps it all up:**
 
-![](/images/0*_5HN1gHKLCGXKDr1.)
+![](../images/0*_5HN1gHKLCGXKDr1.)
 
 **Some common pitfalls I described in a recent talk:**
 
-![](/images/1*fD83hoX1EY5rVzT5ERx4dw.png)
+![](../images/1*fD83hoX1EY5rVzT5ERx4dw.png)
 
 ### Challengers vs. Defenders
 
@@ -62,7 +62,7 @@ OK. That’s a pretty hairy list. I’m not the first to challenge roadmaps. Luc
 You need to get back to the basics …  
 You need to stop doing it the old way …
 
-![](/images/1*eXUqdtEc2SMBg2H5xxCg4Q.png)**Challenger  
+![](../images/1*eXUqdtEc2SMBg2H5xxCg4Q.png)**Challenger  
 **What could you do such that [Some positive aspect] would be possible without the abuse, and observable negative effects?
 
 **Defender  
@@ -85,13 +85,13 @@ This advice is mirrored by most of the roadmapping software vendors like [Produc
 The other day, [Woody Zuill](https://twitter.com/WoodyZuill?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) asked me something to the effect of:
 
 
-> what would need to happen such that this wasn’t even an issue. What would it take for the company to be awesome?![](/images/0*hPu3Zi5A1i1Ngos-.)
+> what would need to happen such that this wasn’t even an issue. What would it take for the company to be awesome?![](../images/0*hPu3Zi5A1i1Ngos-.)
 
 Let’s try that thought experiment …
 
 What would a crazy successful and awesome product development team actually look like? Would they still have gant-like visuals for their roadmap?
 
-![](/images/0*MJyRcuIpGEG5pxgB.)
+![](../images/0*MJyRcuIpGEG5pxgB.)
 
 Probably not. The future might look nothing like a 12 lane LA highway. Because you’d be on a bullet train.
 
@@ -110,10 +110,10 @@ Continuing on that thought …
 **Need:** “We have to meet to decide which features are most important, to advocate for our ideas, and favorite features”  
 **Awesome:** “The problem to solve is known, and all team members — down to the developers, UX, etc. — are empowered to solve them and try to push the needle without drowning in meetings. And we make continuous progress towards those goals. Everyone trusts each other. When we fail, that’s OK as well … provided we learn, and do better next time.”
 
-![](/images/1*PgeB1tI_4pjT0T23wFF-Hw.png)**Need:** “We need to have a yearly plan, and the roadmap is part of that”  
+![](../images/1*PgeB1tI_4pjT0T23wFF-Hw.png)**Need:** “We need to have a yearly plan, and the roadmap is part of that”  
 **Awesome:** “You always have focus, vision, and direction … not just in late December (or whenever your yearly planning period is). Gaining that shared understanding is a rapid process, and can happen at any appropriate time. Few dependencies hamper the team. We respond immediately to new opportunities, and data.”
 
-![](/images/1*f0IF-fzFXv4G8r_iz9lGsw.png)**Need:** “We need to know what is coming down the pike!”  
+![](../images/1*f0IF-fzFXv4G8r_iz9lGsw.png)**Need:** “We need to know what is coming down the pike!”  
 **Awesome:** “The product is sellable, awesome, and valuable as is. You’d be able to sell to those people without pitching shaky future promises. You’d discuss features released in the last two months, and the prospect would be wowed. From a technology standpoint we can flexibly tackle new challenges without a ton of notice.”
 
 **Need: **“We need to see the big picture, where are we going, and how our work fits into that”  
@@ -121,7 +121,7 @@ Continuing on that thought …
 
 Note: If you listen carefully, most “big picture” discussions are actually a code for “we don’t think we’re making a difference”.
 
-![](/images/0*2votZLbfcMxlPYKP.)<http://www.boost.co.nz/blog/wp-content/uploads/2014/03/Release-Planning-PSI-Program-Plan.png>**Need**: “We need to coordinate with marketing, training, and support”  
+![](../images/0*2votZLbfcMxlPYKP.)<http://www.boost.co.nz/blog/wp-content/uploads/2014/03/Release-Planning-PSI-Program-Plan.png>**Need**: “We need to coordinate with marketing, training, and support”  
 **Awesome:** “A steady stream of awesome. Short lead times are acceptable to partners, and the batches are small enough to handle gracefully. Teams iterate on features until they “hit the mark” and then marketing uses that actual data (and case studies and momentum) to market. Training and support coexist with the development teams instead of “tossing it over the wall”.”
 
 **Need:** “The board keeps asking us for our roadmap”  

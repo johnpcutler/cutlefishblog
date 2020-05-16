@@ -2,16 +2,16 @@
 path:	"/blog/less-mature-teams"
 date:	"2017-09-20"
 title:	"“Less Mature” Teams"
-image:	"/images/1*Jg7i6P59zy4cJA5ChKzX1A.png"
+image:	"../images/1*Jg7i6P59zy4cJA5ChKzX1A.png"
 ---
 
 #### and some notes on the apprenticeship model
 
-![](/images/1*Jg7i6P59zy4cJA5ChKzX1A.png)Apprentice At Work….I frequently hear people (managers, leaders)
+![](../images/1*Jg7i6P59zy4cJA5ChKzX1A.png)Apprentice At Work….I frequently hear people (managers, leaders)
 
  in organizations talk about “less mature” teams. Usually it is in the context of explaining why these “less mature” teams need to somehow look and operate differently than “more mature” teams. The ninjas are off solving big problems, while the white-belts are floundering in a sea of helicopter management, prescriptive work, and guardrail processes. The ninjas “grow out of Scrum” while the white-belts must do everything “by the book”.
 
-![](/images/1*mQzo3W4xWS3myNWCEFwd_g.png)
+![](../images/1*mQzo3W4xWS3myNWCEFwd_g.png)
 
 <http://5whys.com/blog/the-3-maturity-stages-of-a-software-team-and-how-scrum-fails.html>**This really pisses me off! Why?**
 

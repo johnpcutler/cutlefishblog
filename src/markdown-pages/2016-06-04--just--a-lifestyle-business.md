@@ -2,12 +2,12 @@
 path:	"/blog/just-a-lifestyle-business"
 date:	"2016-06-04"
 title:	"*Just* a Lifestyle Business …"
-image:	"/images/1*yhyG0HCQOGROTZG1lJwGSg.png"
+image:	"../images/1*yhyG0HCQOGROTZG1lJwGSg.png"
 ---
 
 *At a coffee shop somewhere in the Bay Area. Two people are talking about their friend’s business ..*
 
-![](/images/1*yhyG0HCQOGROTZG1lJwGSg.png)
+![](../images/1*yhyG0HCQOGROTZG1lJwGSg.png)
 
 The Atlantic: <http://www.theatlantic.com/technology/archive/2011/02/lets-just-make-the-startup-coffee-shop-thing-official/71603/>It’s just a *lifestyle* business for them.
 

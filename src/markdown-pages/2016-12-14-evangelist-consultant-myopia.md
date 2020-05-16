@@ -2,12 +2,12 @@
 path:	"/blog/evangelist-consultant-myopia"
 date:	"2016-12-14"
 title:	"Evangelist/Consultant Myopia"
-image:	"/images/1*SZw2Z7tnK2Q5qKxlbOS6Mg.png"
+image:	"../images/1*SZw2Z7tnK2Q5qKxlbOS6Mg.png"
 ---
 
 How can change agents and change participants make each other awesome ([see the Modern Agile first principle: Make People Awesome](https://www.infoq.com/articles/modern-agile-intro))?
 
-![](/images/1*SZw2Z7tnK2Q5qKxlbOS6Mg.png)
+![](../images/1*SZw2Z7tnK2Q5qKxlbOS6Mg.png)
 
 Come Into The Woods: Melonie KingToday’s Thought: **Change agent myopia does not make people awesome**. It’s easy to ignore how silly a lot of what we’re spewing actually sounds, unless you’ve seen it work:
 

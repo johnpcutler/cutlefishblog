@@ -2,7 +2,7 @@
 path:	"/blog/stop-playing-tetris-with-teams-sprints-projects-and-individuals"
 date:	"2017-12-10"
 title:	"Stop Playing Tetris (With Teams, Sprints, Projects, and Individuals)"
-image:	"/images/1*Z6cIjNk6eewlXVqZXl6seA@2x.jpeg"
+image:	"../images/1*Z6cIjNk6eewlXVqZXl6seA@2x.jpeg"
 ---
 
 For a year or two, I have been using Tetris as a metaphor for a slew of software product development anti-patterns. It works on the individual, team, sprint, project, program, and organizational level. And not just for development…it works wherever people are coordinating to do *work*.
@@ -13,11 +13,11 @@ This is no knock on Tetris. It is a great puzzle game and it IS possible to be �
 *As product people, we need to work more on the mission and less on playing Tetris with teams and initiatives. To much planning ahead and…*medium.com](https://medium.com/@johnpcutler/quit-planning-ahead-and-keeping-people-busy-937e74d5a1fb "https://medium.com/@johnpcutler/quit-planning-ahead-and-keeping-people-busy-937e74d5a1fb")[](https://medium.com/@johnpcutler/quit-planning-ahead-and-keeping-people-busy-937e74d5a1fb)
 > [](https://twitter.com/johncutlefish/status/815905225932476416)This morning I stumbled on this awesome Tweet from Bill Murray, and it inspired me to write a quick post about Tetris.
 
-![](/images/1*Z6cIjNk6eewlXVqZXl6seA@2x.jpeg)
+![](../images/1*Z6cIjNk6eewlXVqZXl6seA@2x.jpeg)
 
 We all know what Tetris “feels” like. It’s a fun game. But as Murray points out, there is an element of futility and masochism to it as well. It’s stressful! Now imagine you’re the blocks and pieces. Imagine that the gameplay is not within your control. That’s how working on the front-lines in software product development can feel like sometimes!
 
-![](/images/1*3uD5bjJkDjlYfUuNMFSTRQ@2x.gif)
+![](../images/1*3uD5bjJkDjlYfUuNMFSTRQ@2x.gif)
 
 Some examples of [Sprint, Feature, Team, Project] Tetris in software product development include:
 

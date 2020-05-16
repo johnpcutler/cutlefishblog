@@ -2,12 +2,12 @@
 path:	"/blog/good-work-is-hard-work"
 date:	"2017-08-23"
 title:	"Good Work Is Hard Work"
-image:	"/images/1*W_ewTA8I4-Uuc3KFdaAcEg.png"
+image:	"../images/1*W_ewTA8I4-Uuc3KFdaAcEg.png"
 ---
 
 Software product development is hard.
 
-![](/images/1*W_ewTA8I4-Uuc3KFdaAcEg.png)Gratuitous, free-to-use photograph of something kind of difficult looking (so Medium has an image)
+![](../images/1*W_ewTA8I4-Uuc3KFdaAcEg.png)Gratuitous, free-to-use photograph of something kind of difficult looking (so Medium has an image)
 
 Doing the hard work takes trust and safety. Without trust and safety, individuals and companies go into self-preservation mode. In these conditions we replace trust with process, and collaboration with control.
 
@@ -70,4 +70,4 @@ Because …
 * Responding to existential competitive threats is hard
 ### It’s all hard!
 
-![](/images/1*IAIgqCyhaYiKyzQ8-48XSw.png)
+![](../images/1*IAIgqCyhaYiKyzQ8-48XSw.png)

@@ -2,12 +2,12 @@
 path:	"/blog/look-before-leaping"
 date:	"2018-02-22"
 title:	"Look Before Leaping"
-image:	"/images/1*fpXgQfpkecP9nLo6sXNq7g@2x.jpeg"
+image:	"../images/1*fpXgQfpkecP9nLo6sXNq7g@2x.jpeg"
 ---
 
 #### Being a smarter change agent / change gardener
 
-![](/images/1*fpXgQfpkecP9nLo6sXNq7g@2x.jpeg)
+![](../images/1*fpXgQfpkecP9nLo6sXNq7g@2x.jpeg)
 
 Do you want to change your organization? Why?
 
@@ -37,7 +37,7 @@ Ask **Person A** about **Person B**, and you are liable to hear something like:
 
 Now imagine their organization…or more specifically two versions of their organization (seen through the lens of [Erin Meyer’s *Culture Map*](https://erinmeyer.com/2016/01/mapping-out-cultural-differences-on-teams/)):
 
-![](/images/1*8S_yqH_LcbpQFeGfsymsew@2x.jpeg)**Org Variation 1**: MORE….hierarchal, top-down decision making, relationship-based trust, linear schedules/plans, avoid confrontation, inductive persuasion (application first)
+![](../images/1*8S_yqH_LcbpQFeGfsymsew@2x.jpeg)**Org Variation 1**: MORE….hierarchal, top-down decision making, relationship-based trust, linear schedules/plans, avoid confrontation, inductive persuasion (application first)
 
 , indirect evaluation, and implicit/high-context communication. **One could safely argue that Person B will feel a bit more at home in this environment. Conflicts between A and B will favor B.**
 

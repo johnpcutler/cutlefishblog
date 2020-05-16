@@ -2,10 +2,10 @@
 path:	"/blog/invest-energy-and-focus-not-time"
 date:	"2018-07-10"
 title:	"Invest Energy and Focus, Not Time"
-image:	"/images/1*xeQWukelbtr7_7ejG_NPVw@2x.jpeg"
+image:	"../images/1*xeQWukelbtr7_7ejG_NPVw@2x.jpeg"
 ---
 
-![](/images/1*xeQWukelbtr7_7ejG_NPVw@2x.jpeg)
+![](../images/1*xeQWukelbtr7_7ejG_NPVw@2x.jpeg)
 
 This is a well known self-help/productivity concept, but it bears repeating in the context of product development.
 

@@ -2,7 +2,7 @@
 path:	"/blog/thinking-beyond-projects"
 date:	"2017-09-11"
 title:	"Thinking Beyond Projects"
-image:	"/images/1*LCt_bnKGOv3Igc68WqiV9g.jpeg"
+image:	"../images/1*LCt_bnKGOv3Igc68WqiV9g.jpeg"
 ---
 
 #### In product development, projects are vehicles, not end-goals
@@ -13,15 +13,15 @@ As someone involved in software product development, I try to use the word *proj
 
 Take the example of a project that adds complexity to a product. The complexity outlives the project, must be maintained, and may eventually require refactoring or a rewrite to enable new capabilities (or accommodate unexpected growth). Sure, that future work can be encapsulated under a *new project, *but you’ve potentially lost some of the context and continuity.
 
-![](/images/1*LCt_bnKGOv3Igc68WqiV9g.jpeg)Or consider the team that is focused on the mission of improving a specific metric (e.g. retention, adoption, revenue, etc.) Leadership agrees to fund the mission, provided the team can continue to generate impact. Is the project the *whole mission*, or should each of their efforts be accounted for (and managed)
+![](../images/1*LCt_bnKGOv3Igc68WqiV9g.jpeg)Or consider the team that is focused on the mission of improving a specific metric (e.g. retention, adoption, revenue, etc.) Leadership agrees to fund the mission, provided the team can continue to generate impact. Is the project the *whole mission*, or should each of their efforts be accounted for (and managed)
 
  individually. Are you still “finishing projects” in this case?
 
-![](/images/1*oAYMg9xcZOhPuKcD-oqOvw.jpeg)Finally, consider the all-too-common experience of working your ass off to finish a project (and being measured on your ability to finish that project within a certain period of time)
+![](../images/1*oAYMg9xcZOhPuKcD-oqOvw.jpeg)Finally, consider the all-too-common experience of working your ass off to finish a project (and being measured on your ability to finish that project within a certain period of time)
 
 , only to later observe that the project delivers no benefits to the business and/or customers. It “works as expected”, but it just wasn’t the right thing to build.
 
-![](/images/1*OxqR2bJMq9qu_7asDI6ElQ.jpeg)Our dominant view of projects has been heavily, heavily influenced by custom software contractors. That model works (basically)
+![](../images/1*OxqR2bJMq9qu_7asDI6ElQ.jpeg)Our dominant view of projects has been heavily, heavily influenced by custom software contractors. That model works (basically)
 
  like this:
 
@@ -36,7 +36,7 @@ A company delivering a SaaS product may spend the next decade improving on how t
 
 Of course, in this model you can view your engineers and designers as an internal consulting firm. Hey InternalDesignCrop, make X,Y, and Z possible, we’ll resource you with $N, tell us how long, deliver it, and we’ll “pay you”. But this is plagued by the exact same things that plague companies buying custom software when they get around to realizing benefits (see [benefits realization management](https://en.wikipedia.org/wiki/Benefits_realisation_management), it’s a thing). They may get exactly what they asked for … but it *wasn’t the right thing*. Plus, it kind of sucks when your engineers and designers are talented problem solvers (not feature fabricators).
 
-![](/images/1*AHCXoqts8lJECc3IkZZdEg.jpeg)
+![](../images/1*AHCXoqts8lJECc3IkZZdEg.jpeg)
 
 For the custom software developer this isn’t a problem. Cash money is in the bank account. Customer asked for it … we built it. You wanted this ugly looking office building without windows, and we built that exact building on time and on budget. But for the product company, it is a major problem.
 

@@ -2,14 +2,14 @@
 path:	"/blog/10-tips-for-taming-slack-overload"
 date:	"2017-08-13"
 title:	"10 Tips For Taming Slack Overload"
-image:	"/images/1*pzcEdTmvF8_a-djMvqfusw.png"
+image:	"../images/1*pzcEdTmvF8_a-djMvqfusw.png"
 ---
 
 #### Sharing a couple quick tips for taming [Slack](https://medium.com/u/26d90a99f605) overload…
 
 Slack is an awesome tool. But it isn’t magic (yet). I very much appreciate their mission:
 
-![](/images/1*pzcEdTmvF8_a-djMvqfusw.png)
+![](../images/1*pzcEdTmvF8_a-djMvqfusw.png)
 
 But sometimes I could swear it is making my life more complicated, adding cognitive load, and making me less product. Not Slack itself … but our use of the tool.
 

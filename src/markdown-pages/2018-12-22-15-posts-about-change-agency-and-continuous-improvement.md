@@ -2,7 +2,7 @@
 path:	"/blog/15-posts-about-change-agency-and-continuous-improvement"
 date:	"2018-12-22"
 title:	"15 Posts About Change Agency and Continuous Improvement"
-image:	"/images/1*hJpx0Ry9etugyEJtIqFx4g.png"
+image:	"../images/1*hJpx0Ry9etugyEJtIqFx4g.png"
 ---
 
 With almost 400 posts now, I realize that it can be super hard to find posts on certain topics. Here are 15 posts I find myself sharing frequently when discussing change agency and continuous improvement.
@@ -23,4 +23,4 @@ With almost 400 posts now, I realize that it can be super hard to find posts on 
 *I’ve been obsessed lately with the following question:*medium.com](https://medium.com/@johnpcutler/the-hard-thing-about-not-so-hard-things-fc541d986b77 "https://medium.com/@johnpcutler/the-hard-thing-about-not-so-hard-things-fc541d986b77")[](https://medium.com/@johnpcutler/the-hard-thing-about-not-so-hard-things-fc541d986b77)[**WIP It Real Good**  
 *You are tasked with designing a system optimized for high work-in-progress levels (high WIP, aka “doing a lot of stuff…*hackernoon.com](https://hackernoon.com/wip-it-real-good-66aa710178fd "https://hackernoon.com/wip-it-real-good-66aa710178fd")[](https://hackernoon.com/wip-it-real-good-66aa710178fd)[**Building Shared Understanding Is Hard**  
 *We were aligned last week. And now we are not. What gives?  
-Correct. Building shared understanding is hard. And…*hackernoon.com](https://hackernoon.com/building-shared-understanding-is-hard-4a8866be3e14 "https://hackernoon.com/building-shared-understanding-is-hard-4a8866be3e14")[](https://hackernoon.com/building-shared-understanding-is-hard-4a8866be3e14)![](/images/1*hJpx0Ry9etugyEJtIqFx4g.png)
+Correct. Building shared understanding is hard. And…*hackernoon.com](https://hackernoon.com/building-shared-understanding-is-hard-4a8866be3e14 "https://hackernoon.com/building-shared-understanding-is-hard-4a8866be3e14")[](https://hackernoon.com/building-shared-understanding-is-hard-4a8866be3e14)![](../images/1*hJpx0Ry9etugyEJtIqFx4g.png)

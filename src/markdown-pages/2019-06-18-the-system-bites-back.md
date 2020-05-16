@@ -2,10 +2,10 @@
 path:	"/blog/the-system-bites-back"
 date:	"2019-06-18"
 title:	"The System Bites Back"
-image:	"/images/1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg"
+image:	"../images/1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg"
 ---
 
-![](/images/1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg)
+![](../images/1*8BvCldlQu1m1LeriLsBcpA@2x.jpeg)
 
 One of the thorny challenges when attempting to improve a system optimized for high WIP, is that it is almost never as simple as “visualize work and lower WIP!” Nor is it always about factors external to the team. Expect deep, and seemingly irrational resistance. Why? Consider what the system is currently optimized for:
 

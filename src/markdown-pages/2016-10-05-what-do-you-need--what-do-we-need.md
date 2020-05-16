@@ -2,12 +2,12 @@
 path:	"/blog/what-do-you-need-what-do-we-need"
 date:	"2016-10-05"
 title:	"What Do You Need? What Do We Need?"
-image:	"/images/1*_r3zVICDbrBWeXq0lPKTCg.jpeg"
+image:	"../images/1*_r3zVICDbrBWeXq0lPKTCg.jpeg"
 ---
 
 #### What do you need? What does your company need? Why? What are you trying to achieve? What must you optimize for?
 
-![](/images/1*_r3zVICDbrBWeXq0lPKTCg.jpeg)
+![](../images/1*_r3zVICDbrBWeXq0lPKTCg.jpeg)
 
 Doodling while thinking about the “real” org chartChange is not difficult. Agreeing on what to change — what you need — is difficult. Resistance to change is not static. It is active and tightly wound … a system of competing change initiatives. This is why it is easy for consultants to plot the “right” way forward, but no silver-bullet to actually enact that change.
 

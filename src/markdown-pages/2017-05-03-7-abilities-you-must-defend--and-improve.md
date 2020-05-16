@@ -2,7 +2,7 @@
 path:	"/blog/7-abilities-you-must-defend-and-improve"
 date:	"2017-05-03"
 title:	"7 Abilities You Must Defend (and Improve)"
-image:	"/images/1*CfIH6JeVz9axBxjGYdy-8g.png"
+image:	"../images/1*CfIH6JeVz9axBxjGYdy-8g.png"
 ---
 
 What is the *right* way to scale your company? How do you know whether a process is the *right* process? Here’s an idea … ask yourself whether the action you are considering **will improve or harm** your ability to do the following:
@@ -16,7 +16,7 @@ What is the *right* way to scale your company? How do you know whether a process
 7. Maintain and grow system awareness
 These items can apply to how we work, who we hire, what we build, who we target, how we structure our organization, and how we respond to change (among other things).
 
-![](/images/1*CfIH6JeVz9axBxjGYdy-8g.png)“Exploit learning” (#1)
+![](../images/1*CfIH6JeVz9axBxjGYdy-8g.png)“Exploit learning” (#1)
 
  refers to the act of converting learning into value. That value might be external customer value, value to the organization, or value to the team/individual. Every action is an opportunity to learn, which is covered under #3.
 

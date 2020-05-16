@@ -2,7 +2,7 @@
 path:	"/blog/the-healthy-tension-trap"
 date:	"2016-09-21"
 title:	"The Healthy Tension Trap"
-image:	"/images/1*e-hzbTBlfuymmmZKioAaSg.png"
+image:	"../images/1*e-hzbTBlfuymmmZKioAaSg.png"
 ---
 
 #### Seriously! We’re all Product Developers!
@@ -12,11 +12,11 @@ I’m sure you’ve heard something like this before…
 
 > A good designer wants an elegant, polished solution. A good PM wants to solve the right problem and optimise for speed. A good engineer wants an implementation that’s maintainable and efficient. ([source](https://blog.intercom.com/healthy-tension-in-product-teams/))And then you’ll hear about *healthy tension*. The idea is that everyone will “advocate” for their respective interests, and out will pop an awesome product. The thinking is that without the keen eye of UX, the interface will end up looking like a command prompt. Or that without Product cracking the whip, Engineering will re-factor their code a dozen times, and UX will polish every pixel (repeatedly, those wacky designers).
 
-![](/images/1*e-hzbTBlfuymmmZKioAaSg.png)Do you know what happens instead (in many cases)? Mediocrity and complacency. Green + Red != Christmas. No…. Green + Red = Brown (an “[icky mix that doesn’t bode well for your pigment/paint](https://www.quora.com/What-color-does-green-and-red-make)”)
+![](../images/1*e-hzbTBlfuymmmZKioAaSg.png)Do you know what happens instead (in many cases)? Mediocrity and complacency. Green + Red != Christmas. No…. Green + Red = Brown (an “[icky mix that doesn’t bode well for your pigment/paint](https://www.quora.com/What-color-does-green-and-red-make)”)
 
 .
 
-![](/images/1*rZDosDyq2H9xMr9ZB-aXwg.png)Instead of advocating (and healthfully debating)
+![](../images/1*rZDosDyq2H9xMr9ZB-aXwg.png)Instead of advocating (and healthfully debating)
 
  for the ***best idea, or the right way to deliver value to customers, ***you end up with bunch of people playing into various stereotypes, or worse yet chasing the incentives / rewards of their functional group over a focus on customer needs.
 

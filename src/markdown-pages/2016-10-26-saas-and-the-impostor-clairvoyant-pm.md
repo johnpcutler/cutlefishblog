@@ -2,14 +2,14 @@
 path:	"/blog/saas-and-the-impostor-clairvoyant-pm"
 date:	"2016-10-26"
 title:	"SaaS and the Impostor Clairvoyant PM"
-image:	"/images/1*gppqlsgZYxHoWPHyuKXDng.png"
+image:	"../images/1*gppqlsgZYxHoWPHyuKXDng.png"
 ---
 
 #### Why most estimation, ROI calculations, and heavy upfront planning is a waste of time in SaaS
 
 This post is about fear and uncertainty, how we respond to that uncertainty, and how we accidentally perpetuate learned helplessness in software development.
 
-![](/images/1*gppqlsgZYxHoWPHyuKXDng.png)<http://lisapapineau.blogspot.com/2012/03/actresses-and-crystal-ball.html>SaaS products are service touch-points. Customers don’t buy, they rent or pay-per-use. Adding features to the product cannot be equated to adding features to a physical product. The feature may be “shipped”, but more accurately you are establishing a potential value stream in a complex service ecosystem. [To quote Dave Snowden](http://cognitive-edge.com/blog/safe-the-infantilism-of-management/)
+![](../images/1*gppqlsgZYxHoWPHyuKXDng.png)<http://lisapapineau.blogspot.com/2012/03/actresses-and-crystal-ball.html>SaaS products are service touch-points. Customers don’t buy, they rent or pay-per-use. Adding features to the product cannot be equated to adding features to a physical product. The feature may be “shipped”, but more accurately you are establishing a potential value stream in a complex service ecosystem. [To quote Dave Snowden](http://cognitive-edge.com/blog/safe-the-infantilism-of-management/)
 
 , “software development needs to be seen as a service and as an ecology not as a manufacturing process.” Yet, the vestiges of manufacturing remain.
 

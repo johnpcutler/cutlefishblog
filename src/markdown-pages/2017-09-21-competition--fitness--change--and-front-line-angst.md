@@ -2,14 +2,14 @@
 path:	"/blog/competition-fitness-change-and-front-line-angst"
 date:	"2017-09-21"
 title:	"Competition, Fitness, Change, and Front-Line Angst"
-image:	"/images/1*jGK-IRSLVLjyDozWXlTotQ.png"
+image:	"../images/1*jGK-IRSLVLjyDozWXlTotQ.png"
 ---
 
 *Note: Drawings are from a *[*100 day doodle challenge*](https://medium.com/personal-growth/10-things-i-learned-by-doodling-for-100-days-straight-a802753c5a25)* I did last year. I highly recommend taking the challenge!*
 
 #### Front-Line Angst and Fitness
 
-![](/images/1*jGK-IRSLVLjyDozWXlTotQ.png)In many of my Medium posts, I refer to self-organization, psychological safety, craft, trust, and “mission based” teams. I enjoy working in these environments, and I believe they lead to better results. I wouldn’t regard myself as “anti-management”, but I am skeptical about the value of certain management styles (e.g. helicopter management, command-and-control, etc.)
+![](../images/1*jGK-IRSLVLjyDozWXlTotQ.png)In many of my Medium posts, I refer to self-organization, psychological safety, craft, trust, and “mission based” teams. I enjoy working in these environments, and I believe they lead to better results. I wouldn’t regard myself as “anti-management”, but I am skeptical about the value of certain management styles (e.g. helicopter management, command-and-control, etc.)
 
 .
 
@@ -19,7 +19,7 @@ Instead of focusing on pure “fitness” — how our current mode of operation 
 
 #### Turn It Up To Eleven
 
-![](/images/1*qTRbLSZHPAMSEpoLAMlXMA.png)We’ve all heard about the quickening rate of “change” worldwide. Information is moving faster and faster. Decisions must be made more quickly. Everything is *speeding up. *Thinking about product development for a moment, let’s go back a decade when having a fixed one-year roadmap made sense. If you could deliver on that roadmap without things exploding, you’d be doing decently. Tens years along, and this is table-stakes. You’re not going to survive long working like this because you’ll have a competitor who is changing course much more rapidly (on the cadence of days and weeks, not quarters and years)
+![](../images/1*qTRbLSZHPAMSEpoLAMlXMA.png)We’ve all heard about the quickening rate of “change” worldwide. Information is moving faster and faster. Decisions must be made more quickly. Everything is *speeding up. *Thinking about product development for a moment, let’s go back a decade when having a fixed one-year roadmap made sense. If you could deliver on that roadmap without things exploding, you’d be doing decently. Tens years along, and this is table-stakes. You’re not going to survive long working like this because you’ll have a competitor who is changing course much more rapidly (on the cadence of days and weeks, not quarters and years)
 
 .
 
@@ -27,7 +27,7 @@ As always, there is immense competitive pressure. The shoe company that has an e
 
 #### Agile and “The Business”
 
-![](/images/1*R5ad-_JzxODJDi5C9Vwv6A.png)I am heavily involved in the Agile community. Let’s go back in time and imagine what was happening when a group of passionate nerds got together in Utah in the early 2000s. I’m imagining developers struggling against these big internal/contract waterfall projects. There had to be a better way to tackle the complexity (and there *were *better ways being actively practiced)
+![](../images/1*R5ad-_JzxODJDi5C9Vwv6A.png)I am heavily involved in the Agile community. Let’s go back in time and imagine what was happening when a group of passionate nerds got together in Utah in the early 2000s. I’m imagining developers struggling against these big internal/contract waterfall projects. There had to be a better way to tackle the complexity (and there *were *better ways being actively practiced)
 
 . So the pilgrims teased out the common threads and put pen to paper. Again… it worked fabulously, reduced risk, and advanced the craft.
 
@@ -35,7 +35,7 @@ But… it didn’t have a whole lot to say about the larger organizations *surro
 
 #### The Black Box Is Intuitive, But…
 
-![](/images/1*InBI5_-jFqR9Uj506dvqqA.png)
+![](../images/1*InBI5_-jFqR9Uj506dvqqA.png)
 
 The story is compelling. Your developers are “too slow”. Well, it makes sense to focus on how you are developing software. It might not immediately occur to you how the structure of the larger organization is contributing to “the problem”. Or how your approach for financing projects is contributing to “the problem”. None of these things are obvious, so it is perfectly intuitive to treat software development as a block box. And it worked THEN. Working this way was a competitive advantage THEN.
 
@@ -43,7 +43,7 @@ But…now fast is table-stakes in many contexts. Fast unto itself is no longer a
 
 #### Change Will Force Change
 
-![](/images/1*XfS5zv6C6YuScaiW6HQ6Gg.png)
+![](../images/1*XfS5zv6C6YuScaiW6HQ6Gg.png)
 
 Software is amazing. Moving massive amounts of information is amazing. Mobile phones are awesome. AWS, GCP, and Pivotal Cloud Foundry are awesome. Cheap computing power is awesome. The Internet kind of worked out. The environment has changed, which makes it entirely unrealistic that we can “stay the same” in some parts of our business, but not others. It is naive to imagine that the change will be limited to just how we deliver software.
 
@@ -51,7 +51,7 @@ There are two companies. Company 1 has to make a big batch bet, and can’t real
 
 #### Structured For Change
 
-![](/images/1*ZdyvQIw88_5bcEpWoQ61YQ.png)
+![](../images/1*ZdyvQIw88_5bcEpWoQ61YQ.png)
 
 I see a real need to understand the principles behind how we adapt to our particular surroundings. You can be doing awesome, but at the same time your company can be extremely unhealthy and overfit to its current surroundings. The next opportunity, shock, or disruption will roll along, and you’ll be up shit’s creek. If someone copies you — because you’re doing awesome, of course — they’ll be copying the structures they see instead of the operating system underpinning your decisions.
 
@@ -60,7 +60,7 @@ I see a real need to understand the principles behind how we adapt to our partic
 
 #### Some Pessimism
 
-![](/images/1*RHL-yE31t0F3xZMTwfYQHA.png)Our companies are dying faster and things are speeding up. It is VERY HARD to change your form and structure to meet these new challenges. It is easy to rail against incompetence and an unwillingness to change and embrace new “ways”. It is MUCH HARDER to unravel the structures and bonds of a modern company. We’ve adopted these ways of working on a highly local level, which is fine, but doing anything “at scale” is insanely hard. SAFe (an Agile scaling framework)
+![](../images/1*RHL-yE31t0F3xZMTwfYQHA.png)Our companies are dying faster and things are speeding up. It is VERY HARD to change your form and structure to meet these new challenges. It is easy to rail against incompetence and an unwillingness to change and embrace new “ways”. It is MUCH HARDER to unravel the structures and bonds of a modern company. We’ve adopted these ways of working on a highly local level, which is fine, but doing anything “at scale” is insanely hard. SAFe (an Agile scaling framework)
 
  is a band-aid…a bigger meat-grinding black box you feed the beef into, and hope for hamburgers to come out on the other side. Most of our companies are beyond saving, unless they experience a major, major existential crisis.
 
@@ -71,7 +71,7 @@ I see a real need to understand the principles behind how we adapt to our partic
 * It’s hard
 * It’s best to focus on first principles, sensemaking, and matching structures/approaches to the challenge at hand
 * Your case with leaders/management will be stronger if you argue based on fitness (not anti-management, “flat orgs”, etc.)
-![](/images/1*thR4904KMeS_6rtg1l7Inw.png)
+![](../images/1*thR4904KMeS_6rtg1l7Inw.png)
 
 Did you get this far? With a huge dollop of sincerity … I really appreciate the opportunity to share these brainstorms.
 

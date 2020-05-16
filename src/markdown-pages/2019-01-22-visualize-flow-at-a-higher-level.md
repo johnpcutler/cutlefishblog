@@ -2,7 +2,7 @@
 path:	"/blog/visualize-flow-at-a-higher-level"
 date:	"2019-01-22"
 title:	"Visualize Flow at a Higher Level"
-image:	"/images/1*16lpIRrABaTVdL0DSl35zQ.jpeg"
+image:	"../images/1*16lpIRrABaTVdL0DSl35zQ.jpeg"
 ---
 
 In my experience, you almost always find more dependencies between teams than we initially see/acknowledge. One common trap is imagining only “the work” and ignoring planning, “upstream” problem decomposition and exploration, reviews, hiring, and [a host of other things].
@@ -15,4 +15,4 @@ Scrum’s laser like team focus is a feature, not a bug. But in any org with >8 
 
 So the lesson is always visualize work more broadly / at a higher level than you initially think necessary (left, right, up, down). Because we *tend* to obscure this accidentally and with the best of intentions. Focus here will be fruitful (albeit probably uncomfortable). A secondary lesson is don’t just visualize “the work”. Consider all the promises in progress and try to radiate this information so the team can inspect/adapt.
 
-![](/images/1*16lpIRrABaTVdL0DSl35zQ.jpeg)[Keith Nottonson](https://www.linkedin.com/in/keithn) amazing work at Optimizely
+![](../images/1*16lpIRrABaTVdL0DSl35zQ.jpeg)[Keith Nottonson](https://www.linkedin.com/in/keithn) amazing work at Optimizely

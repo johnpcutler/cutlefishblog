@@ -2,10 +2,10 @@
 path:	"/blog/why-outcomes-over-outputs"
 date:	"2018-12-18"
 title:	"Why Outcomes Over Outputs?"
-image:	"/images/1*3a4sYLw5KLCRqBTzQ-wB-A.jpeg"
+image:	"../images/1*3a4sYLw5KLCRqBTzQ-wB-A.jpeg"
 ---
 
-![](/images/1*3a4sYLw5KLCRqBTzQ-wB-A.jpeg)
+![](../images/1*3a4sYLw5KLCRqBTzQ-wB-A.jpeg)
 
 Why should teams create outcome/mission based roadmaps, converge on solutions later, focus on the problem-to-solve, experiment, limit planning inventories, avoid chasing story-point velocity, start together, limit handoffs, and [fifty other things] ?
 

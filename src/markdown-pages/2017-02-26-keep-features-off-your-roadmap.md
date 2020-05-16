@@ -2,7 +2,7 @@
 path:	"/blog/keep-features-off-your-roadmap"
 date:	"2017-02-26"
 title:	"Keep Features Off Your Roadmap"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 I received some questions this week about mission/outcome driven roadmaps. I’ll write more in the coming weeks, but I took a quick stab…

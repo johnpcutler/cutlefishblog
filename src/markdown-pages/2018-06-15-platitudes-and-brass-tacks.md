@@ -2,10 +2,10 @@
 path:	"/blog/platitudes-and-brass-tacks"
 date:	"2018-06-15"
 title:	"Platitudes and Brass Tacks"
-image:	"/images/1*wkRCG4KgQ61K1aiw-Fbp5Q@2x.jpeg"
+image:	"../images/1*wkRCG4KgQ61K1aiw-Fbp5Q@2x.jpeg"
 ---
 
-![](/images/1*wkRCG4KgQ61K1aiw-Fbp5Q@2x.jpeg)
+![](../images/1*wkRCG4KgQ61K1aiw-Fbp5Q@2x.jpeg)
 
 In my experience, change doesn’t fail — or get hopelessly watered down — because of a lack of “high level alignment”, but rather by what happens when we get down to the nitty gritty.
 

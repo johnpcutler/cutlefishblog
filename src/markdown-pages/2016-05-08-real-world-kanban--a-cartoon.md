@@ -2,9 +2,9 @@
 path:	"/blog/real-world-kanban-a-cartoon"
 date:	"2016-05-08"
 title:	"Real World Kanban (A Cartoon)"
-image:	"/images/1*9ucdCRidvfvN8tTbVute3Q.jpeg"
+image:	"../images/1*9ucdCRidvfvN8tTbVute3Q.jpeg"
 ---
 
 So you’ve been trying this Kanban thing. It’s working out great …
 
-![](/images/1*9ucdCRidvfvN8tTbVute3Q.jpeg)
+![](../images/1*9ucdCRidvfvN8tTbVute3Q.jpeg)

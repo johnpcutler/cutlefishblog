@@ -2,12 +2,12 @@
 path:	"/blog/the-product-system"
 date:	"2017-11-09"
 title:	"The Product “System”"
-image:	"/images/1*tgWH8fPzdXGSzVYUjSjGgQ@2x.jpeg"
+image:	"../images/1*tgWH8fPzdXGSzVYUjSjGgQ@2x.jpeg"
 ---
 
 A couple weeks ago, I had the opportunity to chat with Annie Dunham, [ProductPlan](https://www.productplan.com/)’s Director of Product Management. The conversation covered some topics near and dear to me — systems thinking, service design, feedback loops, and organization design — so with ProductPlan’s permission, I’m reposting parts of [our discussion](https://www.productplan.com/systems-thinking/) here on [Medium ](https://medium.com/u/504c7870fdb6).
 
-![](/images/1*tgWH8fPzdXGSzVYUjSjGgQ@2x.jpeg)
+![](../images/1*tgWH8fPzdXGSzVYUjSjGgQ@2x.jpeg)
 
 #### **So, how can we relate systems thinking to product management?**
 

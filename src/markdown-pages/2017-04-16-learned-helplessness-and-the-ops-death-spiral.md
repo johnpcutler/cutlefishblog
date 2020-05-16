@@ -2,12 +2,12 @@
 path:	"/blog/learned-helplessness-and-the-ops-death-spiral"
 date:	"2017-04-16"
 title:	"Learned Helplessness and the Ops Death-Spiral"
-image:	"/images/1*DIw5krqGhmHZBTBYHv1F7g.png"
+image:	"../images/1*DIw5krqGhmHZBTBYHv1F7g.png"
 ---
 
 Are you in Ops? Do you deal with Ops teams? Does this sound familiar?
 
-![](/images/1*DIw5krqGhmHZBTBYHv1F7g.png)
+![](../images/1*DIw5krqGhmHZBTBYHv1F7g.png)
 
 #### The Cycle
 
@@ -34,6 +34,6 @@ Are you in Ops? Do you deal with Ops teams? Does this sound familiar?
 * Limit work in progress and utilization rates. Your team wants to “kick ass”, but you have to slow down to speed up. Sure you’ll feel more responsive if you can “commit” to parallel projects, but in the long run it’ll be better to focus on flow and capabilities
 That’s it for now. Comments appreciated….
 
-[![](/images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](/images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](/images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+[![](../images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](../images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](../images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
 > [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to [discuss advertising & sponsorship](mailto:partners@amipublications.com) opportunities.
-> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](/images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](../images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)

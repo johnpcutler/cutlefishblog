@@ -2,12 +2,12 @@
 path:	"/blog/problem-vs-solution"
 date:	"2018-04-20"
 title:	"Problem vs. Solution"
-image:	"/images/1*SwOVukZ2BxSTdFkZQ-D2ew@2x.jpeg"
+image:	"../images/1*SwOVukZ2BxSTdFkZQ-D2ew@2x.jpeg"
 ---
 
 #### …and why you may be asking the wrong question(s)
 
-![](/images/1*SwOVukZ2BxSTdFkZQ-D2ew@2x.jpeg)I get into a lot of discussions that center around decoupling “problems” from “solutions”. The topic comes up most often when trying to define roles and responsibilities, and workflows (e.g. how early should Person-Team-Functional Group X get involved with Initiative Y)
+![](../images/1*SwOVukZ2BxSTdFkZQ-D2ew@2x.jpeg)I get into a lot of discussions that center around decoupling “problems” from “solutions”. The topic comes up most often when trying to define roles and responsibilities, and workflows (e.g. how early should Person-Team-Functional Group X get involved with Initiative Y)
 
 .
 

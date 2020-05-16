@@ -2,7 +2,7 @@
 path:	"/blog/experiment-together-improve-together-win-together"
 date:	"2017-11-23"
 title:	"Experiment Together. Improve Together. Win Together"
-image:	"/images/1*d-nPor17ki-Ng5dFPy_Tqg@2x.jpeg"
+image:	"../images/1*d-nPor17ki-Ng5dFPy_Tqg@2x.jpeg"
 ---
 
 Do people in your organization say things like:
@@ -12,25 +12,25 @@ Do people in your organization say things like:
 > Why are **they** moving so slowly?”
 > Why can’t **that team** keep its commitments?”Do you see the problem here?
 
-![](/images/1*d-nPor17ki-Ng5dFPy_Tqg@2x.jpeg)Actually, the problem is a bit more insidious that that. That other team (or department)
+![](../images/1*d-nPor17ki-Ng5dFPy_Tqg@2x.jpeg)Actually, the problem is a bit more insidious that that. That other team (or department)
 
  is standing in the way of certain success! Right?
 
-![](/images/1*bIUI55ro1quMjixyFJoChA@2x.jpeg)I see this frequently with regards to software development groups. “The Business” keeps asking for *faster*, the builders keep trying to please (being loyal and pragmatic problems solvers)
+![](../images/1*bIUI55ro1quMjixyFJoChA@2x.jpeg)I see this frequently with regards to software development groups. “The Business” keeps asking for *faster*, the builders keep trying to please (being loyal and pragmatic problems solvers)
 
 , complexity increases, and suddenly the builders are viewed as unresponsive. **Trust and confidence drops.**
 
-![](/images/1*UCxr5Z5SQggzQhonuFNMfA@2x.jpeg)
+![](../images/1*UCxr5Z5SQggzQhonuFNMfA@2x.jpeg)
 
 All that work that added complexity…was it worthwhile? Did it generate the expected ROI? Did anyone even measure that?
 
-![](/images/1*lP3AINl6P_8GWZRNs3gy6g@2x.jpeg)
+![](../images/1*lP3AINl6P_8GWZRNs3gy6g@2x.jpeg)
 
 Chances are, those perfect plans weren’t always perfect. They contributed to “the problem”. This is a capital “t” Team sport.
 
 Stepping back, we often talk about continuous improvement. But pay very careful attention to the subtext in your organization. Is it a case of…
 
-![](/images/1*ry5Ok07d2EfJfEm1sWDYIg@2x.jpeg)
+![](../images/1*ry5Ok07d2EfJfEm1sWDYIg@2x.jpeg)
 
 Do you see the difference?
 

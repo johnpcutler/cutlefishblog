@@ -2,10 +2,10 @@
 path:	"/blog/agile-didnt-eat-your-homework"
 date:	"2017-06-09"
 title:	"Agile Didn’t Eat Your Homework…"
-image:	"/images/1*vJ5F3ZmNyG7q9xMQeGl_bQ.png"
+image:	"../images/1*vJ5F3ZmNyG7q9xMQeGl_bQ.png"
 ---
 
-![](/images/1*vJ5F3ZmNyG7q9xMQeGl_bQ.png)
+![](../images/1*vJ5F3ZmNyG7q9xMQeGl_bQ.png)
 
 A bit of a vent here …
 
@@ -27,6 +27,6 @@ Become a student and learn. Do your homework. And then write blog posts.
 
 Most roads wont start and end with Agile. But most will pass through it.
 
-![](/images/1*Pw3v-tlWk0OAB24UTA8dIQ.png)![](/images/1*xoROYGSktfhqEsugkcGrgQ.png)<http://modernagile.org/>![](/images/1*dGEkFLR4rM6e7Icutv36dA.png)![](/images/1*tdKPDC19m9nPTRowYWZUiQ.png)<http://www.brighthubpm.com/agile/45157-using-lean-thinking-in-agile-project-management/>![](/images/1*i-UIobSyJPS2nOlXfdyVkw.png)<https://hbr.org/1986/01/the-new-new-product-development-game>![](/images/1*eKg9VfjY6IW5d14FaUmn8A.png)[http://www.leanprimer.com/downloads/lean\_primer.pdf](http://www.leanprimer.com/downloads/lean_primer.pdf)![](/images/1*7-rkpCzmlNOMBBGbGle1Yw.png)<https://www.slideshare.net/TommyLiu3/design-thinking-history-methodology>![](/images/1*2ZwmsgyPI3PKpvq3PcUgBg.png)<https://www.invisionapp.com/blog/5-years-lean-ux-jeff-gothelf/>![](/images/1*qTLS8YAjXZcPEip3x7K8_Q.png)[![](/images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](/images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](/images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
+![](../images/1*Pw3v-tlWk0OAB24UTA8dIQ.png)![](../images/1*xoROYGSktfhqEsugkcGrgQ.png)<http://modernagile.org/>![](../images/1*dGEkFLR4rM6e7Icutv36dA.png)![](../images/1*tdKPDC19m9nPTRowYWZUiQ.png)<http://www.brighthubpm.com/agile/45157-using-lean-thinking-in-agile-project-management/>![](../images/1*i-UIobSyJPS2nOlXfdyVkw.png)<https://hbr.org/1986/01/the-new-new-product-development-game>![](../images/1*eKg9VfjY6IW5d14FaUmn8A.png)[http://www.leanprimer.com/downloads/lean\_primer.pdf](http://www.leanprimer.com/downloads/lean_primer.pdf)![](../images/1*7-rkpCzmlNOMBBGbGle1Yw.png)<https://www.slideshare.net/TommyLiu3/design-thinking-history-methodology>![](../images/1*2ZwmsgyPI3PKpvq3PcUgBg.png)<https://www.invisionapp.com/blog/5-years-lean-ux-jeff-gothelf/>![](../images/1*qTLS8YAjXZcPEip3x7K8_Q.png)[![](../images/1*0hqOaABQ7XGPT-OYNgiUBg.png)](http://bit.ly/HackernoonFB)[![](../images/1*Vgw1jkA6hgnvwzTsfMlnpg.png)](https://goo.gl/k7XYbx)[![](../images/1*gKBpq1ruUi0FVK2UM_I4tQ.png)](https://goo.gl/4ofytp)
 > [Hacker Noon](http://bit.ly/Hackernoon) is how hackers start their afternoons. We’re a part of the [@AMI](http://bit.ly/atAMIatAMI) family. We are now [accepting submissions](http://bit.ly/hackernoonsubmission) and happy to [discuss advertising & sponsorship](mailto:partners@amipublications.com) opportunities.
-> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](/images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)
+> If you enjoyed this story, we recommend reading our [latest tech stories](http://bit.ly/hackernoonlatestt) and [trending tech stories](https://hackernoon.com/trending). Until next time, don’t take the realities of the world for granted!![](../images/1*35tCjoPcvq6LbB3I6Wegqw.jpeg)

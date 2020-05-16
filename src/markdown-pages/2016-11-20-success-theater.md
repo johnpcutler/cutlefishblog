@@ -2,12 +2,12 @@
 path:	"/blog/success-theater"
 date:	"2016-11-20"
 title:	"Success Theater …"
-image:	"/images/1*yTlYkteVv_rV8wXqCY6Kmg.png"
+image:	"../images/1*yTlYkteVv_rV8wXqCY6Kmg.png"
 ---
 
 I recently posted about [Feature Factories](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2#.kjhkgs7aj) ,which got me thinking about success theater.
 
-![](/images/1*yTlYkteVv_rV8wXqCY6Kmg.png)
+![](../images/1*yTlYkteVv_rV8wXqCY6Kmg.png)
 
 Up and to the right …There’s something about the phrase “success theater” that immediately hits home. You just *know *what it means.
 

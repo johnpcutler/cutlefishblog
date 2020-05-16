@@ -2,7 +2,7 @@
 path:	"/blog/systems-and-people-behaving-badly"
 date:	"2018-05-17"
 title:	"Systems and People Behaving Badly"
-image:	"/images/1*DA-gDBaAH2DBExlpHMRQgQ@2x.jpeg"
+image:	"../images/1*DA-gDBaAH2DBExlpHMRQgQ@2x.jpeg"
 ---
 
 *Note: In this post I’m pretty lazy about my use of the words “system” and “systemic”. Stick with me…*
@@ -11,15 +11,15 @@ Take a situation like having too much work in progress/process.
 
 That situation can trigger problems.
 
-![](/images/1*DA-gDBaAH2DBExlpHMRQgQ@2x.jpeg)
+![](../images/1*DA-gDBaAH2DBExlpHMRQgQ@2x.jpeg)
 
 What starts as a fairly common intuition trap, can end up causing confidence in people and process to drop. When confidence drops, you start to see *other problems*.
 
-![](/images/1*oOKM5c0b_S1BT07jFPwEog@2x.jpeg)These problems — defensiveness, opacity, and micro-management — can feel intensely personal. Taken to the extreme, these are the types of work experiences that cause people to leave companies AND cause people to be let go (or smoked out)
+![](../images/1*oOKM5c0b_S1BT07jFPwEog@2x.jpeg)These problems — defensiveness, opacity, and micro-management — can feel intensely personal. Taken to the extreme, these are the types of work experiences that cause people to leave companies AND cause people to be let go (or smoked out)
 
  of companies. So you have…
 
-![](/images/1*EDKfUhTrcSDZZU7UBm08qg@2x.jpeg)…a relatively benign and common trap (high work in progress, which frankly is pretty straightforward to address)
+![](../images/1*EDKfUhTrcSDZZU7UBm08qg@2x.jpeg)…a relatively benign and common trap (high work in progress, which frankly is pretty straightforward to address)
 
  leading to entrenched people issues.
 
@@ -28,7 +28,7 @@ It is in vogue (in some circles) to claim that “most problems are systemic!”
 
 > Deming would evoke disbelief in his management seminars when he insisted that 94 percent or more of all problems, defective goods or services came from the system, not from a careless worker or a defective machine. He would go on to say that to improve an organization’s goods or services, the system had to be improved rather than searching for the guilty worker or broken equipment. Top managers in America’s leading companies were dubious students. But, in almost all cases, when they implemented his ideas, they were surprised to find that they agreed with him: The management and the system they were managing were the true source of both problems and improvements.Which is all well and good, but sort of ignores an important point…**systemic issues can cause people to act in shitty and self-destructive ways.**
 
-![](/images/1*_2dxENj9AIk2KIvHqb95Rw@2x.jpeg)I’d argue that left unchecked the people issues become THE PROBLEM. Does it matter that the root cause was high WIP? Maybe if you catch things early enough — hurray for visualizing work and having limits in th first place — but not once the gnarly people issues have become entrenched. It doesn’t matter. Lowering WIP limits will not, in isolation, solve the (new)
+![](../images/1*_2dxENj9AIk2KIvHqb95Rw@2x.jpeg)I’d argue that left unchecked the people issues become THE PROBLEM. Does it matter that the root cause was high WIP? Maybe if you catch things early enough — hurray for visualizing work and having limits in th first place — but not once the gnarly people issues have become entrenched. It doesn’t matter. Lowering WIP limits will not, in isolation, solve the (new)
 
  underlying problems. Would this repair a relationship?
 
@@ -37,7 +37,7 @@ It is in vogue (in some circles) to claim that “most problems are systemic!”
 
 Does viewing this diagram make it all better?
 
-![](/images/1*DS62oznyOks-KIosSgObRA@2x.jpeg)
+![](../images/1*DS62oznyOks-KIosSgObRA@2x.jpeg)
 
 To some people, yes. They’ll say something like…
 
@@ -58,4 +58,4 @@ To some people, yes. They’ll say something like…
 
 I’m beginning to think that in change efforts we often don’t explicitly ask for a ceasefire / truce, or call out that the “cost of conflict is higher than the cost of reconciliation”. Doing so AND highlighting the system-level contributors, would go a long way towards a reset and the required de-escalation.
 
-![](/images/1*AoZU34ozcfpfiuykKNnuOQ@2x.jpeg)
+![](../images/1*AoZU34ozcfpfiuykKNnuOQ@2x.jpeg)

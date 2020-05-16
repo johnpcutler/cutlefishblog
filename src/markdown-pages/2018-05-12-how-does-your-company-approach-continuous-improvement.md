@@ -2,14 +2,14 @@
 path:	"/blog/how-does-your-company-approach-continuous-improvement"
 date:	"2018-05-12"
 title:	"How Does Your Company Approach Continuous Improvement?"
-image:	"/images/1*RfQZ95EgO2_-I4M85E7U9A@2x.jpeg"
+image:	"../images/1*RfQZ95EgO2_-I4M85E7U9A@2x.jpeg"
 ---
 
 How does your company approach continuous improvement?
 
 What do I mean? Let’s take a super simple example:
 
-![](/images/1*RfQZ95EgO2_-I4M85E7U9A@2x.jpeg)Let’s say that **Team 1** and **Team 2** run into trouble with a shared tool. Both have agreed to contribute to the upkeep of the tool, but due to pressure from the **Director** to deliver more quickly (as communicated and managed by the **Managers**)
+![](../images/1*RfQZ95EgO2_-I4M85E7U9A@2x.jpeg)Let’s say that **Team 1** and **Team 2** run into trouble with a shared tool. Both have agreed to contribute to the upkeep of the tool, but due to pressure from the **Director** to deliver more quickly (as communicated and managed by the **Managers**)
 
 , they let tool upkeep slide. Now both teams are struggling to meet the demands of their respective **Managers, **and the Managers are struggling to meet the expectations of their **Director**.
 
@@ -30,7 +30,7 @@ What else happens in this case? Share in the comments.
 
 So let’s take a more complex (and common) example.
 
-![](/images/1*J8R-ilZU1r3CnBeV5_aHsA@2x.jpeg)This isn’t just *a bit* more complex. There’s a lot more going on. Consider some potential continuous improvement opportunities and **how they might play out using #1 — #3 (or other options, this is expotentially more complicated)
+![](../images/1*J8R-ilZU1r3CnBeV5_aHsA@2x.jpeg)This isn’t just *a bit* more complex. There’s a lot more going on. Consider some potential continuous improvement opportunities and **how they might play out using #1 — #3 (or other options, this is expotentially more complicated)
 
  above**:
 

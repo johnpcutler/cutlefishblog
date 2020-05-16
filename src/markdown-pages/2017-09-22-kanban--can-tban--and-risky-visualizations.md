@@ -2,14 +2,14 @@
 path:	"/blog/kanban-cantban-and-risky-visualizations"
 date:	"2017-09-22"
 title:	"Kanban, Can’tban, and Risky Visualizations"
-image:	"/images/1*SlELFMpAHe7W0UBGaMKOBA.png"
+image:	"../images/1*SlELFMpAHe7W0UBGaMKOBA.png"
 ---
 
 *Note: For background on the Kanban Method (what I refer to as Kanban below) please *[*click here*](http://www.djaa.com/principles-kanban-method-0)*.*
 
 A blast from 2010…
 
-![](/images/1*SlELFMpAHe7W0UBGaMKOBA.png)<http://www.djaa.com/principles-kanban-method-0>Today I asked myself if “Kanban makes any value judgements?” I also told a friend something along the lines of “when first principles are considered heretical, we’re doomed” (file under deep-but-not-terribly-profound-yet-I-Tweet-it-anyway)
+![](../images/1*SlELFMpAHe7W0UBGaMKOBA.png)<http://www.djaa.com/principles-kanban-method-0>Today I asked myself if “Kanban makes any value judgements?” I also told a friend something along the lines of “when first principles are considered heretical, we’re doomed” (file under deep-but-not-terribly-profound-yet-I-Tweet-it-anyway)
 
 .
 

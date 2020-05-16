@@ -2,7 +2,7 @@
 path:	"/blog/scaling-product-development-for-startups"
 date:	"2019-03-20"
 title:	"Scaling Product Development (for Startups)"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 *Another re-post of direct email advice. Other posts in this series include *[*Prioritizing Without Level of Effort*](https://medium.com/@johnpcutler/prioritizing-without-level-of-effort-ebee1a72ec94)*, and *[*Should We Have Deadlines?*](https://medium.com/@johnpcutler/should-we-have-deadlines-e621e1cdb132)*.*

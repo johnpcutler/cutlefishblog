@@ -2,7 +2,7 @@
 path:	"/blog/roots-of-the-feature-factory-1-n"
 date:	"2017-03-27"
 title:	"Roots of the Feature Factory (1/n)"
-image:	"/images/1*NKvT9Oehdh_uRelqjRb5UA.png"
+image:	"../images/1*NKvT9Oehdh_uRelqjRb5UA.png"
 ---
 
 What are the roots of the [feature factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2) approach?
@@ -13,7 +13,7 @@ You can often trace it back to how efforts are funded, and how managers/team mem
 
 I expect everyone to advocate passionately for their ideas! What should we do? What should we build? Where should we go? If you want your project funded, you better be ready to make the pitch! We need a bias for action here.
 
-![](/images/1*NKvT9Oehdh_uRelqjRb5UA.png)
+![](../images/1*NKvT9Oehdh_uRelqjRb5UA.png)
 
 #### PM
 

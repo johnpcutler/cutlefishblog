@@ -2,7 +2,7 @@
 path:	"/blog/40-roadmap-item-questions"
 date:	"2018-03-02"
 title:	"40 Roadmap Item Questions"
-image:	"/images/1*3sUlVYO6DvdW7J6QJdLDZA@2x.jpeg"
+image:	"../images/1*3sUlVYO6DvdW7J6QJdLDZA@2x.jpeg"
 ---
 
 A quick list of questions to use when workshopping your product roadmap, prepping for a pitch/kickoff, or quickly filtering for well-thought-out ideas.
@@ -11,7 +11,7 @@ Some of these are tough…but will hopefully leave you smarter (and wiser, and m
 
 *Note: Apologies for writing less these past couple weeks. The small human we were expecting in late April is making an early arrival! Fingers crossed!*
 
-![](/images/1*3sUlVYO6DvdW7J6QJdLDZA@2x.jpeg)
+![](../images/1*3sUlVYO6DvdW7J6QJdLDZA@2x.jpeg)
 
 Q: Would you bet $5,000 of your own money on the success of this effort? Why? Why not? On what terms? How would we know whether you had won/lost the bet? What might we learn early on that would encourage you to increase your bet to $10,000? Or decrease your bet to $1,000, or $0?
 

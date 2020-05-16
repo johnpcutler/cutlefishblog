@@ -2,12 +2,12 @@
 path:	"/blog/this-pm-hack-saved-me-1-hour-a-day-and-helped-me-connect-with-more-customers"
 date:	"2016-01-21"
 title:	"This PM Hack Saved Me 1 Hour A Day (and helped me connect with more customers)"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 *How I saved an hour every day, stopped wasting my team and customers’ time, and gathered valuable insights and feedback from our customers.*
 
-![](/images/0*KiQcA8JAMWnAV31b.)**Image by **[**petradr**](https://unsplash.com/petradr)As a product manager (with strong UX tendencies)
+![](../images/0*KiQcA8JAMWnAV31b.)**Image by **[**petradr**](https://unsplash.com/petradr)As a product manager (with strong UX tendencies)
 
  I start to get very anxious if I’m not talking to customers daily. I don’t discriminate between qualitative and quantitative data. It’s all valuable. Spend too much time looking at charts, graphs, and tables, and you’re liable to to lose sight of the “Why” and the story.
 
@@ -21,19 +21,19 @@ Below I’ll walk you through the ingredients for a recent real-world use case. 
 
 In this example I used the standard Pendo lightbox [template](https://pendo.desk.com/customer/portal/articles/2245494) with a simple call to action. Keep the copy light and appreciative. “Schedule It!” is a good CTA because it conveys the ability to complete the task without human assistance. I prefer this approach to email because it reaches the customer in-context when they are more receptive to the guide copy and request for feedback.
 
-![](/images/0*wFtBcCDbEcqnPPOj.)
+![](../images/0*wFtBcCDbEcqnPPOj.)
 
 ### Ingredient #2: Targeting
 
 I targeted this guide to frequent users of our guide detail page (guide details page viewed > 5 times). This is case where casting a wide net is NOT ideal. You want to screen your interviewees, and limit the disruption to visitors who don’t match your screening criteria.
 
-![](/images/0*ac-puspG3KKhjjzj.)
+![](../images/0*ac-puspG3KKhjjzj.)
 
 ### Ingredient #3:A online booking app.
 
 I suggest [YouCanBookMe](https://youcanbook.me/). Some important features are: setting a recurring lunch break, specifying work hours, appointment lead time (min and max), etc. This will make your life easier. The YCBM free version allows a single booking profile, but still manages to add appointments to my calendar. From a customer standpoint, the experience is pretty intuitive. They click on the button in the guide and see this:
 
-![](/images/0*KyEhoG_XcqKl_NZJ.)
+![](../images/0*KyEhoG_XcqKl_NZJ.)
 
 ### Outcome
 

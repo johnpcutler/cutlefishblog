@@ -2,12 +2,12 @@
 path:	"/blog/product-development-nerds-unite"
 date:	"2016-09-22"
 title:	"Product Development Nerds Unite"
-image:	"/images/1*-WWivcBgwXizS1Sld8JBww.png"
+image:	"../images/1*-WWivcBgwXizS1Sld8JBww.png"
 ---
 
 #### I want to go to a conference with engineers, UX, customer success ninjas, data scientists, and product managers/owners! And talk about building stuff humans value.
 
-![](/images/1*-WWivcBgwXizS1Sld8JBww.png)Random stock photo from [here](http://www.onlineschoolscenter.com/30-high-paying-trade-school-degrees/) . Sadly, without this image, I’ll have about 1/5th the number of readers.There are [product management conferences](http://www.mindtheproduct.com/), [UX conferences](https://www.uxstrat.com/), [software engineering conferences](https://chefconf.chef.io/), [customer success conferences](http://www.gainsight.com/pulse/), [Agile conferences](https://www.agilealliance.org/agile2016/), and [design thinking bootcamps](http://www.gsb.stanford.edu/exec-ed/programs/design-thinking-boot-camp) ($12,500 for four days). And then there are those pesky tracks (bless the single track conferences, by the way, because I’m a track swinger)
+![](../images/1*-WWivcBgwXizS1Sld8JBww.png)Random stock photo from [here](http://www.onlineschoolscenter.com/30-high-paying-trade-school-degrees/) . Sadly, without this image, I’ll have about 1/5th the number of readers.There are [product management conferences](http://www.mindtheproduct.com/), [UX conferences](https://www.uxstrat.com/), [software engineering conferences](https://chefconf.chef.io/), [customer success conferences](http://www.gainsight.com/pulse/), [Agile conferences](https://www.agilealliance.org/agile2016/), and [design thinking bootcamps](http://www.gsb.stanford.edu/exec-ed/programs/design-thinking-boot-camp) ($12,500 for four days). And then there are those pesky tracks (bless the single track conferences, by the way, because I’m a track swinger)
 
 .
 

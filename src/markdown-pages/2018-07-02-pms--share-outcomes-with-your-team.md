@@ -2,10 +2,10 @@
 path:	"/blog/pms-share-outcomes-with-your-team"
 date:	"2018-07-02"
 title:	"PMs: Share Outcomes With Your Team"
-image:	"/images/1*SEZ0jMnhJB-QnaCcMxzihg@2x.jpeg"
+image:	"../images/1*SEZ0jMnhJB-QnaCcMxzihg@2x.jpeg"
 ---
 
-![](/images/1*SEZ0jMnhJB-QnaCcMxzihg@2x.jpeg)Product Managers … when was the last time you shared a *real* win (or a *real* miss/learning)
+![](../images/1*SEZ0jMnhJB-QnaCcMxzihg@2x.jpeg)Product Managers … when was the last time you shared a *real* win (or a *real* miss/learning)
 
  with your team?
 

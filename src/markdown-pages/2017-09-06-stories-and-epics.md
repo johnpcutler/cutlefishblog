@@ -2,7 +2,7 @@
 path:	"/blog/stories-and-epics"
 date:	"2017-09-06"
 title:	"Stories and Epics"
-image:	"/images/1*DacUbUfX4UZLcTw3LwfI-w.png"
+image:	"../images/1*DacUbUfX4UZLcTw3LwfI-w.png"
 ---
 
 #### Nested hierarchies, boundaries, independence, and value…
@@ -16,14 +16,14 @@ In Scrum, Epics get broken down into Stories (because everything needs to fit in
 
 > While the stories that comprise an epic may be completed independently, their **business value **isn’t realized until the entire epic is complete.Hmmm. OK. So Story 1 below is *not* independently valuable from a “business” perspective (though may be extremely valuable from a learning standpoint, which is certainly valuable to the business). Story 4 *is* independently valuable from a business perspective.
 
-![](/images/1*DacUbUfX4UZLcTw3LwfI-w.png)
+![](../images/1*DacUbUfX4UZLcTw3LwfI-w.png)
 
 #### Potentially Releasable
 
 If you’ve done Scrum training, you may have gotten stuck on reconciling the use of Epics with the[ definition of a Sprint](https://www.scrum.org/resources/what-is-a-sprint-in-scrum):
 
 
-> A time-box of one month or less during which a “Done”, useable, and **potentially releasable** product Increment is created.![](/images/1*WCOADvOAsH3L6cbHKPW6yQ.png)
+> A time-box of one month or less during which a “Done”, useable, and **potentially releasable** product Increment is created.![](../images/1*WCOADvOAsH3L6cbHKPW6yQ.png)
 
 The tricky phrase is “potentially releasable”. How can we have a *potentially releasable product increment* if some Stories are assigned to Epics, and Epics — by definition — are too big to fit into a Sprint?
 
@@ -40,7 +40,7 @@ There’s an answer for this puzzle too! [Ken Rubin](https://medium.com/u/e8471e
 
 We decide it will be valuable to start selling subscription plans for our Widget Service. Here’s how Epics, Releases, Increments, and Stories might look using a User Story Map ([see here for more info](http://jpattonassociates.com/user-story-mapping/)):
 
-![](/images/1*Opg7f3O-QukvSRxNBtqq_g.png)
+![](../images/1*Opg7f3O-QukvSRxNBtqq_g.png)
 
 Note how these fit together:
 
@@ -53,7 +53,7 @@ Note how these fit together:
 
 Grasping the value of The Increment, the team decides to do a weekly review. In a bout of experimentation, AcmeTeam drops their user story estimates, and strives instead to make user stories as “small as possible, but no smaller”. It’s like Scrum, but without worrying about a story point commitment/sprint planning. Grafted on to a Kanban board it looks a bit like this:
 
-![](/images/1*aJetFdolRut-dhLDYyUs9A.png)Not pretty (I prefer the Story Map)
+![](../images/1*aJetFdolRut-dhLDYyUs9A.png)Not pretty (I prefer the Story Map)
 
 , but still helpful.
 
@@ -73,7 +73,7 @@ At the end of the day, the central questions are:
 3. How can we preserve the **relationships** (both hierarchal and adjacent)
 4. How do we make sure to **align the work with user outcomes/benefits**
 5. How do we **inspect and adapt** based on our progress?
-![](/images/1*6Wo2UheqK8Idyx7cO4bv6A.png)
+![](../images/1*6Wo2UheqK8Idyx7cO4bv6A.png)
 
 Less experienced teams tend to get tripped up trying to define Epics, User Stories, Task, and Sub Tasks. The reality is that software product development is typically one big nested hierarchy, and a super messy one at that. Additional tools — like maps, canvasses, designs, wireframes, logic diagrams — are needed to hold the mental model together.
 
@@ -92,4 +92,4 @@ I’m only partly joking.
 
 I’ll finish with a table that explains why it is so hard to settle on “standard” definitions for how we describe our work. Our work is all over the map below. Shared Understanding is hard. Great teams figure out how to keep their mental model accurate.
 
-![](/images/1*hfOMC9A16bySoMoqYNVw5w.png)
+![](../images/1*hfOMC9A16bySoMoqYNVw5w.png)

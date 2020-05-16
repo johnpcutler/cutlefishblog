@@ -2,12 +2,12 @@
 path:	"/blog/that-b2b-saas-savvy-thing"
 date:	"2016-07-03"
 title:	"That B2B SaaS Savvy Thing"
-image:	"/images/1*s1SM8b3qHrOvaVIZ1fUwUw.png"
+image:	"../images/1*s1SM8b3qHrOvaVIZ1fUwUw.png"
 ---
 
 I have received a lot of questions about a graphic I [posted on Twitter recently](https://twitter.com/johncutlefish/status/746480856122941440):
 
-![](/images/1*s1SM8b3qHrOvaVIZ1fUwUw.png)
+![](../images/1*s1SM8b3qHrOvaVIZ1fUwUw.png)
 
 Let me explain it in more depth.
 
@@ -26,7 +26,7 @@ Prospects with **low savvy **can be relatively easy to sell to and close. They f
 
 The takeaways is that the behavioral traits that might predict a sale are often not the same traits that will indicate the ability for a customer to thrive using your product. This isn’t to imply that targeting less savvy users is a bad idea but rather that *trying to target all three is a bad idea *(unless you’ve truly nailed one, and are ready to branch out). Even if the sales are rolling in. Someone (usually customer success, customer support, or product) will feel the sting.
 
-![](/images/1*feWFzjTjlWXhUxdYna7YZg.png)
+![](../images/1*feWFzjTjlWXhUxdYna7YZg.png)
 
 You need to target the same persona with intent across the full customer journey including marketing, sales, on-boarding, product, and customers success. They’re unique, and each require a unique approach. Don’t silo the persona building activity inside the product team. Extend it across the whole organization, and align around that vision.
 

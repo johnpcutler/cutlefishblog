@@ -2,7 +2,7 @@
 path:	"/blog/let-teams-figure-it-out"
 date:	"2017-11-11"
 title:	"Let Teams Figure It Out"
-image:	"/images/1*-4uJNpSIV5PILQRt2peooA@2x.png"
+image:	"../images/1*-4uJNpSIV5PILQRt2peooA@2x.png"
 ---
 
 #### Continuous improvement, picking Ways, and what really matters
@@ -28,7 +28,7 @@ The team starts learning. They break up into pairs, and these pairs commit to do
 
 On Friday afternoon — after putting together a first draft of their working agreements (to be changed, of course) — they put a couple things on the wall: a Kanban board to track their work and continuous improvements experiments, a visualization to show their progress towards *awesome (high quality, customer value, small batches, and individual skills development)*, and a Modern Agile poster they found online while researching.
 
-![](/images/1*-4uJNpSIV5PILQRt2peooA@2x.png)
+![](../images/1*-4uJNpSIV5PILQRt2peooA@2x.png)
 
 And the next week they start…
 

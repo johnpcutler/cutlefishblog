@@ -2,7 +2,7 @@
 path:	"/blog/noestimates-two-different-problems"
 date:	"2017-01-06"
 title:	"#NoEstimates. Two Different Problems"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 *If you’re not familiar with the #NoEstimates “debate”, try searching Twitter for the #NoEstimates hash-tag. You have been forewarned.*

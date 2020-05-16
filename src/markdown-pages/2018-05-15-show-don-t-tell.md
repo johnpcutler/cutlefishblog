@@ -2,12 +2,12 @@
 path:	"/blog/show-dont-tell"
 date:	"2018-05-15"
 title:	"Show Don’t Tell"
-image:	"/images/1*MrPCZAkgQYkpyMzQwUgtWA@2x.jpeg"
+image:	"../images/1*MrPCZAkgQYkpyMzQwUgtWA@2x.jpeg"
 ---
 
 #### Conference hangovers, best practices, stubborn coworkers, and actually changing something.
 
-![](/images/1*MrPCZAkgQYkpyMzQwUgtWA@2x.jpeg)
+![](../images/1*MrPCZAkgQYkpyMzQwUgtWA@2x.jpeg)
 
 After having attending a conference, have you ever experienced something like this?
 

@@ -2,7 +2,7 @@
 path:	"/blog/team-health-a-daily-checkup"
 date:	"2016-03-07"
 title:	"Team Health: A Daily Checkup"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 I hear people talking all the time about “measuring” product development teams. Do we measure velocity, value delivered, or bugs removed / introduced? But what if you flipped the script? What if teams devised their own daily check-in to gauge their performance? What if they focused on great leading indicators of success and health, and used those measures to guide continuous improvement efforts?
@@ -11,7 +11,7 @@ I think you’d see something very different emerge. As individuals we care for 
 
 Here’s a simple model for a daily check-in. [I’ve created a spreadsheet version in Google Sheets](https://docs.google.com/spreadsheets/d/1UF4WVf7GCi4XmmZK5V4x6W1LMGu7Rm1_aVbmw3Ltv6U/edit?usp=sharing). Feel free to make a copy of it and use as you see fit.
 
-![](/images/0*Q7NvVjfvs3dvDzOe.)Find this spreadsheet [here](https://docs.google.com/spreadsheets/d/1hUet-D9RLR7ctg6-KW9SNNrYRbL5-zYwt9eCYxLbokE/edit?usp=sharing)
+![](../images/0*Q7NvVjfvs3dvDzOe.)Find this spreadsheet [here](https://docs.google.com/spreadsheets/d/1hUet-D9RLR7ctg6-KW9SNNrYRbL5-zYwt9eCYxLbokE/edit?usp=sharing)
 
 I’ve included the questions below with some background. The spreadsheet has a simple weighted scoring system.
 

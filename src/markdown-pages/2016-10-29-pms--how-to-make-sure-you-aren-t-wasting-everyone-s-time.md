@@ -2,12 +2,12 @@
 path:	"/blog/pms-how-to-make-sure-you-arent-wasting-everyones-time"
 date:	"2016-10-29"
 title:	"PMs: How To Make Sure You Aren’t Wasting Everyone’s Time"
-image:	"/images/1*74Y05eVGrXYfMBbe5wCkrw.png"
+image:	"../images/1*74Y05eVGrXYfMBbe5wCkrw.png"
 ---
 
 Product managers, here’s an easy way to see if you are wasting your own time, and the time of the people around you. First, buy a watch so you don’t get distracted by screens whenever you have to know the time.
 
-![](/images/1*74Y05eVGrXYfMBbe5wCkrw.png)
+![](../images/1*74Y05eVGrXYfMBbe5wCkrw.png)
 
 Next, ask yourself “**what am I *REALLY* doing?**” This can be harder than it sounds, but go figure it out.
 
@@ -42,4 +42,4 @@ What did you come up with?
 
 **By golly yes!** Rock on. Keep it up, and reflect on whether it’s working with your team.
 
-![](/images/1*sCup3exMtcM853ABiYr1MQ.png)
+![](../images/1*sCup3exMtcM853ABiYr1MQ.png)

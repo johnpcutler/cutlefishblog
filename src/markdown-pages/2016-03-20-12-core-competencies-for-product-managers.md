@@ -2,7 +2,7 @@
 path:	"/blog/12-core-competencies-for-product-managers"
 date:	"2016-03-20"
 title:	"12 Core Competencies For Product Managers"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 #### Learn. Practice. Learn.

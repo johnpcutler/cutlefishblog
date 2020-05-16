@@ -2,7 +2,7 @@
 path:	"/blog/stop-obsessing-over-the-teams"
 date:	"2017-11-29"
 title:	"Stop Obsessing Over “The Teams”"
-image:	"/images/1*B-H9EdJzcsr5YHBi1Ft2zA@2x.jpeg"
+image:	"../images/1*B-H9EdJzcsr5YHBi1Ft2zA@2x.jpeg"
 ---
 
 Sound familiar?
@@ -10,7 +10,7 @@ Sound familiar?
 
 > It is all about the Scrum team. Feature teams. Every team needs a PO! Self-organizing team. Team activities/rituals. Help the team. Serve the team! Protect the team. Focus locally! Be a shit umbrella!**In this post I’m going to argue that we shouldn’t focus on “The Teams”, until the conditions for *effective* teams are in place.**
 
-![](/images/1*B-H9EdJzcsr5YHBi1Ft2zA@2x.jpeg)Most Agile methodologies/frameworks focus myopically on “the teams” (front-line teams of individual contributors). Meanwhile, organizational dysfunctions (those causing 80% of the drag)
+![](../images/1*B-H9EdJzcsr5YHBi1Ft2zA@2x.jpeg)Most Agile methodologies/frameworks focus myopically on “the teams” (front-line teams of individual contributors). Meanwhile, organizational dysfunctions (those causing 80% of the drag)
 
  persist. This is not for lack of warning. Scrum calls out the need for independent teams explicitly:
 

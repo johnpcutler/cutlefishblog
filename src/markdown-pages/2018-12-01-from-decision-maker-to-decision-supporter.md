@@ -2,10 +2,10 @@
 path:	"/blog/from-decision-maker-to-decision-supporter"
 date:	"2018-12-01"
 title:	"From Decision Maker to Decision Supporter"
-image:	"/images/1*qOkOWhd_HK26WKjhYE3I-w.jpeg"
+image:	"../images/1*qOkOWhd_HK26WKjhYE3I-w.jpeg"
 ---
 
-![](/images/1*qOkOWhd_HK26WKjhYE3I-w.jpeg)
+![](../images/1*qOkOWhd_HK26WKjhYE3I-w.jpeg)
 
 My dad gave my new son a book of fun pen/marker doodles. I’m using them in posts.#### As a product manager, it is your responsibility to make sure that the best possible decisions get made…not to necessarily make those decisions.
 

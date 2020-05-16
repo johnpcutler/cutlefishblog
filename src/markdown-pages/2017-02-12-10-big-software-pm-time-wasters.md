@@ -2,12 +2,12 @@
 path:	"/blog/10-big-software-pm-time-wasters"
 date:	"2017-02-12"
 title:	"10 Big Software PM Time Wasters"
-image:	"/images/1*KnQtBXoI1-CgVmtOSyPMlQ.png"
+image:	"../images/1*KnQtBXoI1-CgVmtOSyPMlQ.png"
 ---
 
 Time management is extremely important for PMs. You want to focus your energy on the activities that will have the highest leverage for your customers and team. Over my career (as a software product manager)I’ve wasted a ton of time doing things that felt high-leverage at the time, but didn’t produce lasting value. Below I’ve listed the top ten culprits …
 
-![](/images/1*KnQtBXoI1-CgVmtOSyPMlQ.png)**1 . Setting up elaborate systems to collect, track and reply to customer feature requests**. I very rarely see this produce value for either customers or teams. I’m not talking specific feedback and research, where you cast a focused net for something you are currently working on. And I’m not talking about lightweight feedback channels that you can query for background info, and even use to recruit customers for research. Rather, I’m talking about the pipe-dream that you’ll somehow open up the forum for feature requests, allow voting, and that this will somehow be helpful in roadmap prioritization. In the end, you just waste everyone’s time (including, most importantly, your customers)
+![](../images/1*KnQtBXoI1-CgVmtOSyPMlQ.png)**1 . Setting up elaborate systems to collect, track and reply to customer feature requests**. I very rarely see this produce value for either customers or teams. I’m not talking specific feedback and research, where you cast a focused net for something you are currently working on. And I’m not talking about lightweight feedback channels that you can query for background info, and even use to recruit customers for research. Rather, I’m talking about the pipe-dream that you’ll somehow open up the forum for feature requests, allow voting, and that this will somehow be helpful in roadmap prioritization. In the end, you just waste everyone’s time (including, most importantly, your customers)
 
 . The volume of feedback just overwhelms the team’s ability to organize and act on the information.
 
@@ -27,7 +27,7 @@ Time management is extremely important for PMs. You want to focus your energy on
 
 **9. Communicating status when the status hasn’t changed**. This behavior is often beyond our control, but as PMs, we spent lots of time telling people how/why things are on track even when nothing has fundamentally changed. Worse yet, we spend far more time communicating status than actually communicating results and outcomes. If all you do is communicate status, then that is all people will expect out of you.
 
-![](/images/1*5Shd9Ebth2j-eQO_kIR0ww.png)**10. Guessing and premature convergence**. Everyone is freaking out that they don’t have all the answers. You’re on the spot. What do you do … make shit up (consciously or unconsciously)
+![](../images/1*5Shd9Ebth2j-eQO_kIR0ww.png)**10. Guessing and premature convergence**. Everyone is freaking out that they don’t have all the answers. You’re on the spot. What do you do … make shit up (consciously or unconsciously)
 
 . We spend lots of time as PMs persuading people we have things figured out even when we don’t. That’s partially because they are risk averse. And that is partially because we create a conveyor belt of features and need to keep things rolling off the line. Instead of saying “hey, let’s get something in front of customers, and we can kill it if it doesn’t work” we say something like “ok, it looks like we all agree on the direction here, let’s ship it.” Consider how much time you invest keeping up the illusion that you know everything.
 

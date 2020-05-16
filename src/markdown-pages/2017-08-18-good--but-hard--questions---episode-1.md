@@ -2,10 +2,10 @@
 path:	"/blog/good-but-hard-questions-episode-1"
 date:	"2017-08-18"
 title:	"Good (But Hard) Questions — Episode 1"
-image:	"/images/1*L23Ug4upCBkUitSWbSyGtw.png"
+image:	"../images/1*L23Ug4upCBkUitSWbSyGtw.png"
 ---
 
-![](/images/1*L23Ug4upCBkUitSWbSyGtw.png)1. If culture is how we act, what is the most destructive behavior we tolerate? Why?
+![](../images/1*L23Ug4upCBkUitSWbSyGtw.png)1. If culture is how we act, what is the most destructive behavior we tolerate? Why?
 2. Do we believe *better* is possible? Is better necessary?
 3. What and when do we celebrate? What does that say about us?
 4. Where do we accept mediocrity, and where do we demand excellence?

@@ -2,12 +2,12 @@
 path:	"/blog/21-questions-for-your-pm-role-interviewer"
 date:	"2017-05-09"
 title:	"21 Questions for Your PM Role Interviewer"
-image:	"/images/1*H7hiyHUsilS8NVcD1beRRw.png"
+image:	"../images/1*H7hiyHUsilS8NVcD1beRRw.png"
 ---
 
 #### After a couple heavy posts, I get practical…
 
-![](/images/1*H7hiyHUsilS8NVcD1beRRw.png)Interviewing for a PM (product management)
+![](../images/1*H7hiyHUsilS8NVcD1beRRw.png)Interviewing for a PM (product management)
 
  job? Anxious for the “do you have any questions” part of the interview? My advice…stick to the things that will have a big impact on your day-to-day work. Some ideas:
 

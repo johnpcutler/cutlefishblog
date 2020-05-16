@@ -2,14 +2,14 @@
 path:	"/blog/case-study-from-the-front-lines"
 date:	"2016-11-10"
 title:	"Case Study: From The Front Lines"
-image:	"/images/1*xBQpQAnUHrV6Ro3bdJsumw.jpeg"
+image:	"../images/1*xBQpQAnUHrV6Ro3bdJsumw.jpeg"
 ---
 
 #### Keeping people in the loop without it sucking
 
 How do you give big picture visibility to 12+ individual teams (100+ devs, UX, PMs, Agile Coaches, etc.) without stepping on people’s time, or instituting stuffy process? Below I share how I tackled this problem with decent results. Perhaps it can inspire an experiment within your large product development organization.
 
-![](/images/1*xBQpQAnUHrV6Ro3bdJsumw.jpeg)
+![](../images/1*xBQpQAnUHrV6Ro3bdJsumw.jpeg)
 
 #FTFL … blurred for confidentiality reasons, which has scaled to 20+ teams#### **Organization**
 

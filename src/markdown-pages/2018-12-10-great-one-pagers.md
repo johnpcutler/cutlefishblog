@@ -2,10 +2,10 @@
 path:	"/blog/great-one-pagers"
 date:	"2018-12-10"
 title:	"Great One-Pagers"
-image:	"/images/1*S7MT8sQPNFMhIFFK7do86g.png"
+image:	"../images/1*S7MT8sQPNFMhIFFK7do86g.png"
 ---
 
-![](/images/1*S7MT8sQPNFMhIFFK7do86g.png)*Note: I’ve been meaning to share this for a while now. I was reminded of this training material a couple days ago while brainstorming new workshop content with my *[*Amplitude*](https://amplitude.com/)* coworkers. A cool thing about my gig at Amplitude is that I get to work on up-leveling the product-public at large (not just customers). Follow me on Twitter (@johncutlefish)
+![](../images/1*S7MT8sQPNFMhIFFK7do86g.png)*Note: I’ve been meaning to share this for a while now. I was reminded of this training material a couple days ago while brainstorming new workshop content with my *[*Amplitude*](https://amplitude.com/)* coworkers. A cool thing about my gig at Amplitude is that I get to work on up-leveling the product-public at large (not just customers). Follow me on Twitter (@johncutlefish)
 
  and I’ll let you know when we launch new stuff.*
 
@@ -179,7 +179,7 @@ Faster feedback. Fewer sleepless nights. Deploy code with 100% confidence and be
 
 A helpful frame is the one of behavioral change. This is a good way of side-stepping the question of “solution” and focusing on what you might observe if the one-pager was successful.
 
-![](/images/0*1vC9e4tQtMoAUnn3)
+![](../images/0*1vC9e4tQtMoAUnn3)
 
 ### One-Pager Questions
 

@@ -2,7 +2,7 @@
 path:	"/blog/getting-the-all-hands-right"
 date:	"2016-02-29"
 title:	"Getting The All-Hands Right"
-image:	"/images/1*ni4Um463LmEvGvwujnV0fg.png"
+image:	"../images/1*ni4Um463LmEvGvwujnV0fg.png"
 ---
 
 Can you really run an effective all-hands meeting each week? Is it worth it?
@@ -23,7 +23,7 @@ I’m not about to say that weekly meetings are must. That’s a big investment 
 * Google (Alphabet): [Weekly](https://www.thinkwithgoogle.com/articles/passion-not-perks.html)
 * Pardot: [Weekly](http://davidcummings.org/2016/01/21/develop-a-meeting-rhythm/)
 * Twitter: [Weekly “Tea-Time](http://mashable.com/2016/01/29/twitter-employees-rally/#boBjCdveU5qy)”. Note the situation in this link:
-![](/images/1*ni4Um463LmEvGvwujnV0fg.png)[Source](https://twitter.com/WillStick/status/692775729235296256/photo/1?ref_src=twsrc%5Etfw)
+![](../images/1*ni4Um463LmEvGvwujnV0fg.png)[Source](https://twitter.com/WillStick/status/692775729235296256/photo/1?ref_src=twsrc%5Etfw)
 
 #### **Be Proactive. Not Reactive**
 
@@ -36,7 +36,7 @@ Myth, ritual, and narrative are incredibly powerful, but they are difficult to m
 
 Executives often see all-hands meetings as “alignment builders”. The advice is to keep it “efficient”, stick to the agenda, and monitor every word to “stay on message”. To many employees this will come off as too slick and controlled. Let it be messy. Let it be unscripted. Tell the story. Connect. An “efficient” meeting message can be easily communicated by other means. But myths, ritual, and narratives can’t.
 
-![](/images/1*heqTiupFvKOa8B7VH7Cknw.png)<http://ocw.mit.edu/courses/anthropology/21a-212-myth-ritual-and-symbolism-spring-2004/>#### **Engage Introverts (And Mere Mortals)
+![](../images/1*heqTiupFvKOa8B7VH7Cknw.png)<http://ocw.mit.edu/courses/anthropology/21a-212-myth-ritual-and-symbolism-spring-2004/>#### **Engage Introverts (And Mere Mortals)
 
 **
 
@@ -54,7 +54,7 @@ Let non-executives / non-managers speak for 40–60% of the time. They are your 
 
 Who will share the stage?
 
-![](/images/1*e-8U0wBLxOm_4aDly-PrBQ.png)
+![](../images/1*e-8U0wBLxOm_4aDly-PrBQ.png)
 
 <http://www.uxforthemasses.com/improve-ux-presentations/>#### **No Tech Issues**
 
@@ -83,7 +83,7 @@ Have teams “groom” a small set of initiatives that deserve a regular update.
 
 Monday’s tend to drag. Teams are not in the right headspace to tackle a lengthy meeting with a big workweek ahead of them. Mornings beat sleepy afternoons. Friday afternoons are a wash. “Branch day” can cause major distractions for dev teams. You’ll never find the perfect time, but there are terrible times. Avoid them.
 
-![](/images/1*5N3Mi-F-feSfrH33S08WzA.png)
+![](../images/1*5N3Mi-F-feSfrH33S08WzA.png)
 
 <https://www.tumblr.com/tagged/ahotbrewwillseeyouthrough>#### **Meeting, Measure, Learn**
 

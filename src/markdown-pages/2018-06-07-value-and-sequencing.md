@@ -2,14 +2,14 @@
 path:	"/blog/value-and-sequencing"
 date:	"2018-06-07"
 title:	"Value and Sequencing"
-image:	"/images/1*AhZo_-Q9RCitINFu6UlNUw@2x.jpeg"
+image:	"../images/1*AhZo_-Q9RCitINFu6UlNUw@2x.jpeg"
 ---
 
 Let’s take a list of opportunities. For each opportunity I am going to describe the opportunity cost per month (Cost of Delay).
 
 The list is in descending order by Cost of Delay.
 
-![](/images/1*AhZo_-Q9RCitINFu6UlNUw@2x.jpeg)
+![](../images/1*AhZo_-Q9RCitINFu6UlNUw@2x.jpeg)
 
 Now, any self-respecting product manager is going to look at that list and say:
 
@@ -28,7 +28,7 @@ Put differently, it is easy to miss the forest through the trees when we make as
 
 Let’s add something to our list.
 
-![](/images/1*G4zFbW3l45SmdR7upDezuA@2x.jpeg)Case in point, as a CTO or CPO, you would likely structure your organization a bit differently knowing that this was “the list”. If this list was foisted on your org, and your org was NOT optimized for this sequencing, you might not be able to pull in value order (yet)
+![](../images/1*G4zFbW3l45SmdR7upDezuA@2x.jpeg)Case in point, as a CTO or CPO, you would likely structure your organization a bit differently knowing that this was “the list”. If this list was foisted on your org, and your org was NOT optimized for this sequencing, you might not be able to pull in value order (yet)
 
 .
 

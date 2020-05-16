@@ -2,7 +2,7 @@
 path:	"/blog/the-learning-styles-myth-and-user-onboarding"
 date:	"2017-01-05"
 title:	"The Learning Styles Myth and User Onboarding"
-image:	"/images/1*R-k_a3w3TYQbDgtmZ2-qoQ.png"
+image:	"../images/1*R-k_a3w3TYQbDgtmZ2-qoQ.png"
 ---
 
 When talking about the role of learning in onboarding, or in SaaS in general, you’ll often hear comments like:
@@ -26,7 +26,7 @@ So, if neat-and-tidy learning styles are largely a myth, what can we take from i
 * Reading styles ([methodical versus scanning](http://www.slideshare.net/coolstuff/poynter-eyetracking-study-march-07/20-Scanning_readers_tend_to_Scan))
 The list could go on and on! How can we approach learning for all of these users? Looking at the instructional design literature, there are principles and models that work and transcend learning styles. This is fertile ground when considering your onboarding. One example is Gagne’s Nine Events for a learner approaching and retaining any new information:
 
-![](/images/1*R-k_a3w3TYQbDgtmZ2-qoQ.png)
+![](../images/1*R-k_a3w3TYQbDgtmZ2-qoQ.png)
 
 <http://check-n-click.com/pin-up-resource-gagnes-nine-events/>The situation of onboarding, however, often puts us farther from the moment of learning than either a classroom teacher or an online course or tutorial designer. Two concepts from education that can help us tackle this case are self-directed learning and scaffolding.
 

@@ -2,7 +2,7 @@
 path:	"/blog/have-you-heard-that-one-about-safe"
 date:	"2017-04-29"
 title:	"Have You Heard That One About SAFe?"
-image:	"/images/1*sEtIejXkPOW5pMPRvFKoRQ.png"
+image:	"../images/1*sEtIejXkPOW5pMPRvFKoRQ.png"
 ---
 
 #### And why I’m going to stop telling SAFe jokes (for now)
@@ -11,11 +11,11 @@ image:	"/images/1*sEtIejXkPOW5pMPRvFKoRQ.png"
 
 [SAFe](http://www.scaledagileframework.com/) is an easy target. It’s like laughing at sunburnt package tourists on the beach, saying [Velveeta](https://en.wikipedia.org/wiki/Velveeta) isn’t [artisanal cheese](https://en.wikipedia.org/wiki/Artisan_cheese), ridiculing friends with Cross-Fit injuries, and grumbling about [autotune](https://en.wikipedia.org/wiki/Auto-Tune) in popular music. SAFe is the Creed of the Agile echo chamber (it’s trendy to hate Creed. It’s like Nickleback. You’re *supposed* to hate them).
 
-![](/images/1*sEtIejXkPOW5pMPRvFKoRQ.png)“How can anyone fall for this bloated, over-processed, and overly-prescriptive bullshit?” “You’ll never become Agile by doing SAFe!” “[[It] avoid[s] the very basics of agility and complexity!](http://cognitive-edge.com/blog/safe-the-infantilism-of-management/)
+![](../images/1*sEtIejXkPOW5pMPRvFKoRQ.png)“How can anyone fall for this bloated, over-processed, and overly-prescriptive bullshit?” “You’ll never become Agile by doing SAFe!” “[[It] avoid[s] the very basics of agility and complexity!](http://cognitive-edge.com/blog/safe-the-infantilism-of-management/)
 
 ”.
 
-![](/images/1*va62jDIdD2zk2dD20es_iw.png)Velveeta ad with guys who look like they work at my local coffee shopI’ve cracked a couple of my own SAFe jokes, and chatted about SAFe with unwinding speakers at the conference hotel (evangelism requires sustenance)
+![](../images/1*va62jDIdD2zk2dD20es_iw.png)Velveeta ad with guys who look like they work at my local coffee shopI’ve cracked a couple of my own SAFe jokes, and chatted about SAFe with unwinding speakers at the conference hotel (evangelism requires sustenance)
 
 . Here’s a question and challenge — to myself, as well as others. Why do we even care? Why do we waste our breath? What does this sniping say about us? Some pondering for the consultants:
 
@@ -25,7 +25,7 @@ image:	"/images/1*sEtIejXkPOW5pMPRvFKoRQ.png"
 * So what if the bagel store down the street doesn’t make real bagels. People will discover your store and buy real bagels. Right?
 Some introspection. Every minute I spend steaming and sniping is a minute NOT spent on offering an alternative. There will always be autotune, industrial farm-to-table, paint-by-numbers, and [David Hasselhoff](https://en.wikipedia.org/wiki/David_Hasselhoff) albums. And maybe these things need to exist to enable alternatives. The instinct of any craftsperson is to freak out when someone butchers the craft — OMG, that is NOT fucking al dente Pasta! But, then it is back to work.
 
-![](/images/1*XW2E3W-TiNnREsCuWddOtw.png)This may be a stretch, but I also wonder whether the current state of Agile is unsettling to longtime practitioners, and that SAFe represents the most convenient scapegoat. It’s easy to blame corporatization, packaging, and pyramid schemes, but perhaps more difficult to ponder the accessibility and fracturing of the movement itself. Yep, the Manifesto is still there, so there’s that… as *perfect* as ever *of course*. “Uncovering better ways” is the Try…Catch that lets us claim Agile lineage to anything tried in software development since 2001 (and earlier, during a 30 year Agile gestation)
+![](../images/1*XW2E3W-TiNnREsCuWddOtw.png)This may be a stretch, but I also wonder whether the current state of Agile is unsettling to longtime practitioners, and that SAFe represents the most convenient scapegoat. It’s easy to blame corporatization, packaging, and pyramid schemes, but perhaps more difficult to ponder the accessibility and fracturing of the movement itself. Yep, the Manifesto is still there, so there’s that… as *perfect* as ever *of course*. “Uncovering better ways” is the Try…Catch that lets us claim Agile lineage to anything tried in software development since 2001 (and earlier, during a 30 year Agile gestation)
 
 .
 

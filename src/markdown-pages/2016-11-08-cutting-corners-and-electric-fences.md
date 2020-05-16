@@ -2,10 +2,10 @@
 path:	"/blog/cutting-corners-and-electric-fences"
 date:	"2016-11-08"
 title:	"Cutting Corners and Electric Fences"
-image:	"/images/1*0wdqFy2-c9zCBobJVoxZSQ.png"
+image:	"../images/1*0wdqFy2-c9zCBobJVoxZSQ.png"
 ---
 
-![](/images/1*0wdqFy2-c9zCBobJVoxZSQ.png)
+![](../images/1*0wdqFy2-c9zCBobJVoxZSQ.png)
 
 <http://www.grit.com/animals/electric-fencing-basics>Your team ships a new feature. Something is not right.
 

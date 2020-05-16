@@ -2,12 +2,12 @@
 path:	"/blog/how-do-we-go-faster"
 date:	"2017-09-14"
 title:	"How Do We Go Faster?"
-image:	"/images/1*xXr_C_RHAREXYh3BQSQHdQ.png"
+image:	"../images/1*xXr_C_RHAREXYh3BQSQHdQ.png"
 ---
 
 I find myself answering this question often. Sharing a response here…
 
-![](/images/1*xXr_C_RHAREXYh3BQSQHdQ.png)
+![](../images/1*xXr_C_RHAREXYh3BQSQHdQ.png)
 
 #### 1. First, accept that you will probably need to focus and go slower. It’ll help you go faster eventually.
 

@@ -2,7 +2,7 @@
 path:	"/blog/just-one-more-sprint"
 date:	"2018-07-07"
 title:	"Just One More Sprint!?"
-image:	"/images/1*2SPQmIL4LWRgrMLXe-OpVQ@2x.jpeg"
+image:	"../images/1*2SPQmIL4LWRgrMLXe-OpVQ@2x.jpeg"
 ---
 
 In this post I am going to use a common scenario to highlight some key product development prioritization concepts. Specifically, we are going to dig in to the decision to stop one effort, and start another effort.
@@ -15,7 +15,7 @@ Example…
 
 I think a new workflow will generate $45k in extra revenue monthly (the [Cost of Delay](http://blackswanfarming.com/cost-of-delay/)). We work for two weeks, and realize some very high percentage of that value ($42k/month). Should we “finish the project” (in this case add an additional option to the workflow), or should we stop immediately and take on new work?
 
-![](/images/1*2SPQmIL4LWRgrMLXe-OpVQ@2x.jpeg)
+![](../images/1*2SPQmIL4LWRgrMLXe-OpVQ@2x.jpeg)
 
 Note how there is $3k left on the table…it is value yet to extract.
 
@@ -23,7 +23,7 @@ Note how there is $3k left on the table…it is value yet to extract.
 
 Let’s look at the **CD3. **[CD3 is the Cost of Delay divided by duration](http://blackswanfarming.com/cost-of-delay-divided-by-duration/) (a week is 0.22 Months). Think of CD3 as the rate of creating value (when value is stated as value per time period, a time-based opportunity cost… our Cost of Delay).
 
-![](/images/1*g0VGP3Vs3lgc_7oo5wBWcA@2x.jpeg)The CD3 for the work so far (A) is 95.4. The CD3 for the remaining work (B)
+![](../images/1*g0VGP3Vs3lgc_7oo5wBWcA@2x.jpeg)The CD3 for the work so far (A) is 95.4. The CD3 for the remaining work (B)
 
  is 13.6.
 
@@ -41,13 +41,13 @@ So let’s say we have an item in the backlog with a $40k/month cost of delay an
 
 But let’s step back for a moment. Most teams do not deliver incrementally. Instead of delivering incrementally, they do something like this:
 
-![](/images/1*Qt4teqFqYyTI5eG9X_AykA@2x.jpeg)
+![](../images/1*Qt4teqFqYyTI5eG9X_AykA@2x.jpeg)
 
 See how they wait until the end of week 3 to “release”?
 
 They have a list of requirements / mockups / whatever, and they finish it all in one batch. Super Efficient! Let’s look at the super obvious problem first. By not releasing increments earlier, they are failing to move potential value through the system:
 
-![](/images/1*gZ5E9qz_YBxpSG8DB0mJDw@2x.jpeg)
+![](../images/1*gZ5E9qz_YBxpSG8DB0mJDw@2x.jpeg)
 
 In our original approach, the first increment “earns” $14.5k in two weeks, and the second increment “earns” an additional $2k in one week. In the above example, by releasing only after the end of week three, we “lose” $16.k. That’s not great.
 
@@ -57,11 +57,11 @@ In our original approach, the first increment “earns” $14.5k in two weeks, a
 
 Often what happens is that the team rationalizes “doing both!” The first stumbling block is the cost of multitasking:
 
-![](/images/1*4r9XEQxdhOXePm6Lorhv8g@2x.jpeg)https://leanpub.com/managing-risk-with-agile/readSo by trying to do both, we’re losing 20% to context switching right off the bat. Veering from our example for a bit — because I’m lazy and don’t want to figure this out for our example — we see below that with **Option #2 **(doing both at once)
+![](../images/1*4r9XEQxdhOXePm6Lorhv8g@2x.jpeg)https://leanpub.com/managing-risk-with-agile/readSo by trying to do both, we’re losing 20% to context switching right off the bat. Veering from our example for a bit — because I’m lazy and don’t want to figure this out for our example — we see below that with **Option #2 **(doing both at once)
 
  we incur Loss 1 AND Loss 2:
 
-![](/images/1*4d1IBxJbTakdZUu823lHNA@2x.jpeg)
+![](../images/1*4d1IBxJbTakdZUu823lHNA@2x.jpeg)
 
 So by optimizing for “going the extra mile” and “finishing what we started”, we’re taking on losses. The team is PAYING for the appearance of being proactive and not walking away.
 

@@ -2,12 +2,12 @@
 path:	"/blog/chalk-talk-mapping-the-why-assumptions-and-solutions"
 date:	"2017-07-07"
 title:	"Chalk Talk: Mapping the Why, Assumptions, and Solutions"
-image:	"/images/1*ZOcpMYUhWtzDqqaTjQ2f0A.png"
+image:	"../images/1*ZOcpMYUhWtzDqqaTjQ2f0A.png"
 ---
 
 #### Video and Transcript
 
-![](/images/1*ZOcpMYUhWtzDqqaTjQ2f0A.png)
+![](../images/1*ZOcpMYUhWtzDqqaTjQ2f0A.png)
 
 One of the central roles of a product manager is to drive shared understanding. With shared understanding, a team is more effective, resilient, and creative. Alignment without shared understanding is temporary and short-lived. The best teams find a way to break down complexity and speak the same language. They row relentlessly in the right direction, even when that point on the horizon shifts.
 

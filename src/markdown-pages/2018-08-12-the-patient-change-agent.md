@@ -2,12 +2,12 @@
 path:	"/blog/the-patient-change-agent"
 date:	"2018-08-12"
 title:	"The Patient Change Agent"
-image:	"/images/1*-cr3Uj4Yl9CP-cOL3vKP0Q@2x.jpeg"
+image:	"../images/1*-cr3Uj4Yl9CP-cOL3vKP0Q@2x.jpeg"
 ---
 
 #### Don’t become part of the problem (and quit while you’re ahead)
 
-![](/images/1*-cr3Uj4Yl9CP-cOL3vKP0Q@2x.jpeg)The optimistic change-agent believes there is always a way forward: a communication issue to unravel, low hanging fruit to tackle, and more opportunities to establish psychological safety. But it also gets people (me included)
+![](../images/1*-cr3Uj4Yl9CP-cOL3vKP0Q@2x.jpeg)The optimistic change-agent believes there is always a way forward: a communication issue to unravel, low hanging fruit to tackle, and more opportunities to establish psychological safety. But it also gets people (me included)
 
  into trouble.
 
@@ -75,7 +75,7 @@ So you’ve waited patiently for three months. At this point, it is probably wis
 4. Observable and time-bound. You’ll get data relatively quickly.
 5. Involve invitation, not imposition.
 6. Look for leverage points (I highly recommend Donella Meadows’s [Leverage Points: Places to Intervene in a System](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/)). Read the post to untangle the lingo.
-![](/images/1*Ep-4Sq7xxkPuEWxGN0Dq8g@2x.jpeg)I also suggest using a tool like [POPCORN](https://www.slideshare.net/mobile/cperrone/popcornflow-continuous-evolution-through-ultrarapid-experimentation)
+![](../images/1*Ep-4Sq7xxkPuEWxGN0Dq8g@2x.jpeg)I also suggest using a tool like [POPCORN](https://www.slideshare.net/mobile/cperrone/popcornflow-continuous-evolution-through-ultrarapid-experimentation)
 
  to keep track of your experiments. Above all, the key thing here is to make them safe to fail. At no point should you put your job/career/well-being/sanity/relationships/enthusiasm in jeopardy. Never. It’s not worth it.
 

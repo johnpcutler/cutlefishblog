@@ -2,12 +2,12 @@
 path:	"/blog/a-saas-startup-cautionary-tale"
 date:	"2016-04-02"
 title:	"A SaaS Startup Cautionary Tale"
-image:	"/images/1*Q9SrGeq-aGUkX9WM1kk8bw.jpeg"
+image:	"../images/1*Q9SrGeq-aGUkX9WM1kk8bw.jpeg"
 ---
 
 A SaaS Startup Comedy. Sort of.
 
-![](/images/1*Q9SrGeq-aGUkX9WM1kk8bw.jpeg)[PDF version](https://drive.google.com/file/d/0BwV5ydXhNqgiQWNWSUVJUjQ1WUU/view?usp=sharing)
+![](../images/1*Q9SrGeq-aGUkX9WM1kk8bw.jpeg)[PDF version](https://drive.google.com/file/d/0BwV5ydXhNqgiQWNWSUVJUjQ1WUU/view?usp=sharing)
 
  of mind map used in presentationReferences:
 

@@ -2,14 +2,14 @@
 path:	"/blog/how-to-tame-engineers-be-a-rockstar-and-ship-ing-product"
 date:	"2016-03-18"
 title:	"How To Tame Engineers, Be A Rockstar, and Ship ****ing Product"
-image:	"/images/1*k0DySgE8CxPlO_h3zIBX4g.png"
+image:	"../images/1*k0DySgE8CxPlO_h3zIBX4g.png"
 ---
 
 ### Introduction
 
 As product managers it is time we take a stand. Times are changing, and not in our favor. DevOps, UX, Agile, Design Thinking, Growth Hacking, Data Science … WTF? When did we lose our hold of the reigns? We need to fight back. We need to regain our honor. We need to ship ****ing product. And to do that we need to learn how to control engineers.
 
-![](/images/1*k0DySgE8CxPlO_h3zIBX4g.png)
+![](../images/1*k0DySgE8CxPlO_h3zIBX4g.png)
 
 Tom Cruise as Frank T.J. Mackey in MagnoliaEngineers start their careers with a spark. They want to build things that make a difference. The problem is that their caring and passion causes a lot of problems. It slows us down. It makes being a manager of product, um, challenging. Is there an alternative?
 

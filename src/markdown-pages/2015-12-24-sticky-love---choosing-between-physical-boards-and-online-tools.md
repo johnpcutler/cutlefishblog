@@ -2,10 +2,10 @@
 path:	"/blog/sticky-love-choosing-between-physical-boards-and-online-tools"
 date:	"2015-12-24"
 title:	"Sticky Love — Choosing Between Physical Boards and Online Tools"
-image:	"/images/1*UstcUT_2Ly24yQdwGDgWpg.jpeg"
+image:	"../images/1*UstcUT_2Ly24yQdwGDgWpg.jpeg"
 ---
 
-![](/images/1*UstcUT_2Ly24yQdwGDgWpg.jpeg)
+![](../images/1*UstcUT_2Ly24yQdwGDgWpg.jpeg)
 
 #### I say both.
 
@@ -34,7 +34,7 @@ OK, let’s get started. By the way I had a seriously hard time deciding between
 * Discovering tool requirements before purchasing a tool
 * Preventing measurement dysfunction. Not all metrics from online tools are applicable in all situations, and many are abused
 * Boards can accommodate theme, epic, and story level views simultaneously which aids in mentally connecting epics and their stories
-![](/images/1*TUtzVadAlkWo7b6TYEkTCA.png)Spotify Agile Board (source: <https://www.pinterest.com/pin/495396027732629779/> )
+![](../images/1*TUtzVadAlkWo7b6TYEkTCA.png)Spotify Agile Board (source: <https://www.pinterest.com/pin/495396027732629779/> )
 
 ### Online Tools are great for:
 
@@ -49,7 +49,7 @@ OK, let’s get started. By the way I had a seriously hard time deciding between
 * Work decomposition (“I’ll just type up a new card, and we wont have 200 cards up on that whiteboard”)
 * Encouraging edits to existing cards
 * Handling lots of cards / tickets
-![](/images/1*4IeVQY7bNmuy1voTRCohGg.png)Online Kanban Board (source: <http://leankit.com/blog/2013/12/seeing-big-picture/>)(see also [here](http://blog.nwcadence.com/kanban-boards-physical-or-virtual/), [here](http://www.agileweboperations.com/kanban-boards-physical-or-electronic), [here](http://toolsforagile.com/blog/archives/762/5-reasons-why-physical-boards-are-better-than-electronic-boards), and [here](http://jacoporomei.com/news/virtual-physical-the-best-of-two-worlds-for-our-kanban-board/))
+![](../images/1*4IeVQY7bNmuy1voTRCohGg.png)Online Kanban Board (source: <http://leankit.com/blog/2013/12/seeing-big-picture/>)(see also [here](http://blog.nwcadence.com/kanban-boards-physical-or-virtual/), [here](http://www.agileweboperations.com/kanban-boards-physical-or-electronic), [here](http://toolsforagile.com/blog/archives/762/5-reasons-why-physical-boards-are-better-than-electronic-boards), and [here](http://jacoporomei.com/news/virtual-physical-the-best-of-two-worlds-for-our-kanban-board/))
 
  for more Physical vs. Online posts
 
@@ -57,7 +57,7 @@ My favorite approach is something that combines the advantages of both. Mirrorin
 
 The problem with online tools is that they so quickly become unusable and bloated with repeated customizations. What starts with three stages becomes five stages. Projects multiply. Views multiply. The backlog has 500 items, and half of the authors have left the company. And most people come to eventually hate the tool (I’ve had teams hate Jira, Rally, Fogbuz, Pivotal, Bugzilla, etc.) [You always end up hating the digital tool](https://twitter.com/henrikkniberg/status/256055433045880832) …
 
-![](/images/1*n2M-r4OYkMu8g6lbuiYhmw.png)
+![](../images/1*n2M-r4OYkMu8g6lbuiYhmw.png)
 
 Not sure what he thinks now …With that in mind, my favorite combination is something like:
 

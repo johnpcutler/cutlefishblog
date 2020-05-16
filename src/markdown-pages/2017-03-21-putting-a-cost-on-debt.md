@@ -2,16 +2,16 @@
 path:	"/blog/putting-a-cost-on-debt"
 date:	"2017-03-21"
 title:	"Putting a Cost On Debt"
-image:	"/images/1*QzOJ6QxTmiUWQt7RK2WLxw.png"
+image:	"../images/1*QzOJ6QxTmiUWQt7RK2WLxw.png"
 ---
 
-![](/images/1*QzOJ6QxTmiUWQt7RK2WLxw.png)[http://www.bbc.co.uk/blogs/bbcinternet/2011/11/bbc\_weather\_design\_refresh.html](http://www.bbc.co.uk/blogs/bbcinternet/2011/11/bbc_weather_design_refresh.html)
+![](../images/1*QzOJ6QxTmiUWQt7RK2WLxw.png)[http://www.bbc.co.uk/blogs/bbcinternet/2011/11/bbc\_weather\_design\_refresh.html](http://www.bbc.co.uk/blogs/bbcinternet/2011/11/bbc_weather_design_refresh.html)
 
 Dev teams often struggle with persuading the business to prioritize debt work-down and complexity/risk management. The shiny efforts with a promised link to revenue win, and the maintenance work loses. This continues until some sort of embarrassing catastrophic failure, at which point — if it is not to late — the business loses time/money/marketshare trying to fix the issue retroactively. Some companies never regain their full health.
 
 What fascinates me is what happens *before* this pivotal “oh shit” moment. In the trenches there is typically some awareness of the problem. Engineers struggle. Customers experience stability and quality issues. The pace of feature development and value delivery slows. But … nothing happens (or at least nothing that addresses the root cause). Even when there are some grumblings, it never seems to escalate in a meaningful way. Why?
 
-![](/images/1*Av_jv6UYzKlnUISc8DLbCw.png)<https://www.reference.com/science/causes-ocean-pollution-8626fe75f49962e>In addition to simply having higher priority (or seemingly higher priority)
+![](../images/1*Av_jv6UYzKlnUISc8DLbCw.png)<https://www.reference.com/science/causes-ocean-pollution-8626fe75f49962e>In addition to simply having higher priority (or seemingly higher priority)
 
  things to work on, there is a tendency to look elsewhere for a fix. Maybe it is the product/project management process? Maybe it is a question of staffing, team structure, or the development practices? Maybe some new silver-bullet technology or tool will save the day? Accumulated complexity is often the trigger for this common plea:
 

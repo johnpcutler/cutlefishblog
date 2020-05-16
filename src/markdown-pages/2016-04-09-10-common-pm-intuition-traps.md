@@ -2,12 +2,12 @@
 path:	"/blog/10-common-pm-intuition-traps"
 date:	"2016-04-09"
 title:	"10 Common PM Intuition Traps"
-image:	"/images/1*fOjsHl5gqack0hVGdb-hAQ.png"
+image:	"../images/1*fOjsHl5gqack0hVGdb-hAQ.png"
 ---
 
 Many situations in product development run counter to our intuitions. The nature of the work is constantly changing. Context morphs frequently. Our teams, organizations, competitors, and industries represent a dizzyingly complex system. What we think works, makes sense and feels efficient betrays us.
 
-![](/images/1*fOjsHl5gqack0hVGdb-hAQ.png)
+![](../images/1*fOjsHl5gqack0hVGdb-hAQ.png)
 
 The famous Katama weather rock …Awareness helps. But so does habitually putting yourself in mildly uncomfortable situations. The quest for consistency and repeatability is often our Achilles’s heel and serves as a blocker to growth.
 
@@ -24,7 +24,7 @@ Watch out for the waiting snakes …**2. Stop managing large planning inventorie
 
 **5. Stop multitasking!** Doing three things at once prevents the team from delivering value early, and rarely beats working serially.
 
-![](/images/1*xsUvG_nXqd4MQzd0pygboA.png)
+![](../images/1*xsUvG_nXqd4MQzd0pygboA.png)
 
 <http://www.slideshare.net/JelenaFiodorova/teamwork-agile-way>**6. Stop saying “we might as well while we’re at it.”** It is tempting to tackle less valuable work because it is convenient. If the team happens to be in that area of the code, we pile on the requests. Pause and ask what is stopping you from tackling your most valuable opportunity.
 

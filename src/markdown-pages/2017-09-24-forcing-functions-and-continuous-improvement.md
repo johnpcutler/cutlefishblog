@@ -2,7 +2,7 @@
 path:	"/blog/forcing-functions-and-continuous-improvement"
 date:	"2017-09-24"
 title:	"Forcing Functions and Continuous Improvement"
-image:	"/images/1*OljOKOvnng-P5iD1mJ_HBg.png"
+image:	"../images/1*OljOKOvnng-P5iD1mJ_HBg.png"
 ---
 
 When used for good, increments and work-in-progress constraints serve as forcing functions to trigger and guide continuous improvement efforts. There are many definitions for *forcing function *out there, but [this definition from the Interaction Design Foundation](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/forcing-functions) stood out:
@@ -31,7 +31,7 @@ In *Continuous Quality Improvement in Higher Education*, John R. Dew, Molly McGo
 By “learning how a system functions” and delving into how that contributes to performance, we are also in a position to participate in double-loop learning. In the pioneering paper [*Teaching Smart People How to Learn*](http://pds8.egloos.com/pds/200805/20/87/chris_argyris_learning.pdf), Chris Argyis writes:
 
 
-> First, most people deŽfine learning too narrowly as mere ‘‘problem solving,’’ so they focus on identifying and correcting errors in the external environment. Solving problems is important. But if learning is to persist, managers and employees must also look inward. They need to react critically on their own behavior, identify the ways they often inadvertently contribute to the organization’s problems, and then change how they act. In particular, they must learn how the very way they go about deŽfining and solving problems can be a source of problems in its own right![](/images/1*OljOKOvnng-P5iD1mJ_HBg.png)<https://blog.nus.edu.sg/audreyc/2015/03/30/single-and-double-loop-learning/>Single-loop learning involves “the repeated attempt at the same problem, with no variation of method and without ever questioning the goal.” ([Wikipedia](https://en.wikipedia.org/wiki/Double-loop_learning))
+> First, most people deŽfine learning too narrowly as mere ‘‘problem solving,’’ so they focus on identifying and correcting errors in the external environment. Solving problems is important. But if learning is to persist, managers and employees must also look inward. They need to react critically on their own behavior, identify the ways they often inadvertently contribute to the organization’s problems, and then change how they act. In particular, they must learn how the very way they go about deŽfining and solving problems can be a source of problems in its own right![](../images/1*OljOKOvnng-P5iD1mJ_HBg.png)<https://blog.nus.edu.sg/audreyc/2015/03/30/single-and-double-loop-learning/>Single-loop learning involves “the repeated attempt at the same problem, with no variation of method and without ever questioning the goal.” ([Wikipedia](https://en.wikipedia.org/wiki/Double-loop_learning))
 
 . Double-loop learning “includes a shift in understanding, from simple and static to broader and more dynamic, such as taking into account the changes in the surroundings and the need for expression changes in mental models.”
 

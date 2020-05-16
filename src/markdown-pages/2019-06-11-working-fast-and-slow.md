@@ -2,7 +2,7 @@
 path:	"/blog/working-fast-and-slow"
 date:	"2019-06-11"
 title:	"Working Fast and Slow"
-image:	"/images/1*6Xtxci56D_M7k9D6WIHYxQ.png"
+image:	"../images/1*6Xtxci56D_M7k9D6WIHYxQ.png"
 ---
 
 #### And the beautiful mess of product development…
@@ -22,15 +22,15 @@ To what degree does thinking about “time to fulfill an order” actually reinf
 
 Bets can take many forms. Bets are small and large. Bets are risky and safe. Some games can be bet on incrementally (after the horses have left the gate). Some can’t. Some bets are small, but take a long time to unfold/mature. With other bets we know immediately if we’ve won. Often, risky exploratory bets are followed by more prescriptive and certain bets. And…to top it off, bets are nested and related (time-wise, impact-wise, etc.). At any given time we have 1–3 hour bets linked all the way up to 1–3 decade bets.
 
-![](/images/1*6Xtxci56D_M7k9D6WIHYxQ.png)In my workshops we look at this spectrum of work — the operative point being that work is typically happening at all of these levels concurrently (and sometimes sequentially in the example of a discovery effort followed by more prescriptive work)
+![](../images/1*6Xtxci56D_M7k9D6WIHYxQ.png)In my workshops we look at this spectrum of work — the operative point being that work is typically happening at all of these levels concurrently (and sometimes sequentially in the example of a discovery effort followed by more prescriptive work)
 
 :
 
-![](/images/1*GFqOwDxjKJVSYM6UtQ19ng.png)Often, where people “operate” differs in terms of role…but it is all connected. Here is sample distribution by role (pulled from a workshop in Thailand)
+![](../images/1*GFqOwDxjKJVSYM6UtQ19ng.png)Often, where people “operate” differs in terms of role…but it is all connected. Here is sample distribution by role (pulled from a workshop in Thailand)
 
 . Apologies for the small legend … orange=developers, red=UX, blue=product managers.
 
-![](/images/1*e0HIGll_hTzXwZNLxz-k4g.png)
+![](../images/1*e0HIGll_hTzXwZNLxz-k4g.png)
 
 Hopefully you get the idea. All connected. All happening at the same time.
 
@@ -44,7 +44,7 @@ The irony is that if we evolve product teams to where we want them to be…we’
 
 In this example, do we calculate avg. cycle time using all the prescriptive work in the leftmost quarter goal? Or the three month series of experiments (as part of a single mission) to move the quarter goal on the right?
 
-![](/images/1*DxRvZfl3bLyTceZbHuz3Fg.png)In closing, a team handling tickets with an SLA will find a lot of value in cycle/lead time (e.g. “we handle 95% of tickets between 8 and 12 days”)
+![](../images/1*DxRvZfl3bLyTceZbHuz3Fg.png)In closing, a team handling tickets with an SLA will find a lot of value in cycle/lead time (e.g. “we handle 95% of tickets between 8 and 12 days”)
 
 . And, I do believe that keeping track of cycle/lead time for work at different “resolutions” can be very helpful. But I recommend resisting the urge to oversimplify. Because when a product team is truly aligned around an outcome, it becomes harder and harder to tell a simple story to explain why they are successful…
 

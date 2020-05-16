@@ -2,7 +2,7 @@
 path:	"/blog/focused-advocacy-and-improvement"
 date:	"2018-06-21"
 title:	"Focused Advocacy and Improvement"
-image:	"/images/1*hWG3ozz1Shp1_99kHhFpHg@2x.jpeg"
+image:	"../images/1*hWG3ozz1Shp1_99kHhFpHg@2x.jpeg"
 ---
 
 Lately I have been doing some team coaching in multiple organizations.
@@ -48,7 +48,7 @@ It might be as simple (and moderately participatory) as: we run an annual employ
 
 Another approach might be using something like [PopcornFlow](https://www.slideshare.net/mobile/cperrone/popcornflow-continuous-evolution-through-ultrarapid-experimentation) to visualize continuous improvement efforts (and limit experiments in progress). But you still need to fill in the blanks. How do Problems & Observations get on the backlog? Who recommends Options and Possible Experiments? Who decides which experiment(s) to Commit to? Who actually participates in each Experiment? Who and how are experiments reviewed? These details are the details that matter to your team members.
 
-![](/images/1*hWG3ozz1Shp1_99kHhFpHg@2x.jpeg)
+![](../images/1*hWG3ozz1Shp1_99kHhFpHg@2x.jpeg)
 
 https://www.slideshare.net/mobile/cperrone/popcornflow-continuous-evolution-through-ultrarapid-experimentationThe whole idea here is clarity and focus. And that’s basically my point here: how do you harness your team’s interest in continuous improvement such that it is both rewarding and effective?
 

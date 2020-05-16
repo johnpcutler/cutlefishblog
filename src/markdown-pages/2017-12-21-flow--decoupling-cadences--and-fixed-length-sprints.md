@@ -2,10 +2,10 @@
 path:	"/blog/flow-decoupling-cadences-and-fixed-length-sprints"
 date:	"2017-12-21"
 title:	"Flow, Decoupling Cadences, and Fixed-Length Sprints"
-image:	"/images/1*unI1RL_sQm599vrNf2pBsw@2x.jpeg"
+image:	"../images/1*unI1RL_sQm599vrNf2pBsw@2x.jpeg"
 ---
 
-![](/images/1*unI1RL_sQm599vrNf2pBsw@2x.jpeg)
+![](../images/1*unI1RL_sQm599vrNf2pBsw@2x.jpeg)
 
 ***Update: I created a video here to accompany this post***
 
@@ -25,7 +25,7 @@ The point here is that in the real world things are messy. There is a ton of var
 
 ### Meaningful Goals and Product Increments
 
-![](/images/1*wumnf2zS4RQNoF_aV0F2Zg@2x.jpeg)Meaningful goals don’t always come in the same, neat, N-week/day box. Sure you can artificially “pad” a goal to make it bigger, and shrink a goal to make it smaller, but sometimes you’ll need three days (or three hours) to validate an important assumption, and sometimes you’ll need fifteen days to stitch together a complex workflow. That’s just how it is. I often see teams cook up “kind of fake” (their words)
+![](../images/1*wumnf2zS4RQNoF_aV0F2Zg@2x.jpeg)Meaningful goals don’t always come in the same, neat, N-week/day box. Sure you can artificially “pad” a goal to make it bigger, and shrink a goal to make it smaller, but sometimes you’ll need three days (or three hours) to validate an important assumption, and sometimes you’ll need fifteen days to stitch together a complex workflow. That’s just how it is. I often see teams cook up “kind of fake” (their words)
 
  goals due to the constraints of the timebox.
 
@@ -98,4 +98,4 @@ Whatever you do:
 5. And do meaningful/valuable work
 Love this mission statement created by a team:
 
-![](/images/1*2V8W32vLsc6Pr0lkuXaSBw@2x.jpeg)
+![](../images/1*2V8W32vLsc6Pr0lkuXaSBw@2x.jpeg)

@@ -2,12 +2,12 @@
 path:	"/blog/50-interview-questions-for-b2b-saas-customer-research"
 date:	"2016-01-24"
 title:	"50 Interview Questions For B2B SaaS Customer Research"
-image:	"/images/1*iDQbRKoEiCmtCjRbM93D9A.png"
+image:	"../images/1*iDQbRKoEiCmtCjRbM93D9A.png"
 ---
 
 *A no-nonsense list of of questions for B2B SaaS Customer Research*
 
-![](/images/1*iDQbRKoEiCmtCjRbM93D9A.png)This is an audio cassetteI’m going to jump straight in …. I’ve got a lot of customer interviews coming up in the next week ([I blame in-app scheduling](http://blog.pendo.io/2016/01/22/this-product-manager-hack-saved-me-one-hour-a-day-and-helped-me-connect-with-more-customers/))
+![](../images/1*iDQbRKoEiCmtCjRbM93D9A.png)This is an audio cassetteI’m going to jump straight in …. I’ve got a lot of customer interviews coming up in the next week ([I blame in-app scheduling](http://blog.pendo.io/2016/01/22/this-product-manager-hack-saved-me-one-hour-a-day-and-helped-me-connect-with-more-customers/))
 
  and figured that it was a good time to put some pen to paper. First some context:
 
@@ -28,7 +28,7 @@ image:	"/images/1*iDQbRKoEiCmtCjRbM93D9A.png"
 * Talk less as a rule. Let the customer do the talking.
 * Be aware of nonverbal cues, and “leading”. Take a deep breath and smile. Repeat words to yourself to stay in the zone like “curious”, “observant”, “patient”, “open”, “non-judgmental”, and “respectful”. Write these down as reminders
 * Use an audio recorder so as not to distract the customer. Or have a notetaker
-![](/images/1*XfyklCIxMeb6sTsg7qXqeQ.png)
+![](../images/1*XfyklCIxMeb6sTsg7qXqeQ.png)
 
 Notes from a recent meeting …Commence!
 

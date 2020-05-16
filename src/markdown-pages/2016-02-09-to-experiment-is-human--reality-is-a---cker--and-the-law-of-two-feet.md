@@ -2,7 +2,7 @@
 path:	"/blog/to-experiment-is-human-reality-is-a-cker-and-the-law-of-two-feet"
 date:	"2016-02-09"
 title:	"To Experiment Is Human. Reality is a **cker. And The Law Of Two Feet"
-image:	"/images/1*ZKA3Bdow-IF5MG5Oa7lc5g.png"
+image:	"../images/1*ZKA3Bdow-IF5MG5Oa7lc5g.png"
 ---
 
 #### Topics: Lean Startup, Millennials, Design Thinking, Cheap Vodka, Intuit, Craft, and Call To Arms
@@ -17,7 +17,7 @@ This stuff is a dream come true for the doers, [crafters](http://manifesto.softw
 
 Unfortunately, the Koolaid is spiked with some [wicked cheap vodka](http://gizmodo.com/5966569/why-cheap-booze-makes-your-hangover-so-horrible).
 
-![](/images/0*ErUuStIXI2e1gL6s.)Most organizations are structurally and culturally incapable of making it safe for teams to experiment and occasionally fail. As companies progress out of the do-or-die [Act 1](https://en.wikipedia.org/wiki/Three-act_structure) of their trajectory, their once open attitude to experimentation shifts to a messy balancing act: making teams *believe* they’re empowered to solve problems (heck, it is great marketing and keeps the foosball table humming)
+![](../images/0*ErUuStIXI2e1gL6s.)Most organizations are structurally and culturally incapable of making it safe for teams to experiment and occasionally fail. As companies progress out of the do-or-die [Act 1](https://en.wikipedia.org/wiki/Three-act_structure) of their trajectory, their once open attitude to experimentation shifts to a messy balancing act: making teams *believe* they’re empowered to solve problems (heck, it is great marketing and keeps the foosball table humming)
 
 , while at the same time executing on the assumptions and guesses of anointed deciders.
 
@@ -25,15 +25,15 @@ Noise overwhelms signal, opinion overwhelms evidence, and the quest for output o
 
 Organizational fascia restricts movement and innovation, alignment deteriorates, the pressure increases, the perceived need for control increases, processes multiply, and the cycle reinforces itself (gotta love complex systems). Experimentation and learning become afterthoughts. And then the company accu-hires an innovation lab and starts doing hack days, longing for its innocent childhood, skinned knees, bruises, and bright smiles (and all).
 
-![](/images/1*ZKA3Bdow-IF5MG5Oa7lc5g.png)<http://blog.nwf.org/2013/06/how-to-get-dirty-for-international-mud-day/>Meanwhile, the most talented people without stock options have hit the road (otherwise known affectionately as the “[law of two feet](https://opensource.com/business/10/8/darwin-meets-dilbert-applying-law-two-feet-your-next-meeting)”)
+![](../images/1*ZKA3Bdow-IF5MG5Oa7lc5g.png)<http://blog.nwf.org/2013/06/how-to-get-dirty-for-international-mud-day/>Meanwhile, the most talented people without stock options have hit the road (otherwise known affectionately as the “[law of two feet](https://opensource.com/business/10/8/darwin-meets-dilbert-applying-law-two-feet-your-next-meeting)”)
 
 . The former trailblazer wanders drunkenly into oblivion, talking about the good old days, and then joins the board of a startup.
 
-![](/images/1*LzU0DFaVoTiN_aOfBMe7ug.png)[http://tokyomango.com/tokyo\_mango/2011/06/photographer-documents-drunk-salarymen-passed-out-on-sidewalks.html](http://tokyomango.com/tokyo_mango/2011/06/photographer-documents-drunk-salarymen-passed-out-on-sidewalks.html)Craig Larmen (of [LeSS fame](http://less.works/))
+![](../images/1*LzU0DFaVoTiN_aOfBMe7ug.png)[http://tokyomango.com/tokyo\_mango/2011/06/photographer-documents-drunk-salarymen-passed-out-on-sidewalks.html](http://tokyomango.com/tokyo_mango/2011/06/photographer-documents-drunk-salarymen-passed-out-on-sidewalks.html)Craig Larmen (of [LeSS fame](http://less.works/))
 
  scared the crap out of me at an Agile meetup in 2015. I asked him about “bottom up” change and he flatly explained that doing change “halfway” is worse than no change at all. In short, making people see the forest through the trees while cutting the forest down is worse than no change at all. You incite the inherent tendency of the masses to embrace impactful and honest work, while not being able to dislodge the leadership hegemony. That was a buzzkill, but I couldn’t completely discount his argument.
 
-![](/images/1*FkbI54bWeECiXwHNOYl_bg.png)[http://www.marinephotobank.org/resources/OIFcontestwinners2012\_essays\_Potenski.php](http://www.marinephotobank.org/resources/OIFcontestwinners2012_essays_Potenski.php)
+![](../images/1*FkbI54bWeECiXwHNOYl_bg.png)[http://www.marinephotobank.org/resources/OIFcontestwinners2012\_essays\_Potenski.php](http://www.marinephotobank.org/resources/OIFcontestwinners2012_essays_Potenski.php)
 
 This is the let down oft reported by millennials after joining vibrant startups only to have the magic carpet pulled out from under them. And also experienced folks after realizing that some organizational-viruses never die. There has to be a better way, no?
 
@@ -46,7 +46,7 @@ Read Suzanne Pelican’s piece [Design thinking in the corporate DNA](https://ww
 
 Evidence-based approaches aren’t the problem. Lean Startup combines a number of tested methodologies. Design thinking is a solid and very time-tested problem solving approach. [BML](http://steveblank.com/2015/05/06/build-measure-learn-throw-things-against-the-wall-and-see-if-they-work/), the [double-diamond](https://www.pinterest.com/pin/108438303500013705/), [PDCA](http://asq.org/learn-about-quality/project-planning-tools/overview/pdca-cycle.html) … while subtly different, would be grouped by visiting aliens all under the same category, and categorize them as “more functional”. They are innately human.
 
-![](/images/1*iIXWPQLE2asgjYPKvA-biA.png)
+![](../images/1*iIXWPQLE2asgjYPKvA-biA.png)
 
 We’re inundated with ways — under “ideal” circumstances — to build great products people love. My Twitter feed swims in it. The summary is basically … “I WISH I could spend my day working like this!” These methods are humane, rigorous, curious, and failure safe.
 

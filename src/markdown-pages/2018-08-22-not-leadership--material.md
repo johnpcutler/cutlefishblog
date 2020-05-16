@@ -2,10 +2,10 @@
 path:	"/blog/not-leadership-material"
 date:	"2018-08-22"
 title:	"Not Leadership “Material”"
-image:	"/images/1*RHIqRTIJ6QQSLu1UJF_UQg@2x.jpeg"
+image:	"../images/1*RHIqRTIJ6QQSLu1UJF_UQg@2x.jpeg"
 ---
 
-![](/images/1*RHIqRTIJ6QQSLu1UJF_UQg@2x.jpeg)
+![](../images/1*RHIqRTIJ6QQSLu1UJF_UQg@2x.jpeg)
 
 Sound familiar?
 
@@ -18,7 +18,7 @@ Sound familiar?
 
 We talk about the “Art” of leadership, and intangible traits (“they’ve got ….It”). Airport book stores are bursting with leadership books. But there’s something kind of Willy Wonka about the whole thing…and I can’t put my finger on it.
 
-![](/images/1*D4NMaPNghCWhdAqakIItlQ@2x.jpeg)
+![](../images/1*D4NMaPNghCWhdAqakIItlQ@2x.jpeg)
 
 While on a plane recently, I learned about the president of a public university who had managed to lead for decades. The two professors in front of me told story after story about President’s humble and supportive approach. He lead by example with “heart, fairness, demonstrable impact, and real vision”. He knew hundreds of people by name, and these traveling professors credited him for helping them grow their own personal leadership abilities and careers. During a grim tragedy, President pulled the community of tens of thousands together.
 

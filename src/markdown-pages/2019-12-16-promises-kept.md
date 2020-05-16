@@ -2,12 +2,12 @@
 path:	"/blog/promises-kept"
 date:	"2019-12-16"
 title:	"Small Promises Regularly Kept"
-image:	"/images/small_promises.jpg"
+image:	"../images/small_promises.jpg"
 ---
 
 
 
-![](/images/small_promises.jpg)
+![](../images/small_promises.jpg)
 
 I talk to many people about their jobs. There's a pattern I have noticed over the years.
 

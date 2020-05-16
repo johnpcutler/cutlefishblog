@@ -2,7 +2,7 @@
 path:	"/blog/as-product-managers-were-asking-ourselves-the-wrong-set-of-questions"
 date:	"2016-01-23"
 title:	"As Product Managers We’re Asking Ourselves The Wrong Set Of Questions"
-image:	"/images/1*2ordkKcC7Vqb17nx60_coA.png"
+image:	"../images/1*2ordkKcC7Vqb17nx60_coA.png"
 ---
 
 *Stop trying to define product management. It’s a fool’s game.*
@@ -11,19 +11,19 @@ image:	"/images/1*2ordkKcC7Vqb17nx60_coA.png"
 
 When reading articles about product management you frequently encounter words like “[chameleon](https://blog.intercom.io/the-product-manager-chameleon/)”, “[whitespace](https://medium.com/@danielfschmidt/a-map-of-white-space-for-product-managers-17d65c397749)”, and “[glue](http://onproductmanagement.net/2009/06/22/why-do-we-undermine-ourselves/)”. “It’s complicated!” Product Management is described by what it isn’t (e.g. [project management](http://www.huffingtonpost.com/brian-de-haaff/the-product-manager-vs-pr_b_8040402.html), [scrum master](http://blog.aha.io/index.php/the-product-manager-vs-the-scrum-master/)) or by how it is expressed in the context of a domain or methodology (e.g. in [Agile](https://www.atlassian.com/agile/product-management/), in [B2B](http://www.mindtheproduct.com/2014/06/product-management-b2b/), in [SaaS](http://pragmaticmarketing.com/resources/saas-product-management), in Lean Startup).
 
-![](/images/1*2ordkKcC7Vqb17nx60_coA.png)
+![](../images/1*2ordkKcC7Vqb17nx60_coA.png)
 
 … surfing the Google in search for answersI’ve been in teams that — after a year — still couldn’t describe the value the PM/PO brought to the table. The answer was to keep regurgitating the same posts and books …. as if to say “see, we DO something! I’m valuable because Intercom or Marty Cagan said so!”
 
 In 2015 I attended three conferences where the best presenter jokes were PM/PO jokes, and the audience of UXers and Engineers ate it up.
 
-![](/images/1*m9YMgBo9_5syWPhYqgjkyw.png)In my view we’re asking the wrong question. We’re replacing a tough discussion of values and principles — as a whole team, not just as product managers — with discussions about titles, job descriptions, the org chart, and handoffs. The best perspectives on product development [have nothing to do with defining and boxing a title](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d#.w2rffmxtb). [Stewart Butterfield](https://medium.com/@stewart)
+![](../images/1*m9YMgBo9_5syWPhYqgjkyw.png)In my view we’re asking the wrong question. We’re replacing a tough discussion of values and principles — as a whole team, not just as product managers — with discussions about titles, job descriptions, the org chart, and handoffs. The best perspectives on product development [have nothing to do with defining and boxing a title](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d#.w2rffmxtb). [Stewart Butterfield](https://medium.com/@stewart)
 
  doesn’t mention the word “manager” once but you walk away from reading that knowing he gives a damn.
 
 It’s gotten to the point that I don’t recommend product management to hungry, entrepreneurial, and creative young people. I advocate for the various hats occasionally worn by PMs, but caution against the “title”. **I suggest User Experience or Engineering. **There’s a community of practice and a less weighty chip on the shoulder.
 
-![](/images/1*WzG_M_41ku68_uSZEPjTLg.png)
+![](../images/1*WzG_M_41ku68_uSZEPjTLg.png)
 
 Consider what a young associate product manager wrote me the other day:
 

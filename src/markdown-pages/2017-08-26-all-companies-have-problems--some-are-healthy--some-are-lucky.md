@@ -2,10 +2,10 @@
 path:	"/blog/all-companies-have-problems-some-are-healthy-some-are-lucky"
 date:	"2017-08-26"
 title:	"All Companies Have Problems (Some Are Healthy, Some Are Lucky)"
-image:	"/images/1*8gSuq2hVVdBdigQGTpnPiw.png"
+image:	"../images/1*8gSuq2hVVdBdigQGTpnPiw.png"
 ---
 
-![](/images/1*8gSuq2hVVdBdigQGTpnPiw.png)
+![](../images/1*8gSuq2hVVdBdigQGTpnPiw.png)
 
 #### **A toxic individual occupies your company**.
 
@@ -15,7 +15,7 @@ The healthy organization will increase local blood flow and send in cells from t
 
 In a healthy organization a clot will form, then inflammation, then new tissue growth, and finally “maturation and remodeling”.
 
-![](/images/1*tWz26tw6dKfBVuK80SMwCQ.png)[https://en.wikipedia.org/wiki/Wound\_healing](https://en.wikipedia.org/wiki/Wound_healing)
+![](../images/1*tWz26tw6dKfBVuK80SMwCQ.png)[https://en.wikipedia.org/wiki/Wound\_healing](https://en.wikipedia.org/wiki/Wound_healing)
 
 #### **The organization is temporarily off-balance**.
 

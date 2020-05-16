@@ -2,7 +2,7 @@
 path:	"/blog/hidden-costs-of-the-sales-driven-roadmap"
 date:	"2016-01-16"
 title:	"Hidden Costs of the Sales-Driven Roadmap"
-image:	"/images/1*ovSub-mFzsrJzHrZTo7J-A.png"
+image:	"../images/1*ovSub-mFzsrJzHrZTo7J-A.png"
 ---
 
 *Exploring the cost side of the Sales Driven Roadmap*
@@ -47,7 +47,7 @@ The prospect has a list of requirements. Lists of requirements feel comfortable.
 
 From an Agile perspective this is a big “requirements upfront” anti-pattern:
 
-![](/images/1*ovSub-mFzsrJzHrZTo7J-A.png)Looks simple huh? ([Source](http://sunnibrown.com/2009/05/rfp-evaluation-process-map))
+![](../images/1*ovSub-mFzsrJzHrZTo7J-A.png)Looks simple huh? ([Source](http://sunnibrown.com/2009/05/rfp-evaluation-process-map))
 
 As someone with UX Research experience I can say beyond a doubt that lists of features rarely address true needs. They jump to the What before the Why.
 

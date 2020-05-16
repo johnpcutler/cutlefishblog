@@ -2,7 +2,7 @@
 path:	"/blog/everything-is-fucked-up-and-we-love-it"
 date:	"2017-03-18"
 title:	"Everything Is Fucked Up. And We Love It"
-image:	"/images/1*w1Ldv_Z4uMgEs4P9IKl3nQ.png"
+image:	"../images/1*w1Ldv_Z4uMgEs4P9IKl3nQ.png"
 ---
 
 When it comes to our work, organizations, and teams…
@@ -16,7 +16,7 @@ Do we get attached to *drama*? Are we addicted to the *rush*? Does functional fe
 > …implicitly optimized to avoid changing the status quo middle- and first-level manager and “specialist” positions & power structures.Consider the following hits of adrenaline. Do they benefit the system as a whole?
 
 * High stakes horse trading and the rush of getting a big project “funded”
-![](/images/1*w1Ldv_Z4uMgEs4P9IKl3nQ.png)* Heroic firefighting and thwarting impending disaster
+![](../images/1*w1Ldv_Z4uMgEs4P9IKl3nQ.png)* Heroic firefighting and thwarting impending disaster
 * Being right. Having the “best idea”
 * Getting the headcount during the annual planning process
 * Closing the deal. Winning the bakeoff

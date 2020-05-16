@@ -2,10 +2,10 @@
 path:	"/blog/18-things-your-okrs-shouldnt-do"
 date:	"2017-12-06"
 title:	"18 Things Your OKRs Shouldn’t Do…"
-image:	"/images/1*ztWp0eNJ-7RCpfxQALM9Tg@2x.jpeg"
+image:	"../images/1*ztWp0eNJ-7RCpfxQALM9Tg@2x.jpeg"
 ---
 
-![](/images/1*ztWp0eNJ-7RCpfxQALM9Tg@2x.jpeg)
+![](../images/1*ztWp0eNJ-7RCpfxQALM9Tg@2x.jpeg)
 
 Tunnel VisionThere are dozens of ways to facilitate goal setting. What I wanted to do here it to describe what we’re trying to AVOID. These are the things — regardless of your process — that you want to keep on the lookout for. You’ve come up with a good approach when you’ve figured out how to prevent these things from happening.
 

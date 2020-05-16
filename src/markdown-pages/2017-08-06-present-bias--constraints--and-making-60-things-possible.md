@@ -2,7 +2,7 @@
 path:	"/blog/present-bias-constraints-and-making-60-things-possible"
 date:	"2017-08-06"
 title:	"Present Bias, Constraints, and making 60 Things Possible"
-image:	"/images/1*lWMBrsm_7yduEJXQU8W04w.png"
+image:	"../images/1*lWMBrsm_7yduEJXQU8W04w.png"
 ---
 
 ***Note: Scroll down if you’re short on time, and want to get straight to the list of goodness.***
@@ -12,13 +12,13 @@ Software product development is an optimization problem. Adding objectives, cons
 
 > The present bias refers to the tendency of people to give stronger weight to payoffs that are closer to the present time when considering trade-offs between two future moments (O’Donoghue, &, Rabin, 1999).Put simply, people tend to want to get the reward today, but push the pain of loss far into the future. ([source](http://blog.alphaarchitect.com/2014/05/22/good-bad-want-now/#gs.nBwtQtc))
 
-![](/images/1*lWMBrsm_7yduEJXQU8W04w.png)A great example is building a feature to close a new customer. The money is right in your face. You can feel it. If you build X, you will make $Y. It’s easy to lose sight of the actual costs (including the opportunity cost).What if you focused on something riskier, but more valuable? We tend to lose sight of that option, which makes sense because thinking too far (or deeply)
+![](../images/1*lWMBrsm_7yduEJXQU8W04w.png)A great example is building a feature to close a new customer. The money is right in your face. You can feel it. If you build X, you will make $Y. It’s easy to lose sight of the actual costs (including the opportunity cost).What if you focused on something riskier, but more valuable? We tend to lose sight of that option, which makes sense because thinking too far (or deeply)
 
  into the future can have a paralyzing effect. The lion will eat you if it takes that long.
 
 Other examples relate to [organizational resiliency](https://hackernoon.com/40-ways-to-invest-in-more-resilient-teams-c2ac7d008591). It can be tempting to shoot for short-term gains (adding headcount quickly, adding layers of hierarchy, siloing specializations for efficiency), without considering the long term effects. In short…we add constraints and new objectives. Which makes navigating the problem space more difficult. And entropy ensues.
 
-![](/images/1*uxVJLuLuZKiKIKHmxmNXhg.png)I often run into orgs that are trying *so damn hard *(as hard as they can, actually)
+![](../images/1*uxVJLuLuZKiKIKHmxmNXhg.png)I often run into orgs that are trying *so damn hard *(as hard as they can, actually)
 
 , but they can’t seem to generate any forward momentum. They’re layering more and more process on the situation without any impact. They’re chasing down a new symptom every quarter. But when you actually interview the various actors, you learn how insanely constrained their world is. We’re not talking about an inability to find a globally optimal solution. That would be too ambitious. Rather, even mediocre ways forward are impossible, or require mind-numbing 3 dimensional chess.
 
@@ -37,7 +37,7 @@ When you boil down many of the points in the 42 Things post, you end up at the t
 * DO have to sit in close quarters with a small development team, and — according to the data — have to solve a cost/benefit design decision every 15 minutes with very intense cognitively challenging work
 * DON’T have the fate and livelihood of many hundred (or thousand) people in their hands. And have to be “good at PowerPoint” AND strategy
 * … and tend not to have to answer 30 support calls a day, send a hundred outbound sales emails, butt heads with vendors, and field calls from angry first-tier customers
-![](/images/1*GlfiAGTJdAlEfo2TG7wTjA.png)
+![](../images/1*GlfiAGTJdAlEfo2TG7wTjA.png)
 
 So there are different versions of “good job” happening, and different mental models, cause/effect, and cost/reward. We respond to the present bias in different ways because of how we think, and what we know.
 

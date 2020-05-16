@@ -2,7 +2,7 @@
 path:	"/blog/focus-on-these-8-things-to-build-better-products"
 date:	"2016-06-06"
 title:	"Focus on These 8 Things to Build Better Products"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 If you focus on these eight concepts you *WILL* build better products. It will not be easy, and it will not be instant. You’ll probably get a lot of pushback and ruffle some feathers, but I promise that your product/service will benefit.

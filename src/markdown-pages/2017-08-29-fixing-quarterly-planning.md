@@ -2,10 +2,10 @@
 path:	"/blog/fixing-quarterly-planning"
 date:	"2017-08-29"
 title:	"Fixing Quarterly Planning"
-image:	"/images/1*xCZX9amQWhhH_-zbI45rpA.png"
+image:	"../images/1*xCZX9amQWhhH_-zbI45rpA.png"
 ---
 
-This post is about making quarterly planning more effective. You may have an awesome quarterly planning approach. If so… You’re A Winner! For many PMs — especially at bigger companies — the process…\n\n\n![](/images/1*xCZX9amQWhhH_-zbI45rpA.png)
+This post is about making quarterly planning more effective. You may have an awesome quarterly planning approach. If so… You’re A Winner! For many PMs — especially at bigger companies — the process…\n\n\n![](../images/1*xCZX9amQWhhH_-zbI45rpA.png)
 > I absolutely hate quarterly planning. It feels so counterproductive and disruptive!This post is about making quarterly planning more effective. You may have an awesome quarterly planning approach. If so… You’re A Winner! For many PMs — especially at bigger companies — the process is fraught with pain and frustration.
 
 #### It’s a non-subtle form of masochism: a 91.25 day sprint including 28 days of planning, that doesn’t “work”.
@@ -14,7 +14,7 @@ Why?
 
 Quarterly planning is disruptive when it introduces *too much new information *at once: too many new projects, too many new dependencies, and too many shifting priorities. There’s simply no way you can build adequate shared understanding. Tweaking the planning quarterly is simply too slow (and too disruptive) for a rapidly growing company. Without shared understanding, you’ll never get optimal results. But we get caught up in the drama and excitement and just perpetuate the problem.
 
-![](/images/1*FGfZZoNAhYAGGkMph1RkNg.png)Equally disruptive is that we tend to synchronize *execution* cadence with the *planning and prioritization* cadence. Somehow, all projects start to take one, two, three, or four quarters. This worsens the quarterly “hit” (due to harmonic oscillation)
+![](../images/1*FGfZZoNAhYAGGkMph1RkNg.png)Equally disruptive is that we tend to synchronize *execution* cadence with the *planning and prioritization* cadence. Somehow, all projects start to take one, two, three, or four quarters. This worsens the quarterly “hit” (due to harmonic oscillation)
 
 , and impacts decision making. The shit goes down… at the start and end of every quarter.
 
@@ -63,7 +63,7 @@ What do I mean?
 
 Consider this Kanban board:
 
-![](/images/0*KTuj4J7BxIEOR3Ln.)* Longer term prioritization occurs in A
+![](../images/0*KTuj4J7BxIEOR3Ln.)* Longer term prioritization occurs in A
 * Planning and coordination occurs in B
 * Dependency management is maintained through C
 * Last minute prioritization occurs in D. At this point it is committed. It’s going to happen
@@ -71,7 +71,7 @@ Consider this Kanban board:
 * We review long term benefits delivered in F
 This is a PULL system with WIP constraints. When Card 1 moves to Delivered, work on Card 2 starts, and Card 3 is moved from Planning to Committed (assuming it really is committed).
 
-![](/images/0*YbFMZgqpJSACIgl5.)
+![](../images/0*YbFMZgqpJSACIgl5.)
 
 Pull-based system. To move work “ahead”, a downstream item must move aheadThe important thing here from a quarterly planning standpoint is that you’ve reduced the “big bang” nature of the exercise. By visualizing the upstream part of the process — the prioritized backlog, planning, and commitment steps — you’ll have far less “resetting” to do each quarter. If you do this right, you’ll always have a year’s worth of work up there. Of course things will change … you’ll pull things from planning, or shuffle priorities for committed items, but it’s clear what is going on.
 
@@ -102,17 +102,17 @@ How is this different than normal quarterly planning. Normal quarterly planning 
 
 **Subway is a PULL based system**. Note how the sandwich-making is *never overloaded*. The line might grow slightly, but Subway gets the job done.
 
-![](/images/1*GOsNNK0LiwjztvavJ8yTAg.png)A quarterly planning process can occur ON TOP OF a continuous flow-based, pull-based system. We imagine a big calendar cut into four blocks and mistakenly believe that “predictability” in this context involves dropping work — the execution — into those blocks. Instead, think about regularly scheduled (or just in time, pull based)
+![](../images/1*GOsNNK0LiwjztvavJ8yTAg.png)A quarterly planning process can occur ON TOP OF a continuous flow-based, pull-based system. We imagine a big calendar cut into four blocks and mistakenly believe that “predictability” in this context involves dropping work — the execution — into those blocks. Instead, think about regularly scheduled (or just in time, pull based)
 
  meetings that keep watch over a flow of work.
 
 You go from this:
 
-![](/images/1*c3a_Bg0U2TKeNlZ93fZAPQ.png)
+![](../images/1*c3a_Bg0U2TKeNlZ93fZAPQ.png)
 
 To this ….
 
-![](/images/1*T5G3HFUee06POx8IesZ69w.png)
+![](../images/1*T5G3HFUee06POx8IesZ69w.png)
 
 What you often learn is that the development teams were never the bottleneck. Rather, it was shifting priorities, silver-bullets, and too much work in progress that brought the operation to a grinding halt. Sure there were issues with delivery, but the process itself obscured those issues. It made it difficult to swarm resources on addressing those problems.
 

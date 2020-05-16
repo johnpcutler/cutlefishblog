@@ -2,7 +2,7 @@
 path:	"/blog/work-smaller-even-if-it-makes-no-sense"
 date:	"2017-12-04"
 title:	"Work Smaller (Even If It Makes No Sense)"
-image:	"/images/1*HigSU61AamCVD93AYDNUkA@2x.jpeg"
+image:	"../images/1*HigSU61AamCVD93AYDNUkA@2x.jpeg"
 ---
 
 Why do some teams fail to meet their sprint “*commitments*” (hate that word) sprint after sprint? In this post I argue that the cure is working *extremely and counterintuitively small*, but that our biases (and intuition) make that difficult. There are some deep human things at play.
@@ -68,11 +68,11 @@ How do athletes tackle a new skill? They master movements. They work on techniqu
 
 How do orgs tend to adopt Agile? The team sets a sprint length (often according to a global release cadence out of their control), and starts playing the game. They play a game of Tetris:
 
-![](/images/1*HigSU61AamCVD93AYDNUkA@2x.jpeg)“Progress” is measured in the amount of work delivered each sprint (“Velocity”)
+![](../images/1*HigSU61AamCVD93AYDNUkA@2x.jpeg)“Progress” is measured in the amount of work delivered each sprint (“Velocity”)
 
  … not based on achieving meaningful goals.
 
-![](/images/1*pJT4iYQwjO_pDWTKhP7dxw@2x.jpeg)
+![](../images/1*pJT4iYQwjO_pDWTKhP7dxw@2x.jpeg)
 
 The problem is that teams often fail to master working small, and working together. The deep human items under “Why” above remain. They get caught in a cycle of “failed sprints”… with lots of very plausible reasons why they’re happening. Or they become dogmatically predictable and fail to deliver outcomes.
 

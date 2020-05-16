@@ -2,7 +2,7 @@
 path:	"/blog/start-together-finish-together"
 date:	"2018-01-31"
 title:	"Start Together. Finish Together"
-image:	"/images/1*ageoWSpprXStdK44EFO2bg@2x.jpeg"
+image:	"../images/1*ageoWSpprXStdK44EFO2bg@2x.jpeg"
 ---
 
 #### It may seem counterintuitive, but…
@@ -11,7 +11,7 @@ image:	"/images/1*ageoWSpprXStdK44EFO2bg@2x.jpeg"
 
 The longer we let ideas and plans stew, the more we fall in love with our pet-solutions, and perspectives. The longer things sit in the “to do” column before the team doing the work actually gets involved…the more crap and baggage they accumulate. You risk…
 
-![](/images/1*ageoWSpprXStdK44EFO2bg@2x.jpeg)I’m not suggesting you avoid doing the hard work of building shared understanding, and making tough decisions. Do it (well), but…wait. Wait until the people doing the work can participate, and wait until you’ll actually be able to act on those decisions and exploit that shared understanding (lest all that work just goes to waste as the cobwebs accumulate)
+![](../images/1*ageoWSpprXStdK44EFO2bg@2x.jpeg)I’m not suggesting you avoid doing the hard work of building shared understanding, and making tough decisions. Do it (well), but…wait. Wait until the people doing the work can participate, and wait until you’ll actually be able to act on those decisions and exploit that shared understanding (lest all that work just goes to waste as the cobwebs accumulate)
 
 .
 

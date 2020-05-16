@@ -2,14 +2,14 @@
 path:	"/blog/90-problems-youve-heard-about-before"
 date:	"2016-12-24"
 title:	"90 Problems You’ve Heard About Before"
-image:	"/images/1*wa6E9Y_SJ_iM5eOyC16AsQ.jpeg"
+image:	"../images/1*wa6E9Y_SJ_iM5eOyC16AsQ.jpeg"
 ---
 
 #### Take heart. You are not alone.
 
 In software product development, problems are a constant. Teams everywhere are venting, ruminating, introspecting, experimenting, and searching. It isn’t easy, and that is what makes it fun.
 
-![](/images/1*wa6E9Y_SJ_iM5eOyC16AsQ.jpeg)
+![](../images/1*wa6E9Y_SJ_iM5eOyC16AsQ.jpeg)
 
 Every fix has side effects, and superheroes all have a weakness. The obvious invites the unexpected. Change is nonlinear, and rapid phase shifts can occur unexpectedly. Human systems are messy. We’re biased, stubborn, and fall in love with our ideas. A watched pot never boils and everything eats everything for breakfast.
 

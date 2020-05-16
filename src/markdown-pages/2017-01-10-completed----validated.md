@@ -2,7 +2,7 @@
 path:	"/blog/completed-validated"
 date:	"2017-01-10"
 title:	"Completed != Validated"
-image:	"/images/1*6GRdcIGsNC2O3V_UXBRTnQ.png"
+image:	"../images/1*6GRdcIGsNC2O3V_UXBRTnQ.png"
 ---
 
 #### Change your ticket statuses to beat the feature factory
@@ -22,4 +22,4 @@ How about Ready to Validate and Validated? Don’t let your tools and words mold
 
 So much process. So little indication of the work working …
 
-![](/images/1*6GRdcIGsNC2O3V_UXBRTnQ.png)
+![](../images/1*6GRdcIGsNC2O3V_UXBRTnQ.png)

@@ -2,7 +2,7 @@
 path:	"/blog/can-you-stop-using-story-points"
 date:	"2017-09-18"
 title:	"Can You Stop Using Story Points?"
-image:	"/images/1*GZzMz0q8MA9IUrHW092_Ng.png"
+image:	"../images/1*GZzMz0q8MA9IUrHW092_Ng.png"
 ---
 
 *Note: This post is targeted at product managers who may have missed the Agile community’s long-running debate over story point estimation. As PMs, we may only marginally influence this practice, but we should make sure we aren’t complicit in abuse/misuse, and that we advocate for what helps our teammates.*
@@ -24,7 +24,7 @@ I’ve written about [the crazy user story size spectrum here](https://hackernoo
 
 In my experience — especially if you stress story splitting practices — you can safely use user story counts instead of story points (to do a variety of jobs). This is by no means a new/original idea ([see this 2013 ThoughtWorks ebook on estimation](https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation_1.pdf)):
 
-![](/images/1*GZzMz0q8MA9IUrHW092_Ng.png)[https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation\_1.pdf](https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation_1.pdf)![](/images/1*hz9ZDF6UAr-u5nNkYxtPCg.png)[https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation\_1.pdf](https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation_1.pdf)My personal experiences very much mirror those of Huimin Li and Juliano Bersano (from the ebook)
+![](../images/1*GZzMz0q8MA9IUrHW092_Ng.png)[https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation\_1.pdf](https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation_1.pdf)![](../images/1*hz9ZDF6UAr-u5nNkYxtPCg.png)[https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation\_1.pdf](https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation_1.pdf)My personal experiences very much mirror those of Huimin Li and Juliano Bersano (from the ebook)
 
 . I’ve found that there are alternative approaches to making decisions *without* story point estimation, and the confusion, misuse, and abuse that can accompany SPs.
 

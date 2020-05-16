@@ -2,10 +2,10 @@
 path:	"/blog/so-you-want-to-fix-something"
 date:	"2019-08-19"
 title:	"So You Want to Fix Something?"
-image:	"/images/1__pnz4VGV0fyTBcnxgtRR1Ax.jpeg"
+image:	"../images/1__pnz4VGV0fyTBcnxgtRR1Ax.jpeg"
 ---
 
-![](/images/1__pnz4VGV0fyTBcnxgtRR1Ax.jpeg)
+![](../images/1__pnz4VGV0fyTBcnxgtRR1Ax.jpeg)
 
 So you want to fix something in your company? You're not happy, and want something to change? Here is a quick thread describing I was given once, and ignored. And paid the price. And now I give it to others. 
 

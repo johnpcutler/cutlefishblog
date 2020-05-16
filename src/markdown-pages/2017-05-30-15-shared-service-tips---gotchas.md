@@ -2,14 +2,14 @@
 path:	"/blog/15-shared-service-tips-gotchas"
 date:	"2017-05-30"
 title:	"15 Shared Service Tips & Gotchas"
-image:	"/images/1*WxOIbVOZb6OkJdJtXb9E6g.png"
+image:	"../images/1*WxOIbVOZb6OkJdJtXb9E6g.png"
 ---
 
 #### AKA: Seduced By Economies of Scale…
 
 What’s not to like? It’s the BEST OF BOTH WORLDS!
 
-![](/images/1*WxOIbVOZb6OkJdJtXb9E6g.png)
+![](../images/1*WxOIbVOZb6OkJdJtXb9E6g.png)
 
 Insert random sell-piece here …First a definition:
 

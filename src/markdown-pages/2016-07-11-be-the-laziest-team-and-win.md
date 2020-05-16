@@ -2,14 +2,14 @@
 path:	"/blog/be-the-laziest-team-and-win"
 date:	"2016-07-11"
 title:	"Be the Laziest Team and Win"
-image:	"/images/1*pFxwgQhLWn8Ns8ohpklrXg.png"
+image:	"../images/1*pFxwgQhLWn8Ns8ohpklrXg.png"
 ---
 
 I often challenge teams with the following question:
 
 *What would happen if you stopped building anything new? Just stopped? Killed the backlogs and roadmaps? Burned it down? Acted like a stubborn mule?*
 
-![](/images/1*pFxwgQhLWn8Ns8ohpklrXg.png)HERMANN G. SIMON — The Stubborn Mule (1881)
+![](../images/1*pFxwgQhLWn8Ns8ohpklrXg.png)HERMANN G. SIMON — The Stubborn Mule (1881)
 
 Try asking!
 
@@ -17,11 +17,11 @@ Someone is usually quick to say “we’d lose our jobs” (which is likely true
 
 Blasphemy! Make, build, grow, get things done, check things off, and stay busy. It’s who we are, right? There’s always room for another lawn gnome …
 
-![](/images/1*YVKxBy5UVhm_7TqtM5sBlQ.png)
+![](../images/1*YVKxBy5UVhm_7TqtM5sBlQ.png)
 
 Engineers are “resources” that must be “fully utilized” and kept from being “idle”. “What would we do all day? Just sit around and refactor the code, tool up, and knock out bugs?” Keep the line rolling …
 
-![](/images/1*pNkisQVNZtARLm9L2GcV2g.png)
+![](../images/1*pNkisQVNZtARLm9L2GcV2g.png)
 
 1937 Ford Assembly LineContinue the thought experiment. If you were to stop shipping new stuff, **WHAT** would happen and **WHEN** would it happen ? Would you miss a sales goal or growth goal? Would churn increase? Would the competition trounce you? And **how do you know**?
 
@@ -31,11 +31,11 @@ The irony is that we disincentivize our front-line resources — often the one�
 
 If we have so many ideas … then some of them MUST be good.
 
-![](/images/1*W6IKuM0gqkkpSmOYHHISzQ.png)<http://saralouhicks.com/how-we-published-our-product-roadmap-to-the-world-using-google-sheets-as-our-cms/>In a weird form of Parkinson’s Law, teams are invariably able to fill the backlog with ideas that seem reasonably valuable (or at least valuable in comparison to each other)
+![](../images/1*W6IKuM0gqkkpSmOYHHISzQ.png)<http://saralouhicks.com/how-we-published-our-product-roadmap-to-the-world-using-google-sheets-as-our-cms/>In a weird form of Parkinson’s Law, teams are invariably able to fill the backlog with ideas that seem reasonably valuable (or at least valuable in comparison to each other)
 
 . There’s always some new magic bullet to build or table stakes addition. Ideas are cheap. The items are stacked back to back with little opportunity to validate outcomes delivered.
 
-![](/images/1*jgAybmCcKRPL7TeOAxsU_g.png)
+![](../images/1*jgAybmCcKRPL7TeOAxsU_g.png)
 
 Why is leaving marginally validated new stuff in the product so harmful? It’s super expensive!
 

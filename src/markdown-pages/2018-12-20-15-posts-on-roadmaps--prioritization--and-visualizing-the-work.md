@@ -2,7 +2,7 @@
 path:	"/blog/15-posts-on-roadmaps-prioritization-and-visualizing-the-work"
 date:	"2018-12-20"
 title:	"15 Posts on Roadmaps, Prioritization, and Visualizing The Work"
-image:	"/images/1*MMYobas_DKaGWYZFIb3Gbg.png"
+image:	"../images/1*MMYobas_DKaGWYZFIb3Gbg.png"
 ---
 
 With almost 400 posts now, I realize that it can be super hard to find posts on certain topics. Here are 15 posts I find myself sharing frequently when discussing roadmaps and prioritization.
@@ -21,4 +21,4 @@ With almost 400 posts now, I realize that it can be super hard to find posts on 
 *Consider a range of mission-types (or mission scopes) for a product development team:*hackernoon.com](https://hackernoon.com/beyond-outcomes-over-outputs-6b2677044214 "https://hackernoon.com/beyond-outcomes-over-outputs-6b2677044214")[](https://hackernoon.com/beyond-outcomes-over-outputs-6b2677044214)[**Prioritizing “Non-Feature” Work and Continuous Improvement**  
 *Note: I transcribed this post from a coaching/training session. Hopefully the conversational style works OK, and it…*hackernoon.com](https://hackernoon.com/prioritizing-non-feature-work-and-continuous-improvement-bad2a612d860 "https://hackernoon.com/prioritizing-non-feature-work-and-continuous-improvement-bad2a612d860")[](https://hackernoon.com/prioritizing-non-feature-work-and-continuous-improvement-bad2a612d860)[**Value and Sequencing**  
 *Let’s take a list of opportunities. For each opportunity I am going to describe the opportunity cost per month (Cost of…*hackernoon.com](https://hackernoon.com/value-and-sequencing-9754b95cac13 "https://hackernoon.com/value-and-sequencing-9754b95cac13")[](https://hackernoon.com/value-and-sequencing-9754b95cac13)[**4 Prioritization Lessons (using Cost of Delay and CD3)**  
-*Consider this table. The columns represents mission duration (in months). The rows are Cost of Delay ($s per month…*hackernoon.com](https://hackernoon.com/4-prioritization-lessons-using-cost-of-delay-and-cd3-92c437804282 "https://hackernoon.com/4-prioritization-lessons-using-cost-of-delay-and-cd3-92c437804282")[](https://hackernoon.com/4-prioritization-lessons-using-cost-of-delay-and-cd3-92c437804282)![](/images/1*MMYobas_DKaGWYZFIb3Gbg.png)
+*Consider this table. The columns represents mission duration (in months). The rows are Cost of Delay ($s per month…*hackernoon.com](https://hackernoon.com/4-prioritization-lessons-using-cost-of-delay-and-cd3-92c437804282 "https://hackernoon.com/4-prioritization-lessons-using-cost-of-delay-and-cd3-92c437804282")[](https://hackernoon.com/4-prioritization-lessons-using-cost-of-delay-and-cd3-92c437804282)![](../images/1*MMYobas_DKaGWYZFIb3Gbg.png)

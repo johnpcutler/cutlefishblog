@@ -2,12 +2,12 @@
 path:	"/blog/stop-sprinting-start-thinking"
 date:	"2017-09-07"
 title:	"Stop Sprinting. Start Thinking."
-image:	"/images/1*HKsy7kOeWhaU37a4IxbrIg.png"
+image:	"../images/1*HKsy7kOeWhaU37a4IxbrIg.png"
 ---
 
 #### …Even if you end up thoughtfully sprinting
 
-![](/images/1*HKsy7kOeWhaU37a4IxbrIg.png)
+![](../images/1*HKsy7kOeWhaU37a4IxbrIg.png)
 
 OK. Your team has a choice…
 
@@ -41,7 +41,7 @@ The problem, in my mind, is that #1 — and all the rituals behind it (story poi
 
 **There is nothing stopping your team reflecting on some cadence.**
 
-![](/images/1*P_f_F9-gIEfQYYSi4JSvGQ.png)
+![](../images/1*P_f_F9-gIEfQYYSi4JSvGQ.png)
 
 **There is nothing stopping your team from setting meaningful goals.**
 

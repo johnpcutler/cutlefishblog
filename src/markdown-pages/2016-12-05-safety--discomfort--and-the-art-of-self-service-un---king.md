@@ -2,12 +2,12 @@
 path:	"/blog/safety-discomfort-and-the-art-of-self-service-un-king"
 date:	"2016-12-05"
 title:	"Safety, Discomfort, and the Art of Self-Service Un***king"
-image:	"/images/1*1BnJy3pTT-hrtx5tl53SJg.png"
+image:	"../images/1*1BnJy3pTT-hrtx5tl53SJg.png"
 ---
 
 To quote [Joshua Kerievsky](https://medium.com/u/28229c304ac9) ‘s brilliant [Modern Agile principles](http://modernagile.org/), you must “make safety a prerequisite”. Without safety and trust, we rightfully resist change. When safety is present, we relish the thrill of going outside of our comfort zone, learning new things, exploring our limits, challenging our biases, and taking risks. [People don´t resist change (only being changed)](https://twitter.com/NielsPflaeging/status/793414761232928768). According to Google research, [psychological safety is the key predictor](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?_r=0) of team success.
 
-![](/images/1*1BnJy3pTT-hrtx5tl53SJg.png)
+![](../images/1*1BnJy3pTT-hrtx5tl53SJg.png)
 
 <http://diving.about.com/od/forbeginners/a/getStarted.htm>I’m always amazed when an executive bemoans the fact that her team won’t try new things, only to hear about a culture of blame, retribution, and distrust. Compare …
 
@@ -17,7 +17,7 @@ To quote [Joshua Kerievsky](https://medium.com/u/28229c304ac9) ‘s brilliant [M
 
 > When I’m not around, she talks shit about me. Always second-guessing my work, and never letting me take risks. Also, it is almost like she is playing a game with me: not letting me know if I’m doing a good job, and keeping me guessing. It’s terrible. All I can focus on now is the immediate task at hand, and doing what is asked of me.Improvement requires safety, a modest amount of discomfort, time for recovery, and time for reflection and learning. Discomfort can be a terrible experience, or it can be exciting. It can destroy us, or serve as a signpost and catalyst for better outcomes. [We feel flow](https://en.wikipedia.org/wiki/Flow_%28psychology%29) when we are moderately challenged. In their quest for “harmony”, too many organizations accidentally eradicate positive levels of challenge and discomfort.
 
-![](/images/1*_q7oLu6E0TlOiU8Wk3GC7Q.png)
+![](../images/1*_q7oLu6E0TlOiU8Wk3GC7Q.png)
 
 A bit of brainstorming on high/low safety and high/low discomfortBest practices are overrated. As a consultant, I very rarely say something to my customer that hasn’t been said before by some members of their team. Those team members might have given up on sounding the alarm, but they know what’s up. Somewhere, in your org, are the ingredients for the solution. Not **THE SOLUTION**, but the ingredients — the people, the context, the experience, and the perspective — for progress to emerge. If process or knowing best practices was your problem, you would have solved it already. I’m happy to think about catalysts and attractors, but not “ways”.
 

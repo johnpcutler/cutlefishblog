@@ -2,10 +2,10 @@
 path:	"/blog/the-unseen-product-is-still-the-product"
 date:	"2016-05-20"
 title:	"The Unseen Product is Still The Product"
-image:	"/images/1*kBpFVCAYx6Ni-ovqM6bsHw.png"
+image:	"../images/1*kBpFVCAYx6Ni-ovqM6bsHw.png"
 ---
 
-![](/images/1*kBpFVCAYx6Ni-ovqM6bsHw.png)
+![](../images/1*kBpFVCAYx6Ni-ovqM6bsHw.png)
 
 My favorite metaphor … restaurantsImagine that you are at a restaurant. As a customer, you interact with the host, the server, the food and drink, and the dishes and decor. It’s unlikely that you’ll see or be very aware of what’s going on in the kitchen. But it would be wrong to say that you don’t care about the kitchen. You likely care about the cleanliness of the kitchen. You appreciate it when the food comes out quickly. And you’re more likely to come back if the chef has time to create thoughtful and unique specials.
 

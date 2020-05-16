@@ -2,7 +2,7 @@
 path:	"/blog/prioritizing-without-level-of-effort"
 date:	"2019-03-15"
 title:	"Prioritizing Without Level of Effort?"
-image:	"/images/0*Y7T0RYPNUGcMsUvO.png"
+image:	"../images/0*Y7T0RYPNUGcMsUvO.png"
 ---
 
 More reposts of answers to emailed questions, etc. I shared one [about deadlines](https://medium.com/@johnpcutler/should-we-have-deadlines-e621e1cdb132?source=friends_link&sk=6f01b1e782a64ecc79547c493307a703) the other day.
@@ -40,4 +40,4 @@ With a lot of SaaS work it feels unnecessary to think about CoD or CD3 on the in
 
 Hope that helps! In short, prioritize opportunities. Put “rigor” into building shared understanding around the underlying value creation system/model and your strategy. As for how to exploit those opportunities — how to intervene — don’t consider prioritization as precious, and value small batches and experimentation whenever possible (CD3 can be your guide here as it really highlights the value of working small).
 
-![](/images/0*Y7T0RYPNUGcMsUvO.png)Too much?
+![](../images/0*Y7T0RYPNUGcMsUvO.png)Too much?

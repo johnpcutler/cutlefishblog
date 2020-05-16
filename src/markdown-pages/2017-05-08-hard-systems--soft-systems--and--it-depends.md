@@ -2,7 +2,7 @@
 path:	"/blog/hard-systems-soft-systems-and-it-depends"
 date:	"2017-05-08"
 title:	"Hard Systems, Soft Systems, and “It Depends”"
-image:	"/images/1*mPJB1HMfE4vFYraRdhVyLA.png"
+image:	"../images/1*mPJB1HMfE4vFYraRdhVyLA.png"
 ---
 
 #### A random walk through the SEBoK glossary…
@@ -43,4 +43,4 @@ Finally we have attributes like [agility](http://sebokwiki.org/wiki/Agility_%28g
 
 Have fun on the [SEBoK site](http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_%28SEBoK%29)! A neat overview….
 
-![](/images/1*mPJB1HMfE4vFYraRdhVyLA.png)[http://sebokwiki.org/wiki/Guide\_to\_the\_Systems\_Engineering\_Body\_of\_Knowledge\_(SEBoK)](http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_%28SEBoK%29)
+![](../images/1*mPJB1HMfE4vFYraRdhVyLA.png)[http://sebokwiki.org/wiki/Guide\_to\_the\_Systems\_Engineering\_Body\_of\_Knowledge\_(SEBoK)](http://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_%28SEBoK%29)

@@ -2,7 +2,7 @@
 path:	"/blog/8-trends-shaping-modern-product-management"
 date:	"2015-11-17"
 title:	"8 Trends Shaping Modern Product Management"
-image:	"/images/1*P40f_Ch_UZodMZeP1VfuqA.png"
+image:	"../images/1*P40f_Ch_UZodMZeP1VfuqA.png"
 ---
 
 A brief post to list eight trends that are shaping modern product management. This is based on my personal observations. Your observations may vary.
@@ -17,7 +17,7 @@ A brief post to list eight trends that are shaping modern product management. Th
 8. **Expanded definitions of Agility. **There is a new focus on “whole organization” Agility vs. traditional Business/Team silos. Siloed teams require a “glue” role — aka Product Manager — to manage disparate stakeholders. Increasingly these barriers are falling to the wayside. In their place are autonomous business units with all the resources necessary for ideation, delivery, marketing, and revenue generation. The distance from the team to other stakeholders is shorter.
 Below is an amazing infographic by Roman Pichler [available here](http://www.romanpichler.com/blog/romans-product-management-framework). In pink I’ve indicated where the trends above impact traditional product manager responsibilities. UX has firm influence in the “User Experience and Product Backlog” sector. Lean Startup and LeanUX overlap “Strategy and Market Research”. Continuous Delivery impacts roadmap creation and “key events” (aka release planning / product lifecycle management). And data impacts multiple areas.
 
-![](/images/1*P40f_Ch_UZodMZeP1VfuqA.png)
+![](../images/1*P40f_Ch_UZodMZeP1VfuqA.png)
 
 So what does this all mean for product managers? I’ll save that for another post. Please comment if you have anything to add.
 

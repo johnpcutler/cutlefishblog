@@ -2,10 +2,10 @@
 path:	"/blog/shape-up-review"
 date:	"2019-12-13"
 title:	"Review Notes: Shape Up"
-image:	"/images/shapeup.png"
+image:	"../images/shapeup.png"
 ---
 
-![](/images/shapeup.png)
+![](../images/shapeup.png)
 
 These notes are based off of the [v 1.7, 2019 edition of Shape Up](https://basecamp.com/shapeup/shape-up.pdf). They may introduce new versions at which point the page numbers will not line up.
 

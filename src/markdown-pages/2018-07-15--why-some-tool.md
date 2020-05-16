@@ -2,7 +2,7 @@
 path:	"/blog/why-some-tool"
 date:	"2018-07-15"
 title:	"#Why[Some Tool]"
-image:	"/images/1*q6Zc8LtOD-M_BhFbHu_A3w@2x.jpeg"
+image:	"../images/1*q6Zc8LtOD-M_BhFbHu_A3w@2x.jpeg"
 ---
 
 I was having a heated discussion with someone recently about story points. It was one of those standard “that’s not the fault of story points” arguments that goes nowhere. I realized a very common pattern — one that I have found to signal an opportunity for “refactoring” common approaches. It is age-old…basic decoupling and separation of concerns.
@@ -63,7 +63,7 @@ target setting, forecasting and resource allocation.
 * Resource allocation
 Beyond Budgeting addresses these needs/jobs (and sub-jobs) **individually** as described in this great slide [by Dr. Peter Bunce](https://www.slideshare.net/mobile/LESSConf/the-beyond-budgeting-principles):
 
-![](/images/1*q6Zc8LtOD-M_BhFbHu_A3w@2x.jpeg)What I find personally amusing with this table is the degree to which words like “accountability” and “planning” ruffle feathers in certain circles (e.g. Agilists)
+![](../images/1*q6Zc8LtOD-M_BhFbHu_A3w@2x.jpeg)What I find personally amusing with this table is the degree to which words like “accountability” and “planning” ruffle feathers in certain circles (e.g. Agilists)
 
 . But when you dig down to how Beyond Budgeting addresses those needs, you realize that the needs are foundational — it is the dominant/legacy solutions to those needs that feel dysfunctional and out of date.
 

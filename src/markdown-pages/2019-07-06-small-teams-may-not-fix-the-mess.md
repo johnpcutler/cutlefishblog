@@ -2,10 +2,10 @@
 path:	"/blog/small-teams-may-not-fix-the-mess"
 date:	"2019-07-06"
 title:	"Small Teams May Not Fix The Mess"
-image:	"/images/1*Kns4FvCapcvkuhLRI2cnGQ.jpeg"
+image:	"../images/1*Kns4FvCapcvkuhLRI2cnGQ.jpeg"
 ---
 
-![](/images/1*Kns4FvCapcvkuhLRI2cnGQ.jpeg)
+![](../images/1*Kns4FvCapcvkuhLRI2cnGQ.jpeg)
 
 Common pattern…
 

@@ -2,10 +2,10 @@
 path:	"/blog/backlog-roadmap-hygiene-tips"
 date:	"2017-11-17"
 title:	"Backlog/Roadmap Hygiene Tips"
-image:	"/images/1*8b1S6WTza5NSZtKDQwfd_g@2x.png"
+image:	"../images/1*8b1S6WTza5NSZtKDQwfd_g@2x.png"
 ---
 
-![](/images/1*8b1S6WTza5NSZtKDQwfd_g@2x.png)
+![](../images/1*8b1S6WTza5NSZtKDQwfd_g@2x.png)
 
 ### Jugglin’
 

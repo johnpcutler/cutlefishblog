@@ -2,10 +2,10 @@
 path:	"/blog/so-youre-hiring-a-product-manager"
 date:	"2019-05-04"
 title:	"So You’re Hiring a Product Manager?"
-image:	"/images/1*Oh-OaYHJQjlOIt99V7v9JQ.png"
+image:	"../images/1*Oh-OaYHJQjlOIt99V7v9JQ.png"
 ---
 
-![](/images/1*Oh-OaYHJQjlOIt99V7v9JQ.png)When I am asked for help in hiring a product manager, I typically ask the person to force-rank this list (or something similar). I keep re-writing it, but this is what I used last week.
+![](../images/1*Oh-OaYHJQjlOIt99V7v9JQ.png)When I am asked for help in hiring a product manager, I typically ask the person to force-rank this list (or something similar). I keep re-writing it, but this is what I used last week.
 
 **Force ranking is important, because you can never “have it all”**. I suggest they reflect on their actual work-environment…not an imaginary, rosy, future environment. I also suggest they don’t overthink the exercise: certain options are ambiguous by design (and might also rub them the wrong way). The results tell me a good deal about the environment, and who might thrive there.
 

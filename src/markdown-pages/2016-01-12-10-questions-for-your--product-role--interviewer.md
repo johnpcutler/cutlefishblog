@@ -2,7 +2,7 @@
 path:	"/blog/10-questions-for-your-product-role-interviewer"
 date:	"2016-01-12"
 title:	"10 Questions For Your (Product Role) Interviewer"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 It’s that nervous time of the product manager interview. You’re tired, need to re-caffeinate, are worried you don’t have enough “domain experience”, and have just had to calculate the number of[ airplane passengers currently airborne in the United States](https://www.quora.com/How-many-people-are-in-the-air-flying-at-any-given-time).

@@ -2,10 +2,10 @@
 path:	"/blog/whyestimates"
 date:	"2018-07-26"
 title:	"#WhyEstimates"
-image:	"/images/1*8WNlRbmTR1ha0mKROiO1OQ@2x.jpeg"
+image:	"../images/1*8WNlRbmTR1ha0mKROiO1OQ@2x.jpeg"
 ---
 
-![](/images/1*8WNlRbmTR1ha0mKROiO1OQ@2x.jpeg)
+![](../images/1*8WNlRbmTR1ha0mKROiO1OQ@2x.jpeg)
 
 Some questions to ponder regarding your organization’s use of estimates….
 

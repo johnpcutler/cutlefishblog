@@ -2,10 +2,10 @@
 path:	"/blog/measure-to-learn-not-to-control"
 date:	"2019-08-16"
 title:	"Measuring to Control vs. Measuring to Learn and Improve"
-image:	"/images/B6EA6035-B247-4F5C-991F-272491FAA89C.JPEG"
+image:	"../images/B6EA6035-B247-4F5C-991F-272491FAA89C.JPEG"
 ---
 
-![](/images/B6EA6035-B247-4F5C-991F-272491FAA89C.JPEG)
+![](../images/B6EA6035-B247-4F5C-991F-272491FAA89C.JPEG)
 
 I spend a good deal of time facilitating measurement/metrics related workshops, and I’ve noticed a pattern. When teams embrace measurement as a catalyst for learning and a way to encourage aligned autonomy, their brainstorming efforts are a lot more productive. Team members feel safe to surface their assumptions and core beliefs. The ideas flow, and the teams are much more likely to converge on “good enough” metrics and models.
 

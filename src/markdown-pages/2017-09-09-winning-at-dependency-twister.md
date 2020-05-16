@@ -2,10 +2,10 @@
 path:	"/blog/winning-at-dependency-twister"
 date:	"2017-09-09"
 title:	"Winning at Dependency Twister"
-image:	"/images/1*cWzEUYhDKpgb1Z6Nek7kkw.png"
+image:	"../images/1*cWzEUYhDKpgb1Z6Nek7kkw.png"
 ---
 
-![](/images/1*cWzEUYhDKpgb1Z6Nek7kkw.png)I wrote recently about [quarterly planning](https://hackernoon.com/surviving-quarterly-planning-7d571fb5b034)
+![](../images/1*cWzEUYhDKpgb1Z6Nek7kkw.png)I wrote recently about [quarterly planning](https://hackernoon.com/surviving-quarterly-planning-7d571fb5b034)
 
 . Since then, I have received a bunch of questions about quarterly planning and dependency management.
 
@@ -19,11 +19,11 @@ After the quarterly planning dust has settled, Ops creates cards to support the 
 
 At the start of the quarter, it looks like this:
 
-![](/images/1*5By3UxjfpsJG5Lb_Vo8ROw.png)
+![](../images/1*5By3UxjfpsJG5Lb_Vo8ROw.png)
 
 It’s getting near the end of the quarter, and things look like this:
 
-![](/images/1*ol30FgQWMqwRvDtZaMmA-w.png)
+![](../images/1*ol30FgQWMqwRvDtZaMmA-w.png)
 
 #### **Crap!**
 
@@ -36,19 +36,19 @@ Operations leadership has been advocating for headcount for ages, but someone al
 
 First, let’s put it all on one board and add Ops as a collaborating team for F1, F2, and F3. We can indicate their tasks as sub-tasks or related stories (not shown).
 
-![](/images/1*6W-JDC36wTh4y2Xrcd0LHA.png)Next, let’s indicate that at any given time we can only really have Ops working on two items (Doing), and be committed to two items in To Do. Note here that Ops has a spare magnet for a To Do item. We move two of our feature items into Doing (F1 and F2)
+![](../images/1*6W-JDC36wTh4y2Xrcd0LHA.png)Next, let’s indicate that at any given time we can only really have Ops working on two items (Doing), and be committed to two items in To Do. Note here that Ops has a spare magnet for a To Do item. We move two of our feature items into Doing (F1 and F2)
 
 , and the teams work on these together.
 
-![](/images/1*cF0jaTuDp8f78iTqEb6CQg.png)Low and behold, the feature issues creep up (“unplanned”)
+![](../images/1*cF0jaTuDp8f78iTqEb6CQg.png)Low and behold, the feature issues creep up (“unplanned”)
 
 . Ops has a working agreement that requires them to shift to production issues. Given that they cannot collaborate on F1 and F2, the feature teams swarm on the unplanned work to help knock that out.
 
-![](/images/1*Cy-rQRV_RsztXPhHH9pTag.png)
+![](../images/1*Cy-rQRV_RsztXPhHH9pTag.png)
 
 And things keep rolling…
 
-![](/images/1*zOtJQSdolPN2j-7cZZhiZw.png)
+![](../images/1*zOtJQSdolPN2j-7cZZhiZw.png)
 
 #### In Summary
 

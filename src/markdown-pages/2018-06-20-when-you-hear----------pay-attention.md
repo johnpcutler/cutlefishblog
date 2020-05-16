@@ -2,7 +2,7 @@
 path:	"/blog/when-you-hear-pay-attention"
 date:	"2018-06-20"
 title:	"When You Hear _______, Pay Attention"
-image:	"/images/1*PsH-hz-pc6e8_aVlDt1Mag@2x.jpeg"
+image:	"../images/1*PsH-hz-pc6e8_aVlDt1Mag@2x.jpeg"
 ---
 
 *Note: With dad-hood I’m doing more lists. They’re easier to write while learning to care for this awesome little farting/burping/pooping/smiling human. Apologies if you’re a fan of the longer posts. I’ll get back to them eventually/occasionally.*
@@ -38,4 +38,4 @@ image:	"/images/1*PsH-hz-pc6e8_aVlDt1Mag@2x.jpeg"
 * And then [some other group] can maintain it, right?
 My friend Jon Quigley and I are writing a follow up post with more explanation, but hopefully this is helpful in raw form…
 
-![](/images/1*PsH-hz-pc6e8_aVlDt1Mag@2x.jpeg)
+![](../images/1*PsH-hz-pc6e8_aVlDt1Mag@2x.jpeg)

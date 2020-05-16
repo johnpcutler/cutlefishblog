@@ -2,11 +2,11 @@
 path:	"/blog/the-canary-dies"
 date:	"2018-07-22"
 title:	"The Canary Dies"
-image:	"/images/1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg"
+image:	"../images/1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg"
 ---
 
 
-> Well into the 20th century, coal miners brought **canaries** into coal mines as an early-warning signal for toxic gases, primarily carbon monoxide. The birds, being more sensitive, would become sick before the miners, who would then have a chance to escape or put on protective respirators. ([Wikipedia — Sentinel Species](https://en.m.wikipedia.org/wiki/Sentinel_species))![](/images/1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg)At a conference last fall, I chatted with some other attendees, and realized that I wasn’t alone in experiencing a certain pattern. Granted these folks were self selected — they signed up for a conference on product development (Agile and Lean focused to be specific)
+> Well into the 20th century, coal miners brought **canaries** into coal mines as an early-warning signal for toxic gases, primarily carbon monoxide. The birds, being more sensitive, would become sick before the miners, who would then have a chance to escape or put on protective respirators. ([Wikipedia — Sentinel Species](https://en.m.wikipedia.org/wiki/Sentinel_species))![](../images/1*rFvhkfTl9i0PAq_wYx5X4g@2x.jpeg)At a conference last fall, I chatted with some other attendees, and realized that I wasn’t alone in experiencing a certain pattern. Granted these folks were self selected — they signed up for a conference on product development (Agile and Lean focused to be specific)
 
 — but I found the similarities interesting nonetheless.
 

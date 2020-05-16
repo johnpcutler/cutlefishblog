@@ -2,19 +2,19 @@
 path:	"/blog/40-twitter-doodles-lists-and-diagrams"
 date:	"2017-07-09"
 title:	"40 Twitter Doodles, Lists, and Diagrams"
-image:	"/images/1*nsxfB9NVDfF0aMcOogWMiA.jpeg"
+image:	"../images/1*nsxfB9NVDfF0aMcOogWMiA.jpeg"
 ---
 
 In prepping for a future [Medium](https://medium.com/u/504c7870fdb6) post, I found myself culling through old tweets. I enjoy doodling, listicles, and diagrams. And I like The Twitter.
 
-![](/images/1*nsxfB9NVDfF0aMcOogWMiA.jpeg)Occasionally these drawings and lists end up as [Medium](https://medium.com/u/504c7870fdb6)
+![](../images/1*nsxfB9NVDfF0aMcOogWMiA.jpeg)Occasionally these drawings and lists end up as [Medium](https://medium.com/u/504c7870fdb6)
 
  posts, but most often they stay tweets. I’ve shared a couple below that caught the attention of the software-product-nerd-o-sphere.
 
 I view Twitter as a wonderful constraint. One tweet, one image. Which means that a lot is left unsaid, and misunderstandings are common. So take it all with a grain of vague-salt.
 
 
-> [](https://twitter.com/johncutlefish/status/883913465592659968)![](/images/1*ezE9M6LWl-B0JjzcFHockg.png)
+> [](https://twitter.com/johncutlefish/status/883913465592659968)![](../images/1*ezE9M6LWl-B0JjzcFHockg.png)
 > [](https://twitter.com/johncutlefish/status/883161295406551040)
 > [](https://twitter.com/johncutlefish/status/883874470212927488)
 > [](https://twitter.com/johncutlefish/status/878875414982086656)

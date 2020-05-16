@@ -2,7 +2,7 @@
 path:	"/blog/inventory-and-integration"
 date:	"2018-01-11"
 title:	"Inventory and Integration"
-image:	"/images/1*HWY7KFreNsKhRv5thJxLjg@2x.jpeg"
+image:	"../images/1*HWY7KFreNsKhRv5thJxLjg@2x.jpeg"
 ---
 
 *Note: For my developer friends, you’ll likely need to squint a bit at how I use the word integration. I go from using it in the context of integrating code all the way up to “integrating” different perspectives.*
@@ -11,7 +11,7 @@ A team goes for a couple weeks without integrating, releasing, testing, or disca
 
 When considering inventory and integration there is a spectrum, however. If CI is humming along, you are reducing some risk. If you’re showing half-working prototypes to customers, you are reducing risk by generating learning. If you are disproving assumptions and discarding ideas, then you are exchanging inventory for learning. Releasing a cohesive end-to-end thing into production — even behind a feature flag — is a form of inventory risk reduction.
 
-![](/images/1*HWY7KFreNsKhRv5thJxLjg@2x.jpeg)But shipping is not enough. Until that code/design is being exercised to generate real world outcomes for customers and/or generate learning (even if it is discarded)
+![](../images/1*HWY7KFreNsKhRv5thJxLjg@2x.jpeg)But shipping is not enough. Until that code/design is being exercised to generate real world outcomes for customers and/or generate learning (even if it is discarded)
 
 …it is still “sitting in inventory”. And any effort to define an exact point that something leaves inventory is futile. Consider a feature that is in production, being used, and “generating value”. At a certain point the market may shift. That feature becomes less and less valuable as time passes. In reality, the complexity added by that feature has always sat in inventory…adding a slight bit of drag. With time, that drag becomes a net liability.
 
@@ -19,13 +19,13 @@ When considering inventory and integration there is a spectrum, however. If CI i
 
 It’s sort of like planting and tending to a farm. Work bears fruit and veggies (value). Shipping is planting, pruning, and harvesting. You can’t “scale” without adding land, and pathways, and irrigation. There are non-linear effects to contend with like changes in soil health, the impact of climate change, and a beneficial increase in biological diversity. In short, you can’t divorce the “product” — the stuff harvested and packed into boxes — from the farm. You have all kinds of inventory (seeds, biomass, water maybe) and all kinds of integration…ranging from inspecting the farm each day, to seeding, pruning, and harvesting.
 
-![](/images/1*vzzD2Gi48oDdYIxq1PXCNg@2x.jpeg)
+![](../images/1*vzzD2Gi48oDdYIxq1PXCNg@2x.jpeg)
 
 https://www.citi.io/2017/02/27/urban-farming-alleviating-the-worlds-food-dilemma-one-community-at-a-time/#### Lean & Agile
 
 I was thinking the other day that Lean & Agile are basically about doing some things more often (not necessarily faster, just more frequently)…which necessitates doing things smaller. Note how most of the things on the left involve some form of integration (using the non-technical definition) and inventory/risk transfer.
 
-![](/images/1*YWAFQLUNcmfAD3SuDt37Ow@2x.jpeg)I would contend that the mental leap is internalizing the joint concepts of “inventory” and “integration”, and how those things impact the ways we work. Not in rigid terms (e.g. “we shipped the code” or “that queue has precisely 5 tickets” or “CI ran”)
+![](../images/1*YWAFQLUNcmfAD3SuDt37Ow@2x.jpeg)I would contend that the mental leap is internalizing the joint concepts of “inventory” and “integration”, and how those things impact the ways we work. Not in rigid terms (e.g. “we shipped the code” or “that queue has precisely 5 tickets” or “CI ran”)
 
 , but in looser and and more profound terms. We can use “integration” to convey end-to-end learning, validation, testing of the whole, etc.
 
@@ -37,7 +37,7 @@ I was thinking the other day that Lean & Agile are basically about doing some th
 
 I did an exercise with a relatively “inexperienced” team recently. They brainstormed on questions of inventory, waste, and integration. I was blown away by how easily the concept percolated with the team.
 
-![](/images/1*zIVEQ9Dwwn1-iKN1jZ3Tkw@2x.jpeg)
+![](../images/1*zIVEQ9Dwwn1-iKN1jZ3Tkw@2x.jpeg)
 
 It’s like we inherently understand these things — we get the theory — but we have a lot of trouble turning it into actual action. Why? Until you’ve seen it “work”…smaller batches, keeping inventory low, and frequently integrating will make absolutely no sense. You probably won’t even feel the inventory stacking up.
 
@@ -45,7 +45,7 @@ It’s like we inherently understand these things — we get the theory — but 
 
 You can tell a good bit about a company by how the organization views inventory and integration.
 
-![](/images/1*6nAJi1LsL6fPAOWA2IGX5A@2x.jpeg)**We’re Lucky To Ship Anything!** Many companies have so much inventory and work in progress, and so much debt dragging them down (UX, technical, organizational, partner and customer relationships, learning, measurement), that they rattle on about the problem of “getting anything out the door”. The irony is that “getting anything out the door” was probably what led to their predicament. But you find absolutely no awareness of inventory and the need for frequent “integration” (end-to-end testing, validation, pivoting, etc.)
+![](../images/1*6nAJi1LsL6fPAOWA2IGX5A@2x.jpeg)**We’re Lucky To Ship Anything!** Many companies have so much inventory and work in progress, and so much debt dragging them down (UX, technical, organizational, partner and customer relationships, learning, measurement), that they rattle on about the problem of “getting anything out the door”. The irony is that “getting anything out the door” was probably what led to their predicament. But you find absolutely no awareness of inventory and the need for frequent “integration” (end-to-end testing, validation, pivoting, etc.)
 
  “Heck, we’re lucky to ship ANYTHING!”
 

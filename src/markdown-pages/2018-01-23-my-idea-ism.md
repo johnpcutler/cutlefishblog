@@ -2,10 +2,10 @@
 path:	"/blog/my-idea-ism"
 date:	"2018-01-23"
 title:	"My-idea-ism"
-image:	"/images/1*8V2s4tQqHrS2OiUPycw_nw@2x.jpeg"
+image:	"../images/1*8V2s4tQqHrS2OiUPycw_nw@2x.jpeg"
 ---
 
-![](/images/1*8V2s4tQqHrS2OiUPycw_nw@2x.jpeg)
+![](../images/1*8V2s4tQqHrS2OiUPycw_nw@2x.jpeg)
 
 I’ve been thinking lately about the cult of **My-idea-ism**.
 

@@ -2,10 +2,10 @@
 path:	"/blog/vacation-product-project-or-portfolio"
 date:	"2017-05-07"
 title:	"Vacation: Product, Project, or Portfolio?"
-image:	"/images/1*CYRBz1rAzOH73CnapfrG1w.jpeg"
+image:	"../images/1*CYRBz1rAzOH73CnapfrG1w.jpeg"
 ---
 
-![](/images/1*CYRBz1rAzOH73CnapfrG1w.jpeg)The sun cleared in Dublin. So I took the train down the coast and went for a hike.Is a vacation a **product, **a **project, **or a **(product/project)
+![](../images/1*CYRBz1rAzOH73CnapfrG1w.jpeg)The sun cleared in Dublin. So I took the train down the coast and went for a hike.Is a vacation a **product, **a **project, **or a **(product/project)
 
  portfolio? **Let’s ponder…
 

@@ -2,7 +2,7 @@
 path:	"/blog/pm-responsibilities"
 date:	"2016-12-22"
 title:	"PM “Responsibilities” ?"
-image:	"/images/1*UeCBrWfBKc9N2ZKcYDkpOQ.png"
+image:	"../images/1*UeCBrWfBKc9N2ZKcYDkpOQ.png"
 ---
 
 There are a bunch of ways to unpack this question.
@@ -19,4 +19,4 @@ Independently, the engineers and product manager looked at each item and indicat
 
 What do you notice? Where does this team need more shared understanding? Where is there agreement and disagreement? How might you go about addressing those deltas? Is some disagreement *healthy*?
 
-![](/images/1*UeCBrWfBKc9N2ZKcYDkpOQ.png)
+![](../images/1*UeCBrWfBKc9N2ZKcYDkpOQ.png)

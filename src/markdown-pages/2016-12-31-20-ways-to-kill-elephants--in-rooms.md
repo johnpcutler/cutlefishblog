@@ -2,12 +2,12 @@
 path:	"/blog/20-ways-to-kill-elephants-in-rooms"
 date:	"2016-12-31"
 title:	"20 Ways to Kill Elephants (In Rooms)"
-image:	"/images/1*mct-FinIQlekRi-C29CQdQ.png"
+image:	"../images/1*mct-FinIQlekRi-C29CQdQ.png"
 ---
 
 #### Or just dance with them…
 
-![](/images/1*mct-FinIQlekRi-C29CQdQ.png)<https://commons.wikimedia.org/wiki/File:Blind.JPG>* Attack the elephant head on during the budgeting process
+![](../images/1*mct-FinIQlekRi-C29CQdQ.png)<https://commons.wikimedia.org/wiki/File:Blind.JPG>* Attack the elephant head on during the budgeting process
 * Set a trap for the elephant. He’ll eventually overstep his bounds
 * Starve the elephant of attention and life-giving support and validation (to do this you must locate/control all sources of contributing energy, and have patience)
 * Introduce another elephant into the room, and let them fight for resources. Elephant jousting

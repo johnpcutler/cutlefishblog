@@ -2,10 +2,10 @@
 path:	"/blog/customer-facing-product-thinking-multi-product-and-other-shenanigans"
 date:	"2018-01-11"
 title:	"Customer-Facing, Product Thinking, “Multi-Product”, and Other Shenanigans"
-image:	"/images/1*2zQqPbqC66wttUmTMUgzrA@2x.jpeg"
+image:	"../images/1*2zQqPbqC66wttUmTMUgzrA@2x.jpeg"
 ---
 
-![](/images/1*2zQqPbqC66wttUmTMUgzrA@2x.jpeg)
+![](../images/1*2zQqPbqC66wttUmTMUgzrA@2x.jpeg)
 
 Some coffee-thoughts on various product-y buzzwords
 

@@ -2,7 +2,7 @@
 path:	"/blog/the-backlog-aka-wishing-well"
 date:	"2017-10-20"
 title:	"The Backlog (aka Wishing Well)"
-image:	"/images/1*8b1S6WTza5NSZtKDQwfd_g@2x.png"
+image:	"../images/1*8b1S6WTza5NSZtKDQwfd_g@2x.png"
 ---
 
 Made a list of some backlog gotchas and challenges for a friend.
@@ -28,4 +28,4 @@ Keep an eye out for these things. Without the right love, backlogs can cause mor
 * Does item align with team mission? How? Backlog != vision or mission
 * People outside team can easily misinterpret backlog
 * “The backlog” is just too simplistic for modern software product development
-![](/images/1*8b1S6WTza5NSZtKDQwfd_g@2x.png)
+![](../images/1*8b1S6WTza5NSZtKDQwfd_g@2x.png)

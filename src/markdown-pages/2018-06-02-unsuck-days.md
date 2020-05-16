@@ -2,7 +2,7 @@
 path:	"/blog/unsuck-days"
 date:	"2018-06-02"
 title:	"Unsuck Days"
-image:	"/images/1*X75DAlfPHrvHdBqwXwgHpg@2x.jpeg"
+image:	"../images/1*X75DAlfPHrvHdBqwXwgHpg@2x.jpeg"
 ---
 
 #### (Dealing with) misery loves company…
@@ -13,7 +13,7 @@ Most teams have a list of problems that 1) impact them day to day, but 2) are an
 
 Equivalent examples from our personal lives might include… going to the Department of Motor Vehicles, removing cavities, deep cleaning the diaper pail, recabling the home entertainment system, setting up your in-law’s iPad, finally cleaning out that drawer with 50 adapters, or giving your cat a bath.
 
-![](/images/1*X75DAlfPHrvHdBqwXwgHpg@2x.jpeg)
+![](../images/1*X75DAlfPHrvHdBqwXwgHpg@2x.jpeg)
 
 These problems often extend beyond individual teams to the “team of teams” level. The cumulative impact is large, but there is not enough of a burning fire for any one particular person to buckle down and just get it done. And in many cases, you need the coordination of multiple people from different teams to actually solve the problem.
 

@@ -2,7 +2,7 @@
 path:	"/blog/opportunity-vs-intervention"
 date:	"2018-06-29"
 title:	"Opportunity vs. Intervention"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 Product development teams often confuse:

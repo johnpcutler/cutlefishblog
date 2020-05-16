@@ -2,7 +2,7 @@
 path:	"/blog/actionable-ways-to-improve-psychological-safety-on-teams"
 date:	"2017-08-05"
 title:	"Actionable Ways To Improve Psychological Safety On Teams"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 I am conducting a call for concrete methods/tools/practices you have used to maximize the level of psychological safety in your organization. What has worked for you?

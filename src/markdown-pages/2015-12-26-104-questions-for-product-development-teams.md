@@ -2,7 +2,7 @@
 path:	"/blog/104-questions-for-product-development-teams"
 date:	"2015-12-26"
 title:	"104 Questions For Product Development Teams"
-image:	"/images/0*h332lIEr3yb8sR3R.jpg"
+image:	"../images/0*h332lIEr3yb8sR3R.jpg"
 ---
 
 **Please bookmark this post. Don’t try to read it all in one sitting. You will hate me and call me crazy.**
@@ -29,7 +29,7 @@ Let’s get started. To quote [one of my favorite posts on the role of product m
 
 > … the [mental state](http://en.wikipedia.org/wiki/Mental_state) of operation in which a person performing an activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity.Apathy, boredom, and anxiety are Flow anti-patterns. Clear goals, tight feedback loops, and the absence of blockers are Flow state prerequisites.
 
-![](/images/0*h332lIEr3yb8sR3R.jpg)And they also happen to fit squarely in a product manager’s job description. In short, help the team focus all of its energy on driving value directly to the users/customers. Do “everything else”. And do so in situations that are often ambiguous and constantly changing. Servant leadership (without the authority)
+![](../images/0*h332lIEr3yb8sR3R.jpg)And they also happen to fit squarely in a product manager’s job description. In short, help the team focus all of its energy on driving value directly to the users/customers. Do “everything else”. And do so in situations that are often ambiguous and constantly changing. Servant leadership (without the authority)
 
  at its best.
 

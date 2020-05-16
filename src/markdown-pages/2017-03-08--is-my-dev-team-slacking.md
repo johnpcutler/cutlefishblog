@@ -2,10 +2,10 @@
 path:	"/blog/is-my-dev-team-slacking"
 date:	"2017-03-08"
 title:	"“Is My Dev Team Slacking?”"
-image:	"/images/1*cEQmXTo8DetpCGjm-3UmXg.png"
+image:	"../images/1*cEQmXTo8DetpCGjm-3UmXg.png"
 ---
 
-![](/images/1*cEQmXTo8DetpCGjm-3UmXg.png)
+![](../images/1*cEQmXTo8DetpCGjm-3UmXg.png)
 
 If you can’t tell … you have no business asking.
 

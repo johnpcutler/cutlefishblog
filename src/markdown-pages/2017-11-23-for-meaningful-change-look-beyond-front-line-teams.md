@@ -2,19 +2,19 @@
 path:	"/blog/for-meaningful-change-look-beyond-front-line-teams"
 date:	"2017-11-23"
 title:	"For Meaningful Change…Look Beyond Front-Line Teams"
-image:	"/images/1*ruxFkNq62lp48LtZgsgTMw@2x.jpeg"
+image:	"../images/1*ruxFkNq62lp48LtZgsgTMw@2x.jpeg"
 ---
 
 *With Matt Barcomb, and editing help from Morgan Maccherone*
 
-![](/images/1*ruxFkNq62lp48LtZgsgTMw@2x.jpeg)A few weeks ago, my friend [Matt Barcomb](https://twitter.com/mattbarcomb)
+![](../images/1*ruxFkNq62lp48LtZgsgTMw@2x.jpeg)A few weeks ago, my friend [Matt Barcomb](https://twitter.com/mattbarcomb)
 
  asked this question via Twitter:
 
 
 > [](https://twitter.com/mattbarcomb/status/921485439667712001)It got me thinking. Over the years I have witnessed countless efforts to fix team-level issues, while seemingly ignoring the broader organizational challenges. Teams struggle to do what they can, but meanwhile bump up against the more global bottleneck. It’s all about trying to fix *problem teams *instead of tackling the the bigger problem.
 
-![](/images/1*X1YY0w9TmGYoxqm-a2z4Iw@2x.jpeg)
+![](../images/1*X1YY0w9TmGYoxqm-a2z4Iw@2x.jpeg)
 
 I reached out to Matt to mull this over, and we decided to write a brief post about the topic. We explored a couple questions:
 
@@ -116,7 +116,7 @@ Finally, it is important to set conservative goals. As with your product develop
 
 All of these recommendations tend to become much more obvious when we look at the more emotional effects of change on employees. The [Kübler-Ross change curve](https://en.m.wikipedia.org/wiki/K%C3%BCbler-Ross_model), which you may be familiar with as “the five stages of grief,” has been used extensively to describe and understand the emotional changes that employees undergo during and after organizational change.
 
-![](/images/1*OH0WM8-gg6tJAN7XIglE7Q.jpeg)* **Involving employees** in the initial processes of deciding what to change helps diminish the shock and denial phases.
+![](../images/1*OH0WM8-gg6tJAN7XIglE7Q.jpeg)* **Involving employees** in the initial processes of deciding what to change helps diminish the shock and denial phases.
 * **Visualizing improvement**, setting reasonable and attainable goals, and starting with interested employees are all great ways of neutralizing the frustration and depression employees may experience.
 * The experiment stage goes hand-in-hand with an **iterative and collaborative approach** to discovering the right metrics, and figure out what “works”.
 * And of course, all of this becomes worth it if you are actually addressing the root cause of the organizational dysfunction.

@@ -2,20 +2,20 @@
 path:	"/blog/feedback-loops-and-done"
 date:	"2017-03-13"
 title:	"Feedback Loops and “Done”"
-image:	"/images/1*7bPqmYF457WD2gRRsDX_nQ.jpeg"
+image:	"../images/1*7bPqmYF457WD2gRRsDX_nQ.jpeg"
 ---
 
-![](/images/1*7bPqmYF457WD2gRRsDX_nQ.jpeg)Some teams just assume that fast feedback is impossible. It is more like build, build, build — maybe measure — learn eventually. Perhaps they deliver an enterprise product, and the thought of “experimenting” on their customers feels too risky and expensive. Or maybe they lack the tooling, autonomy, and schedule flexibility. The end result is that it feels very inefficient to “wait around” after the “project is complete”. So it is on to the next “project”, and the business (hopefully)
+![](../images/1*7bPqmYF457WD2gRRsDX_nQ.jpeg)Some teams just assume that fast feedback is impossible. It is more like build, build, build — maybe measure — learn eventually. Perhaps they deliver an enterprise product, and the thought of “experimenting” on their customers feels too risky and expensive. Or maybe they lack the tooling, autonomy, and schedule flexibility. The end result is that it feels very inefficient to “wait around” after the “project is complete”. So it is on to the next “project”, and the business (hopefully)
 
  commits to monitoring the impact of the work and prioritizing follow-up work should it be required.
 
-![](/images/1*KmGlOcCdRELK0a0kQEW1lA.png)
+![](../images/1*KmGlOcCdRELK0a0kQEW1lA.png)
 
 This is where Agile — even when perfectly implemented on the delivery side — fails to address the bigger picture of fast feedback and iterative development. Imagine if someone said “and now we are going to have a five month sprint to get feedback” … the team would cringe! Yet that is exactly what happens when you ship work into the abyss. **We add complexity without validating that added complexity. **Yes, in theory you are delivering customer-facing value with each sprint…but are you getting feedback with each sprint?
 
 When teams talk about velocity, they rarely talk about the velocity of learning and/or feedback. If you think about lead time as the time from idea conception, to the customer “accepting the order” (or the work adding the desired value), you’ll typically see that the touch time for development is just a small fraction of the overall cycle.
 
-![](/images/1*y37ClzB4RNwhgmOQEMY41A.png)Let’s say that a CEO dreams up a silver bullet in January, teams obsess over planning and research between February and May, the dev team works on the idea between May and June (while doing three other things in parallel)
+![](../images/1*y37ClzB4RNwhgmOQEMY41A.png)Let’s say that a CEO dreams up a silver bullet in January, teams obsess over planning and research between February and May, the dev team works on the idea between May and June (while doing three other things in parallel)
 
 , and ships it July 1st. Six months later, the response from customers is tepid, and it looks like the work missed its mark. In terms of lead time, the feature is still pending. It has been a year and one month, and it is still “In Progress”.
 
@@ -27,7 +27,7 @@ And it is not just individual organizations. Whole industries exist to sell ways
 
 There are, of course, powerful ways to reduce risk early in the product development cycle without pushing features live and measuring impact. This post is by no means an attack on those methods. Even still, [few plans survive first contact with the enemy](http://www.lexician.com/lexblog/2010/11/no-battle-plan-survives-contact-with-the-enemy/). Probably more important is that without feedback, teams are not able to meaningfully iterate and knock off any low hanging fruit that emerges from “first contact”. Months later the context has changed, the research is stale, and the cost of reengaging is high. **But this approach *feels *like the economically optimal decision given perceived constraints.**
 
-![](/images/1*qUSb3j0w6J43oVPSwC9xaA.png)
+![](../images/1*qUSb3j0w6J43oVPSwC9xaA.png)
 
 And that’s the point of this post … to encourage you to question your constraints.
 

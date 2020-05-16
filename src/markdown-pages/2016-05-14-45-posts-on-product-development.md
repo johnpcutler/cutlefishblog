@@ -2,7 +2,7 @@
 path:	"/blog/45-posts-on-product-development"
 date:	"2016-05-14"
 title:	"45 Posts On Product Development"
-image:	"/images/1*GvvCwnSNlou9G9MQlgyigQ.png"
+image:	"../images/1*GvvCwnSNlou9G9MQlgyigQ.png"
 ---
 
 I turned around today to realize that I just published my 45th Medium Post.
@@ -13,7 +13,7 @@ But there has been something very meditative about sitting down and cranking one
 
 Given that Medium doesn’t have a great index feature, I figured I’d provide one here. I’m grateful for the folks who have taken the time to read and comment.
 
-![](/images/1*GvvCwnSNlou9G9MQlgyigQ.png)
+![](../images/1*GvvCwnSNlou9G9MQlgyigQ.png)
 
 **May 2016**
 
@@ -36,7 +36,7 @@ What do most Kanban boards look like?
 Your product isn’t confined to what you ship. Your product is the whole organization
 
 
-> Product is not something you “ship”. Increasingly, it is a service that the whole organization *delivers continuously*![](/images/1*22kk91DZxJKFScCMRQr98A.png)
+> Product is not something you “ship”. Increasingly, it is a service that the whole organization *delivers continuously*![](../images/1*22kk91DZxJKFScCMRQr98A.png)
 
 **April 2016**
 
@@ -75,7 +75,7 @@ What job are you hiring your roadmap to do? Are you setting it up to fail?
 
 Video showing a common startup anti-pattern
 
-![](/images/1*NzMUQGqHk5-WK57bU6bV4w.png)
+![](../images/1*NzMUQGqHk5-WK57bU6bV4w.png)
 
 **March 2016**
 
@@ -118,7 +118,7 @@ A quick daily team health checkout template
 
 A video covering an approach to mind-mapping your roadmap and/or strategy
 
-![](/images/1*B6YL5F0TVZ6g2-PauAIKFA.png)
+![](../images/1*B6YL5F0TVZ6g2-PauAIKFA.png)
 
 **Feb 2016**
 
@@ -141,7 +141,7 @@ I dig into the human need to experiment and have impact. And how when you don’
 
 Startups talk about focus. But what does focus REALLY feel like?
 
-![](/images/1*xiuNOu53I87Ox2isCOvOPw.png)
+![](../images/1*xiuNOu53I87Ox2isCOvOPw.png)
 
 **Jan 2016**
 
@@ -170,7 +170,7 @@ A quick hack for booking customer interviews
 
 Light take on effective product development teams
 
-![](/images/1*hKTvYck1I2LBlxEWiXdHlw.png)#### [14: Hidden Costs of the Sales-Driven Roadmap](https://medium.com/p/hidden-costs-of-the-sales-driven-roadmap-81b847da3452)
+![](../images/1*hKTvYck1I2LBlxEWiXdHlw.png)#### [14: Hidden Costs of the Sales-Driven Roadmap](https://medium.com/p/hidden-costs-of-the-sales-driven-roadmap-81b847da3452)
 
 
 
@@ -184,7 +184,7 @@ Interview the interviewer. How to gauge whether the opportunity is the right fit
 
 Tips on incorporating data directly into your user stories
 
-![](/images/1*BXT7TbyIXOHRaBlkmUW6aQ.png)
+![](../images/1*BXT7TbyIXOHRaBlkmUW6aQ.png)
 
 **Dec 2015**
 
@@ -227,7 +227,7 @@ You are running “tests” if your tests never fail
 
 All the books in my Kindle. In one place
 
-![](/images/1*SXC6-Lg67B-ZrLvpi45mIw.png)
+![](../images/1*SXC6-Lg67B-ZrLvpi45mIw.png)
 
 **Nov 2015**
 

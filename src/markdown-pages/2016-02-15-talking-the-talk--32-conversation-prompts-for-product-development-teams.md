@@ -2,12 +2,12 @@
 path:	"/blog/talking-the-talk-32-conversation-prompts-for-product-development-teams"
 date:	"2016-02-15"
 title:	"Talking The Talk: 32 Conversation Prompts for Product Development Teams"
-image:	"/images/1*h-fQGOKu14ZeE5Od7e4o4g.png"
+image:	"../images/1*h-fQGOKu14ZeE5Od7e4o4g.png"
 ---
 
 #### Topics: Learning goals. Decisions. Collaboration. Data. Experimentation. Personal passions. And respect for diverse viewpoints.
 
-![](/images/1*h-fQGOKu14ZeE5Od7e4o4g.png)[Arnold Lakhovsky](https://en.wikipedia.org/wiki/Arnold_Lakhovsky "Arnold Lakhovsky"), *The Conversation* (circa 1935)I’ve noticed over the years that diverse teams that communicate clearly, honestly, and respectfully will always beat homogenous teams that struggle with a lack of focus, trust issues, and silencing minority viewpoints. We look for quick fixes — a new methodology, a new process, a new structure — when our biggest challenge is creating a safe environment for sharing diverse viewpoints. And then, literally, learning how to communicate in those settings. (I speak more about this in my post [To Experiment Is Human. Reality is a **cker. And The Law Of Two Feet](https://medium.com/@johnpcutler/to-experiment-is-human-reality-is-a-cker-and-the-law-of-two-feet-639ade01396a#.nle0kxrjr))
+![](../images/1*h-fQGOKu14ZeE5Od7e4o4g.png)[Arnold Lakhovsky](https://en.wikipedia.org/wiki/Arnold_Lakhovsky "Arnold Lakhovsky"), *The Conversation* (circa 1935)I’ve noticed over the years that diverse teams that communicate clearly, honestly, and respectfully will always beat homogenous teams that struggle with a lack of focus, trust issues, and silencing minority viewpoints. We look for quick fixes — a new methodology, a new process, a new structure — when our biggest challenge is creating a safe environment for sharing diverse viewpoints. And then, literally, learning how to communicate in those settings. (I speak more about this in my post [To Experiment Is Human. Reality is a **cker. And The Law Of Two Feet](https://medium.com/@johnpcutler/to-experiment-is-human-reality-is-a-cker-and-the-law-of-two-feet-639ade01396a#.nle0kxrjr))
 
 
 
@@ -15,7 +15,7 @@ What do high-performing product development teams sound like? What do they talk 
 
 For a while now I’ve wanted to create a deck of cards teams could use to learn to communicate more effectively in software product development team settings. There is a lot of material out there to help teams collaborate and communicate more generally, but I wanted to focus in on common product development situations.
 
-![](/images/1*8n-B9T5qiH_zx6RKOivOTg.png)
+![](../images/1*8n-B9T5qiH_zx6RKOivOTg.png)
 
 So here’s the first iteration …
 

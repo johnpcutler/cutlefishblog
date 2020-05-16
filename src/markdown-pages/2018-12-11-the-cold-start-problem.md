@@ -2,7 +2,7 @@
 path:	"/blog/the-cold-start-problem"
 date:	"2018-12-11"
 title:	"The Cold Start Problem"
-image:	"/images/0*pkOL__r5oKG5i7Ct.jpg"
+image:	"../images/0*pkOL__r5oKG5i7Ct.jpg"
 ---
 
 Here’s a question I received today in response to this post on [Certainty Theater](https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec):
@@ -15,7 +15,7 @@ My first thought here is that you **have to clarify the value of the opportunity
 
 Past outcomes matter. In other words, in your organization do small cross-functional teams have a track-record of starting together (cold start and all) and doing awesome things? It is very difficult to appreciate the value of not “getting ahead” of the work, when you haven’t seen the upside potential. In an environment where no one has seen it work, I recommend doing one or two efforts like this as an experiment. Show don’t tell.
 
-![](/images/0*pkOL__r5oKG5i7Ct.jpg)
+![](../images/0*pkOL__r5oKG5i7Ct.jpg)
 
 My favorite “Starting Together” picture … <https://www.imdb.com/title/tt0089218/mediaindex>What else might be going on?
 

@@ -2,14 +2,14 @@
 path:	"/blog/beat-the-feature-factory-run-pre-cap-design-studios"
 date:	"2016-08-14"
 title:	"Beat the Feature Factory: Run Pre-cap Design Studios"
-image:	"/images/1*WoqIdA9nbo-ewIdrQsB-5w.png"
+image:	"../images/1*WoqIdA9nbo-ewIdrQsB-5w.png"
 ---
 
 ***Recommendation:**** Commit to a future recap of your product development initiative, and design the slides early in the process (leaving placeholders for the actual data)*
 
 ***Benefit:**** Promote a learning mindset. Balance upfront planning with unbiased retrospective. Crease a sense of team ownership and pride. Drive a shared understanding of the initiative. Promote evidence driven development, even when the current strategy is more tilted towards the “feature factory”.*
 
-![](/images/1*WoqIdA9nbo-ewIdrQsB-5w.png)
+![](../images/1*WoqIdA9nbo-ewIdrQsB-5w.png)
 
 ### The Opportunity
 
@@ -31,7 +31,7 @@ Something about this proposal clicked with the team. It had the effect of puttin
 
 Below I’ve provided a basic outline for the presentation. It’s nothing fancy, but you’d be amazed at how infrequently these types of presentations happen unless there’s a major win to promote. Learnings are rarely celebrated, and that is a shame.
 
-![](/images/1*yHhLGZaYQBk4p9cLvhzciA.png)
+![](../images/1*yHhLGZaYQBk4p9cLvhzciA.png)
 
 ### Tips:
 

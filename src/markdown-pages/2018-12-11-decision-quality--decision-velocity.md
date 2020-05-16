@@ -2,7 +2,7 @@
 path:	"/blog/decision-quality-decision-velocity"
 date:	"2018-12-11"
 title:	"Decision Quality. Decision Velocity."
-image:	"/images/1*cgjlyUH9YOd36xZ_Fl54lg.png"
+image:	"../images/1*cgjlyUH9YOd36xZ_Fl54lg.png"
 ---
 
 On a very high level, there are two things needed for a successful product/company:
@@ -35,7 +35,7 @@ This may all seem like common sense, but what mechanisms does your organization 
 
 You can break the high level patterns into a lots of smaller patterns.
 
-![](/images/1*cgjlyUH9YOd36xZ_Fl54lg.png)Making Better Decisions (John Cutler)Importantly, we deal with all sorts of nested decisions. Every line of code is a set of decisions. Every design, kickoff, change in strategy, fundraising event, and reorg…are all decisions. We tend to see odd hierarchies of decisions (e.g. “strategy and execution”)
+![](../images/1*cgjlyUH9YOd36xZ_Fl54lg.png)Making Better Decisions (John Cutler)Importantly, we deal with all sorts of nested decisions. Every line of code is a set of decisions. Every design, kickoff, change in strategy, fundraising event, and reorg…are all decisions. We tend to see odd hierarchies of decisions (e.g. “strategy and execution”)
 
  — but in knowledge work, they are all important streams of decisions.
 

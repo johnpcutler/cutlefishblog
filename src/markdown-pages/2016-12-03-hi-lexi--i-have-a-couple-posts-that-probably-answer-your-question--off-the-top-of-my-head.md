@@ -2,7 +2,7 @@
 path:	"/blog/hi-lexi-i-have-a-couple-posts-that-probably-answer-your-question-off-the-top-of-my-head"
 date:	"2016-12-03"
 title:	"Hi Lexi. I have a couple posts that probably answer your question. Off the top of my head:"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 Hi Lexi. I have a couple posts that probably answer your question. Off the top of my head:

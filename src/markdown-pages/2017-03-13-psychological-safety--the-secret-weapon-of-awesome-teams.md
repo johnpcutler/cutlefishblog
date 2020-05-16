@@ -2,10 +2,10 @@
 path:	"/blog/psychological-safety-the-secret-weapon-of-awesome-teams"
 date:	"2017-03-13"
 title:	"Psychological safety: the secret weapon of awesome teams"
-image:	"/images/1*m1vB-OyPvyKNmn_AhKuwyw.png"
+image:	"../images/1*m1vB-OyPvyKNmn_AhKuwyw.png"
 ---
 
-![](/images/1*m1vB-OyPvyKNmn_AhKuwyw.png)The other day I found myself fixating on the word *discipline*. An engineer friend and I were chatting about what made a great software developer. We agreed that discipline (along with dedication, skills, patience, etc.)
+![](../images/1*m1vB-OyPvyKNmn_AhKuwyw.png)The other day I found myself fixating on the word *discipline*. An engineer friend and I were chatting about what made a great software developer. We agreed that discipline (along with dedication, skills, patience, etc.)
 
  was a key ingredient.
 
@@ -73,4 +73,4 @@ Meanwhile, my engineer friend I mentioned at the beginning of this story establi
 
 I’ll leave you with a handy cheat-sheet that summarizes the HTHS vs. LTLS comparisons I made above. Stay safe out there.
 
-![](/images/1*qQ2lKrHTdxR7O_a0RM9mrw.png)
+![](../images/1*qQ2lKrHTdxR7O_a0RM9mrw.png)

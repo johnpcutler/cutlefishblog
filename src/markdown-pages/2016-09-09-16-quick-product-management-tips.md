@@ -2,10 +2,10 @@
 path:	"/blog/16-quick-product-management-tips"
 date:	"2016-09-09"
 title:	"16 Quick Product Management Tips"
-image:	"/images/1*RhRgIrTBI3EdGZiz6AYNRw.png"
+image:	"../images/1*RhRgIrTBI3EdGZiz6AYNRw.png"
 ---
 
-![](/images/1*RhRgIrTBI3EdGZiz6AYNRw.png)
+![](../images/1*RhRgIrTBI3EdGZiz6AYNRw.png)
 
 PM work isn’t easy ….Some quick coffee fueled snippets from a product coaching email exchange …
 

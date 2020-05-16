@@ -2,7 +2,7 @@
 path:	"/blog/visualizing-debt-rework-cut-corners-and-frustration"
 date:	"2016-11-15"
 title:	"Visualizing Debt, Rework, Cut Corners, and Frustration"
-image:	"/images/1*uyGVPNpn8GJ6EigIU6o6Kg.png"
+image:	"../images/1*uyGVPNpn8GJ6EigIU6o6Kg.png"
 ---
 
 #### Making the invisible visible lets you inspect and adapt
@@ -13,7 +13,7 @@ A single story can involve a good deal of “work”: rework, working around tec
 
 Again, all of this is perfectly normal. We intuitively know we’re adding risk, cutting corners, and working in less than ideal ways. Trouble starts to brew when you stop reflecting and learning (see my post [Cutting Corners and Electric Fences](https://medium.com/@johnpcutler/cutting-corners-and-electric-fences-c8fbfaa4d91a)). The trick is to visualize the impact.
 
-![](/images/1*uyGVPNpn8GJ6EigIU6o6Kg.png)1. If an engineer is battling technical debt to finish a story, then cut a ticket for that work
+![](../images/1*uyGVPNpn8GJ6EigIU6o6Kg.png)1. If an engineer is battling technical debt to finish a story, then cut a ticket for that work
 2. If you ship a feature with obvious UX debt, then cut a ticket for this debt
 3. If research is required because no data existed, cut a ticket
 4. Is the work not contributing to customer value, but needs to happen? Cut a ticket

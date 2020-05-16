@@ -2,10 +2,10 @@
 path:	"/blog/12-bottom-up-change-hints"
 date:	"2017-07-19"
 title:	"12 Bottom-Up Change Hints"
-image:	"/images/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg"
+image:	"../images/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg"
 ---
 
-![](/images/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg)Sometimes you need to wear rose colored glasses ….
+![](../images/1*K5CYeh-Ou6OB5QttCHGhwg.jpeg)Sometimes you need to wear rose colored glasses ….
 
 1. Email is a terrible way to advocate for change. Too much can go wrong.
 2. Don’t assume that someone who complains about something in private, is prepared to advocate for change in public. Pick your agitators wisely.

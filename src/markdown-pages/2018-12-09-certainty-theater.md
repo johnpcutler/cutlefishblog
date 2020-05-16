@@ -2,10 +2,10 @@
 path:	"/blog/certainty-theater"
 date:	"2018-12-09"
 title:	"Certainty Theater"
-image:	"/images/1*qOdlhBAjvlgbIUayhPbBoA.png"
+image:	"../images/1*qOdlhBAjvlgbIUayhPbBoA.png"
 ---
 
-![](/images/1*qOdlhBAjvlgbIUayhPbBoA.png)We often reward Certainty Theater (a not-so-distant relative to [Success Theater](https://link.medium.com/A6cWDWa7uS))
+![](../images/1*qOdlhBAjvlgbIUayhPbBoA.png)We often reward Certainty Theater (a not-so-distant relative to [Success Theater](https://link.medium.com/A6cWDWa7uS))
 
 .
 
@@ -24,7 +24,7 @@ I’ll always remember this bit of career advice given to me by a friend of the 
 
 Take this example of two competing efforts — one that represents a big opportunity (with 1–3x range), and could take 100–180 days, and one that is a “certain” 45–55d, and a more certain opportunity size.
 
-![](/images/1*IjENo9-H5-JtKGzlY-XPQQ@2x.jpeg)
+![](../images/1*IjENo9-H5-JtKGzlY-XPQQ@2x.jpeg)
 
 We’ll often pick effort B because we’re lured in by that certainty. A is the better choice. We’re not rational actors, and our organizations are not necessarily optimized for global outcomes/benefits.
 

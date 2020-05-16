@@ -2,7 +2,7 @@
 path:	"/blog/start-with-naive-pragmatism"
 date:	"2018-06-26"
 title:	"Start With Naive Pragmatism"
-image:	"/images/1*60AONVyonsMrZbH3Hd9Aaw@2x.jpeg"
+image:	"../images/1*60AONVyonsMrZbH3Hd9Aaw@2x.jpeg"
 ---
 
 A quick hint for change agents.
@@ -23,4 +23,4 @@ This isn’t to say that you should abandon lasting solutions. Don’t abandon y
 
 Experiment, and amplify what works.
 
-![](/images/1*60AONVyonsMrZbH3Hd9Aaw@2x.jpeg)
+![](../images/1*60AONVyonsMrZbH3Hd9Aaw@2x.jpeg)

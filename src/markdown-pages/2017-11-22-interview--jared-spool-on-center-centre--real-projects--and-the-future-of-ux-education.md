@@ -2,10 +2,10 @@
 path:	"/blog/interview-jared-spool-on-center-centre-real-projects-and-the-future-of-ux-education"
 date:	"2017-11-22"
 title:	"Interview: Jared Spool on Center Centre, Real Projects, and the Future of UX Education"
-image:	"/images/1*-Cjp_kt1ecJPoD3H-6b8UQ.jpeg"
+image:	"../images/1*-Cjp_kt1ecJPoD3H-6b8UQ.jpeg"
 ---
 
-![](/images/1*-Cjp_kt1ecJPoD3H-6b8UQ.jpeg)[http://centercentre.com/](http://centercentre.com/program)A couple weeks ago, I stumbled on a tweet from [Jared Spool](https://www.uie.com/about/) (founder of User Interface Engineering) mentioning [Center Centre](http://centercentre.com/)
+![](../images/1*-Cjp_kt1ecJPoD3H-6b8UQ.jpeg)[http://centercentre.com/](http://centercentre.com/program)A couple weeks ago, I stumbled on a tweet from [Jared Spool](https://www.uie.com/about/) (founder of User Interface Engineering) mentioning [Center Centre](http://centercentre.com/)
 
 , a “user experience design school” located in Chattanooga, Tennessee. I was intrigued.
 
@@ -56,7 +56,7 @@ I guess it did require coordinating with the city. Yes, anytime you bring a mass
 
 The way the three week thing works is that the first two days are an outside expert, someone who’s written material, who comes in spends time with the students. Then the students spend three days doing independent study, and then they do two weeks doing an ongoing project. The project lasts between three to five months. Yeah, so out of the six projects they’ll do, three of them will be from outside organizations, two will be things that we need done around the school, and one will be something that’s community oriented.
 
-![](/images/1*2H6H2daJPlftWmPkaCjFIw.png)
+![](../images/1*2H6H2daJPlftWmPkaCjFIw.png)
 
 #### **Interesting. Can you tell me more about the community oriented projects?**
 

@@ -2,7 +2,7 @@
 path:	"/blog/scrum-is-the-best-thing-in-the-whole-wide-world"
 date:	"2017-12-19"
 title:	"Scrum is the Best Thing in the Whole Wide World"
-image:	"/images/1*WnxhMGV3n7E_2xHIpBjcSQ@2x.jpeg"
+image:	"../images/1*WnxhMGV3n7E_2xHIpBjcSQ@2x.jpeg"
 ---
 
 Scrum is:
@@ -10,7 +10,7 @@ Scrum is:
 
 > a framework for developing, delivering, and sustaining complex products.It is the **best thing in the whole wide world**.
 
-![](/images/1*WnxhMGV3n7E_2xHIpBjcSQ@2x.jpeg)Scrum has a *huge and supportive* community. If you want to learn, you can learn. There are [858 books about Scrum on Amazon](https://www.amazon.com/s/s/ref=sr_nr_p_n_feature_nine_bro_0?fst=as%3Aoff&rh=n%3A283155%2Ck%3AScrum%2Cp_n_feature_nine_browse-bin%3A3291437011&keywords=Scrum&ie=UTF8&qid=1513655535&rnid=3291435011) (in English) including a [For Dummies](http://www.dummies.com/store/product/Scrum-For-Dummies.productCd-1118905776.html) book. YouTube is filled with [Scrum videos](https://m.youtube.com/results?q=Agile%20Scrum&sm=3). There are [Meetups everywhere](https://www.scrumalliance.org/community/articles/2012/august/story-points-versus-task-hours). There are [conferences and gatherings](https://www.scrumalliance.org/courses-events/events) around the world. People post [insanely helpful lists of patterns](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/scrumming-the-scrum). You can [get certified](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
+![](../images/1*WnxhMGV3n7E_2xHIpBjcSQ@2x.jpeg)Scrum has a *huge and supportive* community. If you want to learn, you can learn. There are [858 books about Scrum on Amazon](https://www.amazon.com/s/s/ref=sr_nr_p_n_feature_nine_bro_0?fst=as%3Aoff&rh=n%3A283155%2Ck%3AScrum%2Cp_n_feature_nine_browse-bin%3A3291437011&keywords=Scrum&ie=UTF8&qid=1513655535&rnid=3291435011) (in English) including a [For Dummies](http://www.dummies.com/store/product/Scrum-For-Dummies.productCd-1118905776.html) book. YouTube is filled with [Scrum videos](https://m.youtube.com/results?q=Agile%20Scrum&sm=3). There are [Meetups everywhere](https://www.scrumalliance.org/community/articles/2012/august/story-points-versus-task-hours). There are [conferences and gatherings](https://www.scrumalliance.org/courses-events/events) around the world. People post [insanely helpful lists of patterns](https://sites.google.com/a/scrumplop.org/published-patterns/retrospective-pattern-language/scrumming-the-scrum). You can [get certified](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm)
 
  if that’s your thing.
 

@@ -2,7 +2,7 @@
 path:	"/blog/your-org-problems-are-not-unique"
 date:	"2018-08-02"
 title:	"Your Org Problems Are Not Unique"
-image:	"/images/1*u0qf-AdDcG3yCXVFVX9KGw@2x.jpeg"
+image:	"../images/1*u0qf-AdDcG3yCXVFVX9KGw@2x.jpeg"
 ---
 
 #### But that doesn’t make them easy to solve (except on paper)
@@ -34,4 +34,4 @@ It isn’t until something structural changes — someone leaves, perhaps — th
 
 Anyway. I find that change agents are often too rational. It isn’t about best practices or common sense. Dismissing these issues as overtly political or petty do not advance your mission. You’ll have to work with these tensions, but likely will not be able to “take them head on”. Only one person can do that, and it is likely the CEO (and they may be a part of the problem). Instead, consider creating a non-threatening positive attractor that effectively neutralizes the conflict, while providing an avenue for everyone to participate in the progress/success.
 
-![](/images/1*u0qf-AdDcG3yCXVFVX9KGw@2x.jpeg)
+![](../images/1*u0qf-AdDcG3yCXVFVX9KGw@2x.jpeg)

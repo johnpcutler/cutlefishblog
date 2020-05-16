@@ -2,14 +2,14 @@
 path:	"/blog/the-product-of-you"
 date:	"2017-05-22"
 title:	"The Product Of You"
-image:	"/images/1*6rCyl-0XnGtCiBo6M6Pskg.png"
+image:	"../images/1*6rCyl-0XnGtCiBo6M6Pskg.png"
 ---
 
 #### Applying product thinking to your work and personal mission
 
 Do you think of yourself as a product? Lately, I have been experimenting with thinking of myself as a product, and it has been a rewarding experience. I’ll be the guinea pig here, but I’d love to hear more about the product of You!
 
-![](/images/1*6rCyl-0XnGtCiBo6M6Pskg.png)
+![](../images/1*6rCyl-0XnGtCiBo6M6Pskg.png)
 
 #### What & Who
 

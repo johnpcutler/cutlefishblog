@@ -2,7 +2,7 @@
 path:	"/blog/6-questions-to-guide-continuous-improvement"
 date:	"2016-09-28"
 title:	"6 Questions to Guide Continuous Improvement"
-image:	"/images/1*QKJ5w5WS_zX7myiutqR4KQ.png"
+image:	"../images/1*QKJ5w5WS_zX7myiutqR4KQ.png"
 ---
 
 #### Do the work…
@@ -25,7 +25,7 @@ How **effective are we at:**
 4. Dampening the negative impacts of scaling and growth?
 5. Helping our people and teams grow?
 6. Sensing changes to, and continuously improving on the the areas above?
-![](/images/1*QKJ5w5WS_zX7myiutqR4KQ.png)
+![](../images/1*QKJ5w5WS_zX7myiutqR4KQ.png)
 
 Talk about it. What have you observed? What is the delta since you last spoke? How do your individual biases impact your perception of what you have observed? Are you hearing all voices? Are you missing data? Where are the opportunities for improvement? What would happen if you did nothing? Might certain things just work themselves out?
 

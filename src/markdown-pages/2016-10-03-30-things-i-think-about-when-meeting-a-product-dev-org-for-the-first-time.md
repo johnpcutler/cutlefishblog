@@ -2,12 +2,12 @@
 path:	"/blog/30-things-i-think-about-when-meeting-a-product-dev-org-for-the-first-time"
 date:	"2016-10-03"
 title:	"30 Things I Think about When Meeting a Product Dev Org for the First Time"
-image:	"/images/1*6zCgxz_r1MTzEiPtPIjbzw.jpeg"
+image:	"../images/1*6zCgxz_r1MTzEiPtPIjbzw.jpeg"
 ---
 
 *File this post under Listicles John Creates to Keep His Own Thinking Straight*
 
-![](/images/1*6zCgxz_r1MTzEiPtPIjbzw.jpeg)
+![](../images/1*6zCgxz_r1MTzEiPtPIjbzw.jpeg)
 
 An actual set of notes … my spelling is atrociousWhat is it like to drop into organization and take stock of the team?
 

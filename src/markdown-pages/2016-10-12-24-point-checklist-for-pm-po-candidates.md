@@ -2,12 +2,12 @@
 path:	"/blog/24-point-checklist-for-pm-po-candidates"
 date:	"2016-10-12"
 title:	"24-Point Checklist for PM/PO Candidates"
-image:	"/images/1*KLOWWMNqgyt2RwjrhLbyQQ.png"
+image:	"../images/1*KLOWWMNqgyt2RwjrhLbyQQ.png"
 ---
 
 For a quick post today I thought I’d share a personal checklist for assessing product management / product owner candidates. These 24 items are useful when 1) thinking about the role you hope to fill, and 2) assessing a candidate. It can take a lifetime of shipping to max out your chops, so it is important to view all of these skills on a continuum.
 
-![](/images/1*KLOWWMNqgyt2RwjrhLbyQQ.png)See [PDF here](https://drive.google.com/file/d/0B04yoW1JFDHGZExOaVpKVVBBOW8/view?usp=sharing)1. Curiosity, asks “why”
+![](../images/1*KLOWWMNqgyt2RwjrhLbyQQ.png)See [PDF here](https://drive.google.com/file/d/0B04yoW1JFDHGZExOaVpKVVBBOW8/view?usp=sharing)1. Curiosity, asks “why”
 2. Entrepreneurial spirit
 3. Respect and empathy for crafters, and builders
 4. Respect and empathy non-builders (aka “business”)

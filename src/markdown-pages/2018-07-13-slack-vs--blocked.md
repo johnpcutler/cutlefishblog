@@ -2,10 +2,10 @@
 path:	"/blog/slack-vs-blocked"
 date:	"2018-07-13"
 title:	"Slack vs. Blocked"
-image:	"/images/1*Ez_JoxGvK5eVMuIpNyKYGA@2x.jpeg"
+image:	"../images/1*Ez_JoxGvK5eVMuIpNyKYGA@2x.jpeg"
 ---
 
-![](/images/1*Ez_JoxGvK5eVMuIpNyKYGA@2x.jpeg)### Slack Definition(s)
+![](../images/1*Ez_JoxGvK5eVMuIpNyKYGA@2x.jpeg)### Slack Definition(s)
 
 
 

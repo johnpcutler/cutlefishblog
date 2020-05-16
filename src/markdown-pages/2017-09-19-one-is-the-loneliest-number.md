@@ -2,12 +2,12 @@
 path:	"/blog/one-is-the-loneliest-number"
 date:	"2017-09-19"
 title:	"One Is the Loneliest Number…"
-image:	"/images/1*fbVBlN6fRocqmx7nx3OzYQ.png"
+image:	"../images/1*fbVBlN6fRocqmx7nx3OzYQ.png"
 ---
 
 #### CEO and OTHER PERSON have a chat…
 
-![](/images/1*fbVBlN6fRocqmx7nx3OzYQ.png)
+![](../images/1*fbVBlN6fRocqmx7nx3OzYQ.png)
 
 *This is a work of fiction. Names, characters, businesses, places, events and incidents are either the products of the author’s imagination or used in a fictitious manner. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.*
 

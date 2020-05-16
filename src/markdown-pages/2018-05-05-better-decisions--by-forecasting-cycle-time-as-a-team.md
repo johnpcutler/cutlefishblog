@@ -2,7 +2,7 @@
 path:	"/blog/better-decisions-by-forecasting-cycle-time-as-a-team"
 date:	"2018-05-05"
 title:	"Better Decisions (By Forecasting Cycle Time as a Team)"
-image:	"/images/1*KD-bRw4IuXLNzl-CKNBiDw@2x.jpeg"
+image:	"../images/1*KD-bRw4IuXLNzl-CKNBiDw@2x.jpeg"
 ---
 
 Below I am sharing a script I use to facilitate forecasting the cycle time of a software product development initiative (not user stories, but initiatives, and only the time “in development”). I post this with hesitation given the tension around estimation and software development, and knowing that I risk getting “dinged” for various statements below (from multiple, super smart experts). But after some consideration I figured … what the heck. Even if it all gets ripped apart, it’ll spark a conversation.
@@ -17,7 +17,7 @@ The goal of this meeting is to generate a cycle time forecast for [some effort] 
 
 Estimates have historically been tasked with doing multiple “jobs”. Some of those jobs have to do with measuring people, performance managing teams, motivating teams/individuals (carrots), costing jobs (for contractors), creating budgets, having a plan to track to, judging the “predictability” of teams, manufacturing a sense of certainty, etc. etc.
 
-![](/images/1*KD-bRw4IuXLNzl-CKNBiDw@2x.jpeg)
+![](../images/1*KD-bRw4IuXLNzl-CKNBiDw@2x.jpeg)
 
 Good or bad, none of those apply here. Instead, I will cite two quotes:
 
@@ -35,21 +35,21 @@ Good or bad, none of those apply here. Instead, I will cite two quotes:
 
 You have to pick between these two efforts…which one do you choose? Cost of Delay is the opportunity cost stated per unit of time. CD3 is the Cost of Delay divided by duration.
 
-![](/images/1*cc8FENEoY9Uxa1nbU9evyg@2x.jpeg)
+![](../images/1*cc8FENEoY9Uxa1nbU9evyg@2x.jpeg)
 
 Perhaps looking at a chart might help? Here, the Y axis is CD3:
 
-![](/images/1*PGRauuLqQ3gEh1qoKdpn1A@2x.jpeg)
+![](../images/1*PGRauuLqQ3gEh1qoKdpn1A@2x.jpeg)
 
 The answer is pretty clear. Questions?
 
 Very importantly, what we do here today will never “settle ties”. Product development work — especially in a startup — is too variable, both from the value side and the “cost” side. A good example is a comparison between these two efforts. Here, I’ve run a monte carlo simulation for two efforts — including a range of uncertainty for **both the value and the duration**:
 
-![](/images/1*H7Xf9Hjq1-txCH_uEZKnkg@2x.jpeg)X-axis is CD3 (COD / Duration)
+![](../images/1*H7Xf9Hjq1-txCH_uEZKnkg@2x.jpeg)X-axis is CD3 (COD / Duration)
 
 “A” might be a slightly better option, but not by much. There will be a conversation. Or let’s look at two other efforts ….a highly valuable but uncertain item, and a “for sure” middling item:
 
-![](/images/1*IjENo9-H5-JtKGzlY-XPQQ@2x.jpeg)X-axis is CD3 (COD / Duration)
+![](../images/1*IjENo9-H5-JtKGzlY-XPQQ@2x.jpeg)X-axis is CD3 (COD / Duration)
 
 Option A is “all over the place”, but it’s a winner. That said, it will take a lot of gumption and grit to stay the course. There better be a plan to deliver A incrementally and reduce risk lest it spirals out of control.
 
@@ -61,11 +61,11 @@ Moving on…
 
 Our goal here is to forecast cycle time, not “touch” time or effort. This is an important distinction. Cycle time is the total time in “process”… from the time the full team of developers and designers kicks off the effort, to the day the effort reaches its “definition of done”.
 
-![](/images/1*ILJmBqw_YfsUc6w4gdIScg@2x.jpeg)Importantly, we tend to focus on what is tangible — level of effort, and complexity, or the size of the team — and fail to incorporate other factors that impact cycle time. The impact of these other factors on cycle time be quite large (>80% in some cases)
+![](../images/1*ILJmBqw_YfsUc6w4gdIScg@2x.jpeg)Importantly, we tend to focus on what is tangible — level of effort, and complexity, or the size of the team — and fail to incorporate other factors that impact cycle time. The impact of these other factors on cycle time be quite large (>80% in some cases)
 
 . All of this “stuff” exists below the waterline, as expressed in this diagram:
 
-![](/images/1*lDlt0bFBM1NhS_JoCGA2pw@2x.jpeg)
+![](../images/1*lDlt0bFBM1NhS_JoCGA2pw@2x.jpeg)
 
 Understanding this dynamic explains why certain domains/situations produce “better” estimates than others.
 
@@ -84,19 +84,19 @@ An important point about “outcome oriented” one-pagers. The lack of a specif
 
 For example, which bet do you choose here as a PM?
 
-![](/images/1*i2DdeDYbqCPZ8vdo461fLA@2x.jpeg)
+![](../images/1*i2DdeDYbqCPZ8vdo461fLA@2x.jpeg)
 
 Me? I pick Bet 2. Bet 1 seems more “certain”, but I better have a ton of data that the prescribed solution is going to deliver the “uncontroversial value in business outcome”. How do I know this is the best solution?
 
 Similarly, check out this comparison from [Spotify’s Unproject Culture deck](https://blog.crisp.se/wp-content/uploads/2014/03/unproject.pdf). The project on the right should have “won”, right?
 
-![](/images/1*KG0LUTH9GETlDgMPDRzUAg@2x.jpeg)
+![](../images/1*KG0LUTH9GETlDgMPDRzUAg@2x.jpeg)
 
 Finally, take a look at Cost of Delay / Duration combinations. What we find is that the high value / duration uncertain items, and the small / high-certainty duration items both look attractive. If something has the potential to be worth $10,000,000 a month, we go for it regardless of whether it may take one month or six months.
 
 *Lesson: Our assessment of VALUE is probably a good deal more important than our forecasting of duration in many cases…especially if we are a product company and not a T&M or fixed-cost contractor where all of your money is earned by delivering X by Y for Z.*
 
-![](/images/1*M3_kfvGezZJuss26DxQkoA@2x.jpeg)
+![](../images/1*M3_kfvGezZJuss26DxQkoA@2x.jpeg)
 
 ### Engineering Judgement
 
@@ -104,7 +104,7 @@ In various studies, “engineer judgement” was least reliable compared to prio
 
 [ILC Cost Estimating Activities, Peter H. Garbincius, Fermilab Chairman, GDE Design & Cost Board, LCD Study Group May 4, 2006](http://www-sldnt.slac.stanford.edu/nld/meetings/2006/20060504/LCD_Cost_Estimate_4may06.pdf)
 
-![](/images/1*Tbkb5BPImK-pQB7kZTAsNg@2x.jpeg)
+![](../images/1*Tbkb5BPImK-pQB7kZTAsNg@2x.jpeg)
 
 ### Adoption
 
@@ -152,7 +152,7 @@ Our goal today is to come up with a 90% Confidence Interval for our forecast. Wh
 
 Would you pick your 90%CI to win $1000, or the wheel? If you find yourself opting for one or the other, why is that?
 
-![](/images/1*LM14RE04k28x-lGtjQoLdw@2x.jpeg)
+![](../images/1*LM14RE04k28x-lGtjQoLdw@2x.jpeg)
 
 These games should play the same if you are “calibrated”.
 
@@ -162,7 +162,7 @@ How might we use certain phrases to tease out a 5% probability?
 
 <https://github.com/zonination/perceptions>
 
-![](/images/1*4q0qvY3Mkus650CjEbky9A@2x.jpeg)
+![](../images/1*4q0qvY3Mkus650CjEbky9A@2x.jpeg)
 
 Turns out some work better than others. Pick the terms most likely to produce the result we’re looking for:
 
@@ -176,7 +176,7 @@ You sort the durations by smallest to largest, and knock out the bottom “run�
 
 To aid in this effort, run a [pre-mortem](https://hbr.org/2007/09/performing-a-project-premortem) or [ritual dissent](http://cognitive-edge.com/methods/ritual-dissent/) activity to elicit some of the worst case scenarios. Additionally, look at the distribution across 1) all initiatives in your organization, and 2) initiatives that have a similar profile.
 
-![](/images/1*ciRgmPzPlr45d5OhuS55Bw@2x.jpeg)
+![](../images/1*ciRgmPzPlr45d5OhuS55Bw@2x.jpeg)
 
 #### Realize that in some settings, you are better off going with the base rate, as factors specific to the effort have very little influence.
 
@@ -184,7 +184,7 @@ To aid in this effort, run a [pre-mortem](https://hbr.org/2007/09/performing-a-p
 
 Please spend 2 minutes to individually come up with a lower bound and upper bound for your 90% CI for duration. I’d like you to consider the things we discussed about: base rate, historical efforts, what’s “under the surface” (the iceberg drawing), etc.
 
-![](/images/1*i0md-GFoNGnfotC6p_kYYg@2x.jpeg)
+![](../images/1*i0md-GFoNGnfotC6p_kYYg@2x.jpeg)
 
 Now…let’s discuss the outliers and explore our assumptions. Who anchored on base rate? Who had the highest upper/lower, and the lowest upper/lower?
 
@@ -192,4 +192,4 @@ And that’s it. It’s the conversation that counts. I want to end on a thought
 
 I’m super busy with the new baby, but hit my up on Twitter at @johncutlefish with questions/comments. And check out my [low-pressure podcast](https://anchor.fm/john-cutler/episodes/Who-Doesnt-Want-Outcomes-e1e0s4).
 
-![](/images/1*-G8R_df4NVn9gW_olBUCbw@2x.jpeg)
+![](../images/1*-G8R_df4NVn9gW_olBUCbw@2x.jpeg)

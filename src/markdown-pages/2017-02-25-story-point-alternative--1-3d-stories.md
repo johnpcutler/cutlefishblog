@@ -2,7 +2,7 @@
 path:	"/blog/story-point-alternative-1-3d-stories"
 date:	"2017-02-25"
 title:	"Story Point Alternative: 1–3d Stories"
-image:	"/images/1*zxrNvZpuSRAadSOUUK4c2w.png"
+image:	"../images/1*zxrNvZpuSRAadSOUUK4c2w.png"
 ---
 
 How about splitting all [user stories](https://www.mountaingoatsoftware.com/agile/user-stories) until they’re likely to take three or fewer days to complete? Let’s forget story points. It’s worth a try. If it doesn’t work, you can try something different.
@@ -23,7 +23,7 @@ Don’t compromise on quality. Just make the problem smaller. My guess is that t
 
 Focus on building the story-splitting discipline. That will trigger the “conversations” (one benefit ascribed to estimates). You’ve already got a small story (another benefit, as you’re supposed to “ask if you can break up the big stories”). When estimates/forecasts are important, there are other ways to achieve that.
 
-![](/images/1*zxrNvZpuSRAadSOUUK4c2w.png)
+![](../images/1*zxrNvZpuSRAadSOUUK4c2w.png)
 
 #### Dev: Is this like that #NoEstimates thing I’ve read about?
 

@@ -2,7 +2,7 @@
 path:	"/blog/what-startup-sales-can-learn-from-ux"
 date:	"2016-03-20"
 title:	"What Startup Sales Can Learn From UX"
-image:	"/images/1*sie8DhRoJZulViTzUsXmBA.png"
+image:	"../images/1*sie8DhRoJZulViTzUsXmBA.png"
 ---
 
 #### Startups, Sales, UX, and building a repeatable growth engine
@@ -27,21 +27,21 @@ The common theme here is a misunderstanding (either through lack of experience, 
 
 This is something that most of us understand intuitively — “no one person is the same” — but its impact on product design and sales service design (sales is a “service” if you think about it) is routinely underestimated. It’s the opportunist in all of us. We’d like to believe that there is a homogenous groundswell of interest in our product. So we turn on the sales firehose.
 
-![](/images/1*sie8DhRoJZulViTzUsXmBA.png)Sales and UX have a lot in common. Both deal with psychology every day — sales to [close the deal](http://www.businessinsider.com/daniel-pink-to-sell-is-human-2013-1), and [UX to design the experience](https://uxmag.com/articles/the-psychologists-view-of-ux-design)
+![](../images/1*sie8DhRoJZulViTzUsXmBA.png)Sales and UX have a lot in common. Both deal with psychology every day — sales to [close the deal](http://www.businessinsider.com/daniel-pink-to-sell-is-human-2013-1), and [UX to design the experience](https://uxmag.com/articles/the-psychologists-view-of-ux-design)
 
 . Sales understands that certain pains are ubiquitous, and routinely exploits that to close a deal and connect that to the story of your product. It’s necessary to try novel things and be scrappy. New stories, incentives, and nudges move the needle in the short-term. What we say we need, and what we actually need are two different things. Sales and UX gets all of this.
 
 Like users, sales teams optimize around what is “easiest” to sell, which may not correlate with what is easiest to support, retain, and grow. Internally, incentives reign supreme and — as any UX pro knows — it is difficult to reroute the sales freight train once it is up to full speed. Once a sales team gets moving it takes on a life of its own. Without [a strategy](https://hbr.org/2015/12/dont-turn-your-sales-team-loose-without-a-strategy), things can go a little haywire. Part and parcel to that strategy is having a sense of the “who”.
 
-![](/images/1*juOfh1pFqOVmICjLKHxkWg.png)UX knows it is very difficult to design a product or service that pleases all people, in all situations. People may look similar, and their pains may, in fact, be similar, but their product needs are not similar. Sales sells to common pains. UX designs for specific groupings of people and their pains. When UX thinks about personas they consider (among other things) technical savvy, experience with similar tools, experience in the domain, psychographics, barriers to adoption, relationships, demographics, behavioral traits, and organizational culture. Importantly, they design for a limited “fingerprint” across these various [dimensions](http://www.servicedesigntoolkit.org/assets2013/posters/EN/P3-persona%20dimensions-A1.pdf)
+![](../images/1*juOfh1pFqOVmICjLKHxkWg.png)UX knows it is very difficult to design a product or service that pleases all people, in all situations. People may look similar, and their pains may, in fact, be similar, but their product needs are not similar. Sales sells to common pains. UX designs for specific groupings of people and their pains. When UX thinks about personas they consider (among other things) technical savvy, experience with similar tools, experience in the domain, psychographics, barriers to adoption, relationships, demographics, behavioral traits, and organizational culture. Importantly, they design for a limited “fingerprint” across these various [dimensions](http://www.servicedesigntoolkit.org/assets2013/posters/EN/P3-persona%20dimensions-A1.pdf)
 
 .
 
-![](/images/1*7Cv8zQGubobRAua4cpdxEQ.png)<http://www.elezea.com/2013/09/case-study-vumi-go-redesign/>For example, there is a big difference between someone who knows how to solve the problem (with the right tool)
+![](../images/1*7Cv8zQGubobRAua4cpdxEQ.png)<http://www.elezea.com/2013/09/case-study-vumi-go-redesign/>For example, there is a big difference between someone who knows how to solve the problem (with the right tool)
 
  and someone who aspirationally seeks a solution. Both will buy the product and respond to pain selling. Building a product for both requires different strategies. John, an executive in a low growth industry working inside a stiff organizational culture will behave differently from Mary, an exec working inside a nimble, tech-forward organization in a high-growth sector. Both may be aware of the problem to solve. They agree on that. But John’s work will need to withstand organizational blockers, while Mary has to be scrappy and get the data she needs to secure next year’s budget.
 
-![](/images/1*jYvKGLHWArEF46xdeajYrQ.png)<http://www.bryaneisenberg.com/personas-magic-behind-mirror/>Increasing sales does not mean you have a [repeatable sales process](https://salesandmarketing.com/content/sales-playbooks-key-repeatable-sales-process)
+![](../images/1*jYvKGLHWArEF46xdeajYrQ.png)<http://www.bryaneisenberg.com/personas-magic-behind-mirror/>Increasing sales does not mean you have a [repeatable sales process](https://salesandmarketing.com/content/sales-playbooks-key-repeatable-sales-process)
 
 , or a repeatable path to growth. It doesn’t prove your product actually delivers specific value. Proving this requires more rigor. You are validating a “designed” sales process:
 
@@ -60,7 +60,7 @@ What are some specific examples?
 
 Nothing new here, but UX (and marketing) develops AND validates [rich personas](https://medium.com/@johnpcutler/persona-s-non-grata-5587cb46409c). Are these people who we think they are? Does their behavior match who we think they are? We consider [psychographics, demographics, goals, motivations, roadblocks, domain-specific characteristics, current roadblocks](http://www.contentharmony.com/blog/bootstrapped-customer-persona-validation/), etc. This is commonplace for big companies, but during the startup phase we are constantly drilling down, iterating, and validating our “persona hypothesis”. This is almost impossible if you’re taking a broad approach. Sure, your sales and growth might be higher, but you’re not learning.
 
-![](/images/1*yEolUvVRg8rQiKokLUQq5Q.png)<http://www.garymagnone.com/blog/content-marketing-digital-touchpoints/>This attention extends to the customer journey. How does the customer interact with your company from first impressions — the ad online or mention at a conference — to their first renewal as a happy company. UXers attempt to understand these types of problems using [customer journey maps](http://www.servicedesigntools.org/tools/8)
+![](../images/1*yEolUvVRg8rQiKokLUQq5Q.png)<http://www.garymagnone.com/blog/content-marketing-digital-touchpoints/>This attention extends to the customer journey. How does the customer interact with your company from first impressions — the ad online or mention at a conference — to their first renewal as a happy company. UXers attempt to understand these types of problems using [customer journey maps](http://www.servicedesigntools.org/tools/8)
 
  and then by validating these against actual customer behavior. Again, the more of these you now support, the more assumptions you have in “inventory”. Sheer luck and persistence can grow the business, but learning which journey actually produces that happy renewal is paramount.
 

@@ -2,7 +2,7 @@
 path:	"/blog/beyond-outcomes-over-outputs"
 date:	"2018-05-08"
 title:	"Beyond “Outcomes Over Outputs”"
-image:	"/images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg"
+image:	"../images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg"
 ---
 
 Consider a range of *mission-types (or mission scopes)* for a product development team:
@@ -35,13 +35,13 @@ These are important distinctions because many organizations lack the ability to 
 
 Consider the spectrum here ranging from 1–3 hour tasks to 3+ year foundational bets for the company. Before talking about whether Team A should be given a rough mockup, or be tasked with doing their own research, you should probably map these horizons for your company. How does it all fit together?
 
-![](/images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg)Because even if Team A is tasked with “solving this customer’s problem” (4), you’ll still need a way to connect it to short and long-term business outcomes. If you can’t, you’re just getting bogged down in a theoretical discussion on team autonomy and whether it leads to a subjectively better near-term, lower-level outcome. (This is why the “outcomes vs. outputs” discussion tends to stall, and settle on generating some short-term customer “outcomes”)
+![](../images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg)Because even if Team A is tasked with “solving this customer’s problem” (4), you’ll still need a way to connect it to short and long-term business outcomes. If you can’t, you’re just getting bogged down in a theoretical discussion on team autonomy and whether it leads to a subjectively better near-term, lower-level outcome. (This is why the “outcomes vs. outputs” discussion tends to stall, and settle on generating some short-term customer “outcomes”)
 
 .
 
 Here’s another take on a “bet graph” from [Henrik Kniberg](https://medium.com/u/3ccad081c81a)’s [Spotify Rhythm talk](https://blog.crisp.se/2016/06/08/henrikkniberg/spotify-rhythm):
 
-![](/images/1*2bwttN-9TJojdGII_wuS6w@2x.jpeg)
+![](../images/1*2bwttN-9TJojdGII_wuS6w@2x.jpeg)
 
 This type of coherence is rare when focusing on near-term outcomes only.
 
@@ -71,4 +71,4 @@ So, in summary…consider where your teams operate. Map the everyday work back t
 
 Every problem is a nested solution to a higher level problem….
 
-![](/images/1*rKrpOECpfJIxdx62l4diyg@2x.jpeg)
+![](../images/1*rKrpOECpfJIxdx62l4diyg@2x.jpeg)

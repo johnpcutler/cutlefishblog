@@ -2,10 +2,10 @@
 path:	"/blog/12-signs-youre-working-in-a-feature-factory"
 date:	"2016-11-17"
 title:	"12 Signs You’re Working in a Feature Factory"
-image:	"/images/1*A9HaI7x2MdvkTn48D9a0wg.jpeg"
+image:	"../images/1*A9HaI7x2MdvkTn48D9a0wg.jpeg"
 ---
 
-![](/images/1*A9HaI7x2MdvkTn48D9a0wg.jpeg)
+![](../images/1*A9HaI7x2MdvkTn48D9a0wg.jpeg)
 
 (Note: This was written in 2016. I recently — in late 2019 — [wrote a post about some things I've learned since then](https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later).)
 

@@ -2,7 +2,7 @@
 path:	"/blog/scaling-without-imploding"
 date:	"2017-10-03"
 title:	"Scaling Without Imploding"
-image:	"/images/1*wGbfR5brgV5dbSEznqSdMQ@2x.jpeg"
+image:	"../images/1*wGbfR5brgV5dbSEznqSdMQ@2x.jpeg"
 ---
 
 #### Early warning signs, continuous improvement, and (the right kind of) discipline
@@ -11,7 +11,7 @@ This post is about scaling your company. In particular, it is about sensemaking 
 
 #### **At first, things are like this:**
 
-![](/images/1*wGbfR5brgV5dbSEznqSdMQ@2x.jpeg)* High % of greenfield work. Everything is a first.
+![](../images/1*wGbfR5brgV5dbSEznqSdMQ@2x.jpeg)* High % of greenfield work. Everything is a first.
 * Developers who wrote the code are still with the company and understand why certain decisions and trade-offs were made.
 * Codebase and product(s) are less complex.
 * Team tends to hire “known quantities” from prior jobs (more direct experience working together).
@@ -21,7 +21,7 @@ This post is about scaling your company. In particular, it is about sensemaking 
 * Early customers are more accessible, engaged, and willing to provide feedback (and accept some cut corners).
 #### **OK, fast forward a couple years:**
 
-![](/images/1*xr-Ty5xGmAuDszbo6WpHGQ@2x.jpeg)* Lower % of greenfield work. “Completely new” stuff is rare. New work must occur within the constraints of old work.
+![](../images/1*xr-Ty5xGmAuDszbo6WpHGQ@2x.jpeg)* Lower % of greenfield work. “Completely new” stuff is rare. New work must occur within the constraints of old work.
 * Original developers have moved on, and/or have stopped being individual contributors. Body of decisions/trade-offs is too large to be effectively communicated.
 * Product has become much more complex.
 * Fewer referred hires.
@@ -31,7 +31,7 @@ This post is about scaling your company. In particular, it is about sensemaking 
 * Early customers are now dwarfed by new customers who passed through more traditional onboarding channels.
 #### **When stuff “slows down”, this situations leads to a lot of questions and finger pointing:**
 
-![](/images/1*LFzKmbxPiTaJAWqwnYRP1w@2x.jpeg)* Why is Team 1 struggling, while Team 2 is kicking ass?
+![](../images/1*LFzKmbxPiTaJAWqwnYRP1w@2x.jpeg)* Why is Team 1 struggling, while Team 2 is kicking ass?
 * Have we lowered the hiring bar? Why?Maybe this is a process thing…maybe we were just too reckless before and this is the “new normal”?
 * Have people lost their motivation? Are they trying hard?
 * Did our original team members make poor decisions early on?
@@ -44,7 +44,7 @@ This is a small sampling of questions, but you get the idea.
 
 #### Answering those questions and resolving those disputes is very difficult:
 
-![](/images/1*L_3NNTU5eYAMga3u5jQjQA@2x.jpeg)* Most arguments are partially right. Almost anything can be correctly listed as a contributing factor.
+![](../images/1*L_3NNTU5eYAMga3u5jQjQA@2x.jpeg)* Most arguments are partially right. Almost anything can be correctly listed as a contributing factor.
 * Some things will *always* get harder with growth/scale.
 * A local view does not yield the whole story.
 * A global — but far removed — view does not yield the whole story.
@@ -54,7 +54,7 @@ This is a small sampling of questions, but you get the idea.
 * Apples-to-apples comparisons (between teams and between other companies) are almost never possible.
 #### Which leads to:
 
-![](/images/1*kqf9ixo3nQCTM35QH5BZig@2x.jpeg)* Self-doubt. A newcomer, for example, might not know if their observations are “right” or if there is something they are missing.
+![](../images/1*kqf9ixo3nQCTM35QH5BZig@2x.jpeg)* Self-doubt. A newcomer, for example, might not know if their observations are “right” or if there is something they are missing.
 * Fear, and less information sharing.
 * Defensive stances. A shift from solving the problem to shaping the narrative and/or advancing individual solutions.
 * Inaction, or rapid action where it is easiest and least controversial (typically on the front-line level).

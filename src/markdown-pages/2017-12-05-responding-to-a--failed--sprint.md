@@ -2,7 +2,7 @@
 path:	"/blog/responding-to-a-failed-sprint"
 date:	"2017-12-05"
 title:	"Responding to a “Failed” Sprint"
-image:	"/images/1*WJVV9mY08YEX99AEwX8CGw@2x.jpeg"
+image:	"../images/1*WJVV9mY08YEX99AEwX8CGw@2x.jpeg"
 ---
 
 This post is about “failed” sprints and what to do about them. I use an example to demonstrate some key principles. Sprints are a forcing function meant to help us learn/improve. **The real failure is not learning from them.**
@@ -15,7 +15,7 @@ This post is about “failed” sprints and what to do about them. I use an exam
 
 It is the end of a sprint, and the sprint board looks like this:
 
-![](/images/1*WJVV9mY08YEX99AEwX8CGw@2x.jpeg)Hmmm. The team took on six stories, and finished four…except they didn’t finish four stories, as three of those stories have **dependencies** on a story in progress (looks like the stories were not independent)
+![](../images/1*WJVV9mY08YEX99AEwX8CGw@2x.jpeg)Hmmm. The team took on six stories, and finished four…except they didn’t finish four stories, as three of those stories have **dependencies** on a story in progress (looks like the stories were not independent)
 
 . Only one of the stories is truly Done, and can be shipped.
 
@@ -26,7 +26,7 @@ What do teams typically do in this case?
 
 At the start of Sprint 2, the board looks like this:
 
-![](/images/1*hvsRZRtMiKjrnmK8zWQ87w@2x.jpeg)Hmmm. Seems like an intuitive idea (to the team)
+![](../images/1*hvsRZRtMiKjrnmK8zWQ87w@2x.jpeg)Hmmm. Seems like an intuitive idea (to the team)
 
  …
 
@@ -35,7 +35,7 @@ At the start of Sprint 2, the board looks like this:
 
 At the end of the next sprint (assuming things don’t go to plan, because they almost never do), things look like this…
 
-![](/images/1*ExmHcuQA6sCuW-YhfdGUlw@2x.jpeg)Hmmm. What is happening here? The team finishes the story that was previously in Doing. Its dependency didn’t fair as well, and is now stuck in Doing. Two of the stories moved smoothly through to Shipped, but the third story got stuck (there was a production issue in the latter part of the week)
+![](../images/1*ExmHcuQA6sCuW-YhfdGUlw@2x.jpeg)Hmmm. What is happening here? The team finishes the story that was previously in Doing. Its dependency didn’t fair as well, and is now stuck in Doing. Two of the stories moved smoothly through to Shipped, but the third story got stuck (there was a production issue in the latter part of the week)
 
 .
 
@@ -43,7 +43,7 @@ At the end of the next sprint (assuming things don’t go to plan, because they 
 
 If we include the production issue, the board looks like this….
 
-![](/images/1*GtCrOlyJqtlw_6ooOkk3Lg@2x.jpeg)
+![](../images/1*GtCrOlyJqtlw_6ooOkk3Lg@2x.jpeg)
 
 There’s a whole host of things that could have had a similar impact: sickness, company events, planned vacation, a new team member struggling to get their environment in shape, or a seasoned team member hosing their machine somehow.
 

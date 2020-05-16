@@ -2,13 +2,13 @@
 path:	"/blog/pms-try-this-thought-experiment"
 date:	"2017-03-08"
 title:	"PMs: Try This Thought Experiment"
-image:	"/images/1*C6OZwtnTYT6fVtzO3LHeJQ.png"
+image:	"../images/1*C6OZwtnTYT6fVtzO3LHeJQ.png"
 ---
 
 The following question/though experiment is a great conversation starter for product managers and other stakeholders. The deeper you go, the more valuable it gets.
 
 
-> What if the team simply stopped adding new complexity to your product? What exactly would happen? When?![](/images/1*C6OZwtnTYT6fVtzO3LHeJQ.png)
+> What if the team simply stopped adding new complexity to your product? What exactly would happen? When?![](../images/1*C6OZwtnTYT6fVtzO3LHeJQ.png)
 
 <http://past1978.deviantart.com/art/Destroyed-factory-175203951>This is an interesting question for a couple reasons. First, you begin to realize how obsessed we are about output. The scenario itself makes us uncomfortable.
 

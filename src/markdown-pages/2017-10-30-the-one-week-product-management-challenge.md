@@ -2,10 +2,10 @@
 path:	"/blog/the-one-week-product-management-challenge"
 date:	"2017-10-30"
 title:	"The One Week Product Management Challenge"
-image:	"/images/1*bAPkb82mpg9BmFgP3qa9Sw@2x.jpeg"
+image:	"../images/1*bAPkb82mpg9BmFgP3qa9Sw@2x.jpeg"
 ---
 
-![](/images/1*bAPkb82mpg9BmFgP3qa9Sw@2x.jpeg)
+![](../images/1*bAPkb82mpg9BmFgP3qa9Sw@2x.jpeg)
 
 ### OK PMs. Make this week great. Less backlog bingo. Less busy. Think high leverage, and rock it. Try to get in…
 

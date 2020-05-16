@@ -2,10 +2,10 @@
 path:	"/blog/team-why-cant-we-go-faster"
 date:	"2018-07-09"
 title:	"Team! Why Can’t We Go Faster?!"
-image:	"/images/1*jkUtQdfgFyynpMxB-RBuPg@2x.jpeg"
+image:	"../images/1*jkUtQdfgFyynpMxB-RBuPg@2x.jpeg"
 ---
 
-![](/images/1*jkUtQdfgFyynpMxB-RBuPg@2x.jpeg)
+![](../images/1*jkUtQdfgFyynpMxB-RBuPg@2x.jpeg)
 
 *Note: I like fixing this type of problem. But I also enjoy highlighting the dynamic first…*
 

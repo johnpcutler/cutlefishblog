@@ -2,14 +2,14 @@
 path:	"/blog/explaining-product-market-fit-in-60-seconds"
 date:	"2016-09-08"
 title:	"Explaining Product/Market Fit in 60 Seconds"
-image:	"/images/1*Q4ql8AqNvIIuGpKgDicMjw.png"
+image:	"../images/1*Q4ql8AqNvIIuGpKgDicMjw.png"
 ---
 
 #### Your product shows potential. But does it perform?
 
 Product/market fit is a slippery term. I think of it as follows (3Ps):
 
-![](/images/1*Q4ql8AqNvIIuGpKgDicMjw.png)
+![](../images/1*Q4ql8AqNvIIuGpKgDicMjw.png)
 
 #### Pain
 

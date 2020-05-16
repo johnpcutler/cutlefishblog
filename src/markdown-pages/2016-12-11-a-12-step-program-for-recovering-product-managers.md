@@ -2,10 +2,10 @@
 path:	"/blog/a-12-step-program-for-recovering-product-managers"
 date:	"2016-12-11"
 title:	"A 12-Step Program for Recovering Product Managers"
-image:	"/images/1*txyuPaVi0r2IALW3zjwUqA.jpeg"
+image:	"../images/1*txyuPaVi0r2IALW3zjwUqA.jpeg"
 ---
 
-![](/images/1*txyuPaVi0r2IALW3zjwUqA.jpeg)I frequently hear from Product Managers that want to break the vicious cycle of the [Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2#.cyaqivj9x)
+![](../images/1*txyuPaVi0r2IALW3zjwUqA.jpeg)I frequently hear from Product Managers that want to break the vicious cycle of the [Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2#.cyaqivj9x)
 
 . You know it’s wrong for your team, and your customers, but you can’t break free. Sometimes you question whether product management is even the right profession.
 

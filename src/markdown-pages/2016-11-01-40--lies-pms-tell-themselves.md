@@ -2,12 +2,12 @@
 path:	"/blog/40-lies-pms-tell-themselves"
 date:	"2016-11-01"
 title:	"40+ Lies PMs Tell Themselves"
-image:	"/images/1*g_ZYVIBj2KWCjOiS2qumYw.png"
+image:	"../images/1*g_ZYVIBj2KWCjOiS2qumYw.png"
 ---
 
 I figured I’d start the ball rolling here. I’d love if you could contribute in the comments. No judgement (I’ve fallen victim to many of these).
 
-![](/images/1*g_ZYVIBj2KWCjOiS2qumYw.png)<http://www.kera.org/2014/07/22/delusional-perspective/>1. We can predict the future
+![](../images/1*g_ZYVIBj2KWCjOiS2qumYw.png)<http://www.kera.org/2014/07/22/delusional-perspective/>1. We can predict the future
 2. We can impersonate our customers
 3. The customer with the failed usability test is not representative
 4. The customer who loves the new feature is representative

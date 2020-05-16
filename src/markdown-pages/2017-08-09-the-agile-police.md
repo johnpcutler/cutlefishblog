@@ -2,10 +2,10 @@
 path:	"/blog/the-agile-police"
 date:	"2017-08-09"
 title:	"The Agile Police"
-image:	"/images/1*kKuWsS9z82xTGJkhkOB4eA.png"
+image:	"../images/1*kKuWsS9z82xTGJkhkOB4eA.png"
 ---
 
-![](/images/1*kKuWsS9z82xTGJkhkOB4eA.png)
+![](../images/1*kKuWsS9z82xTGJkhkOB4eA.png)
 
 Gratuitous clip art so that Medium has a preview image.Seriously. Sometimes I need to step out of the Agile echo chamber.
 

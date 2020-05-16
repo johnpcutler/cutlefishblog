@@ -2,10 +2,10 @@
 path:	"/blog/so-that-prioritization-spreadsheet"
 date:	"2018-02-25"
 title:	"So That Prioritization Spreadsheet…"
-image:	"/images/1*tzHSh5eKrquzdJELhoxx1w@2x.jpeg"
+image:	"../images/1*tzHSh5eKrquzdJELhoxx1w@2x.jpeg"
 ---
 
-![](/images/1*tzHSh5eKrquzdJELhoxx1w@2x.jpeg)
+![](../images/1*tzHSh5eKrquzdJELhoxx1w@2x.jpeg)
 
 Lots of organizations cook up homegrown prioritization spreadsheets.
 

@@ -2,7 +2,7 @@
 path:	"/blog/thats-a-great-idea"
 date:	"2017-06-08"
 title:	"“That’s A Great Idea!”"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 Don’t assume people are aligned when they agree on a solution or next step.

@@ -2,10 +2,10 @@
 path:	"/blog/to-be-a-team"
 date:	"2017-05-10"
 title:	"To be a team"
-image:	"/images/1*XVJg3i1j5fhPDx961bbsvQ.jpeg"
+image:	"../images/1*XVJg3i1j5fhPDx961bbsvQ.jpeg"
 ---
 
-![](/images/1*XVJg3i1j5fhPDx961bbsvQ.jpeg)
+![](../images/1*XVJg3i1j5fhPDx961bbsvQ.jpeg)
 
 Product development teams are a fun bunch. When it clicks and there’s flow across the team….that is super special. I always love going back to old team working agreements, team values, and team principles. Sometimes they don’t stand the test of time. And sometimes they still ring clear!
 
@@ -30,4 +30,4 @@ Old team “reminders”. I really like these (even in retrospect):
 * Discipline, responsibility, and accountability are part of the craft. Make sure these words don’t get abused and polluted
 * Before thinking “more process” check for trust
 * Laugh and have fun. We’re making stuff! How cool is that?
-![](/images/1*Cj7A6ATH_veXnBQ0qvgWYA.png)
+![](../images/1*Cj7A6ATH_veXnBQ0qvgWYA.png)

@@ -2,12 +2,12 @@
 path:	"/blog/time-management-tips-for-product-managers"
 date:	"2016-03-27"
 title:	"Time Management: Tips for Product Managers"
-image:	"/images/defaultimage.png"
+image:	"../images/defaultimage.png"
 ---
 
 Time management can make or break your career as a product manager. You are never “done”. There’s always more to do than you can possibly fit into a 60hr week. And the cult of the rockstar PM only exacerbates the situation. Organizations are hesitant to split the role for fear of incurring coordination costs or losing that single “wringable neck”. It’s a recipe for burnout, and a big reason why people do their time in the PM ranks and then leave for greener pastures.
 
-![](/images/0*fDxI8bjXm9lfrJuP.)<https://theconsultantlounge.com/2015/09/avoid-burnout-in-consulting/>### Say No (Nicely)
+![](../images/0*fDxI8bjXm9lfrJuP.)<https://theconsultantlounge.com/2015/09/avoid-burnout-in-consulting/>### Say No (Nicely)
 
 
 

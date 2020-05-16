@@ -2,10 +2,10 @@
 path:	"/blog/measurement-malpractice"
 date:	"2018-01-22"
 title:	"Measurement Malpractice"
-image:	"/images/1*ThQ9aRV8ir6eYi6-_W3tGw@2x.jpeg"
+image:	"../images/1*ThQ9aRV8ir6eYi6-_W3tGw@2x.jpeg"
 ---
 
-![](/images/1*ThQ9aRV8ir6eYi6-_W3tGw@2x.jpeg)
+![](../images/1*ThQ9aRV8ir6eYi6-_W3tGw@2x.jpeg)
 
 Why are you measuring that?
 

@@ -2,12 +2,12 @@
 path:	"/blog/5-simple-questions-to-drive-validated-learning"
 date:	"2016-07-23"
 title:	"5 Simple Questions to Drive Validated Learning"
-image:	"/images/1*gsDRyfZEkjvaDzOJJTgGeA.png"
+image:	"../images/1*gsDRyfZEkjvaDzOJJTgGeA.png"
 ---
 
 b'\n\n\nHere is a simple model that frames product development as an effort to trigger a change in user behavior. It is accessible and not too jargon-laden. It can be used to describe things on the highest level — a whole business, for example — or a specific, low-level design change.
 
-![](/images/1*gsDRyfZEkjvaDzOJJTgGeA.png)
+![](../images/1*gsDRyfZEkjvaDzOJJTgGeA.png)
 
 #### Whose behavior will change because of the work?
 
@@ -43,7 +43,7 @@ The behavior change must result in some benefit for it to “stick”. Without a
 
 In the spirit of validated learning, we attempt to validate the various assumptions — explicit and implicit — in the framework:
 
-![](/images/1*YculttC5xLDY8W-9-Zyxow.png)* The Target exists, and can be isolated and targeted consistently
+![](../images/1*YculttC5xLDY8W-9-Zyxow.png)* The Target exists, and can be isolated and targeted consistently
 * The Target’s current behavior exists, and can be measured and understood
 * We can change the Target’s behavior with our Intervention
 * We can measure and understand their new behavior

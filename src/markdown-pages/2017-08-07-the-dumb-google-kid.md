@@ -2,10 +2,10 @@
 path:	"/blog/the-dumb-google-kid"
 date:	"2017-08-07"
 title:	"The Dumb Google Kid"
-image:	"/images/1*TQK5mjuWU9QjEu6wrg0E9w.png"
+image:	"../images/1*TQK5mjuWU9QjEu6wrg0E9w.png"
 ---
 
-![](/images/1*TQK5mjuWU9QjEu6wrg0E9w.png)
+![](../images/1*TQK5mjuWU9QjEu6wrg0E9w.png)
 
 Here is the problem.
 

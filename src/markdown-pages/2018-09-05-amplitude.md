@@ -2,7 +2,7 @@
 path:	"/blog/amplitude"
 date:	"2018-09-05"
 title:	"Amplitude"
-image:	"/images/1*beKwQ-wjrwAk8-PyFrOTeQ@2x.jpeg"
+image:	"../images/1*beKwQ-wjrwAk8-PyFrOTeQ@2x.jpeg"
 ---
 
 Quick update!
@@ -19,4 +19,4 @@ I’ll continue doing my personal writing, tweeting, speaking, and side-hustles.
 
 Another fun perk…I’ll be up in SF weekly (for the day), but be down in Santa Barbara with this little guy the rest of the time.
 
-![](/images/1*beKwQ-wjrwAk8-PyFrOTeQ@2x.jpeg)
+![](../images/1*beKwQ-wjrwAk8-PyFrOTeQ@2x.jpeg)

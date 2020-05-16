@@ -2,7 +2,7 @@
 path:	"/blog/messy-middle"
 date:	"2018-09-13"
 title:	"Messy Middle"
-image:	"/images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg"
+image:	"../images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg"
 ---
 
 Here’s an observation after interacting closely with a number of product teams.
@@ -16,7 +16,7 @@ There’s a gap in the “messy middle”. Where is the messy middle? Let’s im
 * 1–3 quarters
 * 1–3 years
 * 1–3 decades
-![](/images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg)
+![](../images/1*HcWuHuPvsQmpXeEyEtvhww@2x.jpeg)
 
 Of course this is “nested”, meaning that 1–3 hour “stuff” drives 1–3 day “stuff”…all the way to the huge bets that define why the company even exists.
 

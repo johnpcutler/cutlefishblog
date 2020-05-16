@@ -2,12 +2,12 @@
 path:	"/blog/50-things-ive-learned-about-product-management"
 date:	"2016-12-19"
 title:	"50 Things I’ve Learned About Product Management"
-image:	"/images/1*qDSjH1hEIeCtnQm8jZchmw.jpeg"
+image:	"../images/1*qDSjH1hEIeCtnQm8jZchmw.jpeg"
 ---
 
 #### The Sunday, can’t sleep, had coffee after 2PM edition…
 
-![](/images/1*qDSjH1hEIeCtnQm8jZchmw.jpeg)It’s often the little things that count…1. You are wrong more often than you are right. The trick is getting a couple shots at solving the problem.
+![](../images/1*qDSjH1hEIeCtnQm8jZchmw.jpeg)It’s often the little things that count…1. You are wrong more often than you are right. The trick is getting a couple shots at solving the problem.
 2. Your company can do (almost) everything wrong, and still grow in the short and near term.
 3. You can do (almost) everything right, and not outrun the elephant in the room.
 4. Without a strong product vision, you’ll end up outsourcing product strategy to the rest of the company.

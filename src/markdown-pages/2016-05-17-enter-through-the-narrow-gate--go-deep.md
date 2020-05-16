@@ -2,7 +2,7 @@
 path:	"/blog/enter-through-the-narrow-gate-go-deep"
 date:	"2016-05-17"
 title:	"Enter Through The Narrow Gate (Go Deep)"
-image:	"/images/1*5-jWrdgukbnOoehFBRguBg.png"
+image:	"../images/1*5-jWrdgukbnOoehFBRguBg.png"
 ---
 
 
@@ -11,7 +11,7 @@ image:	"/images/1*5-jWrdgukbnOoehFBRguBg.png"
 
 Imagine opening a sushi restaurant catering to both sushi aficionados and sushi newbies. Try to decorate it to be a great date spot and a convenient lunch option. Make it accessible to cost-conscious foodies and jet-setters. Hire staff that can communicate with your Japanese clientele and explain sushi to traveling Swedes. Seat people for 25 minutes and 3 hours. Does this sound feasible?
 
-![](/images/1*5-jWrdgukbnOoehFBRguBg.png)
+![](../images/1*5-jWrdgukbnOoehFBRguBg.png)
 
 Not really. I wouldn’t bet on it.
 

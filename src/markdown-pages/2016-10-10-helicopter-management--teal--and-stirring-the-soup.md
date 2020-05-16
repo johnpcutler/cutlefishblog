@@ -2,7 +2,7 @@
 path:	"/blog/helicopter-management-teal-and-stirring-the-soup"
 date:	"2016-10-10"
 title:	"Helicopter Management, Teal, and Stirring The Soup"
-image:	"/images/1*dL_2WWibLJkuIyN14qS7ow.png"
+image:	"../images/1*dL_2WWibLJkuIyN14qS7ow.png"
 ---
 
 #### Get Shift Done: Management
@@ -13,7 +13,7 @@ You thought things were political before?
 
 The irony of fostering autonomous and self-organizing teams is that it eventually negates the need for traditional management. This is a common pattern observed during re-orgs and “transformations”. Being savvy career-wise, management tries to adapt and in the process becomes even more spooky and political. It’s like parents transitioning from command and control to [helicopter parenting](https://en.wikipedia.org/wiki/Helicopter_parent). In some cases it is downright Orwellian.
 
-![](/images/1*dL_2WWibLJkuIyN14qS7ow.png)Have you heard of *teal* organizations? Teal is where it’s at (it is [humbly referred to](http://www.reinventingorganizationswiki.com/Teal_Organizations) as the “next stage in the evolution of human consciousness”)
+![](../images/1*dL_2WWibLJkuIyN14qS7ow.png)Have you heard of *teal* organizations? Teal is where it’s at (it is [humbly referred to](http://www.reinventingorganizationswiki.com/Teal_Organizations) as the “next stage in the evolution of human consciousness”)
 
 . Teal isn’t some drab Orange:
 

@@ -2,7 +2,7 @@
 path:	"/blog/11-ways-i-visualize-product-development-work"
 date:	"2017-08-09"
 title:	"11 Ways I Visualize Product Development Work"
-image:	"/images/1*9d0uE4GWH1cJh0e1xtnAQA.png"
+image:	"../images/1*9d0uE4GWH1cJh0e1xtnAQA.png"
 ---
 
 …sharing some drawings and notes from a whiteboard training today.
@@ -28,7 +28,7 @@ I’d like to share a couple that work for me. There are more, but these are som
 
 #### **1. One page roadmap**
 
-![](/images/1*9d0uE4GWH1cJh0e1xtnAQA.png)
+![](../images/1*9d0uE4GWH1cJh0e1xtnAQA.png)
 
 Good for…
 
@@ -39,7 +39,7 @@ Good for…
 * Great backdrop for chatting about the now, and the next couple quarters
 #### **2. Benefits map**
 
-![](/images/1*OMmcUo6yvnFNbjXfTVLKBg.png)
+![](../images/1*OMmcUo6yvnFNbjXfTVLKBg.png)
 
 Good for…
 
@@ -49,7 +49,7 @@ Good for…
 * Metrics brainstorming (“how will we measure the outcome”)
 #### [**3. User story map**](http://jpattonassociates.com/user-story-mapping/)
 
-![](/images/1*GL1x-mT6a5vBx3tyea514Q.png)
+![](../images/1*GL1x-mT6a5vBx3tyea514Q.png)
 
 Good for…
 
@@ -60,7 +60,7 @@ Good for…
 * PS: In my dream world, someone would make a user story map that could also be re-visualized as a kanban board. I think they’re probably the best all around tool for triggering conversations
 #### **4. Epic board**
 
-![](/images/1*WHj4v1SauVqgJk6Er6DRvg.png)
+![](../images/1*WHj4v1SauVqgJk6Er6DRvg.png)
 
 Good for…
 
@@ -69,7 +69,7 @@ Good for…
 * Coarse-level backlog grooming
 #### **5. Timeline**
 
-![](/images/1*m1Ku4kURXuHm3-yC0v1hNg.png)
+![](../images/1*m1Ku4kURXuHm3-yC0v1hNg.png)
 
 Good for…
 
@@ -79,7 +79,7 @@ Good for…
 * **Warning:** I prefer not to see actual dates in the timeline. One trick is to obscure the timeline with a large “this month”, and smaller subsequent months … perhaps even keeping 6–12 months as a single block
 #### **6. “Standup” Board**
 
-![](/images/1*VLZ4vVuYGkdKo18W9vwT5A.png)
+![](../images/1*VLZ4vVuYGkdKo18W9vwT5A.png)
 
 Good for…
 
@@ -89,7 +89,7 @@ Good for…
 * Knowing what is in PR review, staging, prod, etc.
 #### **7. Mind map with horizons**
 
-![](/images/1*a8hK2zyp0NhvSNJWuwjVCQ.png)
+![](../images/1*a8hK2zyp0NhvSNJWuwjVCQ.png)
 
 Good for…
 
@@ -98,7 +98,7 @@ Good for…
 * Reinforcing that tactics/experiments may change, but the Why remains
 #### **8. Combined Epic/Story board**
 
-![](/images/1*KNTHOfcpltXg21PILzCvPA.png)
+![](../images/1*KNTHOfcpltXg21PILzCvPA.png)
 
 Good for…
 
@@ -107,7 +107,7 @@ Good for…
 * Trying to merge the “bigger picture” with day-to-day activities
 #### **9. Big visual checklist**
 
-![](/images/1*0YkIcM-1FbPaLEQjmQ9xGQ.png)
+![](../images/1*0YkIcM-1FbPaLEQjmQ9xGQ.png)
 
 Good for…
 
@@ -116,7 +116,7 @@ Good for…
 * Sometimes, success is truly about ripping through stories (not often, in my book)
 #### [10. Impact map](https://uxpressia.com/blog/build-impact-map-4-easy-steps).
 
-![](/images/1*GdBDuQ3ojrloUVoeVEe2Mg.png)
+![](../images/1*GdBDuQ3ojrloUVoeVEe2Mg.png)
 
 Good for…
 
@@ -125,7 +125,7 @@ Good for…
 * Can be a better option when words like “Outcome” and “Intervention” scare people away
 #### **11. Experiment timeline**
 
-![](/images/1*SYaU_7wVBAy730ROVhJgug.png)
+![](../images/1*SYaU_7wVBAy730ROVhJgug.png)
 
 Good for…
 

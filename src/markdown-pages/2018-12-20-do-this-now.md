@@ -2,7 +2,7 @@
 path:	"/blog/do-this-now"
 date:	"2018-12-20"
 title:	"Do This Now!"
-image:	"/images/1*4QMssKbRq2cO_vNeAOeriw.jpeg"
+image:	"../images/1*4QMssKbRq2cO_vNeAOeriw.jpeg"
 ---
 
 I don’t write many prescriptive posts. This one will be different.
@@ -37,4 +37,4 @@ Medium says…
 
 > Include a high-quality image in your story to make it more inviting to readers.So here’s a doodle my dad did the other day:
 
-![](/images/1*4QMssKbRq2cO_vNeAOeriw.jpeg)
+![](../images/1*4QMssKbRq2cO_vNeAOeriw.jpeg)

@@ -2,14 +2,14 @@
 path:	"/blog/agile-makes-no-sense"
 date:	"2018-06-28"
 title:	"Agile Makes No Sense"
-image:	"/images/1*CQc_XVCqX5TtOgxYQHT0dQ@2x.jpeg"
+image:	"../images/1*CQc_XVCqX5TtOgxYQHT0dQ@2x.jpeg"
 ---
 
 I’ve spent a good amount of time learning why Agile-inspired patterns “work” — mostly the “hard way” (doing), but also through individual study, group study, conference going, participating in the community, and learning what most decidedly *does not* work.
 
 But it dawned on me recently that to any sane person — without lots of practice doing this stuff in *real world settings and seeing it work —* Agile makes no sense. Pair? *Are you kidding me?* Mob? *OK, now you’re truly crazy*. Release a crappy but usable version of the product in a week? *Why?* Figure out a near term goal and go — without lots of documentation and planning? *That’s insane.* Invite customers into the process? *They’ll freak out!* Let teams self-manage, self-organize, and decide where to focus continuous improvement efforts? *Is this Lord of the Flies? *Team goals, not individual goals?* Are you a socialist? *On and on.
 
-![](/images/1*CQc_XVCqX5TtOgxYQHT0dQ@2x.jpeg)
+![](../images/1*CQc_XVCqX5TtOgxYQHT0dQ@2x.jpeg)
 
 If it made sense, everyone would be doing it, right?
 
