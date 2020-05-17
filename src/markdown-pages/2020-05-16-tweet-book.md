@@ -5,7 +5,15 @@ title:	"Some Tweets"
 image:	"../images/layercake.jpg"
 ---
 
+On **September 1st, 2020**, I will be releasing a curated collection of my drawings, infographics, and brief thoughts from Twitter. I'd like to offer the option of pre-ordering of the book. Having some pre-orders would be super motivating, and would let me pay a designer more. Peer pressure works (on me, at least).
 
+[Click here pre-order the book](https://gum.co/MTAVD)
+
+Twitter has been my primary medium for sharing ideas for almost five years. The conversations and immediacy inspire me. I've had a chip on my shoulder about "writing a book", but it occurred to me that my work is already out there! Maybe it is time to embrace that full-on.
+
+My goal is not to replicate Twitter. Rather, I want to present the content in a more accessible way. I'm going to hire a great designer (part of the reason I am doing a pre-order). Gumroad will authorize your card, but only charge you when the book is released.
+
+Below is a small cross-section of my "work". Hope you enjoy it.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I found it! I found it! I found the CUSTOMER! <a href="https://twitter.com/hashtag/agile?src=hash&amp;ref_src=twsrc%5Etfw">#agile</a> ? <a href="https://t.co/ZCGtT6jDcB">pic.twitter.com/ZCGtT6jDcB</a></p>&mdash; John Cutler (@johncutlefish) <a href="https://twitter.com/johncutlefish/status/1107476458727854081?ref_src=twsrc%5Etfw">March 18, 2019</a></blockquote>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">team wondered &quot;where did the time go?&quot; and kept a log for a week.<br><br>flu season, holiday season<br>issue in production<br>company meeting<br>meetings<a href="https://twitter.com/hashtag/notabnormal?src=hash&amp;ref_src=twsrc%5Etfw">#notabnormal</a> <a href="https://twitter.com/hashtag/ux?src=hash&amp;ref_src=twsrc%5Etfw">#ux</a> <a href="https://twitter.com/hashtag/product?src=hash&amp;ref_src=twsrc%5Etfw">#product</a> <a href="https://twitter.com/hashtag/ux?src=hash&amp;ref_src=twsrc%5Etfw">#ux</a> <a href="https://twitter.com/hashtag/softwaredevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#softwaredevelopment</a> <a href="https://t.co/xQX82spsDI">pic.twitter.com/xQX82spsDI</a></p>&mdash; John Cutler (@johncutlefish) <a href="https://twitter.com/johncutlefish/status/937205505079910402?ref_src=twsrc%5Etfw">December 3, 2017</a></blockquote>
