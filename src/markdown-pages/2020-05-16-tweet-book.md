@@ -7,7 +7,7 @@ image:	"../images/layercake.jpg"
 
 On **September 1st, 2020**, I will be releasing a curated collection of my drawings, infographics, and brief thoughts from Twitter. I'd like to offer the option of pre-ordering of the book. Having some pre-orders would be super motivating, and would let me pay a designer more. Peer pressure works (on me, at least).
 
-[Click here pre-order the book](https://gum.co/MTAVD)
+[Click here to pre-order the book](https://gum.co/MTAVD)
 
 Twitter has been my primary medium for sharing ideas for almost five years. The conversations and immediacy inspire me. I've had a chip on my shoulder about "writing a book", but it occurred to me that my work is already out there! Maybe it is time to embrace that full-on.
 
