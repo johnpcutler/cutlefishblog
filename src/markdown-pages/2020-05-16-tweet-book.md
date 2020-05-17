@@ -1,7 +1,7 @@
 ---
 path:	"/blog/some-tweets"
 date:	"2020-05-16"
-title:	"Some Tweets"
+title:	"Book Pre-Order"
 image:	"../images/layercake.jpg"
 ---
 

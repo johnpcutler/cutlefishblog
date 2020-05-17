@@ -16,7 +16,7 @@ export default function Template({
 		<SEO title={frontmatter.title} previewImage={frontmatter.image.childImageSharp.fixed.src} />
     <div className="blog-post-container">
       <div className="blog-post">
-				<p><mark>I recently co-wrote the <a href="https://amplitude.com/north-star?utm_source=cutler">North Star Playbook</a>. Please check it out.</mark></p>
+				<p><mark>Pre-order my <a href="https://gum.co/MTAVD">next book</a>!</mark></p>
         <h1>{frontmatter.title}</h1>
         <h4>Published: {frontmatter.date}</h4>
         <div
