@@ -57,7 +57,7 @@ module.exports = {
 		'gatsby-plugin-robots-txt',
 		`gatsby-plugin-twitter`,
 //    `gatsby-plugin-react-helmet`,
-		`gatsby-plugin-feed-mdx`,
+//		`gatsby-plugin-feed-mdx`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
