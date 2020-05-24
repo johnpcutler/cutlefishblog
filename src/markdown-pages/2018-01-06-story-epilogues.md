@@ -12,7 +12,7 @@ image:	"../images/1*vCIERGkf-73WVVBm8yr0AA@2x.jpeg"
 Here’s a trick I use when scoping stories, and wrestling with the competing pressures of independence, value, “releasability”, etc. It’s super simple. I work backwards from a theoretical discussion with the user ***post-release***. This is subtly different from thinking in the traditional user story format:
 
 
-> As a <type of user>, I want <some goal or feature> so that <some reason or outcome> ([*source*](https://www.scrumalliance.org/community/spotlight/mike-cohn/january-2014/keeping-the-user-in-user-stories))Instead, we are imagining their first reaction. **Before they “wanted” it. Now they have “it”!** We are right there alongside the customer. How do they describe their new ability? What are the caveats? Are they excited? What might we learn?
+> As a [type of user], I want [some goal or feature] so that [some reason or outcome] ([*source*](https://www.scrumalliance.org/community/spotlight/mike-cohn/january-2014/keeping-the-user-in-user-stories))Instead, we are imagining their first reaction. **Before they “wanted” it. Now they have “it”!** We are right there alongside the customer. How do they describe their new ability? What are the caveats? Are they excited? What might we learn?
 
 When brainstorming I use a format that looks something like this (with many variations):
 

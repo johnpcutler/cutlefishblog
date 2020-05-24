@@ -8,10 +8,6 @@ module.exports = {
 		siteUrl: 'https://cutle.fish' //this is a bit of a hack
   },
   plugins: [
-		`gatsby-plugin-sitemap`,
-		'gatsby-plugin-robots-txt',
-		`gatsby-plugin-twitter`,
-    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -19,35 +15,49 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-	{
-	  resolve: `gatsby-source-filesystem`,
-	  options: {
-	    name: `markdown-pages`,
-	    path: `${__dirname}/src/markdown-pages`,
-	  },
-	},
-	`gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `markdown-pages`,
+        path: `${__dirname}/src/markdown-pages`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [`.mdx`, `.md`],
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1200,
+            },
+          },
+//          {
+            resolve: `gatsby-remark-relative-images`,
+//          },
+          {
+            resolve: `gatsby-remark-responsive-iframe`,
+            options: {
+              wrapperStyle: `margin-bottom: 1.0725rem`,
+            },
+          },
+          {
+            resolve: `gatsby-remark-copy-linked-files`,
+          },
+          {
+            resolve: `gatsby-remark-smartypants`,
+          },
+        ],
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-	{
-	  resolve: `gatsby-transformer-remark`,
-	  options: {
-	    plugins: [
-		  {
-		    resolve: `gatsby-remark-relative-images`,
-	      },
-	      {
-	        resolve: `gatsby-remark-images`,
-	        options: {
-	            // It's important to specify the maxWidth (in pixels) of
-	            // the content container as this plugin uses this as the
-	            // base for generating different widths of each image.
-	            maxWidth: 1200,
-	        },
-	      },
-	    ],
-	  },
-	},
+		`gatsby-plugin-sitemap`,
+		'gatsby-plugin-robots-txt',
+		`gatsby-plugin-twitter`,
+//    `gatsby-plugin-react-helmet`,
+		`gatsby-plugin-feed-mdx`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

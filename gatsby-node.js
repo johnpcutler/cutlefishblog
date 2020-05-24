@@ -18,7 +18,7 @@ exports.createPages = ({ actions, graphql }) => {
   const blogPostTemplate = path.resolve(`src/templates/blogTemplate.js`)
   return graphql(`
     {
-      allMarkdownRemark(
+      allMdx(
         sort: { order: DESC, fields: [frontmatter___date] }
         limit: 1000
       ) {
@@ -38,7 +38,7 @@ exports.createPages = ({ actions, graphql }) => {
     if (result.errors) {
       return Promise.reject(result.errors)
     }
-    return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    return result.data.allMdx.edges.forEach(({ node }) => {
       createPage({
         path: node.frontmatter.path,
         component: blogPostTemplate,
