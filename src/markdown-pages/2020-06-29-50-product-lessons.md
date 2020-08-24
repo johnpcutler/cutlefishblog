@@ -13,7 +13,7 @@ Here are fifty short product lessons.
 
 I put these together by transcribing brief talks, so the tone is conversational. Apologize in advance for my ability to run on.
 
-I hope you find them helpful. [I'm releasing a book soon if you like this content.](https://gum.co/MTAVD) 
+I hope you find them helpful.
 
 ## Table of Contents
 
