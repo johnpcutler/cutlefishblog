@@ -16,7 +16,7 @@ export default function Template({
 		<SEO title={post.frontmatter.title} previewImage={post.frontmatter.image.childImageSharp.fixed.src} />
     <div className="blog-post-container">
       <div className="blog-post">
-	<p>Check this out</p>
+	<p>I am currently writing weekly <a href="https://cutlefish.substack.com/">here</a> and have all my 2020 posts <a href="https://johnpcutler.github.io/tbm2020/">here.</a></p>
         <h1>{post.frontmatter.title}</h1>
         <h4>Published: {post.frontmatter.date}</h4>
         <div className="blog-post-content">
